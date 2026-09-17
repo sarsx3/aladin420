@@ -3,7 +3,8 @@ name: Update Master M3U
 on:
   workflow_dispatch:
   schedule:
-    # Every 15 minutes. GitHub Actions uses UTC unless a timezone is specified.
+    # 5 minutes is the shortest interval GitHub Actions allows for
+    # scheduled workflows - it cannot be run more often than this.
     - cron: "*/5 * * * *"
 
 permissions:
@@ -16,6 +17,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
@@ -31,16 +33,37 @@ jobs:
       - name: Merge source playlists
         run: python merge_playlists.py
 
-      - name: Commit updated master playlist
+      - name: Commit updated playlist and source cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add master.m3u
+          git add master.m3u .cache/
 
           if git diff --cached --quiet; then
-            echo "No playlist changes."
+            echo "No playlist or cache changes."
           else
-            git commit -m "Auto update master playlist"
+            git commit -m "Auto update playlist"
             git push
+          fi
+
+      - name: Keep scheduled workflow alive
+        # GitHub automatically disables scheduled workflows once a repo
+        # has gone 60 days with no repository activity at all. If the
+        # source playlists genuinely don't change for a long stretch,
+        # the step above never commits - so this makes one small
+        # heartbeat commit well before that 60-day cutoff, purely to
+        # keep the schedule from getting disabled.
+        run: |
+          last_commit_epoch=$(git log -1 --format=%ct)
+          now_epoch=$(date +%s)
+          days_since=$(( (now_epoch - last_commit_epoch) / 86400 ))
+
+          if [ "$days_since" -ge 45 ]; then
+            echo "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > .heartbeat
+            git add .heartbeat
+            git commit -m "chore: keep-alive heartbeat (no playlist changes in ${days_since} days)"
+            git push
+          else
+            echo "Last commit was ${days_since} day(s) ago; no heartbeat needed."
           fi
