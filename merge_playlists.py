@@ -40,20 +40,12 @@ from datetime import datetime, timezone
 
 SOURCES = [
     {
-        "label": "source_1",
-        "url": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
-    },
-    {
         "label": "source_2",
         "url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
     },
     {
         "label": "source_3",
         "url": "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u",
-    },
-    {
-        "label": "source_4",
-        "url": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u",
     },
 ]
 
