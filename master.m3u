@@ -1,5 +1,52 @@
 #EXTM3U
-#last_update:2026-09-18 05:06:29 +0000
+#last_update:2026-09-18 09:38:42 +0000
 
-#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg" group-title="Cricket", India Women vs Japan Women - Quarter-Final - 18 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/master.m3u8?hdnea=exp=1789746633~acl=/*~id=99124452301996973151426864728567~hmac=af40513c86134359697890e268a93a6b64ef36388e080848f92e85ae440e1e5b
+#EXTINF:-1 tvg-id="tapmad-17375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg" group-title="Cricket", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17641" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897160501020x576.jpg" group-title="Football", Fortis FC Ltd. vs Chattogram City FC | Bangladesh Football League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17642" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161331020x576.jpg" group-title="Football", Bangladesh Police FC vs Rahamatgonj MFS | Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161911020x576.jpg" group-title="Football", Fakirerpool Young Mens Club vs Dhaka Wanderers Club | Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17645" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163231020x576.jpg" group-title="Football", PWD Sports Club vs Abahani Ltd. Dhaka | Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
+#EXTINF:-1 tvg-id="70929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan.jpg" group-title="LIVE", Wuhan - FIBA 3x3 U23 World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/720p/chunks.m3u8?is_vip=false&token=1789810344-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed5e33b9b5cc9caa7aa8eed7ebcaa0f3
+
+#EXTINF:-1 tvg-id="65080" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tasman%20vs%20Auckland.jpg" group-title="LIVE", Tasman vs Auckland - NPC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789810346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d076b2a2f5b38d017ce27ff373a2d1d
+
+#EXTINF:-1 tvg-id="65081" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Melbourne%20Kangaroos%20vs%20Hawthorn%20Hawks.jpg" group-title="LIVE", North Melbourne Kangaroos vs Hawthorn Hawks - AFL Womens Premiership
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789810348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f12f5e5c5c3ab88800e83505e65fd539
+
+#EXTINF:-1 tvg-id="70928" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%204.jpg" group-title="LIVE", Day 4 - FIBA 3x3 U23 World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789810349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-266c1d3ce9f442954c8f48efb7d6a7c6
+
+#EXTINF:-1 tvg-id="62938" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arema%20FC%20vs%20Persik%20Kediri.jpg" group-title="LIVE", Arema FC vs Persik Kediri - Liga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f3885fa/chunks.m3u8?is_vip=false&token=1789810352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7111e301150c7befce0966cd5d6c3b48
+
+#EXTINF:-1 tvg-id="67564" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fremantle%20Dockers%20vs%20Sydney%20Swans.jpg" group-title="LIVE", Fremantle Dockers vs Sydney Swans - AFL Premiership
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789810354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-57b668629f3120b5137a7d67cb707e8c
+
+#EXTINF:-1 tvg-id="62945" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ural%20U20%20vs%20Dynamo%20Makhachkala%20U19.jpg" group-title="LIVE", Ural U20 vs Dynamo Makhachkala U19 - Youth Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f388601/chunks.m3u8?is_vip=false&token=1789810355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5a7e2c7ae97f7e9b2a1136a3671be20
