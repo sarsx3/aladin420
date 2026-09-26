@@ -1,47 +1,58 @@
 #!/usr/bin/env python3
 """
 Auto-updater: fetches Bingstream + SonyLiv live/upcoming match data and
-merges them into a SINGLE output JSON file that follows Bingstream's schema.
+merges them into a SINGLE output JSON file that follows the ORIGINAL
+Tapmad-style schema (HeaderInfo / Stats / Matches[...] with EntityId,
+VideoName, ThumbnailStandard/TV, etc.) — Tapmad itself is no longer a
+data source, but the output JSON format/shape is unchanged.
 
 How it works
 ------------
-1. BINGSTREAM_URL is treated as the "source of truth" for structure. Its
-   JSON shape (playlist_info / matches[...] with league/team logos and a
-   `link_live` stream-link array) is never changed.
+1. BINGSTREAM_URL is now the primary/required data source (the role
+   Tapmad used to play). Its raw shape (playlist_info / matches[] with
+   league/team logos and a `link_live` array) is reshaped into a
+   Tapmad-style "Matches" entry by convert_bingstream_to_tapmad_schema().
+   Finished matches (FT/AET/CANC/...) are dropped — the old feed only
+   ever carried Live/Upcoming matches, so this output does the same.
 2. SONYLIV_URL is fetched and every entry in its "live_matches" list is
-   converted (reshaped) into a Bingstream-style "matches" entry — SonyLiv
-   only gives us a single program title + thumbnail (no home/away teams),
-   so those entries get empty localteam/visitorteam fields and their
-   thumbnail is carried over in the extra "thumbnail" field instead.
+   converted into a Tapmad-style "Matches" entry exactly as before
+   (convert_sonyliv_to_tapmad_schema() is unchanged from the old script).
 3. Both match lists are merged into one list.
-4. The merged list is sorted with in-play matches first, then upcoming
-   ("NS"/"UPCOMING") matches, then finished ones — soonest/earliest
-   `start_at` first within each group.
-5. playlist_info.statistics is recalculated for the merged result and the
-   whole thing is written to OUTPUT_FILE, but ONLY if the content actually
-   changed (byte-for-byte compare), to avoid pointless commits.
+4. The merged list is sorted so the newest matches (by EventStartDate)
+   sit at the top, with "Live" matches given priority over "Upcoming"
+   ones — identical sort logic to the old script.
+5. HeaderInfo/Stats are (re)built for the merged result — since there's
+   no more Tapmad source to copy HeaderInfo from, PlaylistName/Telegram/
+   Owner now come from the HEADER_INFO_BASE constant below (edit it if
+   you want different values) — and the whole thing is written to
+   OUTPUT_FILE, but ONLY if the content actually changed (byte-for-byte
+   compare), to avoid pointless commits.
 
-NOTE: Tapmad is no longer a source. It used to define the output schema
-(EntityId/VideoName/ThumbnailStandard/...); that schema had no room for
-per-team logos, so it's been dropped in favour of Bingstream's own schema,
-which already carries `localteam_logo` / `visitorteam_logo`. To give every
-entry (including SonyLiv-derived ones, which have no team logos) a usable
-picture, an extra "thumbnail" field is added to every match: for Bingstream
-matches it falls back to localteam_logo -> visitorteam_logo -> league_logo,
-and for SonyLiv matches it's SonyLiv's own thumbnail. A "source" field
-("bingstream" / "sonyliv") and a short auto-generated "description" are
-also added — neither breaks anything expecting the plain Bingstream shape,
-since they're additive fields.
+Field notes for the Bingstream -> Tapmad reshape
+-------------------------------------------------
+- ThumbnailStandard / ThumbnailTV: Bingstream has no single poster image,
+  only team logos, so both fields fall back through
+  localteam_logo -> visitorteam_logo -> league_logo -> "" (whichever is
+  first available).
+- CategoryId: kept deterministic/stable via an md5-of-name hash, same
+  technique as before, just a different numeric range (2000-2999) than
+  SonyLiv-derived entries (9000-9999, unchanged) so the two never collide.
+- StageName: Tapmad used this for a round/stage label (e.g. "MATCHDAY 1"),
+  which Bingstream doesn't provide. It's filled with a human-readable
+  version of Bingstream's status code instead (e.g. "1st Half", "Half
+  Time", "Upcoming") so the field still carries real information.
+- stream_url: the first working link in Bingstream's `link_live` array.
 
 Design goals (kept from the previous version of this script):
 - Never crash the whole run if ONE source fails — fall back to whatever
   the other source produced, and only give up completely if Bingstream
-  (the structural source) fails.
+  (the now-required structural source) fails.
 - Retry each request with backoff on network errors.
 - Byte-for-byte change detection (no pointless commits).
 - Zero third-party dependencies (Python stdlib only -> fast, no pip step).
 """
 
+import hashlib
 import json
 import os
 import re
@@ -62,16 +73,24 @@ SONYLIV_URL = (
 )
 
 # --- Output -----------------------------------------------------------------
-# Single merged file, in Bingstream's schema. Rename here if you'd rather
-# call it something else — nothing else needs to change.
+# Single merged file, in the original Tapmad-style schema. Rename here if
+# you'd rather call it something else — nothing else needs to change.
 OUTPUT_FILE = "data/merged_playlist.json"
 STATUS_FILE = "data/status.json"
+
+# There's no more Tapmad source to copy HeaderInfo from, so it's static.
+# Edit these three values if you want something else.
+HEADER_INFO_BASE = {
+    "PlaylistName": "Live Sports Matches Metadata",
+    "Telegram": "https://t.me/livesportsplay",
+    "Owner": "srhady",
+}
 
 TIMEOUT = 15          # seconds per request
 MAX_RETRIES = 4        # attempts per source
 RETRY_BACKOFF = 2      # seconds, doubles each retry
 
-BD_TZ = timezone(timedelta(hours=6))  # Bangladesh Standard Time, no DST
+BD_OFFSET = timedelta(hours=6)  # Bangladesh Standard Time, no DST
 
 DATE_RE = re.compile(r"\b(\d{1,2})\s+([A-Za-z]{3})\s+(\d{4})\b")
 MONTHS = {
@@ -79,12 +98,25 @@ MONTHS = {
     "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
 }
 
-# Status buckets used for sort order + live/upcoming counts. Anything not
-# listed in UPCOMING_STATUSES or FINISHED_STATUSES is treated as "in play"
-# (LIVE, 1H, 2H, HT, ET, INT, ...) — that covers whatever short live-state
-# codes Bingstream throws at us without needing to enumerate them all.
-UPCOMING_STATUSES = {"NS", "UPCOMING", "TBD"}
+# Bingstream status codes that mean the match is over — these are dropped
+# entirely rather than mapped into "Live"/"Upcoming".
 FINISHED_STATUSES = {"FT", "AET", "PEN", "CANC", "POSTP", "ABD", "AWD", "WO", "FINISHED"}
+UPCOMING_STATUSES = {"NS", "UPCOMING", "TBD"}
+
+# Friendly StageName labels for Bingstream's short status codes.
+STAGE_LABELS = {
+    "LIVE": "Live",
+    "1H": "1st Half",
+    "2H": "2nd Half",
+    "HT": "Half Time",
+    "ET": "Extra Time",
+    "P": "Penalties",
+    "BREAK": "Break",
+    "INT": "Interrupted",
+    "NS": "Upcoming",
+    "UPCOMING": "Upcoming",
+    "TBD": "Upcoming",
+}
 
 
 # --------------------------------------------------------------------------
@@ -122,6 +154,14 @@ def fetch_json(url: str):
 # --------------------------------------------------------------------------
 # Helpers
 # --------------------------------------------------------------------------
+def stable_category_id(name: str, base: int) -> int:
+    """Deterministic CategoryId, stable across runs so it doesn't cause
+    needless diffs/commits. `base` keeps different sources' generated ids
+    in separate, non-colliding ranges."""
+    digest = hashlib.md5(name.encode("utf-8")).hexdigest()
+    return base + (int(digest[:8], 16) % 1000)
+
+
 def clean_video_name(title: str) -> str:
     """Strip the trailing ' - DD Mon YYYY' date SonyLiv appends to titles,
     keeping any language suffix like '(Hindi)' intact."""
@@ -154,46 +194,26 @@ def slugify(text: str) -> str:
     return slug.strip("-")
 
 
-def format_bd_time(dt_utc: datetime, with_seconds: bool = False) -> str:
-    """Render a naive-UTC datetime as Bingstream's BD-time string, e.g.
-    '1:00 PM 26-09-2026' (matches) or '5:32:25 PM 26-09-2026' (header)."""
-    bd_dt = dt_utc.replace(tzinfo=timezone.utc).astimezone(BD_TZ)
-    hour12 = bd_dt.strftime("%I").lstrip("0") or "12"
-    if with_seconds:
-        return f"{hour12}:{bd_dt.strftime('%M:%S %p %d-%m-%Y')}"
-    return f"{hour12}:{bd_dt.strftime('%M %p %d-%m-%Y')}"
-
-
-def status_priority(status: str) -> int:
-    s = (status or "").upper()
-    if s in UPCOMING_STATUSES:
-        return 1
-    if s in FINISHED_STATUSES:
-        return 2
-    return 0  # LIVE / 1H / 2H / HT / ET / etc. -> in play, shown first
-
-
-def sort_key(match: dict):
-    pr = status_priority(match.get("status"))
+def parse_event_datetime(value: str):
+    """Parse the Tapmad-style 'YYYY-MM-DD HH:MM:SS' EventStartDate.
+    Returns None (sorted last) if it can't be parsed."""
     try:
-        start = int(match.get("start_at") or 0)
+        return datetime.strptime(value, "%Y-%m-%d %H:%M:%S")
     except (TypeError, ValueError):
-        start = 0
-    # Soonest/earliest start first within each status group.
-    return (pr, start)
+        return None
 
 
 # --------------------------------------------------------------------------
-# Conversion: SonyLiv live_matches[] -> Bingstream-style matches[] entries
+# Conversion: SonyLiv live_matches[] -> Tapmad-style Matches[] entries
+# (unchanged from the previous version of this script)
 # --------------------------------------------------------------------------
-def convert_sonyliv_to_bing_schema(sonyliv_data: dict) -> list:
+def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
     now_utc = datetime.now(timezone.utc).replace(tzinfo=None)
-    now_iso = now_utc.strftime("%Y-%m-%d %H:%M:%S")
     converted = []
 
     for m in sonyliv_data.get("live_matches", []):
-        title = (m.get("title") or "").strip()
-        tournament = (m.get("tournament") or "").strip()
+        title = m.get("title", "").strip()
+        tournament = m.get("tournament", "").strip()
         video_name = clean_video_name(title) or title
         event_dt = parse_title_date(title, now_utc)
         thumb = m.get("thumbnail", "")
@@ -201,115 +221,145 @@ def convert_sonyliv_to_bing_schema(sonyliv_data: dict) -> list:
         token = m.get("token", "")
 
         try:
-            match_id = int(m.get("match_id"))
+            entity_id = int(m.get("match_id"))
         except (TypeError, ValueError):
-            match_id = m.get("match_id")
+            entity_id = m.get("match_id")
 
-        start_epoch = int(event_dt.replace(tzinfo=timezone.utc).timestamp())
+        description = (
+            f"Watch {video_name} live from {tournament}. Enjoy live coverage "
+            f"with real-time action, key moments, and non-stop excitement. "
+            f"Stream {tournament} online via app, web, or smart TV."
+        )
 
         converted.append({
-            "id": match_id,
-            "status": "LIVE",
-            "name": video_name,
-            "slug": slugify(f"{tournament}-{video_name}") or slugify(video_name) or "live-stream",
-            "score": "LIVE",
-            "timelive": "LIVE",
-            "is_playing": True,
-            "has_ended": False,
-            "is_waiting": False,
-            "start_at": start_epoch,
-            "timestamp": start_epoch,
-            "bd_time": format_bd_time(event_dt),
-            "ishot": False,
-            "league_name": tournament,
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "thumbnail": thumb,
-            "description": (
-                f"Watch {video_name} live from {tournament}. Enjoy live "
-                f"coverage with real-time action, key moments, and "
-                f"non-stop excitement. Stream {tournament} online via "
-                f"app, web, or smart TV."
-            ),
-            "source": "sonyliv",
-            "link_live": [
-                {
-                    "stream_link": f"{base_url}{token}",
-                    "display_name": "HD",
-                    "line": "web",
-                    "created_at": now_iso,
-                    "updated_at": now_iso,
-                }
-            ],
-            # SonyLiv streams are direct m3u8 links, not played through
-            # Bingstream's own iframe embed — leave these blank so any
-            # consuming app knows to use stream_link as-is.
-            "cdn_domain": "",
-            "referer": "",
+            "EntityId": entity_id,
+            "VideoName": video_name,
+            "CategoryName": tournament,
+            "StageName": "Live",
+            "EventStartDate": event_dt.strftime("%Y-%m-%d %H:%M:%S"),
+            "Description": description,
+            "ThumbnailStandard": thumb,
+            "ThumbnailTV": thumb,
+            "IsFreeToWatch": False,
+            "Status": "Live",
+            "CategoryId": stable_category_id(tournament, base=9000),
+            "UrlSlug": slugify(f"{tournament}-live") or "live-match",
+            "stream_url": f"{base_url}{token}",
         })
 
     return converted
 
 
 # --------------------------------------------------------------------------
-# Normalize a Bingstream match: keep every original field untouched, only
-# add the extra (additive, safe-to-ignore) fields described up top.
+# Conversion: Bingstream matches[] -> Tapmad-style Matches[] entries
 # --------------------------------------------------------------------------
-def normalize_bing_match(m: dict) -> dict:
-    out = dict(m)
-    out.setdefault("league_logo", "")
-    out.setdefault("localteam_name", "")
-    out.setdefault("localteam_logo", "")
-    out.setdefault("visitorteam_name", "")
-    out.setdefault("visitorteam_logo", "")
+def convert_bingstream_to_tapmad_schema(bing_data: dict) -> list:
+    converted = []
 
-    out["thumbnail"] = (
-        out.get("localteam_logo") or out.get("visitorteam_logo")
-        or out.get("league_logo") or ""
-    )
+    for m in bing_data.get("matches", []):
+        status_raw = (m.get("status") or "").upper()
+        if status_raw in FINISHED_STATUSES:
+            continue  # the old feed never carried finished matches either
 
-    name = out.get("name", "")
-    league = out.get("league_name", "")
-    if name and league:
-        out["description"] = (
-            f"Watch {name} live in the {league}. Stream online via app, "
-            f"web, or smart TV."
+        tapmad_status = "Upcoming" if status_raw in UPCOMING_STATUSES else "Live"
+        stage_name = STAGE_LABELS.get(status_raw, status_raw.title() if status_raw else "Live")
+
+        try:
+            start_at = int(m.get("start_at") or 0)
+        except (TypeError, ValueError):
+            start_at = 0
+        if start_at:
+            event_dt_bd = datetime.utcfromtimestamp(start_at) + BD_OFFSET
+        else:
+            event_dt_bd = datetime.now(timezone.utc).replace(tzinfo=None) + BD_OFFSET
+        event_start_date = event_dt_bd.strftime("%Y-%m-%d %H:%M:%S")
+        day_label = event_dt_bd.strftime("%d-%b")
+        time_label = event_dt_bd.strftime("%I:%M %p")
+
+        name = m.get("name") or m.get("league_name") or "Live Match"
+        league_name = m.get("league_name") or name
+        home = m.get("localteam_name") or ""
+        away = m.get("visitorteam_name") or ""
+
+        thumb = (
+            m.get("localteam_logo") or m.get("visitorteam_logo")
+            or m.get("league_logo") or ""
         )
-    elif name:
-        out["description"] = f"Watch {name} live. Stream online via app, web, or smart TV."
-    else:
-        out["description"] = ""
 
-    out["source"] = "bingstream"
-    return out
+        if home and away:
+            description = (
+                f"Watch {name} live in the {league_name}. Featuring competitive "
+                f"action with key moments and non-stop excitement throughout the "
+                f"game. The {name} match will take place on {day_label}, at "
+                f"{time_label}. Stream {league_name} online via app, web, or "
+                f"smart TV."
+            )
+        else:
+            description = (
+                f"Watch {name} live from {league_name}. Enjoy live coverage with "
+                f"real-time action, key moments, and non-stop excitement. Stream "
+                f"{league_name} online via app, web, or smart TV."
+            )
+
+        entry = {
+            "EntityId": m.get("id"),
+            "VideoName": name,
+            "CategoryName": league_name,
+            "StageName": stage_name,
+            "EventStartDate": event_start_date,
+            "Description": description,
+            "ThumbnailStandard": thumb,
+            "ThumbnailTV": thumb,
+            "IsFreeToWatch": False,
+            "Status": tapmad_status,
+            "CategoryId": stable_category_id(league_name, base=2000),
+            "UrlSlug": m.get("slug") or slugify(name) or "live-match",
+        }
+
+        stream_url = next(
+            (l.get("stream_link") for l in (m.get("link_live") or []) if l.get("stream_link")),
+            None,
+        )
+        if stream_url:
+            entry["stream_url"] = stream_url
+
+        converted.append(entry)
+
+    return converted
 
 
 # --------------------------------------------------------------------------
-# Merge + sort
+# Merge + sort (unchanged from the previous version of this script)
 # --------------------------------------------------------------------------
-def merge(bing_data: dict, sonyliv_matches: list) -> dict:
-    bing_matches = [normalize_bing_match(m) for m in bing_data.get("matches", [])]
+STATUS_PRIORITY = {"Live": 0, "Upcoming": 1}
+
+
+def sort_key(match: dict):
+    status_rank = STATUS_PRIORITY.get(match.get("Status"), 2)
+    dt = parse_event_datetime(match.get("EventStartDate", ""))
+    # Newest first within each status group -> sort by datetime descending.
+    # Unparseable dates sort last within their group.
+    dt_key = dt.timestamp() if dt else float("-inf")
+    return (status_rank, -dt_key)
+
+
+def merge(bing_matches: list, sonyliv_matches: list) -> dict:
     merged_matches = bing_matches + sonyliv_matches
     merged_matches.sort(key=sort_key)
 
-    live_count = sum(1 for m in merged_matches if status_priority(m.get("status")) == 0)
-    upcoming_count = sum(1 for m in merged_matches if status_priority(m.get("status")) == 1)
+    live_count = sum(1 for m in merged_matches if m.get("Status") == "Live")
+    upcoming_count = sum(1 for m in merged_matches if m.get("Status") == "Upcoming")
 
-    info = dict(bing_data.get("playlist_info", {}))
-    info["last_update_time"] = format_bd_time(
-        datetime.now(timezone.utc).replace(tzinfo=None), with_seconds=True
-    )
-    info["statistics"] = {
-        "total_live": live_count,
-        "total_upcoming": upcoming_count,
-    }
+    header = dict(HEADER_INFO_BASE)
+    header["LastUpdate"] = time.strftime("%I:%M %p %d-%m-%Y", time.gmtime())
 
     return {
-        "playlist_info": info,
-        "matches": merged_matches,
+        "HeaderInfo": header,
+        "Stats": {
+            "LiveCount": live_count,
+            "UpcomingCount": upcoming_count,
+        },
+        "Matches": merged_matches,
     }
 
 
@@ -320,32 +370,33 @@ def main() -> int:
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
     bing_data = None
+    bing_matches = []
     sonyliv_matches = []
     any_failed = False
 
     try:
         bing_data = fetch_json(BINGSTREAM_URL)
+        bing_matches = convert_bingstream_to_tapmad_schema(bing_data)
     except Exception as e:
-        print(f"[ERROR] could not fetch Bingstream source: {e}", file=sys.stderr)
+        print(f"[ERROR] could not fetch/convert Bingstream source: {e}", file=sys.stderr)
         any_failed = True
 
     try:
         sonyliv_data = fetch_json(SONYLIV_URL)
-        sonyliv_matches = convert_sonyliv_to_bing_schema(sonyliv_data)
+        sonyliv_matches = convert_sonyliv_to_tapmad_schema(sonyliv_data)
     except Exception as e:
         print(f"[ERROR] could not fetch/convert SonyLiv source: {e}", file=sys.stderr)
         any_failed = True
 
     if bing_data is None:
-        # Without Bingstream's structure/playlist_info we have nothing
-        # solid to merge into. Keep whatever output already exists and
-        # bail cleanly.
+        # Without Bingstream we have nothing solid to build the merged
+        # output from. Keep whatever output already exists and bail cleanly.
         print("[ERROR] Bingstream source unavailable — keeping previous "
               "output file untouched this run.", file=sys.stderr)
         write_status(any_changed=False, any_failed=True)
         return 0
 
-    merged = merge(bing_data, sonyliv_matches)
+    merged = merge(bing_matches, sonyliv_matches)
     new_content = json.dumps(merged, ensure_ascii=False, indent=2) + "\n"
 
     old_content = None
@@ -359,7 +410,7 @@ def main() -> int:
             f.write(new_content)
         any_changed = True
         print(f"[OK] {OUTPUT_FILE} updated ({len(new_content)} bytes, "
-              f"{len(merged['matches'])} matches)")
+              f"{len(merged['Matches'])} matches)")
     else:
         print(f"[SKIP] {OUTPUT_FILE} unchanged")
 
