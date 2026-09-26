@@ -39,10 +39,9 @@ jobs:
         with:
           python-version: '3.12'
 
-      # Fetches Bingstream (source of truth for the JSON structure) +
-      # SonyLiv, reshapes SonyLiv into Bingstream's schema, merges both
-      # into a single sorted playlist, and writes it to
-      # data/merged_playlist.json.
+      # Fetches Tapmad (source of truth for the JSON structure) + SonyLiv,
+      # reshapes SonyLiv into Tapmad's schema, merges both into a single
+      # sorted playlist, and writes it to data/merged_playlist.json.
       - name: Fetch sources & build merged output JSON
         run: python3 scripts/update_json.py
 
