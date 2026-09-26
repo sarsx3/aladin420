@@ -41,7 +41,13 @@ Field notes for the Bingstream -> Tapmad reshape
   which Bingstream doesn't provide. It's filled with a human-readable
   version of Bingstream's status code instead (e.g. "1st Half", "Half
   Time", "Upcoming") so the field still carries real information.
-- stream_url: the first working link in Bingstream's `link_live` array.
+- stream_url: Bingstream's `link_live` entries usually come in pairs — a
+  plain `stream_link` (a bare master playlist, often not directly
+  playable/tokenized) and, on the second entry, a `videoURL` that carries
+  the actual signed/tokenized playable link. pick_stream_url() prefers
+  `videoURL` wherever one exists in the list and only falls back to
+  `stream_link` when no `videoURL` is present at all (e.g. far-future
+  "NS" matches that don't have a token yet).
 
 Design goals (kept from the previous version of this script):
 - Never crash the whole run if ONE source fails — fall back to whatever
@@ -194,6 +200,19 @@ def slugify(text: str) -> str:
     return slug.strip("-")
 
 
+def pick_stream_url(links: list):
+    """Pick the best playable link out of a Bingstream `link_live` array.
+    `videoURL` (when present) is the actual tokenized/playable stream;
+    `stream_link` is a plain, often non-tokenized fallback."""
+    for l in links:
+        if l.get("videoURL"):
+            return l["videoURL"]
+    for l in links:
+        if l.get("stream_link"):
+            return l["stream_link"]
+    return None
+
+
 def parse_event_datetime(value: str):
     """Parse the Tapmad-style 'YYYY-MM-DD HH:MM:SS' EventStartDate.
     Returns None (sorted last) if it can't be parsed."""
@@ -316,10 +335,7 @@ def convert_bingstream_to_tapmad_schema(bing_data: dict) -> list:
             "UrlSlug": m.get("slug") or slugify(name) or "live-match",
         }
 
-        stream_url = next(
-            (l.get("stream_link") for l in (m.get("link_live") or []) if l.get("stream_link")),
-            None,
-        )
+        stream_url = pick_stream_url(m.get("link_live") or [])
         if stream_url:
             entry["stream_url"] = stream_url
 
