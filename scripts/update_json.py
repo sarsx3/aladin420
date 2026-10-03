@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Auto-updater: fetches Tapmad + SonyLiv live/upcoming match data and merges
+Auto-updater: fetches Tapmad + SonyLiv + Firebase live match data and merges
 them into a SINGLE output JSON file that follows Tapmad's schema.
 
 How it works
@@ -9,20 +9,21 @@ How it works
    shape (HeaderInfo / Stats / Matches[...]) is never changed.
 2. SONYLIV_URL is fetched and every entry in its "live_matches" list is
    converted (reshaped) into a Tapmad-style "Matches" entry.
-3. Both match lists are merged into one list.
-4. The merged list is sorted so the newest matches (by EventStartDate) sit
-   at the top, with "Live" matches given priority over "Upcoming" ones —
-   the way these playlists are normally ordered.
-5. HeaderInfo/Stats are recalculated for the merged result and the whole
+3. FIREBASE_URL is fetched — it's a flat dict {id: matchObject, ...}. Each
+   entry with visibility="public" is converted into Tapmad schema, filtering
+   out already-ended matches (no stream + past time). "trash" key is skipped.
+4. All three match lists are merged into one list.
+5. The merged list is sorted so the newest matches (by EventStartDate) sit
+   at the top, with "Live" matches given priority over "Upcoming" ones.
+6. HeaderInfo/Stats are recalculated for the merged result and the whole
    thing is written to OUTPUT_FILE, but ONLY if the content actually
    changed (byte-for-byte compare), to avoid pointless commits.
 
-Design goals (kept from the previous version of this script):
-- Never crash the whole run if ONE source fails — fall back to whatever
-  the other source produced, and only give up completely if BOTH fail.
+Design goals:
+- Never crash the whole run if ONE source fails — fall back gracefully.
 - Retry each request with backoff on network errors.
 - Byte-for-byte change detection (no pointless commits).
-- Zero third-party dependencies (Python stdlib only -> fast, no pip step).
+- Zero third-party dependencies (Python stdlib only).
 """
 
 import hashlib
@@ -33,7 +34,7 @@ import sys
 import time
 import urllib.request
 import urllib.error
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 # --- Sources --------------------------------------------------------------
 TAPMAD_URL = (
@@ -44,10 +45,17 @@ SONYLIV_URL = (
     "https://raw.githubusercontent.com/srhady/SonyLiv/"
     "refs/heads/main/sonyliv_playlist.json"
 )
+# Firebase Realtime Database — flat dict of match objects
+FIREBASE_URL = (
+    "https://priofy-6b9b4-default-rtdb.firebaseio.com/"
+    "sports_events.json?auth=2gEYXaFECMKJNDrGUdv6ZhJH4ceHiokhHNrpePXF"
+)
+
+# Firebase data times are in this timezone (adjust if needed)
+# Based on matchTime "9:55 PM" style — assumed BD time (UTC+6)
+FIREBASE_TZ_OFFSET = timedelta(hours=6)
 
 # --- Output -----------------------------------------------------------------
-# Single merged file, in Tapmad's schema. Rename here if you'd rather call
-# it something else (e.g. "data/tapmad_bd.json") — nothing else needs to change.
 OUTPUT_FILE = "data/merged_playlist.json"
 STATUS_FILE = "data/status.json"
 
@@ -95,19 +103,16 @@ def fetch_json(url: str):
 
 
 # --------------------------------------------------------------------------
-# Helpers
+# Helpers (shared)
 # --------------------------------------------------------------------------
 def stable_category_id(tournament_name: str) -> int:
-    """Deterministic CategoryId for SonyLiv-derived matches, kept out of
-    Tapmad's own id range (1000-1999 in observed samples) and stable across
-    runs so it doesn't cause needless diffs/commits."""
+    """Deterministic CategoryId, stable across runs to avoid needless diffs."""
     digest = hashlib.md5(tournament_name.encode("utf-8")).hexdigest()
     return 9000 + (int(digest[:8], 16) % 1000)
 
 
 def clean_video_name(title: str) -> str:
-    """Strip the trailing ' - DD Mon YYYY' date Sonyliv appends to titles,
-    keeping any language suffix like '(Hindi)' intact."""
+    """Strip the trailing ' - DD Mon YYYY' date SonyLiv appends to titles."""
     name = DATE_RE.sub("", title)
     name = re.sub(r"-\s*(\(.*\))?\s*$", r"\1", name).strip()
     name = re.sub(r"\s{2,}", " ", name).strip(" -")
@@ -115,9 +120,7 @@ def clean_video_name(title: str) -> str:
 
 
 def parse_title_date(title: str, fallback: datetime) -> datetime:
-    """Pull a 'DD Mon YYYY' date out of a SonyLiv title and combine it with
-    the current UTC time (these are live streams, so 'now' is the only
-    meaningful time component SonyLiv actually gives us)."""
+    """Pull a 'DD Mon YYYY' date out of a SonyLiv title."""
     m = DATE_RE.search(title)
     if not m:
         return fallback
@@ -138,8 +141,7 @@ def slugify(text: str) -> str:
 
 
 def parse_event_datetime(value: str):
-    """Parse Tapmad's 'YYYY-MM-DD HH:MM:SS' EventStartDate. Returns None
-    (sorted last) if it can't be parsed."""
+    """Parse Tapmad's 'YYYY-MM-DD HH:MM:SS' EventStartDate."""
     try:
         return datetime.strptime(value, "%Y-%m-%d %H:%M:%S")
     except (TypeError, ValueError):
@@ -147,7 +149,7 @@ def parse_event_datetime(value: str):
 
 
 # --------------------------------------------------------------------------
-# Conversion: SonyLiv live_matches[] -> Tapmad-style Matches[] entries
+# Conversion: SonyLiv live_matches[] -> Tapmad-style Matches[]
 # --------------------------------------------------------------------------
 def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
     now_utc = datetime.now(timezone.utc).replace(tzinfo=None)
@@ -193,6 +195,252 @@ def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
 
 
 # --------------------------------------------------------------------------
+# Conversion: Firebase sports_events{} -> Tapmad-style Matches[]
+# --------------------------------------------------------------------------
+
+def _parse_firebase_datetime(match_date: str, match_time: str) -> datetime | None:
+    """
+    Parse Firebase matchDate (DD/MM/YYYY) + matchTime (e.g. '9:55 PM')
+    into a naive datetime assumed to be in FIREBASE_TZ_OFFSET timezone.
+    Returns a naive datetime equivalent to UTC (offset already subtracted)
+    so it can be compared directly with Tapmad's EventStartDate values.
+    """
+    try:
+        dt_str = f"{match_date.strip()} {match_time.strip()}"
+        # Try 12-hour format first
+        dt = datetime.strptime(dt_str, "%d/%m/%Y %I:%M %p")
+    except ValueError:
+        try:
+            # Try 24-hour format as fallback
+            dt = datetime.strptime(dt_str, "%d/%m/%Y %H:%M")
+        except ValueError:
+            return None
+    # Convert from BD local time to UTC-equivalent naive datetime
+    dt_utc = dt - FIREBASE_TZ_OFFSET
+    return dt_utc
+
+
+def _determine_firebase_status(
+    dt_utc: datetime | None,
+    has_streams: bool,
+) -> str:
+    """
+    Firebase JSON has no explicit Status field.
+    Derive it from match datetime vs now (UTC):
+      - If >15 min in future       → "Upcoming"
+      - If within ±120 min window  → "Live"    (live window heuristic)
+      - If more than 120 min past  → "Ended"
+    Falls back to "Upcoming" when datetime can't be parsed.
+    """
+    if dt_utc is None:
+        return "Upcoming"
+
+    now_utc = datetime.utcnow()
+    diff_minutes = (now_utc - dt_utc).total_seconds() / 60  # positive = past
+
+    if diff_minutes < -15:
+        return "Upcoming"
+    elif diff_minutes <= 120:
+        return "Live"
+    else:
+        return "Ended"
+
+
+def _firebase_sources(entry: dict) -> list:
+    """
+    Extract streaming sources from Firebase match entry.
+    Firebase uses 'buttons' (or 'link_live' which is a duplicate) — each
+    button has 'stream_link' (the URL) and 'name' (the label).
+    Also includes 'headers' and 'drmScheme'/'drmLicenseUrl' metadata.
+    """
+    sources = []
+    seen_urls = set()
+
+    raw_list = entry.get("buttons") or entry.get("link_live") or []
+    if not isinstance(raw_list, list):
+        raw_list = []
+
+    for btn in raw_list:
+        if not isinstance(btn, dict):
+            continue
+        url = (btn.get("stream_link") or btn.get("url") or "").strip()
+        if not url or url in seen_urls:
+            continue
+        seen_urls.add(url)
+
+        label = (btn.get("display_name") or btn.get("name") or "").strip()
+        if not label:
+            label = f"Server {len(sources) + 1}"
+
+        source_entry = {"label": label, "url": url}
+
+        # Pass along DRM and headers metadata — the Flutter app's
+        # _extractSources already ignores unknown keys gracefully.
+        drm_scheme = (btn.get("drmScheme") or "").strip()
+        drm_license = (btn.get("drmLicenseUrl") or "").strip()
+        if drm_scheme:
+            source_entry["drmScheme"] = drm_scheme
+        if drm_license:
+            source_entry["drmLicenseUrl"] = drm_license
+
+        headers = btn.get("headers")
+        if isinstance(headers, dict):
+            # Only include non-empty header values
+            filtered_headers = {k: v for k, v in headers.items() if v}
+            if filtered_headers:
+                source_entry["headers"] = filtered_headers
+
+        sources.append(source_entry)
+
+    return sources
+
+
+def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
+    """
+    Convert Firebase sports_events flat dict into Tapmad-style Matches[].
+
+    Field mapping:
+      firebase.id          -> EntityId
+      team1 + " vs " + team2 -> VideoName  (or 'name' field if present)
+      league               -> CategoryName
+      matchDate+matchTime  -> EventStartDate (converted to UTC naive)
+      sportCategory        -> part of Description
+      logo1                -> ThumbnailStandard + Team1Logo (ThumbnailTV left empty)
+      logo2                -> Team2Logo
+      team1                -> Team1Name  (also used in VideoName)
+      team2                -> Team2Name  (also used in VideoName)
+      buttons[].stream_link-> sources list
+      matchFormat          -> StageName (e.g. "ODI") or derived from status
+      hotMatch/is_hot      -> priority hint stored in extra Description
+      leagueLogo           -> UrlSlug fallback image (unused in schema but
+                              stored in Description for reference)
+      visibility="public"  -> included; "unpublic" -> skipped
+      key="trash"          -> always skipped
+    """
+    now_utc = datetime.utcnow()
+    converted = []
+
+    for key, entry in firebase_data.items():
+        # Skip the trash container and any non-dict values
+        if key == "trash" or not isinstance(entry, dict):
+            continue
+
+        # Only include publicly visible matches
+        visibility = (entry.get("visibility") or "").strip().lower()
+        if visibility != "public":
+            continue
+
+        # --- Core fields ---
+        raw_id = entry.get("id", key)
+        try:
+            entity_id = int(raw_id)
+        except (TypeError, ValueError):
+            entity_id = raw_id
+
+        team1 = (entry.get("team1") or "").strip()
+        team2 = (entry.get("team2") or "").strip()
+        # Use 'name' if explicitly set, else build "Team1 vs Team2"
+        explicit_name = (entry.get("name") or "").strip()
+        if explicit_name:
+            video_name = explicit_name
+        elif team1 and team2:
+            video_name = f"{team1} vs {team2}"
+        elif team1:
+            video_name = team1
+        elif team2:
+            video_name = team2
+        else:
+            continue  # No usable name — skip
+
+        league = (entry.get("league") or "").strip()
+        sport_category = (entry.get("sportCategory") or "").strip()
+        match_format = (entry.get("matchFormat") or "").strip()
+        logo1 = (entry.get("logo1") or "").strip()
+        logo2 = (entry.get("logo2") or "").strip()
+        league_logo = (entry.get("leagueLogo") or "").strip()
+
+        # --- DateTime ---
+        match_date = (entry.get("matchDate") or "").strip()
+        match_time = (entry.get("matchTime") or "").strip()
+        dt_utc = _parse_firebase_datetime(match_date, match_time)
+
+        # EventStartDate stored as "YYYY-MM-DD HH:MM:SS" UTC-equivalent naive
+        # (matches Tapmad's convention; live_events_service.dart adds +06:00
+        #  when reading — so we store the UTC value directly here to keep
+        #  BD-time interpretation consistent with the rest of the feed)
+        if dt_utc is not None:
+            event_start = dt_utc.strftime("%Y-%m-%d %H:%M:%S")
+        else:
+            event_start = ""
+
+        # --- Streams ---
+        sources = _firebase_sources(entry)
+        has_streams = len(sources) > 0
+
+        # --- Status ---
+        status = _determine_firebase_status(dt_utc, has_streams)
+
+        # Skip ended matches with no streams — nothing useful to show
+        if status == "Ended" and not has_streams:
+            continue
+
+        # --- StageName ---
+        if match_format:
+            stage_name = match_format          # e.g. "ODI", "T20"
+        elif status == "Live":
+            stage_name = "Live"
+        else:
+            stage_name = "Upcoming"
+
+        # --- CategoryId ---
+        category_id = stable_category_id(league or sport_category or "sports")
+
+        # --- UrlSlug ---
+        slug_base = league or sport_category or video_name
+        url_slug = slugify(slug_base) or "live-match"
+
+        # --- Description ---
+        hot = entry.get("hotMatch") == "yes" or entry.get("is_hot") is True
+        hot_tag = " 🔥" if hot else ""
+        description = (
+            f"Watch {video_name}{hot_tag} — {league}. "
+            f"Live streaming from {sport_category} event. "
+            f"Stream via app, web, or smart TV."
+        )
+
+        # --- Primary stream_url (first source, for backward compat) ---
+        primary_stream = sources[0]["url"] if sources else ""
+
+        converted.append({
+            "EntityId": entity_id,
+            "VideoName": video_name,
+            "CategoryName": league,
+            "StageName": stage_name,
+            "EventStartDate": event_start,
+            "Description": description,
+            "ThumbnailStandard": logo1,
+            "ThumbnailTV": "",          # Firebase has no TV thumbnail
+            "IsFreeToWatch": False,
+            "Status": status,
+            "CategoryId": category_id,
+            "UrlSlug": url_slug,
+            "stream_url": primary_stream,
+            # Multi-source list — picked up by _extractSources in the
+            # Flutter live_events_service.dart (it checks 'sources' key)
+            "sources": sources,
+            # Team details — extra fields beyond the core Tapmad schema.
+            # Stored here so the Flutter app can read them from Channel.extra
+            # via _channelFromMatch (any unknown key lands in extra map as-is).
+            "Team1Name": team1,
+            "Team2Name": team2,
+            "Team1Logo": logo1,
+            "Team2Logo": logo2,
+        })
+
+    return converted
+
+
+# --------------------------------------------------------------------------
 # Merge + sort
 # --------------------------------------------------------------------------
 STATUS_PRIORITY = {"Live": 0, "Upcoming": 1}
@@ -201,15 +449,13 @@ STATUS_PRIORITY = {"Live": 0, "Upcoming": 1}
 def sort_key(match: dict):
     status_rank = STATUS_PRIORITY.get(match.get("Status"), 2)
     dt = parse_event_datetime(match.get("EventStartDate", ""))
-    # Newest first within each status group -> sort by datetime descending.
-    # Unparseable dates sort last within their group.
     dt_key = dt.timestamp() if dt else float("-inf")
     return (status_rank, -dt_key)
 
 
-def merge(tapmad_data: dict, sonyliv_matches: list) -> dict:
+def merge(tapmad_data: dict, sonyliv_matches: list, firebase_matches: list) -> dict:
     tapmad_matches = tapmad_data.get("Matches", [])
-    merged_matches = tapmad_matches + sonyliv_matches
+    merged_matches = tapmad_matches + sonyliv_matches + firebase_matches
     merged_matches.sort(key=sort_key)
 
     live_count = sum(1 for m in merged_matches if m.get("Status") == "Live")
@@ -236,30 +482,42 @@ def main() -> int:
 
     tapmad_data = None
     sonyliv_matches = []
+    firebase_matches = []
     any_failed = False
 
+    # ── Source 1: Tapmad (structure anchor) ──────────────────────────────
     try:
         tapmad_data = fetch_json(TAPMAD_URL)
     except Exception as e:
         print(f"[ERROR] could not fetch Tapmad source: {e}", file=sys.stderr)
         any_failed = True
 
+    # ── Source 2: SonyLiv ────────────────────────────────────────────────
     try:
         sonyliv_data = fetch_json(SONYLIV_URL)
         sonyliv_matches = convert_sonyliv_to_tapmad_schema(sonyliv_data)
+        print(f"[OK] SonyLiv: {len(sonyliv_matches)} matches converted")
     except Exception as e:
         print(f"[ERROR] could not fetch/convert SonyLiv source: {e}", file=sys.stderr)
         any_failed = True
 
+    # ── Source 3: Firebase ───────────────────────────────────────────────
+    try:
+        firebase_data = fetch_json(FIREBASE_URL)
+        firebase_matches = convert_firebase_to_tapmad_schema(firebase_data)
+        print(f"[OK] Firebase: {len(firebase_matches)} matches converted "
+              f"(public, non-ended)")
+    except Exception as e:
+        print(f"[ERROR] could not fetch/convert Firebase source: {e}", file=sys.stderr)
+        any_failed = True
+
     if tapmad_data is None:
-        # Without Tapmad's structure/HeaderInfo we have nothing solid to
-        # merge into. Keep whatever output already exists and bail cleanly.
         print("[ERROR] Tapmad source unavailable — keeping previous output "
               "file untouched this run.", file=sys.stderr)
         write_status(any_changed=False, any_failed=True)
         return 0
 
-    merged = merge(tapmad_data, sonyliv_matches)
+    merged = merge(tapmad_data, sonyliv_matches, firebase_matches)
     new_content = json.dumps(merged, ensure_ascii=False, indent=2) + "\n"
 
     old_content = None
@@ -272,8 +530,11 @@ def main() -> int:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(new_content)
         any_changed = True
-        print(f"[OK] {OUTPUT_FILE} updated ({len(new_content)} bytes, "
-              f"{len(merged['Matches'])} matches)")
+        total = len(merged["Matches"])
+        live = merged["Stats"]["LiveCount"]
+        upcoming = merged["Stats"]["UpcomingCount"]
+        print(f"[OK] {OUTPUT_FILE} updated — "
+              f"{total} total matches ({live} live, {upcoming} upcoming)")
     else:
         print(f"[SKIP] {OUTPUT_FILE} unchanged")
 
@@ -294,6 +555,4 @@ def write_status(any_changed: bool, any_failed: bool):
 
 
 if __name__ == "__main__":
-    # Exit 0 always — a single failed source should not fail the whole
-    # GitHub Actions job.
     sys.exit(main())
