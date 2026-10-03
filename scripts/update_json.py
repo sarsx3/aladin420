@@ -24,6 +24,16 @@ Design goals:
 - Retry each request with backoff on network errors.
 - Byte-for-byte change detection (no pointless commits).
 - Zero third-party dependencies (Python stdlib only).
+
+Timezone rule (IMPORTANT):
+- The Flutter app (live_events_service.dart) treats every EventStartDate
+  as Bangladesh time (UTC+6) by appending '+06:00' before parsing.
+- Therefore ALL sources must store EventStartDate in BD time (UTC+6).
+  * Tapmad  → already in BD time ✅ (no change needed)
+  * SonyLiv → was stored as UTC, now converted to BD time (+6 h) ✅
+  * Firebase → matchDate/matchTime are BD time; previously subtracted
+               FIREBASE_TZ_OFFSET (wrongly converting to UTC). Now stored
+               as-is in BD time ✅
 """
 
 import hashlib
@@ -51,9 +61,9 @@ FIREBASE_URL = (
     "sports_events.json?auth=2gEYXaFECMKJNDrGUdv6ZhJH4ceHiokhHNrpePXF"
 )
 
-# Firebase data times are in this timezone (adjust if needed)
-# Based on matchTime "9:55 PM" style — assumed BD time (UTC+6)
-FIREBASE_TZ_OFFSET = timedelta(hours=6)
+# Bangladesh timezone (UTC+6) — used for ALL sources so the Flutter app
+# (kLiveEventsFeedUtcOffset = '+06:00') always gets the right local time.
+BD_TZ = timezone(timedelta(hours=6))
 
 # --- Output -----------------------------------------------------------------
 OUTPUT_FILE = "data/merged_playlist.json"
@@ -148,18 +158,31 @@ def parse_event_datetime(value: str):
         return None
 
 
+def now_bd() -> datetime:
+    """Current time in Bangladesh (UTC+6), timezone-aware."""
+    return datetime.now(BD_TZ)
+
+
 # --------------------------------------------------------------------------
 # Conversion: SonyLiv live_matches[] -> Tapmad-style Matches[]
 # --------------------------------------------------------------------------
 def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
-    now_utc = datetime.now(timezone.utc).replace(tzinfo=None)
+    # FIX: use BD time as the reference "now" so EventStartDate is stored
+    # in UTC+6, matching what the Flutter app expects (kLiveEventsFeedUtcOffset
+    # = '+06:00'). Previously this used datetime.now(timezone.utc) which made
+    # every SonyLiv match appear 6 hours early in the app.
+    now_bd_dt = now_bd()
     converted = []
 
     for m in sonyliv_data.get("live_matches", []):
         title = m.get("title", "").strip()
         tournament = m.get("tournament", "").strip()
         video_name = clean_video_name(title) or title
-        event_dt = parse_title_date(title, now_utc)
+
+        # parse_title_date returns a datetime with the same tzinfo as fallback;
+        # since fallback is now BD-aware, the result is also BD-aware.
+        event_dt_bd = parse_title_date(title, now_bd_dt)
+
         thumb = m.get("thumbnail", "")
         base_url = m.get("base_url", "")
         token = m.get("token", "")
@@ -180,7 +203,9 @@ def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
             "VideoName": video_name,
             "CategoryName": tournament,
             "StageName": "Live",
-            "EventStartDate": event_dt.strftime("%Y-%m-%d %H:%M:%S"),
+            # EventStartDate stored as BD time (naive string) — Flutter adds
+            # +06:00 when parsing (kLiveEventsFeedUtcOffset).
+            "EventStartDate": event_dt_bd.strftime("%Y-%m-%d %H:%M:%S"),
             "Description": description,
             "ThumbnailStandard": thumb,
             "ThumbnailTV": thumb,
@@ -201,9 +226,15 @@ def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
 def _parse_firebase_datetime(match_date: str, match_time: str) -> datetime | None:
     """
     Parse Firebase matchDate (DD/MM/YYYY) + matchTime (e.g. '9:55 PM')
-    into a naive datetime assumed to be in FIREBASE_TZ_OFFSET timezone.
-    Returns a naive datetime equivalent to UTC (offset already subtracted)
-    so it can be compared directly with Tapmad's EventStartDate values.
+    into a naive datetime that represents Bangladesh time (UTC+6).
+
+    FIX: previously this subtracted FIREBASE_TZ_OFFSET to produce a
+    "UTC-equivalent" value. But the Flutter app later re-adds +06:00
+    (kLiveEventsFeedUtcOffset), which would have been correct — except
+    _determine_firebase_status() was comparing the subtracted value against
+    datetime.utcnow(), causing a double-offset error in status detection.
+    Now we store the raw BD time as-is (no subtraction). The Flutter app
+    will correctly interpret it as UTC+6.
     """
     try:
         dt_str = f"{match_date.strip()} {match_time.strip()}"
@@ -215,28 +246,31 @@ def _parse_firebase_datetime(match_date: str, match_time: str) -> datetime | Non
             dt = datetime.strptime(dt_str, "%d/%m/%Y %H:%M")
         except ValueError:
             return None
-    # Convert from BD local time to UTC-equivalent naive datetime
-    dt_utc = dt - FIREBASE_TZ_OFFSET
-    return dt_utc
+    # dt is already in BD time — return as-is (naive, BD-local)
+    return dt
 
 
 def _determine_firebase_status(
-    dt_utc: datetime | None,
+    dt_bd: datetime | None,
     has_streams: bool,
 ) -> str:
     """
     Firebase JSON has no explicit Status field.
-    Derive it from match datetime vs now (UTC):
+    Derive it from match datetime vs now — both in BD time (UTC+6):
       - If >15 min in future       → "Upcoming"
       - If within ±120 min window  → "Live"    (live window heuristic)
       - If more than 120 min past  → "Ended"
     Falls back to "Upcoming" when datetime can't be parsed.
+
+    FIX: previously compared a UTC-shifted value against datetime.utcnow().
+    Now compares BD time directly against now_bd() for consistency.
     """
-    if dt_utc is None:
+    if dt_bd is None:
         return "Upcoming"
 
-    now_utc = datetime.utcnow()
-    diff_minutes = (now_utc - dt_utc).total_seconds() / 60  # positive = past
+    # now_bd() is timezone-aware; make dt_bd comparable by treating it as BD.
+    now_bd_naive = now_bd().replace(tzinfo=None)
+    diff_minutes = (now_bd_naive - dt_bd).total_seconds() / 60  # positive = past
 
     if diff_minutes < -15:
         return "Upcoming"
@@ -303,7 +337,7 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
       firebase.id          -> EntityId
       team1 + " vs " + team2 -> VideoName  (or 'name' field if present)
       league               -> CategoryName
-      matchDate+matchTime  -> EventStartDate (converted to UTC naive)
+      matchDate+matchTime  -> EventStartDate (BD time, stored as-is)
       sportCategory        -> part of Description
       logo1                -> ThumbnailStandard + Team1Logo (ThumbnailTV left empty)
       logo2                -> Team2Logo
@@ -317,7 +351,6 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
       visibility="public"  -> included; "unpublic" -> skipped
       key="trash"          -> always skipped
     """
-    now_utc = datetime.utcnow()
     converted = []
 
     for key, entry in firebase_data.items():
@@ -357,19 +390,15 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
         match_format = (entry.get("matchFormat") or "").strip()
         logo1 = (entry.get("logo1") or "").strip()
         logo2 = (entry.get("logo2") or "").strip()
-        league_logo = (entry.get("leagueLogo") or "").strip()
 
-        # --- DateTime ---
+        # --- DateTime (BD time, stored as naive string) ---
         match_date = (entry.get("matchDate") or "").strip()
         match_time = (entry.get("matchTime") or "").strip()
-        dt_utc = _parse_firebase_datetime(match_date, match_time)
+        # FIX: dt_bd is now raw BD time (no UTC subtraction).
+        dt_bd = _parse_firebase_datetime(match_date, match_time)
 
-        # EventStartDate stored as "YYYY-MM-DD HH:MM:SS" UTC-equivalent naive
-        # (matches Tapmad's convention; live_events_service.dart adds +06:00
-        #  when reading — so we store the UTC value directly here to keep
-        #  BD-time interpretation consistent with the rest of the feed)
-        if dt_utc is not None:
-            event_start = dt_utc.strftime("%Y-%m-%d %H:%M:%S")
+        if dt_bd is not None:
+            event_start = dt_bd.strftime("%Y-%m-%d %H:%M:%S")
         else:
             event_start = ""
 
@@ -377,8 +406,8 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
         sources = _firebase_sources(entry)
         has_streams = len(sources) > 0
 
-        # --- Status ---
-        status = _determine_firebase_status(dt_utc, has_streams)
+        # --- Status (compared in BD time) ---
+        status = _determine_firebase_status(dt_bd, has_streams)
 
         # Skip ended matches with no streams — nothing useful to show
         if status == "Ended" and not has_streams:
