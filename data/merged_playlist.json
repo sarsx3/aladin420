@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:38 PM 03-10-2026",
+    "LastUpdate": "06:39 PM 03-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -189,6 +189,79 @@
             "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "BEIN3 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FOX2 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TVE La 1-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPORTV2 BR-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ESPN1 ARGENTINA-aq",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Spain",
@@ -201,7 +274,7 @@
       "VideoName": "Spain vs Czechia",
       "CategoryName": "UEFA Nations League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-04 00:38:19",
+      "EventStartDate": "2026-10-04 00:39:19",
       "Description": "Watch Spain vs Czechia live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
       "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg",
       "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg",
@@ -216,7 +289,7 @@
       "VideoName": "Switzerland vs Slovenia",
       "CategoryName": "UEFA Nations League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-04 00:38:19",
+      "EventStartDate": "2026-10-04 00:39:19",
       "Description": "Watch Switzerland vs Slovenia live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
       "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg",
       "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg",
@@ -231,7 +304,7 @@
       "VideoName": "North Macedonia vs Scotland",
       "CategoryName": "UEFA Nations League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-04 00:38:19",
+      "EventStartDate": "2026-10-04 00:39:19",
       "Description": "Watch North Macedonia vs Scotland live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
       "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg",
       "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg",
