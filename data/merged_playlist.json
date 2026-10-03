@@ -7,7 +7,7 @@
   },
   "Stats": {
     "LiveCount": 3,
-    "UpcomingCount": 82
+    "UpcomingCount": 81
   },
   "Matches": [
     {
@@ -1695,52 +1695,6 @@
       "Team2Name": "Focused Health 302",
       "Team1Logo": "https://img.sofascore.com/api/v1/category/1325/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/category/1325/image"
-    },
-    {
-      "EntityId": 52,
-      "VideoName": "New York Yankees vs Tampa Bay Rays",
-      "CategoryName": "Baseball | MLB",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-04 04:30:00",
-      "Description": "Watch New York Yankees vs Tampa Bay Rays — Baseball | MLB. Live streaming from Baseball event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9663,
-      "UrlSlug": "baseball-mlb",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-      "sources": [
-        {
-          "label": "TNT4UK SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "STREAM TV + HD",
-          "url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "New York Yankees",
-      "Team2Name": "Tampa Bay Rays",
-      "Team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image"
     }
   ]
 }
