@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:32 PM 03-10-2026",
+    "LastUpdate": "06:33 PM 03-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -108,8 +108,21 @@
       "Status": "Live",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/master.m3u8?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/master.m3u8?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Spain",
       "Team2Name": "Czechia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4698/image",
@@ -120,7 +133,7 @@
       "VideoName": "Spain vs Czechia",
       "CategoryName": "UEFA Nations League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-04 00:32:22",
+      "EventStartDate": "2026-10-04 00:33:20",
       "Description": "Watch Spain vs Czechia live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
       "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg",
       "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg",
@@ -135,7 +148,7 @@
       "VideoName": "Switzerland vs Slovenia",
       "CategoryName": "UEFA Nations League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-04 00:32:22",
+      "EventStartDate": "2026-10-04 00:33:20",
       "Description": "Watch Switzerland vs Slovenia live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
       "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg",
       "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg",
@@ -150,7 +163,7 @@
       "VideoName": "North Macedonia vs Scotland",
       "CategoryName": "UEFA Nations League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-04 00:32:22",
+      "EventStartDate": "2026-10-04 00:33:20",
       "Description": "Watch North Macedonia vs Scotland live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
       "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg",
       "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg",
