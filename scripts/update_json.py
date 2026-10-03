@@ -166,32 +166,105 @@ def now_bd() -> datetime:
 # --------------------------------------------------------------------------
 # Conversion: SonyLiv live_matches[] -> Tapmad-style Matches[]
 # --------------------------------------------------------------------------
-def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
-    # FIX: use BD time as the reference "now" so EventStartDate is stored
-    # in UTC+6, matching what the Flutter app expects (kLiveEventsFeedUtcOffset
-    # = '+06:00'). Previously this used datetime.now(timezone.utc) which made
-    # every SonyLiv match appear 6 hours early in the app.
-    now_bd_dt = now_bd()
+SONY_DEFAULT_LANG = ("ENG", "English")
+
+
+def load_previous_sonyliv(path: str) -> dict:
+    """
+    Read the PREVIOUS output file and return {EntityId(str): match} for the
+    SonyLiv entries only. Used to remember when each match was FIRST SEEN, so
+    the value stays identical on every later run (no flicker, no needless
+    commits). Only entries carrying our own marker (Provider == "SonyLiv") are
+    trusted; entries written by older script versions are ignored.
+    """
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return {}
+    out = {}
+    for m in data.get("Matches", []):
+        if isinstance(m, dict) and m.get("Provider") == "SonyLiv":
+            out[str(m.get("EntityId"))] = m
+    return out
+
+
+def sonyliv_sources(m: dict) -> list:
+    """
+    Build playable HLS sources. The SonyLiv JSON only gives a FOLDER url
+    (base_url) + token; the real manifest is
+        <base_url><LANG>/master.m3u8<token>
+    One source per entry in audio_list (English first). Falls back to ENG
+    when audio_list is missing/empty.
+    """
+    base = (m.get("base_url") or "").strip()
+    token = (m.get("token") or "").strip()
+    if not base:
+        return []
+    if not base.endswith("/"):
+        base += "/"
+    if token and not token.startswith(("?", "&")):
+        token = "?" + token
+
+    langs = []
+    for a in m.get("audio_list") or []:
+        if not isinstance(a, dict):
+            continue
+        code = (a.get("lang_code") or "").strip()
+        if code:
+            langs.append((code, (a.get("lang_label") or code).strip()))
+    if not langs:
+        langs = [SONY_DEFAULT_LANG]
+    langs.sort(key=lambda x: 0 if x[0].upper() == "ENG" else 1)  # stable
+
+    sources, seen = [], set()
+    for code, label in langs:
+        url = f"{base}{code}/master.m3u8{token}"
+        if url in seen:
+            continue
+        seen.add(url)
+        sources.append({"label": label, "url": url})
+    return sources
+
+
+def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict, previous: dict | None = None) -> list:
+    """
+    SonyLiv has NO kick-off time in its feed. Instead of inventing one from
+    "now" (which changed on every run), we remember the moment each match was
+    FIRST SEEN in the feed ("went live") and keep it stable across runs by
+    reading it back from the previous output file.
+
+    EventStartDate = that first-seen moment, in BD time. The Flutter app
+    already renders it as "LIVE | 00:35:12" (elapsed since start), so the
+    user sees how long the match has been on air with no app change.
+    """
+    previous = previous or {}
+    now_ts = int(time.time())
     converted = []
 
     for m in sonyliv_data.get("live_matches", []):
-        title = m.get("title", "").strip()
-        tournament = m.get("tournament", "").strip()
+        title = (m.get("title") or "").strip()
+        tournament = (m.get("tournament") or "").strip()
         video_name = clean_video_name(title) or title
+        if not video_name:
+            continue
 
-        # parse_title_date returns a datetime with the same tzinfo as fallback;
-        # since fallback is now BD-aware, the result is also BD-aware.
-        event_dt_bd = parse_title_date(title, now_bd_dt)
+        sources = sonyliv_sources(m)
+        if not sources:
+            continue  # nothing playable
 
-        thumb = m.get("thumbnail", "")
-        base_url = m.get("base_url", "")
-        token = m.get("token", "")
-
+        match_id = str(m.get("match_id"))
         try:
             entity_id = int(m.get("match_id"))
         except (TypeError, ValueError):
             entity_id = m.get("match_id")
 
+        # First-seen: reuse the stored value if we have one, else "now".
+        old_ts = (previous.get(match_id) or {}).get("FirstSeenTs")
+        first_seen = old_ts if isinstance(old_ts, int) and 0 < old_ts <= now_ts else now_ts
+        event_dt_bd = datetime.fromtimestamp(first_seen, BD_TZ)
+
+        thumb = m.get("thumbnail", "")
         description = (
             f"Watch {video_name} live from {tournament}. Enjoy live coverage "
             f"with real-time action, key moments, and non-stop excitement. "
@@ -203,8 +276,6 @@ def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
             "VideoName": video_name,
             "CategoryName": tournament,
             "StageName": "Live",
-            # EventStartDate stored as BD time (naive string) — Flutter adds
-            # +06:00 when parsing (kLiveEventsFeedUtcOffset).
             "EventStartDate": event_dt_bd.strftime("%Y-%m-%d %H:%M:%S"),
             "Description": description,
             "ThumbnailStandard": thumb,
@@ -213,7 +284,12 @@ def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict) -> list:
             "Status": "Live",
             "CategoryId": stable_category_id(tournament),
             "UrlSlug": slugify(f"{tournament}-live") or "live-match",
-            "stream_url": f"{base_url}{token}",
+            "stream_url": sources[0]["url"],
+            "sources": sources,
+            # Internal markers (ignored by the app): identify SonyLiv rows
+            # and keep the stable first-seen timestamp for the next run.
+            "Provider": "SonyLiv",
+            "FirstSeenTs": first_seen,
         })
 
     return converted
@@ -491,7 +567,7 @@ def merge(tapmad_data: dict, sonyliv_matches: list, firebase_matches: list) -> d
     upcoming_count = sum(1 for m in merged_matches if m.get("Status") == "Upcoming")
 
     header = dict(tapmad_data.get("HeaderInfo", {}))
-    header["LastUpdate"] = time.strftime("%I:%M %p %d-%m-%Y", time.gmtime())
+    header["LastUpdate"] = now_bd().strftime("%I:%M %p %d-%m-%Y")
 
     return {
         "HeaderInfo": header,
@@ -514,6 +590,10 @@ def main() -> int:
     firebase_matches = []
     any_failed = False
 
+    # Previous SonyLiv rows — gives stable "first seen" times and a fallback
+    # if the SonyLiv source is down this run.
+    previous_sony = load_previous_sonyliv(OUTPUT_FILE)
+
     # ── Source 1: Tapmad (structure anchor) ──────────────────────────────
     try:
         tapmad_data = fetch_json(TAPMAD_URL)
@@ -524,10 +604,15 @@ def main() -> int:
     # ── Source 2: SonyLiv ────────────────────────────────────────────────
     try:
         sonyliv_data = fetch_json(SONYLIV_URL)
-        sonyliv_matches = convert_sonyliv_to_tapmad_schema(sonyliv_data)
+        sonyliv_matches = convert_sonyliv_to_tapmad_schema(sonyliv_data, previous_sony)
         print(f"[OK] SonyLiv: {len(sonyliv_matches)} matches converted")
     except Exception as e:
         print(f"[ERROR] could not fetch/convert SonyLiv source: {e}", file=sys.stderr)
+        # Keep last known SonyLiv rows instead of dropping them (and losing
+        # their first-seen time) because of one failed request.
+        sonyliv_matches = list(previous_sony.values())
+        print(f"[WARN] SonyLiv: keeping {len(sonyliv_matches)} previous matches",
+              file=sys.stderr)
         any_failed = True
 
     # ── Source 3: Firebase ───────────────────────────────────────────────
