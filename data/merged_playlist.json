@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:14 PM 04-10-2026",
+    "LastUpdate": "09:15 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 69
+    "LiveCount": 6,
+    "UpcomingCount": 68
   },
   "Matches": [
+    {
+      "EntityId": 104,
+      "VideoName": "India Champions vs England Champions",
+      "CategoryName": "Cricket | World Championship of Legends",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-04 21:30:00",
+      "Description": "Watch India Champions vs England Champions — Cricket | World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VJ.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9019,
+      "UrlSlug": "cricket-world-championship-of-legends",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "India Champions",
+      "Team2Name": "England Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VJ.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VL.png"
+    },
     {
       "EntityId": 18152,
       "VideoName": "McLaren Trophy Europe - Race 2",
@@ -1370,26 +1390,6 @@
       "Team2Name": "Andorra",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4483/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4818/image"
-    },
-    {
-      "EntityId": 104,
-      "VideoName": "India Champions vs England Champions",
-      "CategoryName": "Cricket | World Championship of Legends",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-04 21:30:00",
-      "Description": "Watch India Champions vs England Champions — Cricket | World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VJ.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9019,
-      "UrlSlug": "cricket-world-championship-of-legends",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "India Champions",
-      "Team2Name": "England Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VJ.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VL.png"
     },
     {
       "EntityId": 103,
