@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:14 PM 04-10-2026",
+    "LastUpdate": "10:15 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 66
+    "LiveCount": 12,
+    "UpcomingCount": 64
   },
   "Matches": [
+    {
+      "EntityId": 1123,
+      "VideoName": "Castellon vs AD Ceuta",
+      "CategoryName": "Football | LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-04 22:30:00",
+      "Description": "Watch Castellon vs AD Ceuta — Football | LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5067/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9792,
+      "UrlSlug": "football-laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Castellon",
+      "Team2Name": "AD Ceuta",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/5067/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2869/image"
+    },
+    {
+      "EntityId": 1124,
+      "VideoName": "Las Palmas vs Valladolid",
+      "CategoryName": "Football | LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-04 22:30:00",
+      "Description": "Watch Las Palmas vs Valladolid — Football | LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6577/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9792,
+      "UrlSlug": "football-laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Las Palmas",
+      "Team2Name": "Valladolid",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6577/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2831/image"
+    },
     {
       "EntityId": 17902,
       "VideoName": "Kosovo vs Austria",
@@ -1563,46 +1603,6 @@
       "Team2Name": "Ghana",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5093",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5094"
-    },
-    {
-      "EntityId": 1123,
-      "VideoName": "Castellon vs AD Ceuta",
-      "CategoryName": "Football | LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-04 22:30:00",
-      "Description": "Watch Castellon vs AD Ceuta — Football | LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5067/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9792,
-      "UrlSlug": "football-laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Castellon",
-      "Team2Name": "AD Ceuta",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/5067/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2869/image"
-    },
-    {
-      "EntityId": 1124,
-      "VideoName": "Las Palmas vs Valladolid",
-      "CategoryName": "Football | LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-04 22:30:00",
-      "Description": "Watch Las Palmas vs Valladolid — Football | LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6577/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9792,
-      "UrlSlug": "football-laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Las Palmas",
-      "Team2Name": "Valladolid",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6577/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2831/image"
     }
   ]
 }
