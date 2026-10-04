@@ -1,15 +1,75 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:15 AM 05-10-2026",
+    "LastUpdate": "12:16 AM 05-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 8,
     "UpcomingCount": 62
   },
   "Matches": [
+    {
+      "EntityId": 17904,
+      "VideoName": "Greece vs Germany",
+      "CategoryName": "UEFA Nations League 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-10-05 00:45:00",
+      "Description": "Watch Greece vs Germany live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Greece vs Germany match will take place on 05-Oct, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756339540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790756339540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1120,
+      "UrlSlug": "greece-vs-germany-unl-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 17905,
+      "VideoName": "Netherlands vs Serbia",
+      "CategoryName": "UEFA Nations League 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-10-05 00:45:00",
+      "Description": "Watch Netherlands vs Serbia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Netherlands vs Serbia match will take place on 05-Oct, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756487540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790756487540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1120,
+      "UrlSlug": "netherlands-vs-serbia-unl-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
+    },
+    {
+      "EntityId": 17906,
+      "VideoName": "Portugal vs Norway",
+      "CategoryName": "UEFA Nations League 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-10-05 00:45:00",
+      "Description": "Watch Portugal vs Norway live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Portugal vs Norway match will take place on 05-Oct, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756678540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790756679540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1120,
+      "UrlSlug": "portugal-vs-norway-unl-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
+    },
+    {
+      "EntityId": 17907,
+      "VideoName": "Wales vs Denmark",
+      "CategoryName": "UEFA Nations League 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-10-05 00:45:00",
+      "Description": "Watch Wales vs Denmark live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Wales vs Denmark match will take place on 05-Oct, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756874540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790756874540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1120,
+      "UrlSlug": "wales-vs-denmark-unl-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
     {
       "EntityId": 1125,
       "VideoName": "Egypt vs South Africa",
@@ -1295,8 +1355,21 @@
       "Status": "Upcoming",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "sources": [
+        {
+          "label": "BeIN2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Netherlands",
       "Team2Name": "Serbia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4705/image",
