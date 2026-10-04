@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:29 AM 04-10-2026",
+    "LastUpdate": "08:30 AM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 76
   },
   "Matches": [
@@ -113,64 +113,6 @@
       "CategoryId": 427,
       "UrlSlug": "round-11-race-inje-south-korea-live",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-    },
-    {
-      "EntityId": 53,
-      "VideoName": "San Diego Padres vs Milwaukee Brewers",
-      "CategoryName": "Baseball | MLB",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-04 06:30:00",
-      "Description": "Watch San Diego Padres vs Milwaukee Brewers — Baseball | MLB. Live streaming from Baseball event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9663,
-      "UrlSlug": "baseball-mlb",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-      "sources": [
-        {
-          "label": "FOX1 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FOX DEPORTES FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "STREAM TV + HD",
-          "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "San Diego Padres",
-      "Team2Name": "Milwaukee Brewers",
-      "Team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image"
     },
     {
       "EntityId": 18228,
@@ -1706,23 +1648,23 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/category/1325/image"
     },
     {
-      "EntityId": 1116,
-      "VideoName": "Argentina vs Burkina Faso",
-      "CategoryName": "Football | Friendly International",
+      "EntityId": 53,
+      "VideoName": "San Diego Padres vs Milwaukee Brewers",
+      "CategoryName": "Baseball | MLB",
       "StageName": "Upcoming",
-      "EventStartDate": "2026-10-04 06:00:00",
-      "Description": "Watch Argentina vs Burkina Faso 🔥 — Football | Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4819/image",
+      "EventStartDate": "2026-10-04 06:30:00",
+      "Description": "Watch San Diego Padres vs Milwaukee Brewers — Baseball | MLB. Live streaming from Baseball event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "ThumbnailTV": "",
       "IsFreeToWatch": false,
       "Status": "Ended",
-      "CategoryId": 9654,
-      "UrlSlug": "football-friendly-international",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "CategoryId": 9663,
+      "UrlSlug": "baseball-mlb",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
       "sources": [
         {
-          "label": "BEIN3 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "label": "FOX1 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
@@ -1733,8 +1675,8 @@
           }
         },
         {
-          "label": "PREMIERE2 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "label": "FOX DEPORTES FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
@@ -1745,22 +1687,23 @@
           }
         },
         {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/2904f0af-b164-4b7f-b5e1-fbac6a1e0caa.m3u8",
+          "label": "STREAM TV + HD",
+          "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
             "Accept-Encoding": "gzip, deflate, br, zstd",
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
+            "Referer": "https://streame.center",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
       ],
-      "Team1Name": "Argentina",
-      "Team2Name": "Burkina Faso",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4819/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4749/image"
+      "Team1Name": "San Diego Padres",
+      "Team2Name": "Milwaukee Brewers",
+      "Team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image"
     },
     {
       "EntityId": 69,
