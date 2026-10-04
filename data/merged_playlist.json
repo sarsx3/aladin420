@@ -1,30 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:44 PM 04-10-2026",
+    "LastUpdate": "02:45 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 73
   },
   "Matches": [
-    {
-      "EntityId": 18134,
-      "VideoName": "GT3 Revival Series - Race 2",
-      "CategoryName": "GT World Challenge EU & Asia 2026",
-      "StageName": "Race 2",
-      "EventStartDate": "2026-10-04 14:10:00",
-      "Description": "The  GT3 Revival Series - Race 2 match is scheduled to take place on 04-Oct, at 02:10 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790840262540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790840262540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 371,
-      "UrlSlug": "gt3-revival-series-race-2-live",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-    },
     {
       "EntityId": 1090546990,
       "VideoName": "Closing Ceremony",
@@ -175,21 +160,6 @@
       "CategoryId": 1129,
       "UrlSlug": "le-tour-de-langkawi-malaysia-2026",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-    },
-    {
-      "EntityId": 18049,
-      "VideoName": "Round 12 Race - Inje, South Korea Live",
-      "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
-      "StageName": "Race",
-      "EventStartDate": "2026-10-04 11:05:00",
-      "Description": "Live Stream Round 12 Race - Inje, South Korea  Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790764831540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790764831540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 427,
-      "UrlSlug": "round-12-race-inje-south-korea-live",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
     },
     {
       "EntityId": 1163,
@@ -1338,6 +1308,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2831/image"
     },
     {
+      "EntityId": 18158,
+      "VideoName": "GT World Challenge powered by AWS - Race 2",
+      "CategoryName": "GT World Challenge EU & Asia 2026",
+      "StageName": "Race 2",
+      "EventStartDate": "2026-10-04 22:20:00",
+      "Description": "The GT World Challenge powered by AWS - Race 2 match is scheduled to take place on 04-Oct, at 08:00 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790850730540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790850730540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 371,
+      "UrlSlug": "gt-world-challenge-powered-by-aws-race-2-live"
+    },
+    {
       "EntityId": 17902,
       "VideoName": "Kosovo vs Austria",
       "CategoryName": "UEFA Nations League 2026/27",
@@ -1426,6 +1410,20 @@
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VL.png"
     },
     {
+      "EntityId": 18152,
+      "VideoName": "McLaren Trophy Europe - Race 2",
+      "CategoryName": "GT World Challenge EU & Asia 2026",
+      "StageName": "Race 2",
+      "EventStartDate": "2026-10-04 21:00:00",
+      "Description": "The  McLaren Trophy Europe - Race 2 match is scheduled to take place on 04-Oct, at 06:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790849386540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790849386540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 371,
+      "UrlSlug": "mclaren-trophy-europe-race-2-live"
+    },
+    {
       "EntityId": 1120,
       "VideoName": "Sporting Gijon vs Celta Vigo B",
       "CategoryName": "Football | LaLiga 2",
@@ -1444,20 +1442,6 @@
       "Team2Name": "Celta Vigo B",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2852/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/24336/image"
-    },
-    {
-      "EntityId": 18158,
-      "VideoName": "GT World Challenge powered by AWS - Race 2",
-      "CategoryName": "GT World Challenge EU & Asia 2026",
-      "StageName": "Race 2",
-      "EventStartDate": "2026-10-04 20:00:00",
-      "Description": "The GT World Challenge powered by AWS - Race 2 match is scheduled to take place on 04-Oct, at 08:00 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790850730540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790850730540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 371,
-      "UrlSlug": "gt-world-challenge-powered-by-aws-race-2-live"
     },
     {
       "EntityId": 18146,
@@ -1506,20 +1490,6 @@
       "Team2Name": "Lithuania",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4742/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4776/image"
-    },
-    {
-      "EntityId": 18152,
-      "VideoName": "McLaren Trophy Europe - Race 2",
-      "CategoryName": "GT World Challenge EU & Asia 2026",
-      "StageName": "Race 2",
-      "EventStartDate": "2026-10-04 18:25:00",
-      "Description": "The  McLaren Trophy Europe - Race 2 match is scheduled to take place on 04-Oct, at 06:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790849386540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790849386540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 371,
-      "UrlSlug": "mclaren-trophy-europe-race-2-live"
     },
     {
       "EntityId": 1118,
