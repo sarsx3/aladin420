@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:36 PM 04-10-2026",
+    "LastUpdate": "09:37 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -1510,8 +1510,20 @@
       "Status": "Upcoming",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170451~acl=/*~id=49942054377503995884123288737081~hmac=5e44a13982713fc689270f1eb6dea66addaaf5bf1560fa51c98b5337111b5278",
       "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170451~acl=/*~id=49942054377503995884123288737081~hmac=5e44a13982713fc689270f1eb6dea66addaaf5bf1560fa51c98b5337111b5278",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
