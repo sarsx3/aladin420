@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:51 PM 04-10-2026",
+    "LastUpdate": "01:52 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 73
   },
   "Matches": [
@@ -24,6 +24,45 @@
       "CategoryId": 371,
       "UrlSlug": "gt3-revival-series-race-2-live",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "EntityId": 1090546990,
+      "VideoName": "Closing Ceremony",
+      "CategoryName": "20th Asian Games Aichi-Nagoya 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-04 13:52:21",
+      "Description": "Watch Closing Ceremony live from 20th Asian Games Aichi-Nagoya 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream 20th Asian Games Aichi-Nagoya 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9512,
+      "UrlSlug": "20th-asian-games-aichi-nagoya-2026-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/master.m3u8?hdnea=exp=1791143436~acl=/*~id=68020810223696151119722955866881~hmac=80b1990915bec0d921e17b6b437f3964978f9bf99c602c15165c4bbd1e1715f5",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/master.m3u8?hdnea=exp=1791143436~acl=/*~id=68020810223696151119722955866881~hmac=80b1990915bec0d921e17b6b437f3964978f9bf99c602c15165c4bbd1e1715f5"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/master.m3u8?hdnea=exp=1791143436~acl=/*~id=68020810223696151119722955866881~hmac=80b1990915bec0d921e17b6b437f3964978f9bf99c602c15165c4bbd1e1715f5"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/master.m3u8?hdnea=exp=1791143436~acl=/*~id=68020810223696151119722955866881~hmac=80b1990915bec0d921e17b6b437f3964978f9bf99c602c15165c4bbd1e1715f5"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/master.m3u8?hdnea=exp=1791143436~acl=/*~id=68020810223696151119722955866881~hmac=80b1990915bec0d921e17b6b437f3964978f9bf99c602c15165c4bbd1e1715f5"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/master.m3u8?hdnea=exp=1791143436~acl=/*~id=68020810223696151119722955866881~hmac=80b1990915bec0d921e17b6b437f3964978f9bf99c602c15165c4bbd1e1715f5"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791100341
     },
     {
       "EntityId": 18061,
