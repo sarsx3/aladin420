@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:04 AM 05-10-2026",
+    "LastUpdate": "12:05 AM 05-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -56,8 +56,22 @@
       "Status": "Live",
       "CategoryId": 9654,
       "UrlSlug": "football-friendly-international",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=OtpMhY7ZXZ4a146WF-gXqQnXiJB35xQWjdZaS1cdVQ8&expires=1791140597&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=OtpMhY7ZXZ4a146WF-gXqQnXiJB35xQWjdZaS1cdVQ8&expires=1791140597&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://snrt.player.easybroadcast.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Morocco",
       "Team2Name": "Ghana",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5093",
