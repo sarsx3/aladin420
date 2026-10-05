@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:30 AM 06-10-2026",
+    "LastUpdate": "12:31 AM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 22,
+    "LiveCount": 23,
     "UpcomingCount": 122
   },
   "Matches": [
@@ -101,6 +101,21 @@
       "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
     },
     {
+      "EntityId": 17916,
+      "VideoName": "Northern Ireland vs Georgia",
+      "CategoryName": "UEFA Nations League 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-10-06 00:45:00",
+      "Description": "Watch Northern Ireland vs Georgia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Northern Ireland vs Georgia match will take place on 06-Oct, Tuesday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790841188540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790841188540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1120,
+      "UrlSlug": "northern ireland-vs-georgia-unl-live-match",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+    },
+    {
       "EntityId": 1135,
       "VideoName": "Romania vs Sweden",
       "CategoryName": "Football | UEFA Nations League",
@@ -113,8 +128,20 @@
       "Status": "Live",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267639~acl=/*~id=37833981042248375409800673739762~hmac=81d9964fcc5f22b36cacdb1a5661a5f0bf25dd0f8df4b4301fdf7e6474027479",
       "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267639~acl=/*~id=37833981042248375409800673739762~hmac=81d9964fcc5f22b36cacdb1a5661a5f0bf25dd0f8df4b4301fdf7e6474027479",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
@@ -231,8 +258,20 @@
       "Status": "Live",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267673~acl=/*~id=44219288074041850015724279810403~hmac=5cbe93aa1b3f7710bcb50adca834ae8ae7435a07f8c630a71fd7fd7a8cf2d201",
       "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267673~acl=/*~id=44219288074041850015724279810403~hmac=5cbe93aa1b3f7710bcb50adca834ae8ae7435a07f8c630a71fd7fd7a8cf2d201",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "tapmad-aq",
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
@@ -290,8 +329,20 @@
       "Status": "Live",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267647~acl=/*~id=07009639107640101274461881570175~hmac=8eff904eaaab99ddbfad376506cdfa21a55d26d3a2f2280781cf278b538a150b",
       "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267647~acl=/*~id=07009639107640101274461881570175~hmac=8eff904eaaab99ddbfad376506cdfa21a55d26d3a2f2280781cf278b538a150b",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "tapmad-aq",
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
