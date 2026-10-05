@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:33 PM 05-10-2026",
+    "LastUpdate": "06:34 PM 05-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -1056,53 +1056,6 @@
       "Team2Name": "Thailand",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4829/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4730/image"
-    },
-    {
-      "EntityId": 101,
-      "VideoName": "Japan vs New Zealand",
-      "CategoryName": "Football | International Friendly",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-05 16:30:00",
-      "Description": "Watch Japan vs New Zealand — Football | International Friendly. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2382",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Ended",
-      "CategoryId": 9803,
-      "UrlSlug": "football-international-friendly",
-      "stream_url": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low-server",
-          "url": "http://193.47.62.55/hls/ekkkkAAA.m3u8?",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Japan",
-      "Team2Name": "New Zealand",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2382",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2391"
     }
   ]
 }
