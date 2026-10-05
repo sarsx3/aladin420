@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:44 AM 06-10-2026",
+    "LastUpdate": "12:45 AM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -467,6 +467,18 @@
         {
           "label": "BEIN2 ARABIC HD",
           "url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low-server",
+          "url": "https://n220.ys.football/online/sEckqtAFwcSC731e0bh3og/1791229396/fs2_480.m3u8",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
