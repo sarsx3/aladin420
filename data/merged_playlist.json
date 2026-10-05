@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:14 AM 06-10-2026",
+    "LastUpdate": "12:15 AM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 130
+    "LiveCount": 3,
+    "UpcomingCount": 129
   },
   "Matches": [
+    {
+      "EntityId": 1134,
+      "VideoName": "Cordoba vs Tenerife",
+      "CategoryName": "Football | LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:30:00",
+      "Description": "Watch Cordoba vs Tenerife — Football | LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2850/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9792,
+      "UrlSlug": "football-laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Cordoba",
+      "Team2Name": "Tenerife",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2850/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2822/image"
+    },
     {
       "EntityId": 17909,
       "VideoName": "Cyprus vs Latvia",
@@ -2723,26 +2743,6 @@
       "Team2Name": "Belgium",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4481/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4717/image"
-    },
-    {
-      "EntityId": 1134,
-      "VideoName": "Cordoba vs Tenerife",
-      "CategoryName": "Football | LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-06 00:30:00",
-      "Description": "Watch Cordoba vs Tenerife — Football | LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2850/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9792,
-      "UrlSlug": "football-laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Cordoba",
-      "Team2Name": "Tenerife",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2850/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2822/image"
     },
     {
       "EntityId": 100,
