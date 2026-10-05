@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:22 AM 06-10-2026",
+    "LastUpdate": "12:25 AM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 15,
     "UpcomingCount": 129
   },
   "Matches": [
@@ -121,27 +121,188 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2822/image"
     },
     {
-      "EntityId": 1090547070,
-      "VideoName": "Cyprus vs Latvia",
+      "EntityId": 1090547080,
+      "VideoName": "France vs Belgium",
       "CategoryName": "UEFA Nations League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-05 21:21:21",
-      "Description": "Watch Cyprus vs Latvia live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch France vs Belgium live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827598947953_UNL2627_MD4_France_vs_Belgium_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827598947953_UNL2627_MD4_France_vs_Belgium_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9005,
       "UrlSlug": "uefa-nations-league-2026-27-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/master.m3u8?hdnea=exp=1791256841~acl=/*~id=36871665722074013850628360155464~hmac=fdef97d5ac34695225e113fde93e3d2be920a043f5b8cc67adecc3b088dbfe73",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267639~acl=/*~id=37833981042248375409800673739762~hmac=81d9964fcc5f22b36cacdb1a5661a5f0bf25dd0f8df4b4301fdf7e6474027479",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/master.m3u8?hdnea=exp=1791256841~acl=/*~id=36871665722074013850628360155464~hmac=fdef97d5ac34695225e113fde93e3d2be920a043f5b8cc67adecc3b088dbfe73"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267639~acl=/*~id=37833981042248375409800673739762~hmac=81d9964fcc5f22b36cacdb1a5661a5f0bf25dd0f8df4b4301fdf7e6474027479"
         }
       ],
       "Provider": "SonyLiv",
-      "FirstSeenTs": 1791213681
+      "FirstSeenTs": 1791224728
+    },
+    {
+      "EntityId": 1090547081,
+      "VideoName": "Italy vs Turkiye",
+      "CategoryName": "UEFA Nations League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch Italy vs Turkiye live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827764261953_UNL2627_MD4_Italy_vs_Turkiye_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827764261953_UNL2627_MD4_Italy_vs_Turkiye_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9005,
+      "UrlSlug": "uefa-nations-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267647~acl=/*~id=07009639107640101274461881570175~hmac=8eff904eaaab99ddbfad376506cdfa21a55d26d3a2f2280781cf278b538a150b",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267647~acl=/*~id=07009639107640101274461881570175~hmac=8eff904eaaab99ddbfad376506cdfa21a55d26d3a2f2280781cf278b538a150b"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791224728
+    },
+    {
+      "EntityId": 1090547072,
+      "VideoName": "Ukraine vs Hungary",
+      "CategoryName": "UEFA Nations League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch Ukraine vs Hungary live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827046198953_UNL2627_MD4_Ukraine_vs_Hungary_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827046198953_UNL2627_MD4_Ukraine_vs_Hungary_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9005,
+      "UrlSlug": "uefa-nations-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267673~acl=/*~id=44219288074041850015724279810403~hmac=5cbe93aa1b3f7710bcb50adca834ae8ae7435a07f8c630a71fd7fd7a8cf2d201",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267673~acl=/*~id=44219288074041850015724279810403~hmac=5cbe93aa1b3f7710bcb50adca834ae8ae7435a07f8c630a71fd7fd7a8cf2d201"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791224728
+    },
+    {
+      "EntityId": 1090547075,
+      "VideoName": "Romania vs Sweden",
+      "CategoryName": "UEFA Nations League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch Romania vs Sweden live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827157474953_UNL2627_MD4_Romania_vs_Sweden_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827157474953_UNL2627_MD4_Romania_vs_Sweden_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9005,
+      "UrlSlug": "uefa-nations-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267639~acl=/*~id=37833981042248375409800673739762~hmac=81d9964fcc5f22b36cacdb1a5661a5f0bf25dd0f8df4b4301fdf7e6474027479",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267639~acl=/*~id=37833981042248375409800673739762~hmac=81d9964fcc5f22b36cacdb1a5661a5f0bf25dd0f8df4b4301fdf7e6474027479"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791224728
+    },
+    {
+      "EntityId": 1090547078,
+      "VideoName": "Northern Ireland vs Georgia",
+      "CategoryName": "UEFA Nations League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch Northern Ireland vs Georgia live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827280388953_UNL2627_MD4_Northern_Ireland_vs_Georgia_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827280388953_UNL2627_MD4_Northern_Ireland_vs_Georgia_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9005,
+      "UrlSlug": "uefa-nations-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267647~acl=/*~id=07009639107640101274461881570175~hmac=8eff904eaaab99ddbfad376506cdfa21a55d26d3a2f2280781cf278b538a150b",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267647~acl=/*~id=07009639107640101274461881570175~hmac=8eff904eaaab99ddbfad376506cdfa21a55d26d3a2f2280781cf278b538a150b"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791224728
+    },
+    {
+      "EntityId": 1090547082,
+      "VideoName": "Bosnia & Herzegovina vs Poland",
+      "CategoryName": "UEFA Nations League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch Bosnia & Herzegovina vs Poland live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880275696804_UNL2627_MD4_Bosnia_vs_Poland_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880275696804_UNL2627_MD4_Bosnia_vs_Poland_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9005,
+      "UrlSlug": "uefa-nations-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267698~acl=/*~id=60256630942874113755553421523243~hmac=8923421eab4def824174c13c5f202a7720f2652119b95748d1988d034c90e772",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267698~acl=/*~id=60256630942874113755553421523243~hmac=8923421eab4def824174c13c5f202a7720f2652119b95748d1988d034c90e772"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791224728
+    },
+    {
+      "EntityId": 1090547079,
+      "VideoName": "Montenegro vs Armenia",
+      "CategoryName": "UEFA Nations League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch Montenegro vs Armenia live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827388952953_UNL2627_MD4_MonTenegro_vs_Armenia_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790827388952953_UNL2627_MD4_MonTenegro_vs_Armenia_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9005,
+      "UrlSlug": "uefa-nations-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267673~acl=/*~id=44219288074041850015724279810403~hmac=5cbe93aa1b3f7710bcb50adca834ae8ae7435a07f8c630a71fd7fd7a8cf2d201",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267673~acl=/*~id=44219288074041850015724279810403~hmac=5cbe93aa1b3f7710bcb50adca834ae8ae7435a07f8c630a71fd7fd7a8cf2d201"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791224728
+    },
+    {
+      "EntityId": 1090547100,
+      "VideoName": "Liechtenstein vs Gibraltar",
+      "CategoryName": "UEFA International Friendlies",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 00:25:28",
+      "Description": "Watch Liechtenstein vs Gibraltar live from UEFA International Friendlies. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA International Friendlies online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025850/1791127675920863_UEFA_INT_friendly_MD4_Liechtenstein_vs_Gibraltar_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025850/1791127675920863_UEFA_INT_friendly_MD4_Liechtenstein_vs_Gibraltar_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9640,
+      "UrlSlug": "uefa-international-friendlies-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267716~acl=/*~id=80490423661905190473240037384726~hmac=27481eb09c42950b7fa88f9cdc6e3f623077e81df707a0c6770e16b624533afd",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive0510/ENG/master.m3u8?hdnea=exp=1791267716~acl=/*~id=80490423661905190473240037384726~hmac=27481eb09c42950b7fa88f9cdc6e3f623077e81df707a0c6770e16b624533afd"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791224728
     },
     {
       "EntityId": 1232,
@@ -2506,8 +2667,22 @@
       "Status": "Upcoming",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
       "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "BEIN3 ARABIC HD",
           "url": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
@@ -2539,8 +2714,22 @@
       "Status": "Upcoming",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
       "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "BEIN1 SPORTS-aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
@@ -2661,8 +2850,22 @@
       "Status": "Upcoming",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
       "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "BEIN3 SPORTS-aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
