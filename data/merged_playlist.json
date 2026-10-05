@@ -1,15 +1,85 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:16 PM 05-10-2026",
+    "LastUpdate": "03:17 PM 05-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 53
+    "LiveCount": 2,
+    "UpcomingCount": 55
   },
   "Matches": [
+    {
+      "EntityId": 1,
+      "VideoName": "Malaysia vs Vietnam",
+      "CategoryName": "Football | FIFA ASEAN Cup",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-05 15:00:00",
+      "Description": "Watch Malaysia vs Vietnam — Football | FIFA ASEAN Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6912/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9681,
+      "UrlSlug": "football-fifa-asean-cup",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001791096709-0-0-4f8c0e50857b3babc584aee8a8523045",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001791096709-0-0-4f8c0e50857b3babc584aee8a8523045",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001791096853-0-0-5d8c49bbd0123e369b2044cc08061665",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791102544-0-0-5b8f0d14ff796370fd20942653cb3af1",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Malaysia",
+      "Team2Name": "Vietnam",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6912/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7050/image"
+    },
     {
       "EntityId": 18086,
       "VideoName": "Sri Lanka U19 vs Bangladesh U19",
@@ -378,6 +448,26 @@
       "Team2Name": "Bulgaria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4478/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4716/image"
+    },
+    {
+      "EntityId": 3,
+      "VideoName": "Saudi Arabia vs UAE",
+      "CategoryName": "Football | Arabian Gulf Cup",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-07 00:00:00",
+      "Description": "Watch Saudi Arabia vs UAE — Football | Arabian Gulf Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4834/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9266,
+      "UrlSlug": "football-arabian-gulf-cup",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Saudi Arabia",
+      "Team2Name": "UAE",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4834/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4727/image"
     },
     {
       "EntityId": 1147,
@@ -974,6 +1064,26 @@
       "Team2Name": "England Champions",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VL.png"
+    },
+    {
+      "EntityId": 2,
+      "VideoName": "Indonesia vs Thailand",
+      "CategoryName": "Football | FIFA ASEAN Cup",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-05 19:00:00",
+      "Description": "Watch Indonesia vs Thailand — Football | FIFA ASEAN Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4829/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9681,
+      "UrlSlug": "football-fifa-asean-cup",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Indonesia",
+      "Team2Name": "Thailand",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4829/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4730/image"
     },
     {
       "EntityId": 105,
