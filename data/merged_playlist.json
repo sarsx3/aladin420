@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:55 PM 06-10-2026",
+    "LastUpdate": "11:56 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -4412,8 +4412,33 @@
       "Status": "Upcoming",
       "CategoryId": 9755,
       "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+      "sources": [
+        {
+          "label": "FUBO SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPORTV2 BR-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Switzerland",
       "Team2Name": "North Macedonia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4699/image",
