@@ -371,16 +371,25 @@ def _determine_firebase_status(
 def _firebase_sources(entry: dict) -> list:
     """
     Extract streaming sources from Firebase match entry.
-    Firebase uses 'buttons' (or 'link_live' which is a duplicate) — each
-    button has 'stream_link' (the URL) and 'name' (the label).
+    Firebase has both 'link_live' and 'buttons'. They are NOT pure duplicates
+    (same server name can carry a different signed/token URL), so — exactly
+    like the app's Live tab (_collectRawLinks) — both lists are combined
+    (link_live first, then buttons) and de-duplicated by URL.
+    Each entry has 'stream_link'/'url' (the URL) and 'name' (the label).
     Also includes 'headers' and 'drmScheme'/'drmLicenseUrl' metadata.
     """
     sources = []
     seen_urls = set()
 
-    raw_list = entry.get("buttons") or entry.get("link_live") or []
-    if not isinstance(raw_list, list):
-        raw_list = []
+    # Same order & logic as the Flutter Live tab: link_live + buttons.
+    raw_list = []
+    for key in ("link_live", "buttons"):
+        val = entry.get(key)
+        if isinstance(val, list):
+            raw_list.extend(val)
+        elif isinstance(val, dict):
+            # Firebase gap-array can arrive as a dict
+            raw_list.extend(val.values())
 
     for btn in raw_list:
         if not isinstance(btn, dict):
