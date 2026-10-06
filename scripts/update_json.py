@@ -326,20 +326,32 @@ def _parse_firebase_datetime(match_date: str, match_time: str) -> datetime | Non
     return dt
 
 
+# Live window — MUST stay identical to the app's Live tab
+# (live_matches_tab.dart: LiveMatch._kLiveWindow / _deriveFirebaseStatus).
+# The Live tab treats every Firebase match the same way, for every sport.
+# Here the match goes Live 10 minutes BEFORE the start (matches the app's
+# 10-minute early source-unlock), then stays Live until start + 10h:
+#   now <  start-10min          -> Upcoming
+#   start-10min <= now < start+10h -> Live
+#   now >= start+10h            -> Ended
+# (the old 120 min window marked T20I / ODI / Test matches "Ended" while
+# they were still being played, so Live Events showed "Starting soon").
+FIREBASE_LIVE_WINDOW_MINUTES = 10 * 60
+FIREBASE_EARLY_LIVE_MINUTES = 10
+
+
 def _determine_firebase_status(
     dt_bd: datetime | None,
     has_streams: bool,
 ) -> str:
     """
     Firebase JSON has no explicit Status field.
-    Derive it from match datetime vs now — both in BD time (UTC+6):
-      - If >15 min in future       → "Upcoming"
-      - If within ±120 min window  → "Live"    (live window heuristic)
-      - If more than 120 min past  → "Ended"
+    Derive it from match datetime vs now — both in BD time (UTC+6),
+    using exactly the same rule as the app's Live tab:
+      - More than 10 min before the start  -> "Upcoming"
+      - From 10 min before start until start + 10 hours -> "Live"
+      - 10 hours or more after start       -> "Ended"
     Falls back to "Upcoming" when datetime can't be parsed.
-
-    FIX: previously compared a UTC-shifted value against datetime.utcnow().
-    Now compares BD time directly against now_bd() for consistency.
     """
     if dt_bd is None:
         return "Upcoming"
@@ -348,9 +360,9 @@ def _determine_firebase_status(
     now_bd_naive = now_bd().replace(tzinfo=None)
     diff_minutes = (now_bd_naive - dt_bd).total_seconds() / 60  # positive = past
 
-    if diff_minutes < -15:
+    if diff_minutes < -FIREBASE_EARLY_LIVE_MINUTES:
         return "Upcoming"
-    elif diff_minutes <= 120:
+    elif diff_minutes < FIREBASE_LIVE_WINDOW_MINUTES:
         return "Live"
     else:
         return "Ended"
