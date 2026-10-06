@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:14 AM 07-10-2026",
+    "LastUpdate": "12:15 AM 07-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -4528,6 +4528,18 @@
             "Connection": "keep-alive",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791353115~acl=/*~id=67479486565753309084982259853199~hmac=8d6c6a9a47e0cd937395768be50f6bf2f0b9bc38edbef013997ec53c16c71a8b",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "England",
@@ -4589,6 +4601,18 @@
         {
           "label": "BEIN1 ARABIC HD",
           "url": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791353115~acl=/*~id=67479486565753309084982259853199~hmac=8d6c6a9a47e0cd937395768be50f6bf2f0b9bc38edbef013997ec53c16c71a8b",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
