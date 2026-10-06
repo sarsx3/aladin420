@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:11 PM 06-10-2026",
+    "LastUpdate": "11:12 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 232
+    "LiveCount": 9,
+    "UpcomingCount": 224
   },
   "Matches": [
     {
@@ -122,6 +122,220 @@
       "Team2Name": "Nigeria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4694/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4785/image"
+    },
+    {
+      "EntityId": 1145,
+      "VideoName": "India vs Uruguay",
+      "CategoryName": "Football | Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 20:00:00",
+      "Description": "Watch India vs Uruguay 🔥 — Football | Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4828/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9654,
+      "UrlSlug": "football-friendly-international",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-bangla",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=ErE90FyNObiosH3kcckXow&expires=1791299215&ch=yt7c&s=62c7ac544d4fd85f5301b3a036fafdd0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 2",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=tbtTCb-3jgE7fWmombY8MQ&expires=1791299349&ch=yt8l&s=7d25a94137482052b64a9771c7771bdc",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-tamil",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-telugu",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-kannada",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "dazn Bangla",
+          "url": "https://live.vivo155.com/live/sd-1-4650120.m3u8?txSecret=93d56a4e5a46fe92b66ce6477ccdb287&txTime=6AC509F2",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://player.online909.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low-server",
+          "url": "http://193.47.62.41/hls/VUUUAAAAAA.m3u8?",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "gb - 1",
+          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/ENG/master.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://www.sonyliv.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=zVyi4psFixiv7Lgz3niG0A&expires=1791305049&ch=yt8l&s=98960b2bac7c212d604c81fc7a27fe45",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=0dOdlHy8jTp0GkttaLZPBQ&expires=1791305269&ch=yt7c&s=c3769e2bd00ac7ca8cbe3a38c7299246",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://playerdee.top",
+            "Referer": "https://playerdee.top/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 1",
+          "url": "https://netanjahu.hls.st/t/15c5d5a0053b009f608fab96bad1941d/index.m3u8?",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://iplayer.is",
+            "Referer": "https://iplayer.is/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "India",
+      "Team2Name": "Uruguay",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4725/image"
     },
     {
       "EntityId": 17714,
@@ -1745,26 +1959,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2729/image"
     },
     {
-      "EntityId": 208,
-      "VideoName": "Formula 1 vs Formula 1",
-      "CategoryName": "Motorsport | Formula 1 Singapore GP",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 18:00:00",
-      "Description": "Watch Formula 1 vs Formula 1 — Motorsport | Formula 1 Singapore GP. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/36/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9884,
-      "UrlSlug": "motorsport-formula-1-singapore-gp",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Formula 1",
-      "Team2Name": "Formula 1",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/36/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/36/image"
-    },
-    {
       "EntityId": 1281,
       "VideoName": "Elche vs RC Celta",
       "CategoryName": "Football | LaLiga",
@@ -1943,26 +2137,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 207,
-      "VideoName": "MotoGP vs MotoGP",
-      "CategoryName": "Motorsport | MotoGP Indonesian GP",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 13:00:00",
-      "Description": "Watch MotoGP vs MotoGP — Motorsport | MotoGP Indonesian GP. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/1325/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9563,
-      "UrlSlug": "motorsport-motogp-indonesian-gp",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "MotoGP",
-      "Team2Name": "MotoGP",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/1325/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/1325/image"
     },
     {
       "EntityId": 1301,
@@ -3365,26 +3539,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2676/image"
     },
     {
-      "EntityId": 206,
-      "VideoName": "Formula 1 vs Formula 1",
-      "CategoryName": "Motorsport | Formula 1 Singapore GP - Qualifying",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 19:00:00",
-      "Description": "Watch Formula 1 vs Formula 1 — Motorsport | Formula 1 Singapore GP - Qualifying. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/36/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9711,
-      "UrlSlug": "motorsport-formula-1-singapore-gp-qualifying",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Formula 1",
-      "Team2Name": "Formula 1",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/36/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/36/image"
-    },
-    {
       "EntityId": 1228,
       "VideoName": "Genoa vs Fiorentina",
       "CategoryName": "Football | Serie A",
@@ -3605,26 +3759,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2532/image"
     },
     {
-      "EntityId": 205,
-      "VideoName": "Formula 1 vs Formula 1",
-      "CategoryName": "Motorsport | Formula 1 Singapore GP - Sprint",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 15:00:00",
-      "Description": "Watch Formula 1 vs Formula 1 — Motorsport | Formula 1 Singapore GP - Sprint. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/36/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9071,
-      "UrlSlug": "motorsport-formula-1-singapore-gp-sprint",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Formula 1",
-      "Team2Name": "Formula 1",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/36/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/36/image"
-    },
-    {
       "EntityId": 1244,
       "VideoName": "South Africa vs Australia",
       "CategoryName": "Cricket | SA vs AUS – 1st Test, Day 2",
@@ -3643,26 +3777,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 204,
-      "VideoName": "MotoGP vs MotoGP",
-      "CategoryName": "Motorsport | MotoGP Indonesian GP - Sprint",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 13:00:00",
-      "Description": "Watch MotoGP vs MotoGP — Motorsport | MotoGP Indonesian GP - Sprint. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/1325/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9002,
-      "UrlSlug": "motorsport-motogp-indonesian-gp-sprint",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "MotoGP",
-      "Team2Name": "MotoGP",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/1325/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/1325/image"
     },
     {
       "EntityId": 1243,
@@ -4045,26 +4159,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
     },
     {
-      "EntityId": 203,
-      "VideoName": "Formula 1 vs Formula 1",
-      "CategoryName": "Motorsport | Formula 1 Singapore GP - Sprint Qualifying",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 18:30:00",
-      "Description": "Watch Formula 1 vs Formula 1 — Motorsport | Formula 1 Singapore GP - Sprint Qualifying. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/36/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9917,
-      "UrlSlug": "motorsport-formula-1-singapore-gp-sprint-qualifying",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Formula 1",
-      "Team2Name": "Formula 1",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/36/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/36/image"
-    },
-    {
       "EntityId": 1174,
       "VideoName": "Australia Champions vs South Africa Champions",
       "CategoryName": "Cricket | World Championship of Legends",
@@ -4113,26 +4207,6 @@
       "UrlSlug": "bangladesh-football-league-2026"
     },
     {
-      "EntityId": 202,
-      "VideoName": "Formula 1 vs Formula 1",
-      "CategoryName": "Motorsport | Formula 1 Singapore GP - Practice 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 14:30:00",
-      "Description": "Watch Formula 1 vs Formula 1 — Motorsport | Formula 1 Singapore GP - Practice 1. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/36/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9831,
-      "UrlSlug": "motorsport-formula-1-singapore-gp-practice-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Formula 1",
-      "Team2Name": "Formula 1",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/36/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/36/image"
-    },
-    {
       "EntityId": 17700,
       "VideoName": "South Africa vs Australia - 1st Test",
       "CategoryName": "Australia Tour of South Africa 2026",
@@ -4165,26 +4239,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 201,
-      "VideoName": "MotoGP vs MotoGP",
-      "CategoryName": "Motorsport | MotoGP Indonesian GP - Practice",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 13:00:00",
-      "Description": "Watch MotoGP vs MotoGP — Motorsport | MotoGP Indonesian GP - Practice. Live streaming from Motorsport event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/category/1325/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9870,
-      "UrlSlug": "motorsport-motogp-indonesian-gp-practice",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "MotoGP",
-      "Team2Name": "MotoGP",
-      "Team1Logo": "https://img.sofascore.com/api/v1/category/1325/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/category/1325/image"
     },
     {
       "EntityId": 1172,
@@ -4521,33 +4575,8 @@
       "Status": "Upcoming",
       "CategoryId": 9654,
       "UrlSlug": "football-friendly-international",
-      "stream_url": "https://fastly.live.brightcove.com/6386027187112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjcxODcxMTIifQ.o9bQYbACQ386kDSKbOPBVYlIhCz3WFgEHI3A8Pcw3qg/playlist-hls.m3u8",
-      "sources": [
-        {
-          "label": "on sports-aq",
-          "url": "https://fastly.live.brightcove.com/6386027187112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjcxODcxMTIifQ.o9bQYbACQ386kDSKbOPBVYlIhCz3WFgEHI3A8Pcw3qg/playlist-hls.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://pull.gosh6.app/live/obs_16884889.m3u8?txSecret=0240499bcae506394ffa16acf07c2d9d&txTime=6ac91606",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Algeria",
       "Team2Name": "Niger",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5109",
