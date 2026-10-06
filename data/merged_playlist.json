@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:59 PM 06-10-2026",
+    "LastUpdate": "10:01 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 6,
     "UpcomingCount": 177
   },
   "Matches": [
@@ -29,237 +29,6 @@
       "Team2Name": "Nigeria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4694/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4785/image"
-    },
-    {
-      "EntityId": 17917,
-      "VideoName": "Kazakhstan vs Faroe Islands",
-      "CategoryName": "UEFA Nations League 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-10-06 20:00:00",
-      "Description": "Watch Kazakhstan vs Faroe Islands live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Kazakhstan vs Faroe Islands match will take place on 06-Oct, Tuesday, at 08:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790848184540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790848184540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1120,
-      "UrlSlug": "kazakhstan-vs-faroe islands-unl-live-match",
-      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-    },
-    {
-      "EntityId": 1144,
-      "VideoName": "Kazakhstan vs Faroe Islands",
-      "CategoryName": "Football | UEFA Nations League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-06 20:00:00",
-      "Description": "Watch Kazakhstan vs Faroe Islands — Football | UEFA Nations League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4772/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9755,
-      "UrlSlug": "football-uefa-nations-league",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
-      "sources": [
-        {
-          "label": "sonyliv-aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FOX2 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORTV2 BR-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BEIN2 ARABIC HD",
-          "url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Kazakhstan",
-      "Team2Name": "Faroe Islands",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4772/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4760/image"
-    },
-    {
-      "EntityId": 1145,
-      "VideoName": "India vs Uruguay",
-      "CategoryName": "Football | Friendly International",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-06 20:00:00",
-      "Description": "Watch India vs Uruguay 🔥 — Football | Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4828/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9654,
-      "UrlSlug": "football-friendly-international",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
-      "sources": [
-        {
-          "label": "sonyliv-bangla",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-english",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Global Server - 1",
-          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=zVyi4psFixiv7Lgz3niG0A&expires=1791305049&ch=yt8l&s=98960b2bac7c212d604c81fc7a27fe45",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Origin": "https://playerdee.top",
-            "Referer": "https://playerdee.top/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-tamil",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-telugu",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-kannada",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=0dOdlHy8jTp0GkttaLZPBQ&expires=1791305269&ch=yt7c&s=c3769e2bd00ac7ca8cbe3a38c7299246",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Origin": "https://playerdee.top",
-            "Referer": "https://playerdee.top/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India",
-      "Team2Name": "Uruguay",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4725/image"
     },
     {
       "EntityId": 17714,
@@ -3837,6 +3606,222 @@
       "Team2Name": "Vancouver Whitecaps",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/1333",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8389"
+    },
+    {
+      "EntityId": 1144,
+      "VideoName": "Kazakhstan vs Faroe Islands",
+      "CategoryName": "Football | UEFA Nations League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-06 20:00:00",
+      "Description": "Watch Kazakhstan vs Faroe Islands — Football | UEFA Nations League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4772/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Ended",
+      "CategoryId": 9755,
+      "UrlSlug": "football-uefa-nations-league",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FOX2 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPORTV2 BR-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BEIN2 ARABIC HD",
+          "url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Kazakhstan",
+      "Team2Name": "Faroe Islands",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4772/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4760/image"
+    },
+    {
+      "EntityId": 1145,
+      "VideoName": "India vs Uruguay",
+      "CategoryName": "Football | Friendly International",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-06 20:00:00",
+      "Description": "Watch India vs Uruguay 🔥 — Football | Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4828/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Ended",
+      "CategoryId": 9654,
+      "UrlSlug": "football-friendly-international",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+      "sources": [
+        {
+          "label": "sonyliv-bangla",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-english",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=zVyi4psFixiv7Lgz3niG0A&expires=1791305049&ch=yt8l&s=98960b2bac7c212d604c81fc7a27fe45",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://playerdee.top",
+            "Referer": "https://playerdee.top/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-tamil",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-telugu",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-kannada",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=0dOdlHy8jTp0GkttaLZPBQ&expires=1791305269&ch=yt7c&s=c3769e2bd00ac7ca8cbe3a38c7299246",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://playerdee.top",
+            "Referer": "https://playerdee.top/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "India",
+      "Team2Name": "Uruguay",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4725/image"
     },
     {
       "EntityId": 1143,
