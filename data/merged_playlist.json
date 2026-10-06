@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:23 PM 06-10-2026",
+    "LastUpdate": "07:24 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 181
   },
   "Matches": [
@@ -83,6 +83,29 @@
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    },
+    {
+      "EntityId": 1090547220,
+      "VideoName": "Kazakhstan vs Faroe Islands",
+      "CategoryName": "UEFA Nations League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 19:24:25",
+      "Description": "Watch Kazakhstan vs Faroe Islands live from UEFA Nations League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Nations League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880464463804_UNL2627_MD4_Kazakhstan_vs_Faroe_Islands_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880464463804_UNL2627_MD4_Kazakhstan_vs_Faroe_Islands_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9005,
+      "UrlSlug": "uefa-nations-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791293065
     },
     {
       "EntityId": 1090547205,
