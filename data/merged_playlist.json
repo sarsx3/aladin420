@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:09 PM 06-10-2026",
+    "LastUpdate": "04:10 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 183
+    "LiveCount": 4,
+    "UpcomingCount": 182
   },
   "Matches": [
+    {
+      "EntityId": 1142,
+      "VideoName": "Jordan vs Venezuela",
+      "CategoryName": "Football | Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 16:25:00",
+      "Description": "Watch Jordan vs Venezuela — Football | Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5083",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9654,
+      "UrlSlug": "football-friendly-international",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Jordan",
+      "Team2Name": "Venezuela",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5083",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072"
+    },
     {
       "EntityId": 17656,
       "VideoName": "Dhaka Wanderers Club vs Bashundhara Kings",
@@ -3604,26 +3624,6 @@
       "Team2Name": "South Africa Champions",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VJ.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VN.png"
-    },
-    {
-      "EntityId": 1142,
-      "VideoName": "Jordan vs Venezuela",
-      "CategoryName": "Football | Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-06 16:25:00",
-      "Description": "Watch Jordan vs Venezuela — Football | Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5083",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9654,
-      "UrlSlug": "football-friendly-international",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Jordan",
-      "Team2Name": "Venezuela",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5083",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072"
     }
   ]
 }
