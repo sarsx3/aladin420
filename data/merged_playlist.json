@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 AM 07-10-2026",
+    "LastUpdate": "12:50 AM 07-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 29,
-    "UpcomingCount": 213
+    "LiveCount": 30,
+    "UpcomingCount": 212
   },
   "Matches": [
+    {
+      "EntityId": 1148,
+      "VideoName": "Angola vs Malawi",
+      "CategoryName": "Football | Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-07 01:00:00",
+      "Description": "Watch Angola vs Malawi — Football | Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4692/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9408,
+      "UrlSlug": "football-africa-cup-of-nations-qualification",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Angola",
+      "Team2Name": "Malawi",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4692/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/8043/image"
+    },
     {
       "EntityId": 17918,
       "VideoName": "Croatia vs Spain",
@@ -387,6 +407,19 @@
             "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "low-server",
+          "url": "https://n220.ys.football/online/YF2N93287Q3W_cpv4EpAHA/1791316149/itv1_480.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://stream0.org/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "England",
@@ -505,6 +538,19 @@
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
             "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low-server 3",
+          "url": "https://n220.ys.football/online/t0Jw5gLQfeCkZQrbsem6HA/1791316095/spain_480.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://stream0.org/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -5302,26 +5348,6 @@
       "Team2Name": "Benin",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v16/Competitors/2378",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5098"
-    },
-    {
-      "EntityId": 1148,
-      "VideoName": "Angola vs Malawi",
-      "CategoryName": "Football | Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-07 01:00:00",
-      "Description": "Watch Angola vs Malawi — Football | Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4692/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9408,
-      "UrlSlug": "football-africa-cup-of-nations-qualification",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Angola",
-      "Team2Name": "Malawi",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4692/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/8043/image"
     }
   ]
 }
