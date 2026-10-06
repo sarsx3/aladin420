@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:14 PM 06-10-2026",
+    "LastUpdate": "11:15 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 6,
     "UpcomingCount": 224
   },
   "Matches": [
@@ -26,7 +26,7 @@
       "stream_url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
       "sources": [
         {
-          "label": "Jordan Sport TV-aq",
+          "label": "PrioFyTV-aq",
           "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
           "drmScheme": "widevine",
           "headers": {
@@ -122,118 +122,6 @@
       "Team2Name": "Nigeria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4694/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4785/image"
-    },
-    {
-      "EntityId": 17714,
-      "VideoName": "India vs West indies - 1st T20I",
-      "CategoryName": "West Indies Tour of India 2026",
-      "StageName": "1st T20I",
-      "EventStartDate": "2026-10-06 19:30:00",
-      "Description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791280737540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1791280737540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1124,
-      "UrlSlug": "west-indies-tour-of-india-2026",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
-    },
-    {
-      "EntityId": 1143,
-      "VideoName": "India vs West Indies",
-      "CategoryName": "Cricket | India vs West Indies – 1st T20I",
-      "StageName": "ODI",
-      "EventStartDate": "2026-10-06 19:30:00",
-      "Description": "Watch India vs West Indies 🔥 — Cricket | India vs West Indies – 1st T20I. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187765/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9513,
-      "UrlSlug": "cricket-india-vs-west-indies-1st-t20i",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-      "sources": [
-        {
-          "label": "Tapmad - Aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "TNT1 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow sports-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd?|drmScheme=clearkey&drmLicense=4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd?|drmScheme=clearkey&drmLicense=4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "HOTSTAR HIN (IND)",
-          "url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Referer": "https://www.hotstar.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India",
-      "Team2Name": "West Indies",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
     },
     {
       "EntityId": 1090547205,
