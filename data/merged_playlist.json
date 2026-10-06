@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:14 PM 06-10-2026",
+    "LastUpdate": "09:15 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 179
+    "LiveCount": 10,
+    "UpcomingCount": 178
   },
   "Matches": [
+    {
+      "EntityId": 108,
+      "VideoName": "Pakistan Champions vs West Indies Champions",
+      "CategoryName": "Cricket | World Championship of Legends",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-06 21:30:00",
+      "Description": "Watch Pakistan Champions vs West Indies Champions — Cricket | World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VM.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9019,
+      "UrlSlug": "cricket-world-championship-of-legends",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Pakistan Champions",
+      "Team2Name": "West Indies Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VM.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VO.png"
+    },
     {
       "EntityId": 17917,
       "VideoName": "Kazakhstan vs Faroe Islands",
@@ -3958,26 +3978,6 @@
       "Team2Name": "Nigeria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4694/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4785/image"
-    },
-    {
-      "EntityId": 108,
-      "VideoName": "Pakistan Champions vs West Indies Champions",
-      "CategoryName": "Cricket | World Championship of Legends",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-06 21:30:00",
-      "Description": "Watch Pakistan Champions vs West Indies Champions — Cricket | World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VM.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9019,
-      "UrlSlug": "cricket-world-championship-of-legends",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Pakistan Champions",
-      "Team2Name": "West Indies Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VM.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VO.png"
     }
   ]
 }
