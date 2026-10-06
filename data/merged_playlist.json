@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:14 PM 06-10-2026",
+    "LastUpdate": "08:15 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -161,21 +161,7 @@
         },
         {
           "label": "Global Server - 1",
-          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=ErE90FyNObiosH3kcckXow&expires=1791299215&ch=yt7c&s=62c7ac544d4fd85f5301b3a036fafdd0",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Origin": "https://bhalocast.pro",
-            "Referer": "https://bhalocast.pro/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Global Server - 2",
-          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=tbtTCb-3jgE7fWmombY8MQ&expires=1791299349&ch=yt8l&s=7d25a94137482052b64a9771c7771bdc",
+          "url": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
@@ -226,18 +212,6 @@
         {
           "label": "sonyliv-kannada",
           "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
