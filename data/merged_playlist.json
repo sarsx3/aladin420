@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:27 PM 06-10-2026",
+    "LastUpdate": "10:28 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -23,8 +23,21 @@
       "Status": "Live",
       "CategoryId": 9654,
       "UrlSlug": "football-friendly-international",
-      "stream_url": "https://www.rtmpcdn.com/live/dcbfe02c-5309-40ff-a25e-4595f7e5735b.m3u8",
+      "stream_url": "http://193.47.62.44/hls/kokoko.m3u8?",
       "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.44/hls/kokoko.m3u8?",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "Server - 1",
           "url": "https://www.rtmpcdn.com/live/dcbfe02c-5309-40ff-a25e-4595f7e5735b.m3u8",
@@ -57,8 +70,20 @@
       "Status": "Live",
       "CategoryId": 9654,
       "UrlSlug": "football-friendly-international",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
       "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
         {
           "label": "sonyliv-bangla",
           "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
@@ -72,28 +97,30 @@
           }
         },
         {
-          "label": "sonyliv-english",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+          "label": "Global Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=ErE90FyNObiosH3kcckXow&expires=1791299215&ch=yt7c&s=62c7ac544d4fd85f5301b3a036fafdd0",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
             "Accept-Encoding": "gzip, deflate, br, zstd",
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "Global Server - 1",
-          "url": "https://netanjahu.hls.st/t/15c5d5a0053b009f608fab96bad1941d/index.m3u8?",
+          "label": "Global Server - 2",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=tbtTCb-3jgE7fWmombY8MQ&expires=1791299349&ch=yt8l&s=7d25a94137482052b64a9771c7771bdc",
           "drmScheme": "widevine",
           "headers": {
             "Accept": "*/*",
             "Accept-Encoding": "gzip, deflate, br, zstd",
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
-            "Origin": "https://iplayer.is",
-            "Referer": "https://iplayer.is/",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
@@ -147,6 +174,71 @@
         },
         {
           "label": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "dazn Bangla",
+          "url": "https://live.vivo155.com/live/sd-1-4650120.m3u8?txSecret=93d56a4e5a46fe92b66ce6477ccdb287&txTime=6AC509F2",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://player.online909.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low-server",
+          "url": "http://193.47.62.41/hls/VUUUAAAAAA.m3u8?",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "gb - 1",
+          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/ENG/master.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Referer": "https://www.sonyliv.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=zVyi4psFixiv7Lgz3niG0A&expires=1791305049&ch=yt8l&s=98960b2bac7c212d604c81fc7a27fe45",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
           "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=0dOdlHy8jTp0GkttaLZPBQ&expires=1791305269&ch=yt7c&s=c3769e2bd00ac7ca8cbe3a38c7299246",
           "drmScheme": "widevine",
           "headers": {
@@ -156,6 +248,20 @@
             "Connection": "keep-alive",
             "Origin": "https://playerdee.top",
             "Referer": "https://playerdee.top/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 1",
+          "url": "https://netanjahu.hls.st/t/15c5d5a0053b009f608fab96bad1941d/index.m3u8?",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Origin": "https://iplayer.is",
+            "Referer": "https://iplayer.is/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -198,21 +304,34 @@
         {
           "label": "Tapmad - Aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "drmScheme": "widevine",
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
           "headers": {
             "Accept": "*/*",
             "Accept-Encoding": "gzip, deflate, br, zstd",
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
           "label": "TNT1 SPORTS-aq",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "drmScheme": "widevine",
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow sports-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
           "headers": {
             "Accept": "*/*",
             "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -255,18 +374,6 @@
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
             "Referer": "https://www.hotstar.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow sports-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
