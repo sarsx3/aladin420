@@ -1,15 +1,84 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 PM 07-10-2026",
+    "LastUpdate": "09:21 PM 07-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 208
+    "LiveCount": 2,
+    "UpcomingCount": 207
   },
   "Matches": [
+    {
+      "EntityId": 1163,
+      "VideoName": "England Champions vs West Indies Champions",
+      "CategoryName": "Cricket | World Championship of Legends",
+      "StageName": "ODI",
+      "EventStartDate": "2026-10-07 21:30:00",
+      "Description": "Watch England Champions vs West Indies Champions — Cricket | World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VL.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9019,
+      "UrlSlug": "cricket-world-championship-of-legends",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "star sports",
+          "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "England Champions",
+      "Team2Name": "West Indies Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VL.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VO.png"
+    },
     {
       "EntityId": 1090547324,
       "VideoName": "Ayodhya Garjan vs Garvi Gujjus",
@@ -4086,75 +4155,6 @@
       "Team2Name": "Corinthians",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1966/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1957/image"
-    },
-    {
-      "EntityId": 1163,
-      "VideoName": "England Champions vs West Indies Champions",
-      "CategoryName": "Cricket | World Championship of Legends",
-      "StageName": "ODI",
-      "EventStartDate": "2026-10-07 21:30:00",
-      "Description": "Watch England Champions vs West Indies Champions — Cricket | World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VL.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9019,
-      "UrlSlug": "cricket-world-championship-of-legends",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "star sports",
-          "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "England Champions",
-      "Team2Name": "West Indies Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VL.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VO.png"
     }
   ]
 }
