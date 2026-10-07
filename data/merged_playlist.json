@@ -1,15 +1,93 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 AM 08-10-2026",
+    "LastUpdate": "04:20 AM 08-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 278
+    "LiveCount": 3,
+    "UpcomingCount": 276
   },
   "Matches": [
+    {
+      "EntityId": 1164,
+      "VideoName": "Remo vs Gremio",
+      "CategoryName": "Football | Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-08 04:30:00",
+      "Description": "Watch Remo vs Gremio — Football | Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2012/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9656,
+      "UrlSlug": "football-brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+      "sources": [
+        {
+          "label": "PREMIERER4-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Remo",
+      "Team2Name": "Gremio",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
+    },
+    {
+      "EntityId": 1165,
+      "VideoName": "Internacional vs Corinthians",
+      "CategoryName": "Football | Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-08 04:30:00",
+      "Description": "Watch Internacional vs Corinthians — Football | Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1966/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9656,
+      "UrlSlug": "football-brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+      "sources": [
+        {
+          "label": "PREMIERE.. BR-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SportDigital Fussball-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Internacional",
+      "Team2Name": "Corinthians",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1966/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1957/image"
+    },
     {
       "EntityId": 1163,
       "VideoName": "England Champions vs West Indies Champions",
@@ -5520,84 +5598,6 @@
       "Team2Name": "Vasco",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1958/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1974/image"
-    },
-    {
-      "EntityId": 1164,
-      "VideoName": "Remo vs Gremio",
-      "CategoryName": "Football | Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-08 04:30:00",
-      "Description": "Watch Remo vs Gremio — Football | Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2012/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9656,
-      "UrlSlug": "football-brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-      "sources": [
-        {
-          "label": "PREMIERER4-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Remo",
-      "Team2Name": "Gremio",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
-    },
-    {
-      "EntityId": 1165,
-      "VideoName": "Internacional vs Corinthians",
-      "CategoryName": "Football | Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-08 04:30:00",
-      "Description": "Watch Internacional vs Corinthians — Football | Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1966/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9656,
-      "UrlSlug": "football-brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-      "sources": [
-        {
-          "label": "PREMIERE.. BR-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SportDigital Fussball-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Internacional",
-      "Team2Name": "Corinthians",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1966/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1957/image"
     }
   ]
 }
