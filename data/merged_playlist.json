@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:49 AM 09-10-2026",
+    "LastUpdate": "04:50 AM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 275
+    "LiveCount": 2,
+    "UpcomingCount": 274
   },
   "Matches": [
+    {
+      "EntityId": 1169,
+      "VideoName": "Athletico-PR vs Atl?tico Mineiro",
+      "CategoryName": "Brasileir?o S?rie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 05:00:00",
+      "Description": "Watch Athletico-PR vs Atl?tico Mineiro — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1967/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9293,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+      "sources": [
+        {
+          "label": "PREMIERER3-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Athletico-PR",
+      "Team2Name": "Atl?tico Mineiro",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1967/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1977/image"
+    },
     {
       "EntityId": 1168,
       "VideoName": "Santos vs Flamengo",
@@ -5464,34 +5492,6 @@
       "Team2Name": "Coritiba",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1961/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1982/image"
-    },
-    {
-      "EntityId": 1169,
-      "VideoName": "Athletico-PR vs Atl?tico Mineiro",
-      "CategoryName": "Brasileir?o S?rie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 05:00:00",
-      "Description": "Watch Athletico-PR vs Atl?tico Mineiro — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1967/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9293,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-      "sources": [
-        {
-          "label": "PREMIERER3-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Athletico-PR",
-      "Team2Name": "Atl?tico Mineiro",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1967/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1977/image"
     }
   ]
 }
