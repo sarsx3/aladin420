@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Auto-updater: fetches Tapmad + SonyLiv + Firebase live match data and merges
+Auto-updater: fetches Tapmad + SonyLiv + Events (events.json) live match data and merges
 them into a SINGLE output JSON file that follows Tapmad's schema.
 
 How it works
@@ -9,9 +9,10 @@ How it works
    shape (HeaderInfo / Stats / Matches[...]) is never changed.
 2. SONYLIV_URL is fetched and every entry in its "live_matches" list is
    converted (reshaped) into a Tapmad-style "Matches" entry.
-3. FIREBASE_URL is fetched — it's a flat dict {id: matchObject, ...}. Each
-   entry with visibility="public" is converted into Tapmad schema, filtering
-   out already-ended matches (no stream + past time). "trash" key is skipped.
+3. EVENTS_URL (events.json on GitHub) is fetched — {"events": [matchObject, ...]}.
+   Each entry with visibility="public" is converted into Tapmad schema,
+   filtering out already-ended matches (no stream + past time). The output
+   shape is IDENTICAL to what the old Firebase source produced.
 4. All three match lists are merged into one list.
 5. The merged list is sorted so the newest matches (by EventStartDate) sit
    at the top, with "Live" matches given priority over "Upcoming" ones.
@@ -31,9 +32,7 @@ Timezone rule (IMPORTANT):
 - Therefore ALL sources must store EventStartDate in BD time (UTC+6).
   * Tapmad  → already in BD time ✅ (no change needed)
   * SonyLiv → was stored as UTC, now converted to BD time (+6 h) ✅
-  * Firebase → matchDate/matchTime are BD time; previously subtracted
-               FIREBASE_TZ_OFFSET (wrongly converting to UTC). Now stored
-               as-is in BD time ✅
+  * Events   → date/time are BD time; stored as-is in BD time ✅
 """
 
 import hashlib
@@ -55,10 +54,10 @@ SONYLIV_URL = (
     "https://raw.githubusercontent.com/srhady/SonyLiv/"
     "refs/heads/main/sonyliv_playlist.json"
 )
-# Firebase Realtime Database — flat dict of match objects
-FIREBASE_URL = (
-    "https://priofy-6b9b4-default-rtdb.firebaseio.com/"
-    "sports_events.json?auth=2gEYXaFECMKJNDrGUdv6ZhJH4ceHiokhHNrpePXF"
+# Events source (replaces Firebase) — {"events": [match, ...]}
+EVENTS_URL = (
+    "https://raw.githubusercontent.com/sarsx3/aladin450/"
+    "refs/heads/main/events.json"
 )
 
 # Bangladesh timezone (UTC+6) — used for ALL sources so the Flutter app
@@ -368,100 +367,112 @@ def _determine_firebase_status(
         return "Ended"
 
 
+def _split_league(raw: str):
+    """
+    events.json packs sport + league into one string: "Football | LaLiga".
+    The old Firebase feed had them separate (sportCategory / league), so split
+    on the first '|' to get exactly the same two values back.
+    Returns (sport_category, league).
+    """
+    raw = (raw or "").strip()
+    if "|" in raw:
+        sport, league = raw.split("|", 1)
+        return sport.strip(), league.strip()
+    return "", raw
+
+
 def _firebase_sources(entry: dict) -> list:
     """
-    Extract streaming sources from Firebase match entry.
-    Firebase has both 'link_live' and 'buttons'. They are NOT pure duplicates
-    (same server name can carry a different signed/token URL), so — exactly
-    like the app's Live tab (_collectRawLinks) — both lists are combined
-    (link_live first, then buttons) and de-duplicated by URL.
-    Each entry has 'stream_link'/'url' (the URL) and 'name' (the label).
-    Also includes 'headers' and 'drmScheme'/'drmLicenseUrl' metadata.
+    Extract streaming sources from an events.json match entry.
+    streams[] -> [{"label", "url", ["drmScheme"], ["headers"]}], de-duplicated
+    by URL, same output shape as before.
+      name      -> label  (fallback "Server N")
+      url       -> url    (DRM '|drmScheme=...&drmLicense=...' suffix kept as-is)
+      drm       -> drmScheme (only when non-empty)
+      referer   -> headers["Referer"]     (only when non-empty)
+      userAgent -> headers["User-Agent"]  (only when non-empty)
     """
     sources = []
     seen_urls = set()
 
-    # Same order & logic as the Flutter Live tab: link_live + buttons.
     raw_list = []
-    for key in ("link_live", "buttons"):
-        val = entry.get(key)
-        if isinstance(val, list):
-            raw_list.extend(val)
-        elif isinstance(val, dict):
-            # Firebase gap-array can arrive as a dict
-            raw_list.extend(val.values())
+    val = entry.get("streams")
+    if isinstance(val, list):
+        raw_list.extend(val)
+    elif isinstance(val, dict):
+        raw_list.extend(val.values())
 
     for btn in raw_list:
         if not isinstance(btn, dict):
             continue
-        url = (btn.get("stream_link") or btn.get("url") or "").strip()
+        url = (btn.get("url") or btn.get("stream_link") or "").strip()
         if not url or url in seen_urls:
             continue
         seen_urls.add(url)
 
-        label = (btn.get("display_name") or btn.get("name") or "").strip()
+        label = (btn.get("name") or btn.get("display_name") or "").strip()
         if not label:
             label = f"Server {len(sources) + 1}"
 
         source_entry = {"label": label, "url": url}
 
-        # Pass along DRM and headers metadata — the Flutter app's
-        # _extractSources already ignores unknown keys gracefully.
-        drm_scheme = (btn.get("drmScheme") or "").strip()
+        drm_scheme = (btn.get("drm") or btn.get("drmScheme") or "").strip()
         drm_license = (btn.get("drmLicenseUrl") or "").strip()
         if drm_scheme:
             source_entry["drmScheme"] = drm_scheme
         if drm_license:
             source_entry["drmLicenseUrl"] = drm_license
 
-        headers = btn.get("headers")
-        if isinstance(headers, dict):
-            # Only include non-empty header values
-            filtered_headers = {k: v for k, v in headers.items() if v}
-            if filtered_headers:
-                source_entry["headers"] = filtered_headers
+        headers = {}
+        referer = (btn.get("referer") or "").strip()
+        user_agent = (btn.get("userAgent") or "").strip()
+        if referer:
+            headers["Referer"] = referer
+        if user_agent:
+            headers["User-Agent"] = user_agent
+        if headers:
+            source_entry["headers"] = headers
 
         sources.append(source_entry)
 
     return sources
 
 
-def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
+def convert_firebase_to_tapmad_schema(events_data) -> list:
     """
-    Convert Firebase sports_events flat dict into Tapmad-style Matches[].
+    Convert events.json {"events": [...]} into Tapmad-style Matches[].
+    (Function name kept; output is identical to the old Firebase conversion.)
 
     Field mapping:
-      firebase.id          -> EntityId
-      team1 + " vs " + team2 -> VideoName  (or 'name' field if present)
-      league               -> CategoryName
-      matchDate+matchTime  -> EventStartDate (BD time, stored as-is)
-      sportCategory        -> part of Description
-      logo1                -> ThumbnailStandard + Team1Logo (ThumbnailTV left empty)
+      id                   -> EntityId
+      team1 + " vs " + team2 -> VideoName
+      league (right of '|') -> CategoryName
+      league (left of '|')  -> sport category (used in Description)
+      date + time          -> EventStartDate (BD time, stored as-is)
+      logo1                -> ThumbnailStandard + Team1Logo (ThumbnailTV empty)
       logo2                -> Team2Logo
-      team1                -> Team1Name  (also used in VideoName)
-      team2                -> Team2Name  (also used in VideoName)
-      buttons[].stream_link-> sources list
-      matchFormat          -> StageName (e.g. "ODI") or derived from status
-      hotMatch/is_hot      -> priority hint stored in extra Description
-      leagueLogo           -> UrlSlug fallback image (unused in schema but
-                              stored in Description for reference)
-      visibility="public"  -> included; "unpublic" -> skipped
-      key="trash"          -> always skipped
+      streams[]            -> sources list
+      isHot                -> 🔥 tag in Description
+      visibility="public"  -> included; anything else skipped
     """
+    if isinstance(events_data, dict):
+        entries = events_data.get("events") or []
+    elif isinstance(events_data, list):
+        entries = events_data
+    else:
+        entries = []
+
     converted = []
 
-    for key, entry in firebase_data.items():
-        # Skip the trash container and any non-dict values
-        if key == "trash" or not isinstance(entry, dict):
+    for idx, entry in enumerate(entries):
+        if not isinstance(entry, dict):
             continue
 
-        # Only include publicly visible matches
         visibility = (entry.get("visibility") or "").strip().lower()
         if visibility != "public":
             continue
 
-        # --- Core fields ---
-        raw_id = entry.get("id", key)
+        raw_id = entry.get("id", idx)
         try:
             entity_id = int(raw_id)
         except (TypeError, ValueError):
@@ -469,7 +480,6 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
 
         team1 = (entry.get("team1") or "").strip()
         team2 = (entry.get("team2") or "").strip()
-        # Use 'name' if explicitly set, else build "Team1 vs Team2"
         explicit_name = (entry.get("name") or "").strip()
         if explicit_name:
             video_name = explicit_name
@@ -482,16 +492,14 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
         else:
             continue  # No usable name — skip
 
-        league = (entry.get("league") or "").strip()
-        sport_category = (entry.get("sportCategory") or "").strip()
+        sport_category, league = _split_league(entry.get("league"))
         match_format = (entry.get("matchFormat") or "").strip()
         logo1 = (entry.get("logo1") or "").strip()
         logo2 = (entry.get("logo2") or "").strip()
 
         # --- DateTime (BD time, stored as naive string) ---
-        match_date = (entry.get("matchDate") or "").strip()
-        match_time = (entry.get("matchTime") or "").strip()
-        # FIX: dt_bd is now raw BD time (no UTC subtraction).
+        match_date = (entry.get("date") or entry.get("matchDate") or "").strip()
+        match_time = (entry.get("time") or entry.get("matchTime") or "").strip()
         dt_bd = _parse_firebase_datetime(match_date, match_time)
 
         if dt_bd is not None:
@@ -512,21 +520,19 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
 
         # --- StageName ---
         if match_format:
-            stage_name = match_format          # e.g. "ODI", "T20"
+            stage_name = match_format
         elif status == "Live":
             stage_name = "Live"
         else:
             stage_name = "Upcoming"
 
-        # --- CategoryId ---
         category_id = stable_category_id(league or sport_category or "sports")
 
-        # --- UrlSlug ---
         slug_base = league or sport_category or video_name
         url_slug = slugify(slug_base) or "live-match"
 
-        # --- Description ---
-        hot = entry.get("hotMatch") == "yes" or entry.get("is_hot") is True
+        hot = (entry.get("isHot") is True or entry.get("hotMatch") == "yes"
+               or entry.get("is_hot") is True)
         hot_tag = " 🔥" if hot else ""
         description = (
             f"Watch {video_name}{hot_tag} — {league}. "
@@ -534,7 +540,6 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
             f"Stream via app, web, or smart TV."
         )
 
-        # --- Primary stream_url (first source, for backward compat) ---
         primary_stream = sources[0]["url"] if sources else ""
 
         converted.append({
@@ -545,18 +550,13 @@ def convert_firebase_to_tapmad_schema(firebase_data: dict) -> list:
             "EventStartDate": event_start,
             "Description": description,
             "ThumbnailStandard": logo1,
-            "ThumbnailTV": "",          # Firebase has no TV thumbnail
+            "ThumbnailTV": "",          # no TV thumbnail in this feed
             "IsFreeToWatch": False,
             "Status": status,
             "CategoryId": category_id,
             "UrlSlug": url_slug,
             "stream_url": primary_stream,
-            # Multi-source list — picked up by _extractSources in the
-            # Flutter live_events_service.dart (it checks 'sources' key)
             "sources": sources,
-            # Team details — extra fields beyond the core Tapmad schema.
-            # Stored here so the Flutter app can read them from Channel.extra
-            # via _channelFromMatch (any unknown key lands in extra map as-is).
             "Team1Name": team1,
             "Team2Name": team2,
             "Team1Logo": logo1,
@@ -636,14 +636,14 @@ def main() -> int:
               file=sys.stderr)
         any_failed = True
 
-    # ── Source 3: Firebase ───────────────────────────────────────────────
+    # ── Source 3: events.json (replaces Firebase) ────────────────────────
     try:
-        firebase_data = fetch_json(FIREBASE_URL)
+        firebase_data = fetch_json(EVENTS_URL)
         firebase_matches = convert_firebase_to_tapmad_schema(firebase_data)
-        print(f"[OK] Firebase: {len(firebase_matches)} matches converted "
+        print(f"[OK] Events: {len(firebase_matches)} matches converted "
               f"(public, non-ended)")
     except Exception as e:
-        print(f"[ERROR] could not fetch/convert Firebase source: {e}", file=sys.stderr)
+        print(f"[ERROR] could not fetch/convert Events source: {e}", file=sys.stderr)
         any_failed = True
 
     if tapmad_data is None:
