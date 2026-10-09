@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:50 PM 09-10-2026",
+    "LastUpdate": "07:51 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
+    "LiveCount": 12,
     "UpcomingCount": 266
   },
   "Matches": [
+    {
+      "EntityId": 1090547533,
+      "VideoName": "Kakatiya Knights vs Chola Chiefs",
+      "CategoryName": "Archery Premier League 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 19:51:16",
+      "Description": "Watch Kakatiya Knights vs Chola Chiefs live from Archery Premier League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Archery Premier League 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9968,
+      "UrlSlug": "archery-premier-league-2026-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/master.m3u8?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/master.m3u8?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791553876
+    },
     {
       "EntityId": 17092,
       "VideoName": "Al Kholood vs Al Qadsiah",
