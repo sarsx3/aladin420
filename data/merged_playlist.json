@@ -1,15 +1,51 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:19 PM 09-10-2026",
+    "LastUpdate": "01:20 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 270
+    "LiveCount": 5,
+    "UpcomingCount": 269
   },
   "Matches": [
+    {
+      "EntityId": 1173,
+      "VideoName": "South Africa vs Australia",
+      "CategoryName": "International Test Series",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 13:30:00",
+      "Description": "Watch South Africa vs Australia — International Test Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9711,
+      "UrlSlug": "international-test-series",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SKY SPORTS-aq",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "South Africa",
+      "Team2Name": "Australia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
+    },
     {
       "EntityId": 18089,
       "VideoName": "Pakistan U19 vs Sri Lanka U19",
@@ -5419,42 +5455,6 @@
       "Status": "Upcoming",
       "CategoryId": 1038,
       "UrlSlug": "australia-tour-of-south-africa-2026"
-    },
-    {
-      "EntityId": 1173,
-      "VideoName": "South Africa vs Australia",
-      "CategoryName": "International Test Series",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 13:30:00",
-      "Description": "Watch South Africa vs Australia — International Test Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9711,
-      "UrlSlug": "international-test-series",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SKY SPORTS-aq",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "South Africa",
-      "Team2Name": "Australia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     }
   ]
 }
