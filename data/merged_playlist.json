@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 AM 10-10-2026",
+    "LastUpdate": "12:35 AM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 333
+    "LiveCount": 10,
+    "UpcomingCount": 332
   },
   "Matches": [
     {
@@ -62,6 +62,26 @@
       "Status": "Live",
       "UrlSlug": "lens-vs-ol-ligue-one-live-match",
       "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+    },
+    {
+      "EntityId": 1216,
+      "VideoName": "Lens vs Olympique Lyonnais",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 00:45:00",
+      "Description": "Watch Lens vs Olympique Lyonnais — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1648/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lens",
+      "Team2Name": "Olympique Lyonnais",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
     },
     {
       "EntityId": 1218,
@@ -6666,26 +6686,6 @@
       "Team2Name": "Espanyol",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2830/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2814/image"
-    },
-    {
-      "EntityId": 1216,
-      "VideoName": "Lens vs Olympique Lyonnais",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 00:45:00",
-      "Description": "Watch Lens vs Olympique Lyonnais — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1648/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lens",
-      "Team2Name": "Olympique Lyonnais",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
     }
   ]
 }
