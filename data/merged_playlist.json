@@ -1,15 +1,71 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:19 PM 09-10-2026",
+    "LastUpdate": "10:20 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 342
+    "LiveCount": 13,
+    "UpcomingCount": 340
   },
   "Matches": [
+    {
+      "EntityId": 1180,
+      "VideoName": "Braunschweig vs Holstein Kiel",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 22:30:00",
+      "Description": "Watch Braunschweig vs Holstein Kiel — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2557/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "sources": [
+        {
+          "label": "BEIN SPORTS",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Braunschweig",
+      "Team2Name": "Holstein Kiel",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2557/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2573/image"
+    },
+    {
+      "EntityId": 1181,
+      "VideoName": "FC Heidenheim vs FC Kaiserslautern",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 22:30:00",
+      "Description": "Watch FC Heidenheim vs FC Kaiserslautern — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5885/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "sources": [
+        {
+          "label": "BeIN2 SPORTS",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "FC Heidenheim",
+      "Team2Name": "FC Kaiserslautern",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/5885/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2675/image"
+    },
     {
       "EntityId": 1179,
       "VideoName": "Bangladesh Champions vs West Indies Champions",
@@ -6875,62 +6931,6 @@
       "Team2Name": "Sarmiento Junin",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/36836/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/42338/image"
-    },
-    {
-      "EntityId": 1180,
-      "VideoName": "Braunschweig vs Holstein Kiel",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 22:30:00",
-      "Description": "Watch Braunschweig vs Holstein Kiel — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2557/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "sources": [
-        {
-          "label": "BEIN SPORTS",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Braunschweig",
-      "Team2Name": "Holstein Kiel",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2557/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2573/image"
-    },
-    {
-      "EntityId": 1181,
-      "VideoName": "FC Heidenheim vs FC Kaiserslautern",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 22:30:00",
-      "Description": "Watch FC Heidenheim vs FC Kaiserslautern — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5885/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "sources": [
-        {
-          "label": "BeIN2 SPORTS",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "FC Heidenheim",
-      "Team2Name": "FC Kaiserslautern",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/5885/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2675/image"
     }
   ]
 }
