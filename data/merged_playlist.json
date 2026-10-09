@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:51 AM 10-10-2026",
+    "LastUpdate": "01:52 AM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 328
+    "LiveCount": 10,
+    "UpcomingCount": 327
   },
   "Matches": [
     {
@@ -380,55 +380,6 @@
       "Team2Name": "Diriyah",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/23400/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/853574/image"
-    },
-    {
-      "EntityId": 1179,
-      "VideoName": "Bangladesh Champions vs West Indies Champions",
-      "CategoryName": "World Championship of Legends",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-09 21:30:00",
-      "Description": "Watch Bangladesh Champions vs West Indies Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1L6.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9369,
-      "UrlSlug": "world-championship-of-legends",
-      "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
-      "sources": [
-        {
-          "label": "t sports-hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode-aq",
-          "url": "https://live.kaizokutv.tech/prox/fan2-prox.php?url=https%3A%2F%2Fdai-fancode.pages.dev%2Fmumbai%2F4249227_english_hls_290b2baf07538_1ta-di_h264%2Findex.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/itsuxjcvc3/out/v1/7652799de8394e77818b1f2015d98dd2/cenc.mpd?|drmScheme=clearkey&drmLicense=0c738e45889502a8a47674830bf844ff:50b7002a7f3f2a323d896d738777acf0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh Champions",
-      "Team2Name": "West Indies Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VO.png"
     },
     {
       "EntityId": 18262,
@@ -6676,26 +6627,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 1186,
-      "VideoName": "Union Santa Fe vs Defensa Y Justicia",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 06:45:00",
-      "Description": "Watch Union Santa Fe vs Defensa Y Justicia — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3204/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Union Santa Fe",
-      "Team2Name": "Defensa Y Justicia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3204/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/36839/image"
     },
     {
       "EntityId": 1185,
