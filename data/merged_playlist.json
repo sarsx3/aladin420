@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 PM 09-10-2026",
+    "LastUpdate": "05:20 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 269
+    "LiveCount": 6,
+    "UpcomingCount": 268
   },
   "Matches": [
     {
@@ -24,6 +24,26 @@
       "CategoryId": null,
       "UrlSlug": "bangladesh-football-league-2026",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+      "EntityId": 1174,
+      "VideoName": "Australia Champions vs South Africa Champions",
+      "CategoryName": "World Championship of Legends",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 17:30:00",
+      "Description": "Watch Australia Champions vs South Africa Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VK.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9369,
+      "UrlSlug": "world-championship-of-legends",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Australia Champions",
+      "Team2Name": "South Africa Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VK.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VN.png"
     },
     {
       "EntityId": 17700,
@@ -5479,26 +5499,6 @@
       "Status": "Upcoming",
       "CategoryId": 1105,
       "UrlSlug": "bangladesh-football-league-2026"
-    },
-    {
-      "EntityId": 1174,
-      "VideoName": "Australia Champions vs South Africa Champions",
-      "CategoryName": "World Championship of Legends",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 17:30:00",
-      "Description": "Watch Australia Champions vs South Africa Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VK.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9369,
-      "UrlSlug": "world-championship-of-legends",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Australia Champions",
-      "Team2Name": "South Africa Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VK.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VN.png"
     }
   ]
 }
