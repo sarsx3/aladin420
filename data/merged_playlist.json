@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 PM 09-10-2026",
+    "LastUpdate": "09:20 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 264
+    "LiveCount": 12,
+    "UpcomingCount": 263
   },
   "Matches": [
+    {
+      "EntityId": 1179,
+      "VideoName": "Bangladesh Champions vs West Indies Champions",
+      "CategoryName": "World Championship of Legends",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 21:30:00",
+      "Description": "Watch Bangladesh Champions vs West Indies Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1L6.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9369,
+      "UrlSlug": "world-championship-of-legends",
+      "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "sources": [
+        {
+          "label": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh Champions",
+      "Team2Name": "West Indies Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VO.png"
+    },
     {
       "EntityId": 17093,
       "VideoName": "Al Fateh vs Al-Ahli",
@@ -5449,34 +5477,6 @@
       "Team2Name": "FC Kaiserslautern",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/5885/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2675/image"
-    },
-    {
-      "EntityId": 1179,
-      "VideoName": "Bangladesh Champions vs West Indies Champions",
-      "CategoryName": "World Championship of Legends",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 21:30:00",
-      "Description": "Watch Bangladesh Champions vs West Indies Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1L6.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9369,
-      "UrlSlug": "world-championship-of-legends",
-      "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "sources": [
-        {
-          "label": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh Champions",
-      "Team2Name": "West Indies Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VO.png"
     },
     {
       "EntityId": 17093,
