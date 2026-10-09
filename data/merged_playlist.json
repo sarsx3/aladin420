@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 09-10-2026",
+    "LastUpdate": "11:50 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 337
+    "LiveCount": 7,
+    "UpcomingCount": 336
   },
   "Matches": [
     {
@@ -44,6 +44,56 @@
       "Status": "Live",
       "UrlSlug": "saudi-pro-league--al-nassr-vs-diriyah-live",
       "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+    },
+    {
+      "EntityId": 1233,
+      "VideoName": "Al-Nassr vs Diriyah",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 00:00:00",
+      "Description": "Watch Al-Nassr vs Diriyah — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/23400/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FOX DEPORTES-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SporTV BR-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FOX SOCCER PLUS HD",
+          "url": "https://tmaxapp.site/foxsoccerplus.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al-Nassr",
+      "Team2Name": "Diriyah",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/23400/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/853574/image"
     },
     {
       "EntityId": 1180,
@@ -6630,56 +6680,6 @@
       "Team2Name": "SV Werder Bremen",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2673/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2534/image"
-    },
-    {
-      "EntityId": 1233,
-      "VideoName": "Al-Nassr vs Diriyah",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 00:00:00",
-      "Description": "Watch Al-Nassr vs Diriyah — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/23400/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FOX DEPORTES-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SporTV BR-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FOX SOCCER PLUS HD",
-          "url": "https://tmaxapp.site/foxsoccerplus.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al-Nassr",
-      "Team2Name": "Diriyah",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/23400/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/853574/image"
     }
   ]
 }
