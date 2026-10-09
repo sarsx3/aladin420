@@ -1,15 +1,78 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:19 AM 09-10-2026",
+    "LastUpdate": "06:20 AM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 274
+    "LiveCount": 4,
+    "UpcomingCount": 272
   },
   "Matches": [
+    {
+      "EntityId": 1170,
+      "VideoName": "Palmeiras vs Bahia",
+      "CategoryName": "Brasileir?o S?rie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 06:30:00",
+      "Description": "Watch Palmeiras vs Bahia — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1963/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9293,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PREMIERE2 BR-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Palmeiras",
+      "Team2Name": "Bahia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1963/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1955/image"
+    },
+    {
+      "EntityId": 1171,
+      "VideoName": "Fluminense vs Coritiba",
+      "CategoryName": "Brasileir?o S?rie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-09 06:30:00",
+      "Description": "Watch Fluminense vs Coritiba — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1961/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9293,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+      "sources": [
+        {
+          "label": "PREMIERER-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Fluminense",
+      "Team2Name": "Coritiba",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1961/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1982/image"
+    },
     {
       "EntityId": 1169,
       "VideoName": "Athletico-PR vs Atl?tico Mineiro",
@@ -5429,69 +5492,6 @@
       "Team2Name": "Bangladesh Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213117/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187809/image"
-    },
-    {
-      "EntityId": 1170,
-      "VideoName": "Palmeiras vs Bahia",
-      "CategoryName": "Brasileir?o S?rie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 06:30:00",
-      "Description": "Watch Palmeiras vs Bahia — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1963/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9293,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "sources": [
-        {
-          "label": "PREMIERE2 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PREMIERE2 BR-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Palmeiras",
-      "Team2Name": "Bahia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1963/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1955/image"
-    },
-    {
-      "EntityId": 1171,
-      "VideoName": "Fluminense vs Coritiba",
-      "CategoryName": "Brasileir?o S?rie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-09 06:30:00",
-      "Description": "Watch Fluminense vs Coritiba — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1961/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9293,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-      "sources": [
-        {
-          "label": "PREMIERER-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Fluminense",
-      "Team2Name": "Coritiba",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1961/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1982/image"
     }
   ]
 }
