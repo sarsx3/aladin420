@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:19 AM 10-10-2026",
+    "LastUpdate": "12:20 AM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 335
+    "LiveCount": 9,
+    "UpcomingCount": 333
   },
   "Matches": [
     {
@@ -28,6 +28,23 @@
       "UrlSlug": "bangladesh-football-league-2026"
     },
     {
+      "EntityId": 18265,
+      "VideoName": "Malaga vs Espanyol",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-10 01:00:00",
+      "Description": "The 68th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga  vs Espanyol live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925650324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909256501020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 827,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "laliga--malaga--vs-espanyol-live"
+    },
+    {
       "EntityId": 18413,
       "VideoName": "Lens vs OL",
       "CategoryName": "French Ligue 1 2026/27",
@@ -43,6 +60,48 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "lens-vs-ol-ligue-one-live-match"
+    },
+    {
+      "EntityId": 1218,
+      "VideoName": "Dortmund vs SV Werder Bremen",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 00:30:00",
+      "Description": "Watch Dortmund vs SV Werder Bremen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2673/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "sources": [
+        {
+          "label": "BEIN1 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Caz?TV-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ESPN3 ARGENTINa-aq",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd?|drmScheme=clearkey&drmLicense=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Dortmund",
+      "Team2Name": "SV Werder Bremen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2673/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2534/image"
     },
     {
       "EntityId": 17094,
@@ -6559,23 +6618,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3001/image"
     },
     {
-      "EntityId": 18265,
-      "VideoName": "Malaga vs Espanyol",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 8",
-      "EventStartDate": "2026-10-10 01:00:00",
-      "Description": "The 68th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga  vs Espanyol live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925650324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909256501020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 827,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "laliga--malaga--vs-espanyol-live"
-    },
-    {
       "EntityId": 1193,
       "VideoName": "West Ham vs Queens Park Rangers",
       "CategoryName": "Championship",
@@ -6634,48 +6676,6 @@
       "Team2Name": "Olympique Lyonnais",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
-    },
-    {
-      "EntityId": 1218,
-      "VideoName": "Dortmund vs SV Werder Bremen",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 00:30:00",
-      "Description": "Watch Dortmund vs SV Werder Bremen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2673/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "sources": [
-        {
-          "label": "BEIN1 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Caz?TV-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "ESPN3 ARGENTINa-aq",
-          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd?|drmScheme=clearkey&drmLicense=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Dortmund",
-      "Team2Name": "SV Werder Bremen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2673/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2534/image"
     }
   ]
 }
