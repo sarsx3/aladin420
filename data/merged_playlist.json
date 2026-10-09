@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:30 PM 09-10-2026",
+    "LastUpdate": "10:31 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -105,6 +105,20 @@
         {
           "label": "t sports-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode-aq",
+          "url": "https://live.kaizokutv.tech/prox/fan2-prox.php?url=https%3A%2F%2Fdai-fancode.pages.dev%2Fmumbai%2F4249227_english_hls_290b2baf07538_1ta-di_h264%2Findex.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
