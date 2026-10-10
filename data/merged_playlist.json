@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:49 PM 10-10-2026",
+    "LastUpdate": "05:50 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 444
+    "LiveCount": 14,
+    "UpcomingCount": 443
   },
   "Matches": [
     {
@@ -27,6 +27,42 @@
       "Status": "Live",
       "UrlSlug": "laliga---rayo-vallecano-vs--rayo-vallecano-live",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+      "EntityId": 1237,
+      "VideoName": "Rayo vs Athletic Bilbao",
+      "CategoryName": "LaLiga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 18:00:00",
+      "Description": "Watch Rayo vs Athletic Bilbao — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2818/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9723,
+      "UrlSlug": "laliga",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+      "sources": [
+        {
+          "label": "Caz?TV-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Rayo",
+      "Team2Name": "Athletic Bilbao",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2825/image"
     },
     {
       "EntityId": 1187,
@@ -77,6 +113,60 @@
           "url": "https://n220.ys.football/online/tOeqf8eNoIrGvFKQo4nkZg/1791635333/tnt1_480.m3u8",
           "headers": {
             "Referer": "https://stream0.org/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS -aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/sxc0rxlgyr/out/v1/aaaab12c95924d80a77f87f7c745782a/76e704a2-8f06-460c-8307-f6f98bcdc882-cenc.mpd?aws_sessionId=be3b2e79-0303-4b90-bc5f-3bc42c20d925?|drmScheme=clearkey&drmLicense=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://chatgpt.hereisman.net/playlist/57779/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live.vivo155.com/live/hd-en-1-4558579.m3u8?txSecret=64bed42b8967c03b982289a4b6851ffe&txTime=6ACA2AB9",
+          "headers": {
+            "Referer": "https://player.online909.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://netanjahu.hls.st/t/786b1e13205f567d72fc1cd4e8a64e64/index.m3u8?",
+          "headers": {
+            "Referer": "https://iplayer.is/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://netanjahu.hls.st/t/81273ceb971339afdd16041ed1d1cc5f/index.m3u8?",
+          "headers": {
+            "Referer": "https://iplayer.is/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://netanjahu.hls.st/t/54511dc1f1d29cdafcb165766f342011/index.m3u8?",
+          "headers": {
+            "Referer": "https://iplayer.is/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://www.rtmpcdn.com/live/056aa96a-f5c6-4259-a50a-8fdb56dc36c2.m3u8",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -9069,34 +9159,6 @@
       "Team2Name": "Fiorentina",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2713/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2693/image"
-    },
-    {
-      "EntityId": 1237,
-      "VideoName": "Rayo vs Athletic Bilbao",
-      "CategoryName": "LaLiga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 18:00:00",
-      "Description": "Watch Rayo vs Athletic Bilbao — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2818/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9723,
-      "UrlSlug": "laliga",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-      "sources": [
-        {
-          "label": "Caz?TV-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Rayo",
-      "Team2Name": "Athletic Bilbao",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2825/image"
     }
   ]
 }
