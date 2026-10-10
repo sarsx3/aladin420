@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 AM 11-10-2026",
+    "LastUpdate": "12:50 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
-    "UpcomingCount": 387
+    "LiveCount": 21,
+    "UpcomingCount": 385
   },
   "Matches": [
     {
@@ -26,6 +26,46 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "laliga--real-madrid-vs-villarreal-live"
+    },
+    {
+      "EntityId": 1280,
+      "VideoName": "Real Madrid vs Villarreal",
+      "CategoryName": "LaLiga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 01:00:00",
+      "Description": "Watch Real Madrid vs Villarreal — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2829/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9723,
+      "UrlSlug": "laliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Real Madrid",
+      "Team2Name": "Villarreal",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2829/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2819/image"
+    },
+    {
+      "EntityId": 1284,
+      "VideoName": "Celta Vigo B vs Real Sociedad B",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 01:00:00",
+      "Description": "Watch Celta Vigo B vs Real Sociedad B — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24336/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Celta Vigo B",
+      "Team2Name": "Real Sociedad B",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/24336/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/24360/image"
     },
     {
       "EntityId": 18415,
@@ -199,6 +239,14 @@
           "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/KRRRRAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -8022,46 +8070,6 @@
       "Team2Name": "Estoril",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3022/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4500/image"
-    },
-    {
-      "EntityId": 1280,
-      "VideoName": "Real Madrid vs Villarreal",
-      "CategoryName": "LaLiga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 01:00:00",
-      "Description": "Watch Real Madrid vs Villarreal — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2829/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9723,
-      "UrlSlug": "laliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Real Madrid",
-      "Team2Name": "Villarreal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2829/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2819/image"
-    },
-    {
-      "EntityId": 1284,
-      "VideoName": "Celta Vigo B vs Real Sociedad B",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 01:00:00",
-      "Description": "Watch Celta Vigo B vs Real Sociedad B — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24336/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Celta Vigo B",
-      "Team2Name": "Real Sociedad B",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/24336/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/24360/image"
     }
   ]
 }
