@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:45 AM 10-10-2026",
+    "LastUpdate": "11:46 AM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -13,18 +13,41 @@
     {
       "EntityId": 1243,
       "VideoName": "Afghanistan vs Bangladesh",
-      "CategoryName": "AFG vs BAN ? One-off Test, Day 2",
+      "CategoryName": "international Test Series",
       "StageName": "Live",
       "EventStartDate": "2026-10-10 11:30:00",
-      "Description": "Watch Afghanistan vs Bangladesh — AFG vs BAN ? One-off Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "Description": "Watch Afghanistan vs Bangladesh — international Test Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
       "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
       "ThumbnailTV": "",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 9804,
-      "UrlSlug": "afg-vs-ban-one-off-test-day-2",
-      "stream_url": "",
-      "sources": [],
+      "CategoryId": 9651,
+      "UrlSlug": "international-test-series",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports-hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ariana tv",
+          "url": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Afghanistan",
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
