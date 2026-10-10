@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 10-10-2026",
+    "LastUpdate": "11:50 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 401
+    "LiveCount": 12,
+    "UpcomingCount": 400
   },
   "Matches": [
     {
@@ -27,6 +27,26 @@
       "Status": "Live",
       "UrlSlug": "saudi-pro-league-al-hilal-vs-al-ittihad-live",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+      "EntityId": 1277,
+      "VideoName": "Al Hilal vs Al Ittihad",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:00:00",
+      "Description": "Watch Al Hilal vs Al Ittihad — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Hilal",
+      "Team2Name": "Al Ittihad",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34315/image"
     },
     {
       "EntityId": 18618,
@@ -8212,26 +8232,6 @@
       "Team2Name": "New York City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2505/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
-    },
-    {
-      "EntityId": 1277,
-      "VideoName": "Al Hilal vs Al Ittihad",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:00:00",
-      "Description": "Watch Al Hilal vs Al Ittihad — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Hilal",
-      "Team2Name": "Al Ittihad",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34315/image"
     }
   ]
 }
