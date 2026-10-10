@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:19 AM 10-10-2026",
+    "LastUpdate": "11:20 AM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 455
+    "LiveCount": 2,
+    "UpcomingCount": 454
   },
   "Matches": [
+    {
+      "EntityId": 1243,
+      "VideoName": "Afghanistan vs Bangladesh",
+      "CategoryName": "AFG vs BAN ? One-off Test, Day 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 11:30:00",
+      "Description": "Watch Afghanistan vs Bangladesh — AFG vs BAN ? One-off Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9804,
+      "UrlSlug": "afg-vs-ban-one-off-test-day-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Bangladesh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
+    },
     {
       "EntityId": 18900,
       "VideoName": "Afghanistan vs Bangladesh",
@@ -8851,26 +8871,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 1243,
-      "VideoName": "Afghanistan vs Bangladesh",
-      "CategoryName": "AFG vs BAN ? One-off Test, Day 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 11:30:00",
-      "Description": "Watch Afghanistan vs Bangladesh — AFG vs BAN ? One-off Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9804,
-      "UrlSlug": "afg-vs-ban-one-off-test-day-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Bangladesh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
     }
   ]
 }
