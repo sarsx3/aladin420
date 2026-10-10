@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:44 PM 10-10-2026",
+    "LastUpdate": "08:45 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
-    "UpcomingCount": 412
+    "LiveCount": 20,
+    "UpcomingCount": 411
   },
   "Matches": [
     {
@@ -26,6 +26,26 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "losc-vs-le havre-ligue-one-live-match"
+    },
+    {
+      "EntityId": 1235,
+      "VideoName": "Al Ettifaq vs Al Khaleej",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:55:00",
+      "Description": "Watch Al Ettifaq vs Al Khaleej — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34318/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Ettifaq",
+      "Team2Name": "Al Khaleej",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34318/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/167228/image"
     },
     {
       "EntityId": 18267,
@@ -8665,26 +8685,6 @@
       "Team2Name": "Le Havre",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1643/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1662/image"
-    },
-    {
-      "EntityId": 1235,
-      "VideoName": "Al Ettifaq vs Al Khaleej",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 20:55:00",
-      "Description": "Watch Al Ettifaq vs Al Khaleej — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34318/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ettifaq",
-      "Team2Name": "Al Khaleej",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34318/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/167228/image"
     }
   ]
 }
