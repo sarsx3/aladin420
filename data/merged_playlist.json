@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:35 PM 10-10-2026",
+    "LastUpdate": "05:36 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -25,7 +25,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "laliga---rayo-vallecano-vs--rayo-vallecano-live"
+      "UrlSlug": "laliga---rayo-vallecano-vs--rayo-vallecano-live",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
       "EntityId": 1187,
@@ -112,6 +113,20 @@
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
           "headers": {
             "Referer": "https://amazon.com",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "bd - 1",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791718297~_GO=Generated~acl=/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/*~SessionID=1890000065807_fc-web_52c55958-fd8d-40~Signature=AdJJtMO7nbhRVpwF1hmap3p7ScsibPFh60_CtUxcXG4saNmauLivE37Nw41sdKIWgiTZD8ZgNa1VWabVGVBJwu--vi4D",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "bd - 2",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/540p.m3u8?hdntl=Expires=1791718297~_GO=Generated~acl=/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/*~SessionID=1890000065807_fc-web_52c55958-fd8d-40~Signature=AdJJtMO7nbhRVpwF1hmap3p7ScsibPFh60_CtUxcXG4saNmauLivE37Nw41sdKIWgiTZD8ZgNa1VWabVGVBJwu--vi4D",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
