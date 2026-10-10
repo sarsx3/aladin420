@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:49 AM 11-10-2026",
+    "LastUpdate": "01:50 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
-    "UpcomingCount": 391
+    "LiveCount": 21,
+    "UpcomingCount": 389
   },
   "Matches": [
+    {
+      "EntityId": 1247,
+      "VideoName": "Central C?rdoba vs Estudiantes",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 02:00:00",
+      "Description": "Watch Central C?rdoba vs Estudiantes — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65676/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Central C?rdoba",
+      "Team2Name": "Estudiantes",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/65676/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3206/image"
+    },
+    {
+      "EntityId": 1251,
+      "VideoName": "Vasco vs Remo",
+      "CategoryName": "Brasileir?o S?rie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 02:00:00",
+      "Description": "Watch Vasco vs Remo — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1974/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9293,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Vasco",
+      "Team2Name": "Remo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1974/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2012/image"
+    },
     {
       "EntityId": 1274,
       "VideoName": "Viseu vs Estoril",
@@ -8176,46 +8216,6 @@
       "Team2Name": "Banfield",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/7628/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3219/image"
-    },
-    {
-      "EntityId": 1247,
-      "VideoName": "Central C?rdoba vs Estudiantes",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 02:00:00",
-      "Description": "Watch Central C?rdoba vs Estudiantes — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65676/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Central C?rdoba",
-      "Team2Name": "Estudiantes",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/65676/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3206/image"
-    },
-    {
-      "EntityId": 1251,
-      "VideoName": "Vasco vs Remo",
-      "CategoryName": "Brasileir?o S?rie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 02:00:00",
-      "Description": "Watch Vasco vs Remo — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1974/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9293,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Vasco",
-      "Team2Name": "Remo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1974/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2012/image"
     }
   ]
 }
