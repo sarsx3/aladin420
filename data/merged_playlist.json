@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:11 PM 10-10-2026",
+    "LastUpdate": "06:12 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
+    "LiveCount": 12,
     "UpcomingCount": 443
   },
   "Matches": [
@@ -55,6 +55,22 @@
           "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://chatgpt.hereisman.net/playlist/57780/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low-server",
+          "url": "http://193.47.62.41/hls/R777AAAAAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -306,46 +322,6 @@
       "Team2Name": "Bristol City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/47/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/58/image"
-    },
-    {
-      "EntityId": 1204,
-      "VideoName": "Plymouth vs AFC Wimbledon",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Plymouth vs AFC Wimbledon — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/79/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Plymouth",
-      "Team2Name": "AFC Wimbledon",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/79/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/71/image"
-    },
-    {
-      "EntityId": 1205,
-      "VideoName": "Notts County vs Oxford United",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Notts County vs Oxford United — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Notts County",
-      "Team2Name": "Oxford United",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/95/image"
     },
     {
       "EntityId": 1090547534,
