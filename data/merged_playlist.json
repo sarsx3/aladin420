@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:19 AM 11-10-2026",
+    "LastUpdate": "12:20 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 396
+    "LiveCount": 16,
+    "UpcomingCount": 394
   },
   "Matches": [
     {
@@ -79,6 +79,46 @@
       "UrlSlug": "psg-vs-le mans-ligue-one-live-match"
     },
     {
+      "EntityId": 1265,
+      "VideoName": "Nurnberg vs Wolfsburg",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:30:00",
+      "Description": "Watch Nurnberg vs Wolfsburg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2523/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Nurnberg",
+      "Team2Name": "Wolfsburg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2523/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2524/image"
+    },
+    {
+      "EntityId": 1288,
+      "VideoName": "Chicago Fire vs New York City",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:30:00",
+      "Description": "Watch Chicago Fire vs New York City — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2505/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Chicago Fire",
+      "Team2Name": "New York City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2505/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
+    },
+    {
       "EntityId": 17095,
       "VideoName": "Al-Hilal vs Al-Ittihad",
       "CategoryName": "Saudi Pro League 2026/27",
@@ -130,6 +170,14 @@
           "label": "Server - 2",
           "url": "https://hello.boomstreaming.com/my-hls/555/index.m3u8?expires=1791658303&token=cbef0c4b519eba01218c3b4d0804ec4e",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://chatgpt.hereisman.net/playlist/57821/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -8122,46 +8170,6 @@
       "Team2Name": "Frosinone",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2714/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2801/image"
-    },
-    {
-      "EntityId": 1265,
-      "VideoName": "Nurnberg vs Wolfsburg",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:30:00",
-      "Description": "Watch Nurnberg vs Wolfsburg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2523/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Nurnberg",
-      "Team2Name": "Wolfsburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2523/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2524/image"
-    },
-    {
-      "EntityId": 1288,
-      "VideoName": "Chicago Fire vs New York City",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:30:00",
-      "Description": "Watch Chicago Fire vs New York City — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2505/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Chicago Fire",
-      "Team2Name": "New York City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2505/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
     }
   ]
 }
