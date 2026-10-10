@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:34 PM 10-10-2026",
+    "LastUpdate": "07:35 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
+    "LiveCount": 14,
     "UpcomingCount": 437
   },
   "Matches": [
-    {
-      "EntityId": 18267,
-      "VideoName": "Alaves vs Atletico Madrid",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 8",
-      "EventStartDate": "2026-10-10 20:15:00",
-      "Description": "The 70th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch  Alaves vs Atletico Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926001324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909260011020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 827,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "laliga---alaves-vs-atletico-madrid-live"
-    },
     {
       "EntityId": 1219,
       "VideoName": "SC Paderborn vs VfB Stuttgart",
@@ -282,6 +265,24 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2693/image"
     },
     {
+      "EntityId": 18266,
+      "VideoName": "Rayo Vallecano vs Athletic",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-10 18:00:00",
+      "Description": "The 69th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch  Rayo Vallecano vs  Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925829324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909258291020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 827,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "laliga---rayo-vallecano-vs--rayo-vallecano-live",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
       "EntityId": 1237,
       "VideoName": "Rayo vs Athletic Bilbao",
       "CategoryName": "LaLiga",
@@ -332,249 +333,6 @@
       "Team2Name": "Athletic Bilbao",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2825/image"
-    },
-    {
-      "EntityId": 1187,
-      "VideoName": "Arsenal vs Leeds United",
-      "CategoryName": "Premier League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Arsenal vs Leeds United — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-      "sources": [
-        {
-          "label": "TNT SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FUBO SPORTS -aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://andro.evrenesoglu121.click/checklist/androstreamliveidm.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low-server",
-          "url": "https://n220.ys.football/online/tOeqf8eNoIrGvFKQo4nkZg/1791635333/tnt1_480.m3u8",
-          "headers": {
-            "Referer": "https://stream0.org/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FUBO SPORTS -aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/sxc0rxlgyr/out/v1/aaaab12c95924d80a77f87f7c745782a/76e704a2-8f06-460c-8307-f6f98bcdc882-cenc.mpd?aws_sessionId=be3b2e79-0303-4b90-bc5f-3bc42c20d925?|drmScheme=clearkey&drmLicense=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://chatgpt.hereisman.net/playlist/57779/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live.vivo155.com/live/hd-en-1-4558579.m3u8?txSecret=64bed42b8967c03b982289a4b6851ffe&txTime=6ACA2AB9",
-          "headers": {
-            "Referer": "https://player.online909.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://netanjahu.hls.st/t/786b1e13205f567d72fc1cd4e8a64e64/index.m3u8?",
-          "headers": {
-            "Referer": "https://iplayer.is/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://netanjahu.hls.st/t/81273ceb971339afdd16041ed1d1cc5f/index.m3u8?",
-          "headers": {
-            "Referer": "https://iplayer.is/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://netanjahu.hls.st/t/54511dc1f1d29cdafcb165766f342011/index.m3u8?",
-          "headers": {
-            "Referer": "https://iplayer.is/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://www.rtmpcdn.com/live/056aa96a-f5c6-4259-a50a-8fdb56dc36c2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Arsenal",
-      "Team2Name": "Leeds United",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/42/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34/image"
-    },
-    {
-      "EntityId": 1194,
-      "VideoName": "West Brom vs Birmingham",
-      "CategoryName": "Championship",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch West Brom vs Birmingham — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "sources": [
-        {
-          "label": "BEIN3 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "cbs sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "Referer": "https://amazon.com",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "bd - 1",
-          "url": "https://bd-mc-flive.fancode.com/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791718297~_GO=Generated~acl=/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/*~SessionID=1890000065807_fc-web_52c55958-fd8d-40~Signature=AdJJtMO7nbhRVpwF1hmap3p7ScsibPFh60_CtUxcXG4saNmauLivE37Nw41sdKIWgiTZD8ZgNa1VWabVGVBJwu--vi4D",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "bd - 2",
-          "url": "https://bd-mc-flive.fancode.com/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/540p.m3u8?hdntl=Expires=1791718297~_GO=Generated~acl=/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/*~SessionID=1890000065807_fc-web_52c55958-fd8d-40~Signature=AdJJtMO7nbhRVpwF1hmap3p7ScsibPFh60_CtUxcXG4saNmauLivE37Nw41sdKIWgiTZD8ZgNa1VWabVGVBJwu--vi4D",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "West Brom",
-      "Team2Name": "Birmingham",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/8/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/9/image"
-    },
-    {
-      "EntityId": 1195,
-      "VideoName": "Swansea vs Norwich",
-      "CategoryName": "Championship",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Swansea vs Norwich — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/74/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live.vivo155.com/live/sd-1-4563611.m3u8?txSecret=abef080102238cb562d155866b5537d1&txTime=6ACA2A73",
-          "headers": {
-            "Referer": "https://player.online909.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://netanjahu.hls.st/t/d7070162ae197aa8ab9c03f867abfe24/index.m3u8?",
-          "headers": {
-            "Referer": "https://iplayer.is/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.44/hls/AKKKaAAAAA.m3u8?",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Swansea",
-      "Team2Name": "Norwich",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/74/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/263/image"
-    },
-    {
-      "EntityId": 1196,
-      "VideoName": "Charlton vs Bristol City",
-      "CategoryName": "Championship",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Charlton vs Bristol City — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.44/hls/AKKKaAAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.44/hls/AKKKaAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Charlton",
-      "Team2Name": "Bristol City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/47/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/58/image"
     },
     {
       "EntityId": 1090547534,
