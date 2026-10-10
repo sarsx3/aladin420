@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:14 AM 11-10-2026",
+    "LastUpdate": "05:15 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -7778,8 +7778,17 @@
       "Status": "Upcoming",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://1cdn.syria-player.info/proxy.php?stream=apple.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://1cdn.syria-player.info/proxy.php?stream=apple.m3u8",
+          "headers": {
+            "Referer": "https://1cdn.syria-player.info/apple",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Inter Miami",
       "Team2Name": "DC United",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
