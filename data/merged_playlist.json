@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:51 AM 11-10-2026",
+    "LastUpdate": "05:52 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 403
   },
   "Matches": [
@@ -62,6 +62,45 @@
       "Team2Name": "Vitoria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1981/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1962/image"
+    },
+    {
+      "EntityId": 1090547698,
+      "VideoName": "UFC Fight Night - Allen vs Duncan",
+      "CategoryName": "UFC Fight Night - Allen vs Duncan",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 05:52:18",
+      "Description": "Watch UFC Fight Night - Allen vs Duncan live from UFC Fight Night - Allen vs Duncan. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UFC Fight Night - Allen vs Duncan online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9695,
+      "UrlSlug": "ufc-fight-night-allen-vs-duncan-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/HIN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TAM/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TEL/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/KAN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791676338
     },
     {
       "EntityId": 1293,
