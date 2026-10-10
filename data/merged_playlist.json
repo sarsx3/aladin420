@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 AM 11-10-2026",
+    "LastUpdate": "12:35 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 17,
-    "UpcomingCount": 393
+    "LiveCount": 23,
+    "UpcomingCount": 387
   },
   "Matches": [
     {
@@ -98,6 +98,177 @@
       "Status": "Live",
       "UrlSlug": "psg-vs-le mans-ligue-one-live-match",
       "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+    },
+    {
+      "EntityId": 1246,
+      "VideoName": "Barracas vs Huracan",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Barracas vs Huracan — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65668/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Barracas",
+      "Team2Name": "Huracan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/65668/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7629/image"
+    },
+    {
+      "EntityId": 1257,
+      "VideoName": "PSG vs Le Mans",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch PSG vs Le Mans — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1644/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "tap",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "tap",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BEIN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://chatgpt.hereisman.net/playlist/57827/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "PSG",
+      "Team2Name": "Le Mans",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1644/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1672/image"
+    },
+    {
+      "EntityId": 1258,
+      "VideoName": "Monaco vs Toulouse",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Monaco vs Toulouse — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1653/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - Aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Monaco",
+      "Team2Name": "Toulouse",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1653/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1681/image"
+    },
+    {
+      "EntityId": 1259,
+      "VideoName": "Lorient vs Paris FC",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Lorient vs Paris FC — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1656/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - Aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Lorient",
+      "Team2Name": "Paris FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1656/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/6070/image"
+    },
+    {
+      "EntityId": 1260,
+      "VideoName": "Brest vs SCO Angers",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Brest vs SCO Angers — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1715/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - Aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Brest",
+      "Team2Name": "SCO Angers",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1715/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1684/image"
+    },
+    {
+      "EntityId": 1269,
+      "VideoName": "Napoli vs Frosinone",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Napoli vs Frosinone — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2714/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Napoli",
+      "Team2Name": "Frosinone",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2714/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2801/image"
     },
     {
       "EntityId": 1265,
@@ -8063,153 +8234,6 @@
       "Team2Name": "Real Sociedad B",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/24336/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/24360/image"
-    },
-    {
-      "EntityId": 1246,
-      "VideoName": "Barracas vs Huracan",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Barracas vs Huracan — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65668/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Barracas",
-      "Team2Name": "Huracan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/65668/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7629/image"
-    },
-    {
-      "EntityId": 1257,
-      "VideoName": "PSG vs Le Mans",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch PSG vs Le Mans — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1644/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "PSG",
-      "Team2Name": "Le Mans",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1644/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1672/image"
-    },
-    {
-      "EntityId": 1258,
-      "VideoName": "Monaco vs Toulouse",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Monaco vs Toulouse — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1653/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
-      "sources": [
-        {
-          "label": "Tapmad - Aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Monaco",
-      "Team2Name": "Toulouse",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1653/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1681/image"
-    },
-    {
-      "EntityId": 1259,
-      "VideoName": "Lorient vs Paris FC",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Lorient vs Paris FC — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1656/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
-      "sources": [
-        {
-          "label": "Tapmad - Aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lorient",
-      "Team2Name": "Paris FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1656/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/6070/image"
-    },
-    {
-      "EntityId": 1260,
-      "VideoName": "Brest vs SCO Angers",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Brest vs SCO Angers — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1715/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
-      "sources": [
-        {
-          "label": "Tapmad - Aq",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Brest",
-      "Team2Name": "SCO Angers",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1715/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1684/image"
-    },
-    {
-      "EntityId": 1269,
-      "VideoName": "Napoli vs Frosinone",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Napoli vs Frosinone — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2714/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Napoli",
-      "Team2Name": "Frosinone",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2714/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2801/image"
     }
   ]
 }
