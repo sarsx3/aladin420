@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 10-10-2026",
+    "LastUpdate": "08:20 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 21,
-    "UpcomingCount": 413
+    "LiveCount": 39,
+    "UpcomingCount": 412
   },
   "Matches": [
+    {
+      "EntityId": 1231,
+      "VideoName": "Casa Pia vs Santa Clara",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:30:00",
+      "Description": "Watch Casa Pia vs Santa Clara — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36365/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Casa Pia",
+      "Team2Name": "Santa Clara",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36365/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3011/image"
+    },
     {
       "EntityId": 18267,
       "VideoName": "Alaves vs Atletico Madrid",
@@ -50,40 +70,32 @@
             "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "ESPN2 ARGENTINA FHD",
-          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FANCODE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Caz?TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "HD QUALITY",
-          "url": "https://www.rtmpcdn.com/live/c0715e6e-7599-41e3-bcc4-23f9f7a241e8.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Alaves",
       "Team2Name": "Atl. Madrid",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2885/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2836/image"
+    },
+    {
+      "EntityId": 1240,
+      "VideoName": "AD Ceuta vs Sabadell",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:15:00",
+      "Description": "Watch AD Ceuta vs Sabadell — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2869/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "AD Ceuta",
+      "Team2Name": "Sabadell",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2869/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/24335/image"
     },
     {
       "EntityId": 1188,
@@ -251,6 +263,26 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/50/image"
     },
     {
+      "EntityId": 1197,
+      "VideoName": "Watford FC vs Burnley",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Watford FC vs Burnley — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Watford FC",
+      "Team2Name": "Burnley",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/24/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/6/image"
+    },
+    {
       "EntityId": 1198,
       "VideoName": "Sheff Utd vs Lincoln",
       "CategoryName": "Championship",
@@ -271,6 +303,86 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/92/image"
     },
     {
+      "EntityId": 1199,
+      "VideoName": "Preston vs Millwall",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Preston vs Millwall — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Preston",
+      "Team2Name": "Millwall",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/21/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/25/image"
+    },
+    {
+      "EntityId": 1200,
+      "VideoName": "Middlesbrough vs Wolverhampton",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Middlesbrough vs Wolverhampton — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Middlesbrough",
+      "Team2Name": "Wolverhampton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3/image"
+    },
+    {
+      "EntityId": 1201,
+      "VideoName": "Derby vs Wrexham",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Derby vs Wrexham — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/27/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Derby",
+      "Team2Name": "Wrexham",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/27/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/64/image"
+    },
+    {
+      "EntityId": 1202,
+      "VideoName": "Bolton vs Stoke City",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Bolton vs Stoke City — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bolton",
+      "Team2Name": "Stoke City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/5/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/29/image"
+    },
+    {
       "EntityId": 1203,
       "VideoName": "Blackburn vs Cardiff",
       "CategoryName": "Championship",
@@ -289,6 +401,206 @@
       "Team2Name": "Cardiff",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/46/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/61/image"
+    },
+    {
+      "EntityId": 1206,
+      "VideoName": "Wycombe vs Luton",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Wycombe vs Luton — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/62/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Wycombe",
+      "Team2Name": "Luton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/62/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/72/image"
+    },
+    {
+      "EntityId": 1207,
+      "VideoName": "Stockport vs Barnsley",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Stockport vs Barnsley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/10/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Stockport",
+      "Team2Name": "Barnsley",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/10/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/23/image"
+    },
+    {
+      "EntityId": 1208,
+      "VideoName": "Stevenage vs Wigan",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Stevenage vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/133/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Stevenage",
+      "Team2Name": "Wigan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/133/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
+    },
+    {
+      "EntityId": 1209,
+      "VideoName": "MK Dons vs Reading",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch MK Dons vs Reading — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "MK Dons",
+      "Team2Name": "Reading",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/28/image"
+    },
+    {
+      "EntityId": 1210,
+      "VideoName": "Mansfield vs Bromley",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Mansfield vs Bromley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/70/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Mansfield",
+      "Team2Name": "Bromley",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/70/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/180/image"
+    },
+    {
+      "EntityId": 1211,
+      "VideoName": "Huddersfield vs Sheffield Wed",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Huddersfield vs Sheffield Wed — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/59/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Huddersfield",
+      "Team2Name": "Sheffield Wed",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/59/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/12/image"
+    },
+    {
+      "EntityId": 1212,
+      "VideoName": "Leicester City vs Peterborough",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Leicester City vs Peterborough — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/31/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Leicester City",
+      "Team2Name": "Peterborough",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/31/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/54/image"
+    },
+    {
+      "EntityId": 1213,
+      "VideoName": "Doncaster vs Burton",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Doncaster vs Burton — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/84/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Doncaster",
+      "Team2Name": "Burton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/84/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/134/image"
+    },
+    {
+      "EntityId": 1214,
+      "VideoName": "Cambridge vs Blackpool",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Cambridge vs Blackpool — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/63/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Cambridge",
+      "Team2Name": "Blackpool",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/63/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/67/image"
+    },
+    {
+      "EntityId": 1215,
+      "VideoName": "Bradford vs Leyton Orient",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 20:00:00",
+      "Description": "Watch Bradford vs Leyton Orient — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bradford",
+      "Team2Name": "Leyton Orient",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/22/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/83/image"
     },
     {
       "EntityId": 1090547647,
@@ -644,6 +956,58 @@
       "Team2Name": "Fiorentina",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2713/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2693/image"
+    },
+    {
+      "EntityId": 1237,
+      "VideoName": "Rayo vs Athletic Bilbao",
+      "CategoryName": "LaLiga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 18:00:00",
+      "Description": "Watch Rayo vs Athletic Bilbao — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2818/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9723,
+      "UrlSlug": "laliga",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+      "sources": [
+        {
+          "label": "Caz?TV-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd-server",
+          "url": "https://chatgpt.hereisman.net/playlist/57780/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low-server",
+          "url": "http://193.47.62.41/hls/R777AAAAAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Rayo",
+      "Team2Name": "Athletic Bilbao",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2825/image"
     },
     {
       "EntityId": 1090547534,
@@ -8728,26 +9092,6 @@
       "Team2Name": "Al Khaleej",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34318/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/167228/image"
-    },
-    {
-      "EntityId": 1231,
-      "VideoName": "Casa Pia vs Santa Clara",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 20:30:00",
-      "Description": "Watch Casa Pia vs Santa Clara — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36365/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Casa Pia",
-      "Team2Name": "Santa Clara",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36365/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3011/image"
     }
   ]
 }
