@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:54 AM 11-10-2026",
+    "LastUpdate": "05:55 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -129,6 +129,14 @@
           "label": "Server - 2",
           "url": "https://live4.dyrur1.com/live/66299618_35ed41776dcd761ad2338ee3cd8a50f0_720p.m3u8",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://hls.hockey.do/secure_hls.php?path=f6a214cf886d35a5591087d6a8ca8d58%2Findex.m3u8&e=1791678142&sig=ohCRBThfmk5_taAsLWTAGPmeUtnmGxiMmWcP8rUfC2k&v=1791676342-6030",
+          "headers": {
+            "Referer": "https://matchli.st/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
