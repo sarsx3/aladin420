@@ -1,15 +1,160 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:19 PM 10-10-2026",
+    "LastUpdate": "07:20 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 442
+    "LiveCount": 18,
+    "UpcomingCount": 437
   },
   "Matches": [
+    {
+      "EntityId": 1219,
+      "VideoName": "SC Paderborn vs VfB Stuttgart",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:30:00",
+      "Description": "Watch SC Paderborn vs VfB Stuttgart — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2561/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "SC Paderborn",
+      "Team2Name": "VfB Stuttgart",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2561/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
+    },
+    {
+      "EntityId": 1220,
+      "VideoName": "Union Berlin vs SV 07 Elversberg",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:30:00",
+      "Description": "Watch Union Berlin vs SV 07 Elversberg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2547/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Union Berlin",
+      "Team2Name": "SV 07 Elversberg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2547/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2598/image"
+    },
+    {
+      "EntityId": 1221,
+      "VideoName": "Mainz vs Bayer 04 Leverkusen",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:30:00",
+      "Description": "Watch Mainz vs Bayer 04 Leverkusen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2556/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Mainz",
+      "Team2Name": "Bayer 04 Leverkusen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2556/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    },
+    {
+      "EntityId": 1222,
+      "VideoName": "Augsburg vs Bayern M?nchen",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:30:00",
+      "Description": "Watch Augsburg vs Bayern M?nchen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2600/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Augsburg",
+      "Team2Name": "Bayern M?nchen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2600/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2672/image"
+    },
+    {
+      "EntityId": 1223,
+      "VideoName": "Hoffenheim vs Hamburger SV",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:30:00",
+      "Description": "Watch Hoffenheim vs Hamburger SV — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2569/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Hoffenheim",
+      "Team2Name": "Hamburger SV",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2569/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2676/image"
+    },
     {
       "EntityId": 1228,
       "VideoName": "Genoa vs Fiorentina",
@@ -9058,151 +9203,6 @@
       "Team2Name": "NEOM SC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/168086/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
-    },
-    {
-      "EntityId": 1219,
-      "VideoName": "SC Paderborn vs VfB Stuttgart",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 19:30:00",
-      "Description": "Watch SC Paderborn vs VfB Stuttgart — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2561/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "SC Paderborn",
-      "Team2Name": "VfB Stuttgart",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2561/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
-    },
-    {
-      "EntityId": 1220,
-      "VideoName": "Union Berlin vs SV 07 Elversberg",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 19:30:00",
-      "Description": "Watch Union Berlin vs SV 07 Elversberg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2547/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Union Berlin",
-      "Team2Name": "SV 07 Elversberg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2547/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2598/image"
-    },
-    {
-      "EntityId": 1221,
-      "VideoName": "Mainz vs Bayer 04 Leverkusen",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 19:30:00",
-      "Description": "Watch Mainz vs Bayer 04 Leverkusen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2556/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Mainz",
-      "Team2Name": "Bayer 04 Leverkusen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2556/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
-    },
-    {
-      "EntityId": 1222,
-      "VideoName": "Augsburg vs Bayern M?nchen",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 19:30:00",
-      "Description": "Watch Augsburg vs Bayern M?nchen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2600/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Augsburg",
-      "Team2Name": "Bayern M?nchen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2600/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2672/image"
-    },
-    {
-      "EntityId": 1223,
-      "VideoName": "Hoffenheim vs Hamburger SV",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 19:30:00",
-      "Description": "Watch Hoffenheim vs Hamburger SV — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2569/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hoffenheim",
-      "Team2Name": "Hamburger SV",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2569/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2676/image"
     }
   ]
 }
