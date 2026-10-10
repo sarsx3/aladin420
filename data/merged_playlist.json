@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:19 AM 11-10-2026",
+    "LastUpdate": "01:20 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
-    "UpcomingCount": 385
+    "LiveCount": 20,
+    "UpcomingCount": 384
   },
   "Matches": [
+    {
+      "EntityId": 1274,
+      "VideoName": "Viseu vs Estoril",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 01:30:00",
+      "Description": "Watch Viseu vs Estoril — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3022/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Viseu",
+      "Team2Name": "Estoril",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3022/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4500/image"
+    },
     {
       "EntityId": 18269,
       "VideoName": "Real Madrid vs Villarreal",
@@ -8114,26 +8134,6 @@
       "Team2Name": "Remo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1974/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2012/image"
-    },
-    {
-      "EntityId": 1274,
-      "VideoName": "Viseu vs Estoril",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 01:30:00",
-      "Description": "Watch Viseu vs Estoril — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3022/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Viseu",
-      "Team2Name": "Estoril",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3022/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4500/image"
     }
   ]
 }
