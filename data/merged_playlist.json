@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:11 AM 11-10-2026",
+    "LastUpdate": "03:12 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 403
+    "LiveCount": 2,
+    "UpcomingCount": 397
   },
   "Matches": [
     {
@@ -37,93 +37,6 @@
       "Team2Name": "Remo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1974/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2012/image"
-    },
-    {
-      "EntityId": 1280,
-      "VideoName": "Real Madrid vs Villarreal",
-      "CategoryName": "LaLiga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-11 01:00:00",
-      "Description": "Watch Real Madrid vs Villarreal — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2829/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9723,
-      "UrlSlug": "laliga",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-      "sources": [
-        {
-          "label": "Tapmad - Aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BEIN3 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "D SPORTS + FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FANCODE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Caz?TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "ESPN DEPORTES HD",
-          "url": "https://chatgpt.hereisman.net/playlist/57826/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://chatgpt.hereisman.net/playlist/57828/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "https://1cdn.syria-player.info/proxy.php?stream=bein2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality 2",
-          "url": "https://www.rtmpcdn.com/live/f9c884db-759e-45a7-9b27-008183e0c129.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Real Madrid",
-      "Team2Name": "Villarreal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2829/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2819/image"
     },
     {
       "EntityId": 18618,
@@ -7744,86 +7657,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1962/image"
     },
     {
-      "EntityId": 1289,
-      "VideoName": "Philadelphia Union vs Real Salt Lake",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 05:30:00",
-      "Description": "Watch Philadelphia Union vs Real Salt Lake — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/39833/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Philadelphia Union",
-      "Team2Name": "Real Salt Lake",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/39833/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5133/image"
-    },
-    {
-      "EntityId": 1290,
-      "VideoName": "Orlando City vs Columbus Crew",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 05:30:00",
-      "Description": "Watch Orlando City vs Columbus Crew — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/52237/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Orlando City",
-      "Team2Name": "Columbus Crew",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/52237/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2504/image"
-    },
-    {
-      "EntityId": 1291,
-      "VideoName": "New York RB vs San Diego",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 05:30:00",
-      "Description": "Watch New York RB vs San Diego — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2506/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "New York RB",
-      "Team2Name": "San Diego",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2506/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1043961/image"
-    },
-    {
-      "EntityId": 1292,
-      "VideoName": "Revolution vs Seattle Sounders",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 05:30:00",
-      "Description": "Watch Revolution vs Seattle Sounders — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2511/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Revolution",
-      "Team2Name": "Seattle Sounders",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2511/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/22009/image"
-    },
-    {
       "EntityId": 1293,
       "VideoName": "Inter Miami vs DC United",
       "CategoryName": "MLS",
@@ -7842,46 +7675,6 @@
       "Team2Name": "DC United",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2502/image"
-    },
-    {
-      "EntityId": 1294,
-      "VideoName": "Charlotte FC vs FC Dallas",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 05:30:00",
-      "Description": "Watch Charlotte FC vs FC Dallas — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/404108/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Charlotte FC",
-      "Team2Name": "FC Dallas",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/404108/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2512/image"
-    },
-    {
-      "EntityId": 1295,
-      "VideoName": "Atlanta United vs FC Cincinnati",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 05:30:00",
-      "Description": "Watch Atlanta United vs FC Cincinnati — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/243211/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Atlanta United",
-      "Team2Name": "FC Cincinnati",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/243211/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/215167/image"
     },
     {
       "EntityId": 1248,
