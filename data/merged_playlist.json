@@ -1,15 +1,83 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:01 AM 11-10-2026",
+    "LastUpdate": "12:02 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
-    "UpcomingCount": 400
+    "LiveCount": 16,
+    "UpcomingCount": 396
   },
   "Matches": [
+    {
+      "EntityId": 18415,
+      "VideoName": "Lorient vs Paris FC",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 6",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Lorient vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Paris FC match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791191930324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911919301020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "lorient-vs-paris fc-ligue-one-live-match"
+    },
+    {
+      "EntityId": 18416,
+      "VideoName": "Monaco vs Toulouse",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 6",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Monoca vs Toulouse live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Monoca vs Toulouse match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192142324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911921421020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "monoca-vs-toulouse-ligue-one-live-match"
+    },
+    {
+      "EntityId": 18417,
+      "VideoName": "Brest vs Angers",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 6",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Brest vs Angers live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Brest vs Angers match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192301324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911923011020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "brest-vs-angers-ligue-one-live-match"
+    },
+    {
+      "EntityId": 18418,
+      "VideoName": "PSG vs Le Mans",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 6",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch PSG vs Le Mans live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs Le Mans match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192451324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911924511020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "psg-vs-le mans-ligue-one-live-match"
+    },
     {
       "EntityId": 17095,
       "VideoName": "Al-Hilal vs Al-Ittihad",
@@ -41,8 +109,31 @@
       "Status": "Live",
       "CategoryId": 9404,
       "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - Aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://1cdn.syria-player.info/proxy.php?stream=ssc1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://hello.boomstreaming.com/my-hls/555/index.m3u8?expires=1791658303&token=cbef0c4b519eba01218c3b4d0804ec4e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al Hilal",
       "Team2Name": "Al Ittihad",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
@@ -63,7 +154,8 @@
       "NewSportsGenre": "Mma",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live"
+      "UrlSlug": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     },
     {
       "EntityId": 1232,
@@ -8004,74 +8096,6 @@
       "Team2Name": "Real Sociedad B",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/24336/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/24360/image"
-    },
-    {
-      "EntityId": 18415,
-      "VideoName": "Lorient vs Paris FC",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 6",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Lorient vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Paris FC match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791191930324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911919301020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1115,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "lorient-vs-paris fc-ligue-one-live-match"
-    },
-    {
-      "EntityId": 18416,
-      "VideoName": "Monaco vs Toulouse",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 6",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Monoca vs Toulouse live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Monoca vs Toulouse match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192142324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911921421020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1115,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "monoca-vs-toulouse-ligue-one-live-match"
-    },
-    {
-      "EntityId": 18417,
-      "VideoName": "Brest vs Angers",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 6",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch Brest vs Angers live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Brest vs Angers match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192301324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911923011020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1115,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "brest-vs-angers-ligue-one-live-match"
-    },
-    {
-      "EntityId": 18418,
-      "VideoName": "PSG vs Le Mans",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 6",
-      "EventStartDate": "2026-10-11 00:45:00",
-      "Description": "Watch PSG vs Le Mans live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs Le Mans match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192451324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911924511020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1115,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "psg-vs-le mans-ligue-one-live-match"
     },
     {
       "EntityId": 1246,
