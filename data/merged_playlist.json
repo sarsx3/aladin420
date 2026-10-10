@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:11 PM 10-10-2026",
+    "LastUpdate": "11:12 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -68,8 +68,17 @@
       "Status": "Live",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://netanjahu.hls.st/t/ae311dd89ac213ca4273bef4ca4f96c8/index.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://netanjahu.hls.st/t/ae311dd89ac213ca4273bef4ca4f96c8/index.m3u8",
+          "headers": {
+            "Referer": "https://iplayer.is/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Toronto",
       "Team2Name": "CF Montr?al",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/7080/image",
