@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 PM 10-10-2026",
+    "LastUpdate": "05:20 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 450
+    "LiveCount": 12,
+    "UpcomingCount": 444
   },
   "Matches": [
     {
@@ -26,6 +26,165 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "laliga---rayo-vallecano-vs--rayo-vallecano-live"
+    },
+    {
+      "EntityId": 1187,
+      "VideoName": "Arsenal vs Leeds United",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 17:30:00",
+      "Description": "Watch Arsenal vs Leeds United — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "sources": [
+        {
+          "label": "TNT SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS -aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Arsenal",
+      "Team2Name": "Leeds United",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/42/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34/image"
+    },
+    {
+      "EntityId": 1194,
+      "VideoName": "West Brom vs Birmingham",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 17:30:00",
+      "Description": "Watch West Brom vs Birmingham — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "sources": [
+        {
+          "label": "BEIN3 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "cbs sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "headers": {
+            "Referer": "https://amazon.com",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "West Brom",
+      "Team2Name": "Birmingham",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/8/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/9/image"
+    },
+    {
+      "EntityId": 1195,
+      "VideoName": "Swansea vs Norwich",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 17:30:00",
+      "Description": "Watch Swansea vs Norwich — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/74/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Swansea",
+      "Team2Name": "Norwich",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/74/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/263/image"
+    },
+    {
+      "EntityId": 1196,
+      "VideoName": "Charlton vs Bristol City",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 17:30:00",
+      "Description": "Watch Charlton vs Bristol City — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Charlton",
+      "Team2Name": "Bristol City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/47/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/58/image"
+    },
+    {
+      "EntityId": 1204,
+      "VideoName": "Plymouth vs AFC Wimbledon",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 17:30:00",
+      "Description": "Watch Plymouth vs AFC Wimbledon — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/79/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Plymouth",
+      "Team2Name": "AFC Wimbledon",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/79/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/71/image"
+    },
+    {
+      "EntityId": 1205,
+      "VideoName": "Notts County vs Oxford United",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 17:30:00",
+      "Description": "Watch Notts County vs Oxford United — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Notts County",
+      "Team2Name": "Oxford United",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/56/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/95/image"
     },
     {
       "EntityId": 1090547633,
@@ -8844,165 +9003,6 @@
       "Team2Name": "Athletic Bilbao",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2825/image"
-    },
-    {
-      "EntityId": 1187,
-      "VideoName": "Arsenal vs Leeds United",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Arsenal vs Leeds United — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-      "sources": [
-        {
-          "label": "TNT SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FUBO SPORTS -aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Arsenal",
-      "Team2Name": "Leeds United",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/42/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34/image"
-    },
-    {
-      "EntityId": 1194,
-      "VideoName": "West Brom vs Birmingham",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch West Brom vs Birmingham — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "sources": [
-        {
-          "label": "BEIN3 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "cbs sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "Referer": "https://amazon.com",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "West Brom",
-      "Team2Name": "Birmingham",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/8/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/9/image"
-    },
-    {
-      "EntityId": 1195,
-      "VideoName": "Swansea vs Norwich",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Swansea vs Norwich — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/74/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Swansea",
-      "Team2Name": "Norwich",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/74/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/263/image"
-    },
-    {
-      "EntityId": 1196,
-      "VideoName": "Charlton vs Bristol City",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Charlton vs Bristol City — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Charlton",
-      "Team2Name": "Bristol City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/47/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/58/image"
-    },
-    {
-      "EntityId": 1204,
-      "VideoName": "Plymouth vs AFC Wimbledon",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Plymouth vs AFC Wimbledon — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/79/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Plymouth",
-      "Team2Name": "AFC Wimbledon",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/79/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/71/image"
-    },
-    {
-      "EntityId": 1205,
-      "VideoName": "Notts County vs Oxford United",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-10 17:30:00",
-      "Description": "Watch Notts County vs Oxford United — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Notts County",
-      "Team2Name": "Oxford United",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/95/image"
     }
   ]
 }
