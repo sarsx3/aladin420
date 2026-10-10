@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:21 AM 11-10-2026",
+    "LastUpdate": "02:22 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 20,
     "UpcomingCount": 395
   },
   "Matches": [
+    {
+      "EntityId": 1247,
+      "VideoName": "Central C?rdoba vs Estudiantes",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 02:00:00",
+      "Description": "Watch Central C?rdoba vs Estudiantes — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65676/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Central C?rdoba",
+      "Team2Name": "Estudiantes",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/65676/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3206/image"
+    },
     {
       "EntityId": 1251,
       "VideoName": "Vasco vs Remo",
@@ -23,20 +43,32 @@
       "Status": "Live",
       "CategoryId": 9293,
       "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Vasco",
       "Team2Name": "Remo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1974/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2012/image"
+    },
+    {
+      "EntityId": 1274,
+      "VideoName": "Viseu vs Estoril",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 01:30:00",
+      "Description": "Watch Viseu vs Estoril — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3022/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Viseu",
+      "Team2Name": "Estoril",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3022/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4500/image"
     },
     {
       "EntityId": 18269,
@@ -144,6 +176,35 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2819/image"
     },
     {
+      "EntityId": 1284,
+      "VideoName": "Celta Vigo B vs Real Sociedad B",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 01:00:00",
+      "Description": "Watch Celta Vigo B vs Real Sociedad B — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24336/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "http://193.47.62.41/hls/IIIICAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "http://193.47.62.41/hls/IIIICAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Celta Vigo B",
+      "Team2Name": "Real Sociedad B",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/24336/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/24360/image"
+    },
+    {
       "EntityId": 18415,
       "VideoName": "Lorient vs Paris FC",
       "CategoryName": "French Ligue 1 2026/27",
@@ -214,6 +275,34 @@
       "Status": "Live",
       "UrlSlug": "psg-vs-le mans-ligue-one-live-match",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 1246,
+      "VideoName": "Barracas vs Huracan",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:45:00",
+      "Description": "Watch Barracas vs Huracan — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65668/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+      "sources": [
+        {
+          "label": "ESPN1 ARGENTINA FHD",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Barracas",
+      "Team2Name": "Huracan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/65668/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7629/image"
     },
     {
       "EntityId": 1257,
@@ -518,6 +607,57 @@
       "Team2Name": "New York City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2505/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
+    },
+    {
+      "EntityId": 1277,
+      "VideoName": "Al Hilal vs Al Ittihad",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 00:00:00",
+      "Description": "Watch Al Hilal vs Al Ittihad — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - Aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://1cdn.syria-player.info/proxy.php?stream=ssc1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://hello.boomstreaming.com/my-hls/555/index.m3u8?expires=1791658303&token=cbef0c4b519eba01218c3b4d0804ec4e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://chatgpt.hereisman.net/playlist/57821/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Hilal",
+      "Team2Name": "Al Ittihad",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34315/image"
     },
     {
       "EntityId": 18618,
