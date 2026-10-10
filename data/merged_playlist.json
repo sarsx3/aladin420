@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:03 PM 10-10-2026",
+    "LastUpdate": "10:04 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 11,
     "UpcomingCount": 408
   },
   "Matches": [
@@ -256,171 +256,6 @@
       "Team2Name": "Atl. Madrid",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2885/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2836/image"
-    },
-    {
-      "EntityId": 1188,
-      "VideoName": "Sunderland vs Brighton",
-      "CategoryName": "Premier League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 20:00:00",
-      "Description": "Watch Sunderland vs Brighton — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/41/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO5/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO5/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/fa75bd61-ff4c-4cfc-b291-802ad23c5daf.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sunderland",
-      "Team2Name": "Brighton",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/41/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/30/image"
-    },
-    {
-      "EntityId": 1189,
-      "VideoName": "Ipswich vs Fulham",
-      "CategoryName": "Premier League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 20:00:00",
-      "Description": "Watch Ipswich vs Fulham — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/32/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO4/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO4/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/1e66f3ea-183a-4712-849d-f625e96ce926.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Ipswich",
-      "Team2Name": "Fulham",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/32/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/43/image"
-    },
-    {
-      "EntityId": 1190,
-      "VideoName": "Chelsea vs Bournemouth",
-      "CategoryName": "Premier League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 20:00:00",
-      "Description": "Watch Chelsea vs Bournemouth — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/38/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO3/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO3/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "ESPN1 ARGENTINA FHD",
-          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/a1f4e762-f710-4321-be98-634d8298ca08.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Chelsea",
-      "Team2Name": "Bournemouth",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/38/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
-    },
-    {
-      "EntityId": 1191,
-      "VideoName": "Aston Villa vs Brentford",
-      "CategoryName": "Premier League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 20:00:00",
-      "Description": "Watch Aston Villa vs Brentford — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "NBC SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "NBC UNIVERSO FHD",
-          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/f70ccaca-8bcb-42c2-bd0c-7c1ab2a453ba.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Aston Villa",
-      "Team2Name": "Brentford",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/40/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/50/image"
     },
     {
       "EntityId": 1090547647,
