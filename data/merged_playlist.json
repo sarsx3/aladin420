@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:52 PM 10-10-2026",
+    "LastUpdate": "07:53 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 34,
+    "LiveCount": 36,
     "UpcomingCount": 415
   },
   "Matches": [
@@ -107,6 +107,13 @@
             "Referer": "https://myco.io/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "ESPN1 ARGENTINA FHD",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Chelsea",
@@ -134,6 +141,20 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
           "headers": {
             "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "NBC SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "NBC UNIVERSO FHD",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -484,6 +505,87 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/83/image"
     },
     {
+      "EntityId": 1090547647,
+      "VideoName": "FC Goa vs Chennaiyin FC",
+      "CategoryName": "MG Indian Super League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:53:14",
+      "Description": "Watch FC Goa vs Chennaiyin FC live from MG Indian Super League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream MG Indian Super League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9527,
+      "UrlSlug": "mg-indian-super-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/HIN/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/TAM/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791640394
+    },
+    {
+      "EntityId": 1090547535,
+      "VideoName": "Rajasthan Spikers vs Ayodhya Garjan",
+      "CategoryName": "Volleyball Championship League 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:53:14",
+      "Description": "Watch Rajasthan Spikers vs Ayodhya Garjan live from Volleyball Championship League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball Championship League 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9369,
+      "UrlSlug": "volleyball-championship-league-2026-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/HIN/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791640394
+    },
+    {
+      "EntityId": 1090547537,
+      "VideoName": "Mighty Marathas vs Chola Chiefs",
+      "CategoryName": "Archery Premier League 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-10 19:53:14",
+      "Description": "Watch Mighty Marathas vs Chola Chiefs live from Archery Premier League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Archery Premier League 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026049/1791528748692353_APL26_Mighty-Marathas-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026049/1791528748692353_APL26_Mighty-Marathas-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9968,
+      "UrlSlug": "archery-premier-league-2026-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1010/ENG/master.m3u8?hdnea=exp=1791683460~acl=/*~id=98138470456180511501118299521004~hmac=f541f91ca64678e5e3f0531631ec5a8de6d94c8d81d213b578644fe8a75b7629",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1010/ENG/master.m3u8?hdnea=exp=1791683460~acl=/*~id=98138470456180511501118299521004~hmac=f541f91ca64678e5e3f0531631ec5a8de6d94c8d81d213b578644fe8a75b7629"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791640394
+    },
+    {
       "EntityId": 1234,
       "VideoName": "Al Hazm vs NEOM SC",
       "CategoryName": "Saudi League",
@@ -831,33 +933,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1791631521
-    },
-    {
-      "EntityId": 1090547633,
-      "VideoName": "Bengaluru FC vs Sporting Club Delhi",
-      "CategoryName": "MG Indian Super League 2026-27",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-10 16:52:16",
-      "Description": "Watch Bengaluru FC vs Sporting Club Delhi live from MG Indian Super League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream MG Indian Super League 2026-27 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9527,
-      "UrlSlug": "mg-indian-super-league-2026-27-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/master.m3u8?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/master.m3u8?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/HIN/master.m3u8?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1791629536
     },
     {
       "EntityId": 1244,
