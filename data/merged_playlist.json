@@ -1,49 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:47 PM 11-10-2026",
+    "LastUpdate": "06:48 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 13,
     "UpcomingCount": 382
   },
   "Matches": [
-    {
-      "EntityId": 17716,
-      "VideoName": "India vs West Indies",
-      "CategoryName": "West Indies Tour of India 2026",
-      "StageName": "3rd T20I",
-      "EventStartDate": "2026-10-11 19:30:00",
-      "Description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791354471324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913544721020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1124,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Cricket",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "west-indies-tour-of-india-2026"
-    },
-    {
-      "EntityId": 18898,
-      "VideoName": "Leg 1 - Oslo (NOR) Live",
-      "CategoryName": "Longines FEI Jumping World Cup 2026",
-      "StageName": "Race",
-      "EventStartDate": "2026-10-11 19:30:00",
-      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791354003324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913540031020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 368,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Horse Riding",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "longines-fei-jumping-world-cup-nal-2030"
-    },
     {
       "EntityId": 18303,
       "VideoName": "Pakistan vs Sri Lanka",
@@ -7780,8 +7746,23 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+      "sources": [
+        {
+          "label": "NBC SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO NETWORK",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hull City",
       "Team2Name": "Everton",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/96/image",
@@ -7800,8 +7781,23 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+      "sources": [
+        {
+          "label": "ESPN1 ARGENTINA-AQ",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO NETWORK-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Palace",
       "Team2Name": "Forest",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/7/image",
@@ -7820,8 +7816,16 @@
       "Status": "Upcoming",
       "CategoryId": 9502,
       "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "sources": [
+        {
+          "label": "beiN ESPANOL HD",
+          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "OGC Nice",
       "Team2Name": "Strasbourg",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1661/image",
