@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:49 PM 11-10-2026",
+    "LastUpdate": "08:50 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 23,
-    "UpcomingCount": 371
+    "LiveCount": 24,
+    "UpcomingCount": 370
   },
   "Matches": [
     {
@@ -26,6 +26,49 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "rennes-vs-auxerre-ligue-one-live-match"
+    },
+    {
+      "EntityId": 1306,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "international T20I Series",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 21:00:00",
+      "Description": "Watch Pakistan vs Sri Lanka — international T20I Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9638,
+      "UrlSlug": "international-t20i-series",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd?|drmScheme=clearkey&drmLicense=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd?|drmScheme=clearkey&drmLicense=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakistan",
+      "Team2Name": "Sri Lanka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
       "EntityId": 1090547697,
@@ -7941,49 +7984,6 @@
       "Team2Name": "Auxerre",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
-    },
-    {
-      "EntityId": 1306,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "international T20I Series",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 21:00:00",
-      "Description": "Watch Pakistan vs Sri Lanka — international T20I Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9638,
-      "UrlSlug": "international-t20i-series",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd?|drmScheme=clearkey&drmLicense=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd?|drmScheme=clearkey&drmLicense=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan",
-      "Team2Name": "Sri Lanka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     }
   ]
 }
