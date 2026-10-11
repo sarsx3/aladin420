@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:19 PM 11-10-2026",
+    "LastUpdate": "07:20 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
-    "UpcomingCount": 377
+    "LiveCount": 21,
+    "UpcomingCount": 375
   },
   "Matches": [
     {
@@ -44,6 +44,71 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "longines-fei-jumping-world-cup-nal-2030"
+    },
+    {
+      "EntityId": 1263,
+      "VideoName": "K?ln vs Gladbach",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 19:30:00",
+      "Description": "Watch K?ln vs Gladbach — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "K?ln",
+      "Team2Name": "Gladbach",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2527/image"
+    },
+    {
+      "EntityId": 1305,
+      "VideoName": "India vs West Indies",
+      "CategoryName": "International T20I Series",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 19:30:00",
+      "Description": "Watch India vs West Indies — International T20I Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187765/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9938,
+      "UrlSlug": "international-t20i-series",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - Aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tnt sports-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "India",
+      "Team2Name": "West Indies",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
     },
     {
       "EntityId": 18303,
@@ -479,6 +544,13 @@
         {
           "label": "willow-aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd?|drmScheme=clearkey&drmLicense=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow sports hd",
+          "url": "http://103.114.11.37:8081/Willow-TV/index.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -7908,64 +7980,6 @@
       "Team2Name": "Al Riyadh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/168094/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
-    },
-    {
-      "EntityId": 1263,
-      "VideoName": "K?ln vs Gladbach",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 19:30:00",
-      "Description": "Watch K?ln vs Gladbach — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "K?ln",
-      "Team2Name": "Gladbach",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2527/image"
-    },
-    {
-      "EntityId": 1305,
-      "VideoName": "India vs West Indies",
-      "CategoryName": "International T20I Series",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 19:30:00",
-      "Description": "Watch India vs West Indies — International T20I Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187765/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9938,
-      "UrlSlug": "international-t20i-series",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-      "sources": [
-        {
-          "label": "Tapmad - Aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India",
-      "Team2Name": "West Indies",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
     }
   ]
 }
