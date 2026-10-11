@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:48 PM 11-10-2026",
+    "LastUpdate": "04:49 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -65,6 +65,14 @@
           "label": "hd quality",
           "url": "https://www.rtmpcdn.com/live/c54b2cec-839b-4899-85e0-9d691e6b611b.m3u8",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://dz5.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=s7rZOY9uM_0uFjpY4Fd6Vw&expires=1791720310&ch=bbtsip1&s=a75a05fe95842a32f117e3739dcd343d",
+          "headers": {
+            "Referer": "https://playerdee.top/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -7704,6 +7712,28 @@
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
           "headers": {
             "Referer": "https://amazon.com",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "bd - 1",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791802025~_GO=Generated~acl=/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/*~SessionID=1890000065807_fc-web_88454ed9-d5fc-47~Signature=AdJJtMMufHQe9rB0h_mEN7m4KkThWH2r9MwOwfFb4-3taeHnLN9JxAEnwcAVhnDJMwqGcVc2mqHvbwcfRfnZx0P4e3YB",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "bd - 2",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/720p.m3u8?hdntl=Expires=1791802025~_GO=Generated~acl=/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/*~SessionID=1890000065807_fc-web_88454ed9-d5fc-47~Signature=AdJJtMMufHQe9rB0h_mEN7m4KkThWH2r9MwOwfFb4-3taeHnLN9JxAEnwcAVhnDJMwqGcVc2mqHvbwcfRfnZx0P4e3YB",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=Znm0j43qKCy0TBuHXeCr0g&expires=1791720410&ch=spch40&s=7b7001789fbf246d10bcc7ce7caf7b17",
+          "headers": {
+            "Referer": "https://playerdee.top/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
