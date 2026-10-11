@@ -1,15 +1,49 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:48 PM 11-10-2026",
+    "LastUpdate": "06:49 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 15,
     "UpcomingCount": 382
   },
   "Matches": [
+    {
+      "EntityId": 17716,
+      "VideoName": "India vs West Indies",
+      "CategoryName": "West Indies Tour of India 2026",
+      "StageName": "3rd T20I",
+      "EventStartDate": "2026-10-11 19:30:00",
+      "Description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791354471324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913544721020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1124,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Cricket",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "west-indies-tour-of-india-2026"
+    },
+    {
+      "EntityId": 18898,
+      "VideoName": "Leg 1 - Oslo (NOR) Live",
+      "CategoryName": "Longines FEI Jumping World Cup 2026",
+      "StageName": "Race",
+      "EventStartDate": "2026-10-11 19:30:00",
+      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791354003324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913540031020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 368,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Horse Riding",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "longines-fei-jumping-world-cup-nal-2030"
+    },
     {
       "EntityId": 18303,
       "VideoName": "Pakistan vs Sri Lanka",
@@ -7816,16 +7850,8 @@
       "Status": "Upcoming",
       "CategoryId": 9502,
       "UrlSlug": "ligue-1",
-      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-      "sources": [
-        {
-          "label": "beiN ESPANOL HD",
-          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "OGC Nice",
       "Team2Name": "Strasbourg",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1661/image",
