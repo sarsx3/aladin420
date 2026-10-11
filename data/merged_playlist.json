@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:26 AM 11-10-2026",
+    "LastUpdate": "09:27 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 392
+    "LiveCount": 1,
+    "UpcomingCount": 393
   },
   "Matches": [
     {
@@ -27,26 +27,6 @@
       "Status": "Live",
       "UrlSlug": "ufc fight night-allen vs duncan-live",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-    },
-    {
-      "EntityId": 1301,
-      "VideoName": "Afghanistan vs Bangladesh",
-      "CategoryName": "international Test Series",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-11 00:00:00",
-      "Description": "Watch Afghanistan vs Bangladesh — international Test Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9651,
-      "UrlSlug": "international-test-series",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Bangladesh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
     },
     {
       "EntityId": 18967,
@@ -7552,6 +7532,26 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
+    },
+    {
+      "EntityId": 1301,
+      "VideoName": "Afghanistan vs Bangladesh",
+      "CategoryName": "international Test Series",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-11 11:30:00",
+      "Description": "Watch Afghanistan vs Bangladesh — international Test Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9651,
+      "UrlSlug": "international-test-series",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Bangladesh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
     },
     {
       "EntityId": 1459,
