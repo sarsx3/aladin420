@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:16 AM 12-10-2026",
+    "LastUpdate": "12:17 AM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -216,54 +216,46 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2820/image"
     },
     {
-      "EntityId": 1273,
-      "VideoName": "Sassuolo vs AC Milan",
-      "CategoryName": "Serie A",
+      "EntityId": 1304,
+      "VideoName": "India Champions vs Bangladesh Champions",
+      "CategoryName": "World Championship of Legends",
       "StageName": "Live",
-      "EventStartDate": "2026-10-11 22:00:00",
-      "Description": "Watch Sassuolo vs AC Milan — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2793/image",
+      "EventStartDate": "2026-10-11 21:30:00",
+      "Description": "Watch India Champions vs Bangladesh Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VJ.png",
       "ThumbnailTV": "",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
+      "CategoryId": 9369,
+      "UrlSlug": "world-championship-of-legends",
+      "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
       "sources": [
         {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BeIN2 SPORTS-AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "label": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "SPORT1 CZ-AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "label": "t sports-hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/e55e8dcd-4905-460b-b048-9ea63a921a1a.m3u8",
+          "label": "WILLOW-AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd?|drmScheme=clearkey&drmLicense=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
       ],
-      "Team1Name": "Sassuolo",
-      "Team2Name": "AC Milan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2793/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
+      "Team1Name": "India Champions",
+      "Team2Name": "Bangladesh Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VJ.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png"
     },
     {
       "EntityId": 18967,
