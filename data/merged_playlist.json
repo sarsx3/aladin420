@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:37 PM 11-10-2026",
+    "LastUpdate": "08:38 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -7859,8 +7859,16 @@
       "Status": "Upcoming",
       "CategoryId": 9044,
       "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "sources": [
+        {
+          "label": "MBX SPORTS",
+          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Freiburg",
       "Team2Name": "Schalke 04",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2538/image",
@@ -7919,8 +7927,16 @@
       "Status": "Upcoming",
       "CategoryId": 9502,
       "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "sources": [
+        {
+          "label": "beiN ESPANOL HD",
+          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Rennes",
       "Team2Name": "Auxerre",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
