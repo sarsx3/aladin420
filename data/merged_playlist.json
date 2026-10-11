@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:19 AM 11-10-2026",
+    "LastUpdate": "06:20 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 394
+    "LiveCount": 5,
+    "UpcomingCount": 393
   },
   "Matches": [
+    {
+      "EntityId": 1249,
+      "VideoName": "River vs Estudiantes R?o Cuarto",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 06:30:00",
+      "Description": "Watch River vs Estudiantes R?o Cuarto — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3211/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "River",
+      "Team2Name": "Estudiantes R?o Cuarto",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3211/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/266694/image"
+    },
     {
       "EntityId": 18230,
       "VideoName": "Allen vs Duncan",
@@ -7697,26 +7717,6 @@
       "Team2Name": "Bangladesh Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213117/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187809/image"
-    },
-    {
-      "EntityId": 1249,
-      "VideoName": "River vs Estudiantes R?o Cuarto",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 06:30:00",
-      "Description": "Watch River vs Estudiantes R?o Cuarto — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3211/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "River",
-      "Team2Name": "Estudiantes R?o Cuarto",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3211/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/266694/image"
     }
   ]
 }
