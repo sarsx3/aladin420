@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:41 PM 11-10-2026",
+    "LastUpdate": "09:42 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 17,
+    "LiveCount": 16,
     "UpcomingCount": 365
   },
   "Matches": [
@@ -171,6 +171,13 @@
         {
           "label": "t sports-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "WILLOW-AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd?|drmScheme=clearkey&drmLicense=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -423,35 +430,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1791726978
-    },
-    {
-      "EntityId": 1278,
-      "VideoName": "Al Feiha vs Al Riyadh",
-      "CategoryName": "Saudi League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-11 19:40:00",
-      "Description": "Watch Al Feiha vs Al Riyadh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/168094/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "http://193.47.62.59/hls/NCCCAAQQQA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.59/hls/NCCCAAQQQA.m3u8",
-          "headers": {
-            "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Feiha",
-      "Team2Name": "Al Riyadh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/168094/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
     },
     {
       "EntityId": 17716,
