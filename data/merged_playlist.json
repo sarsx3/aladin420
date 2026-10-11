@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:04 PM 11-10-2026",
+    "LastUpdate": "09:05 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 23,
-    "UpcomingCount": 370
+    "LiveCount": 24,
+    "UpcomingCount": 369
   },
   "Matches": [
     {
@@ -27,6 +27,34 @@
       "Status": "Live",
       "UrlSlug": "rennes-vs-auxerre-ligue-one-live-match",
       "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+    },
+    {
+      "EntityId": 1262,
+      "VideoName": "Rennes vs Auxerre",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 21:15:00",
+      "Description": "Watch Rennes vs Auxerre — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1658/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "sources": [
+        {
+          "label": "beiN ESPANOL HD",
+          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Rennes",
+      "Team2Name": "Auxerre",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
     },
     {
       "EntityId": 1306,
@@ -7939,42 +7967,6 @@
       "Team2Name": "Al Faysaly",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/168090/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/56035/image"
-    },
-    {
-      "EntityId": 1262,
-      "VideoName": "Rennes vs Auxerre",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 21:15:00",
-      "Description": "Watch Rennes vs Auxerre — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1658/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-      "sources": [
-        {
-          "label": "beiN ESPANOL HD",
-          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Rennes",
-      "Team2Name": "Auxerre",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
     }
   ]
 }
