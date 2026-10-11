@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:35 PM 11-10-2026",
+    "LastUpdate": "08:36 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -7817,8 +7817,30 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+      "sources": [
+        {
+          "label": "NBC SPORTS-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO NETWORK-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ESPN2 ARGENTINA-AQ",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Liverpool",
       "Team2Name": "Man City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/44/image",
