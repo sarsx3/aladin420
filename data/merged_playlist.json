@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:39 AM 11-10-2026",
+    "LastUpdate": "09:40 AM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 392
+    "LiveCount": 3,
+    "UpcomingCount": 391
   },
   "Matches": [
+    {
+      "EntityId": 1459,
+      "VideoName": "Australia Women vs Bangladesh Women",
+      "CategoryName": "ICC Women's Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 09:50:00",
+      "Description": "Watch Australia Women vs Bangladesh Women — ICC Women's Championship. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213117/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9532,
+      "UrlSlug": "icc-women-s-championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Australia Women",
+      "Team2Name": "Bangladesh Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/213117/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187809/image"
+    },
     {
       "EntityId": 18230,
       "VideoName": "Allen vs Duncan",
@@ -7552,26 +7572,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 1459,
-      "VideoName": "Australia Women vs Bangladesh Women",
-      "CategoryName": "ICC Women's Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 09:50:00",
-      "Description": "Watch Australia Women vs Bangladesh Women — ICC Women's Championship. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213117/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9532,
-      "UrlSlug": "icc-women-s-championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Australia Women",
-      "Team2Name": "Bangladesh Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213117/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187809/image"
     }
   ]
 }
