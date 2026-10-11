@@ -1,15 +1,52 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:29 PM 11-10-2026",
+    "LastUpdate": "07:30 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 21,
-    "UpcomingCount": 375
+    "LiveCount": 23,
+    "UpcomingCount": 374
   },
   "Matches": [
+    {
+      "EntityId": 18271,
+      "VideoName": "Real Sociedad vs Deportivo",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-11 20:15:00",
+      "Description": "The 74th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Sociedad vs Deportivo live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926836324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909268361020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 827,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "laliga--real-sociedad-vs-deportivo-live"
+    },
+    {
+      "EntityId": 1278,
+      "VideoName": "Al Feiha vs Al Riyadh",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 19:40:00",
+      "Description": "Watch Al Feiha vs Al Riyadh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/168094/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Feiha",
+      "Team2Name": "Al Riyadh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/168094/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
+    },
     {
       "EntityId": 17716,
       "VideoName": "India vs West Indies",
@@ -43,7 +80,8 @@
       "NewSportsGenre": "Horse Riding",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "longines-fei-jumping-world-cup-nal-2030"
+      "UrlSlug": "longines-fei-jumping-world-cup-nal-2030",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     },
     {
       "EntityId": 1263,
@@ -65,6 +103,13 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
           "headers": {
             "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/730724ec-614f-4553-ad93-463f03e2baea.m3u8",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -7960,26 +8005,6 @@
       "Team2Name": "Legan?s",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2845/image"
-    },
-    {
-      "EntityId": 1278,
-      "VideoName": "Al Feiha vs Al Riyadh",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 19:40:00",
-      "Description": "Watch Al Feiha vs Al Riyadh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/168094/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Feiha",
-      "Team2Name": "Al Riyadh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/168094/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
     }
   ]
 }
