@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:51 PM 11-10-2026",
+    "LastUpdate": "04:52 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 8,
     "UpcomingCount": 388
   },
   "Matches": [
@@ -67,6 +67,60 @@
       "Team2Name": "Portsmouth",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/45/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2/image"
+    },
+    {
+      "EntityId": 1090547694,
+      "VideoName": "Inter Kashi vs Kerala Blasters FC",
+      "CategoryName": "MG Indian Super League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 16:52:17",
+      "Description": "Watch Inter Kashi vs Kerala Blasters FC live from MG Indian Super League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream MG Indian Super League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9527,
+      "UrlSlug": "mg-indian-super-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/HIN/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945"
+        },
+        {
+          "label": "Malayalam",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/MAL/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791715937
+    },
+    {
+      "EntityId": 1090547693,
+      "VideoName": "Open de Espana Presented By Madrid - Day 4",
+      "CategoryName": "DP World Tour",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 16:52:17",
+      "Description": "Watch Open de Espana Presented By Madrid - Day 4 live from DP World Tour. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream DP World Tour online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9166,
+      "UrlSlug": "dp-world-tour-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/master.m3u8?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/master.m3u8?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791715937
     },
     {
       "EntityId": 1270,
