@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:40 PM 11-10-2026",
+    "LastUpdate": "09:41 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
+    "LiveCount": 17,
     "UpcomingCount": 365
   },
   "Matches": [
@@ -488,42 +488,6 @@
       "Status": "Live",
       "UrlSlug": "longines-fei-jumping-world-cup-nal-2030",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-    },
-    {
-      "EntityId": 1263,
-      "VideoName": "K?ln vs Gladbach",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-11 19:30:00",
-      "Description": "Watch K?ln vs Gladbach — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/730724ec-614f-4553-ad93-463f03e2baea.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "K?ln",
-      "Team2Name": "Gladbach",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2527/image"
     },
     {
       "EntityId": 1305,
