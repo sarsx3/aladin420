@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 AM 12-10-2026",
+    "LastUpdate": "04:20 AM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 342
+    "LiveCount": 9,
+    "UpcomingCount": 341
   },
   "Matches": [
+    {
+      "EntityId": 1320,
+      "VideoName": "Bahia vs Mirassol",
+      "CategoryName": "Brasileir?o S?rie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-12 04:30:00",
+      "Description": "Watch Bahia vs Mirassol — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1955/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9293,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+      "sources": [
+        {
+          "label": "PREMIERER5 FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bahia",
+      "Team2Name": "Mirassol",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1955/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/21982/image"
+    },
     {
       "EntityId": 1316,
       "VideoName": "Gremio vs Internacional",
@@ -6859,34 +6887,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 1320,
-      "VideoName": "Bahia vs Mirassol",
-      "CategoryName": "Brasileir?o S?rie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-12 04:30:00",
-      "Description": "Watch Bahia vs Mirassol — Brasileir?o S?rie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1955/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9293,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-      "sources": [
-        {
-          "label": "PREMIERER5 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bahia",
-      "Team2Name": "Mirassol",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1955/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/21982/image"
     }
   ]
 }
