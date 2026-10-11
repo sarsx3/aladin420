@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:19 AM 12-10-2026",
+    "LastUpdate": "12:20 AM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 357
+    "LiveCount": 8,
+    "UpcomingCount": 356
   },
   "Matches": [
+    {
+      "EntityId": 18273,
+      "VideoName": "Racing Santander vs Valencia",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-12 01:00:00",
+      "Description": "The 76th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Valencia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790927153324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909271531020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 827,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "laliga--racing-santander-vs-valencia-live"
+    },
     {
       "EntityId": 18421,
       "VideoName": "Troyes vs Marseille",
@@ -216,46 +233,54 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2820/image"
     },
     {
-      "EntityId": 1304,
-      "VideoName": "India Champions vs Bangladesh Champions",
-      "CategoryName": "World Championship of Legends",
+      "EntityId": 1273,
+      "VideoName": "Sassuolo vs AC Milan",
+      "CategoryName": "Serie A",
       "StageName": "Live",
-      "EventStartDate": "2026-10-11 21:30:00",
-      "Description": "Watch India Champions vs Bangladesh Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VJ.png",
+      "EventStartDate": "2026-10-11 22:00:00",
+      "Description": "Watch Sassuolo vs AC Milan — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2793/image",
       "ThumbnailTV": "",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 9369,
-      "UrlSlug": "world-championship-of-legends",
-      "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
       "sources": [
         {
-          "label": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BeIN2 SPORTS-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "t sports-hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "label": "SPORT1 CZ-AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "WILLOW-AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd?|drmScheme=clearkey&drmLicense=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d",
+          "label": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/e55e8dcd-4905-460b-b048-9ea63a921a1a.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
       ],
-      "Team1Name": "India Champions",
-      "Team2Name": "Bangladesh Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VJ.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png"
+      "Team1Name": "Sassuolo",
+      "Team2Name": "AC Milan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2793/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
     },
     {
       "EntityId": 18967,
@@ -6970,23 +6995,6 @@
       "Team2Name": "Amadora",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/25777/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3035/image"
-    },
-    {
-      "EntityId": 18273,
-      "VideoName": "Racing Santander vs Valencia",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 8",
-      "EventStartDate": "2026-10-12 01:00:00",
-      "Description": "The 76th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Valencia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790927153324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909271531020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 827,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "laliga--racing-santander-vs-valencia-live"
     },
     {
       "EntityId": 1310,
