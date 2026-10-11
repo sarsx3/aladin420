@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:54 PM 11-10-2026",
+    "LastUpdate": "06:55 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 20,
+    "LiveCount": 21,
     "UpcomingCount": 377
   },
   "Matches": [
@@ -227,12 +227,56 @@
       "Status": "Live",
       "CategoryId": 9359,
       "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "cbs SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "headers": {
+            "Referer": "https://amazon.com",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Lazio",
       "Team2Name": "Monza",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2699/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2729/image"
+    },
+    {
+      "EntityId": 1090547695,
+      "VideoName": "Garvi Gujjus vs Emperia Marathas",
+      "CategoryName": "Volleyball Championship League 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 18:55:22",
+      "Description": "Watch Garvi Gujjus vs Emperia Marathas live from Volleyball Championship League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball Championship League 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9369,
+      "UrlSlug": "volleyball-championship-league-2026-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/HIN/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791723322
     },
     {
       "EntityId": 18270,
