@@ -1,15 +1,113 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 PM 11-10-2026",
+    "LastUpdate": "09:20 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
-    "UpcomingCount": 368
+    "LiveCount": 18,
+    "UpcomingCount": 365
   },
   "Matches": [
+    {
+      "EntityId": 1255,
+      "VideoName": "Liverpool vs Man City",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 21:30:00",
+      "Description": "Watch Liverpool vs Man City — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/44/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+      "sources": [
+        {
+          "label": "NBC SPORTS-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO NETWORK-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ESPN2 ARGENTINA-AQ",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Liverpool",
+      "Team2Name": "Man City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/44/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/17/image"
+    },
+    {
+      "EntityId": 1264,
+      "VideoName": "Freiburg vs Schalke 04",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 21:30:00",
+      "Description": "Watch Freiburg vs Schalke 04 — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2538/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "sources": [
+        {
+          "label": "MBX SPORTS",
+          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Freiburg",
+      "Team2Name": "Schalke 04",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2538/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2530/image"
+    },
+    {
+      "EntityId": 1304,
+      "VideoName": "India Champions vs Bangladesh Champions",
+      "CategoryName": "World Championship of Legends",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-11 21:30:00",
+      "Description": "Watch India Champions vs Bangladesh Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VJ.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9369,
+      "UrlSlug": "world-championship-of-legends",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "India Champions",
+      "Team2Name": "Bangladesh Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VJ.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png"
+    },
     {
       "EntityId": 18420,
       "VideoName": "Rennes vs Auxerre",
@@ -448,29 +546,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1791723322
-    },
-    {
-      "EntityId": 1090547693,
-      "VideoName": "Open de Espana Presented By Madrid - Day 4",
-      "CategoryName": "DP World Tour",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-11 16:52:17",
-      "Description": "Watch Open de Espana Presented By Madrid - Day 4 live from DP World Tour. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream DP World Tour online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9166,
-      "UrlSlug": "dp-world-tour-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/master.m3u8?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/master.m3u8?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1791715937
     },
     {
       "EntityId": 18967,
@@ -7456,104 +7531,6 @@
       "Team2Name": "AC Milan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2793/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
-    },
-    {
-      "EntityId": 1255,
-      "VideoName": "Liverpool vs Man City",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 21:30:00",
-      "Description": "Watch Liverpool vs Man City — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/44/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-      "sources": [
-        {
-          "label": "NBC SPORTS-AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FUBO NETWORK-AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "ESPN2 ARGENTINA-AQ",
-          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Liverpool",
-      "Team2Name": "Man City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/44/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/17/image"
-    },
-    {
-      "EntityId": 1264,
-      "VideoName": "Freiburg vs Schalke 04",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 21:30:00",
-      "Description": "Watch Freiburg vs Schalke 04 — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2538/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-      "sources": [
-        {
-          "label": "MBX SPORTS",
-          "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Freiburg",
-      "Team2Name": "Schalke 04",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2538/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2530/image"
-    },
-    {
-      "EntityId": 1304,
-      "VideoName": "India Champions vs Bangladesh Champions",
-      "CategoryName": "World Championship of Legends",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-11 21:30:00",
-      "Description": "Watch India Champions vs Bangladesh Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/VJ.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9369,
-      "UrlSlug": "world-championship-of-legends",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "India Champions",
-      "Team2Name": "Bangladesh Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/VJ.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png"
     }
   ]
 }
