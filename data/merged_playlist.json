@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:20 PM 12-10-2026",
+    "LastUpdate": "10:21 PM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 8,
     "UpcomingCount": 362
   },
   "Matches": [
@@ -207,58 +207,19 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "fancode-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Al Wasl",
       "Team2Name": "Al Ahli",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/47674/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/34469/image"
-    },
-    {
-      "EntityId": 1090547710,
-      "VideoName": "NorthEast United FC vs Mohun Bagan Super Giant",
-      "CategoryName": "MG Indian Super League 2026-27",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-12 20:26:19",
-      "Description": "Watch NorthEast United FC vs Mohun Bagan Super Giant live from MG Indian Super League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream MG Indian Super League 2026-27 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9527,
-      "UrlSlug": "mg-indian-super-league-2026-27-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1791815179
-    },
-    {
-      "EntityId": 1090547706,
-      "VideoName": "Prithviraj Yodhas vs Kakatiya Knights",
-      "CategoryName": "Archery Premier League 2026",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-12 20:26:19",
-      "Description": "Watch Prithviraj Yodhas vs Kakatiya Knights live from Archery Premier League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Archery Premier League 2026 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026133/1791660631760741_APL26_Prithviraj_Yodhas_vs_Kakatiya_Knights_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026133/1791660631760741_APL26_Prithviraj_Yodhas_vs_Kakatiya_Knights_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9968,
-      "UrlSlug": "archery-premier-league-2026-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1791815179
     },
     {
       "EntityId": 1090547705,
