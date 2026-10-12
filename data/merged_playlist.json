@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:16 PM 12-10-2026",
+    "LastUpdate": "03:17 PM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 368
+    "LiveCount": 4,
+    "UpcomingCount": 369
   },
   "Matches": [
     {
@@ -82,24 +82,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 18091,
-      "VideoName": "Pakistan U19 vs Sri Lanka U19",
-      "CategoryName": "Pakistan Women's Under-19s T20 Tri-Series 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-10-12 12:00:00",
-      "Description": "The Pakistan Women's Under-19s T20 Tri-Series 2026/27 brings together Pakistan, Sri Lanka, and Bangladesh for an exciting U19 T20 cricket competition in Faisalabad. Featuring emerging talent, powerful batting, disciplined bowling, competitive matchups, and thrilling finishes, the tri-series showcases the next generation of women's cricket stars. Watch Pakistan Women's Under-19s T20 Tri-Series 2026/27 live in HD on tapmad via app, web, or Smart TV. Catch every run, wicket, boundary, partnership, and match-defining moment live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791782026324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917820261020x576.jpg",
-      "IsFreeToWatch": true,
-      "CategoryId": 1135,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Cricket",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "pakistan-womens-under-19s-t20-tri-series-2026-27",
-      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
     },
     {
       "EntityId": 1323,
@@ -1843,6 +1825,23 @@
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
+    },
+    {
+      "EntityId": 18232,
+      "VideoName": "Buckley vs Malott",
+      "CategoryName": "UFC 2026",
+      "StageName": "Fight Night",
+      "EventStartDate": "2026-10-18 06:00:00",
+      "Description": "UFC Fight Night Live: Watch Buckley vs Malott live online on tapmad. Enjoy watching Buckley vs Malott live streaming online in Pakistan with full match highlights. The fight will start at 05:00 AM on 18-Oct. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791796374324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917963751020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 265,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Mma",
+      "is_full_data": true,
+      "Status": "Upcoming",
+      "UrlSlug": "ufc fight night-buckley vs malott-live"
     },
     {
       "EntityId": 1562,
