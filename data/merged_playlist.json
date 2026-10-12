@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:43 PM 12-10-2026",
+    "LastUpdate": "05:44 PM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5501,8 +5501,17 @@
       "Status": "Upcoming",
       "CategoryId": 9491,
       "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Valladolid",
       "Team2Name": "Albacete",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2831/image",
