@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:34 PM 12-10-2026",
+    "LastUpdate": "07:35 PM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 266
+    "LiveCount": 5,
+    "UpcomingCount": 265
   },
   "Matches": [
+    {
+      "EntityId": 1326,
+      "VideoName": "Pakhtakor vs Al Qadsiah",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-12 19:45:00",
+      "Description": "Watch Pakhtakor vs Al Qadsiah — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34310/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakhtakor",
+      "Team2Name": "Al Qadsiah",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34310/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/56027/image"
+    },
     {
       "EntityId": 1090547710,
       "VideoName": "NorthEast United FC vs Mohun Bagan Super Giant",
@@ -5519,35 +5548,6 @@
       "Team2Name": "Granada",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2854/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/33779/image"
-    },
-    {
-      "EntityId": 1326,
-      "VideoName": "Pakhtakor vs Al Qadsiah",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-12 19:45:00",
-      "Description": "Watch Pakhtakor vs Al Qadsiah — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34310/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakhtakor",
-      "Team2Name": "Al Qadsiah",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34310/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/56027/image"
     }
   ]
 }
