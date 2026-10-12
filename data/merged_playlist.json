@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 12-10-2026",
+    "LastUpdate": "09:50 PM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 366
+    "LiveCount": 9,
+    "UpcomingCount": 364
   },
   "Matches": [
     {
@@ -46,6 +46,80 @@
       "Status": "Live",
       "UrlSlug": "afc-champions-league-elite-Al Wasl FC vs Al Ahli Saudi FC",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "EntityId": 1328,
+      "VideoName": "Tractor FC vs Al Shamal",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-12 22:00:00",
+      "Description": "Watch Tractor FC vs Al Shamal — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/53715/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/A555AA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Tractor FC",
+      "Team2Name": "Al Shamal",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/53715/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/170366/image"
+    },
+    {
+      "EntityId": 1329,
+      "VideoName": "Al Wasl vs Al Ahli",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-12 22:00:00",
+      "Description": "Watch Al Wasl vs Al Ahli — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47674/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/A555A.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Wasl",
+      "Team2Name": "Al Ahli",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/47674/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34469/image"
     },
     {
       "EntityId": 1090547710,
@@ -7136,80 +7210,6 @@
       "Team2Name": "Eibar",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2851/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2839/image"
-    },
-    {
-      "EntityId": 1328,
-      "VideoName": "Tractor FC vs Al Shamal",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-12 22:00:00",
-      "Description": "Watch Tractor FC vs Al Shamal — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/53715/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/A555AA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Tractor FC",
-      "Team2Name": "Al Shamal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/53715/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/170366/image"
-    },
-    {
-      "EntityId": 1329,
-      "VideoName": "Al Wasl vs Al Ahli",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-12 22:00:00",
-      "Description": "Watch Al Wasl vs Al Ahli — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47674/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/A555A.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Wasl",
-      "Team2Name": "Al Ahli",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/47674/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34469/image"
     }
   ]
 }
