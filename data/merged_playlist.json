@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:25 AM 12-10-2026",
+    "LastUpdate": "08:26 AM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -6466,8 +6466,13 @@
       "Status": "Upcoming",
       "CategoryId": 9651,
       "UrlSlug": "international-test-series",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
+      "sources": [
+        {
+          "label": "T Sports Hd",
+          "url": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8"
+        }
+      ],
       "Team1Name": "Afghanistan",
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
