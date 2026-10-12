@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 AM 13-10-2026",
+    "LastUpdate": "12:35 AM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 355
+    "LiveCount": 8,
+    "UpcomingCount": 354
   },
   "Matches": [
     {
@@ -27,6 +27,26 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "laliga---levante-vs-sevilla-live"
+    },
+    {
+      "EntityId": 1335,
+      "VideoName": "Torino vs Udinese Calcio",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-13 00:45:00",
+      "Description": "Watch Torino vs Udinese Calcio — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2696/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Torino",
+      "Team2Name": "Udinese Calcio",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2696/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2695/image"
     },
     {
       "EntityId": 18638,
@@ -227,100 +247,6 @@
       "Team2Name": "Esteghlal FC Tehran",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34312/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/34316/image"
-    },
-    {
-      "EntityId": 1330,
-      "VideoName": "Atalanta vs Venezia",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-12 22:30:00",
-      "Description": "Watch Atalanta vs Venezia — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2686/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BEIN3 SPORTS-AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS NETWORK-AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORT1 CZ-AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd-server",
-          "url": "https://www.rtmpcdn.com/live/48e91178-39d6-423d-bf2c-0bbd3dcf43b9.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.55/hls/A555AAAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Atalanta",
-      "Team2Name": "Venezia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2686/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2688/image"
-    },
-    {
-      "EntityId": 1331,
-      "VideoName": "Real Oviedo vs Eibar",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-12 22:30:00",
-      "Description": "Watch Real Oviedo vs Eibar — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2851/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "http://193.47.62.44/hls/YFFFAAAX.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.44/hls/YFFFAAAX.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Real Oviedo",
-      "Team2Name": "Eibar",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2851/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2839/image"
     },
     {
       "EntityId": 18967,
@@ -7107,26 +7033,6 @@
       "Team2Name": "Sevilla FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2849/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2833/image"
-    },
-    {
-      "EntityId": 1335,
-      "VideoName": "Torino vs Udinese Calcio",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-13 00:45:00",
-      "Description": "Watch Torino vs Udinese Calcio — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2696/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Torino",
-      "Team2Name": "Udinese Calcio",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2696/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2695/image"
     }
   ]
 }
