@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:19 PM 13-10-2026",
+    "LastUpdate": "10:20 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 12,
     "UpcomingCount": 338
   },
   "Matches": [
@@ -105,6 +105,14 @@
             "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.50/hls/I888AAAAQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Al Sadd",
@@ -132,6 +140,14 @@
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.50/hls/I888AAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -305,43 +321,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1791899597
-    },
-    {
-      "EntityId": 1349,
-      "VideoName": "East Bengal vs Al Shorta Baghdad",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-13 19:45:00",
-      "Description": "Watch East Bengal vs Al Shorta Baghdad — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40655/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.55/hls/emmm.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "East Bengal",
-      "Team2Name": "Al Shorta Baghdad",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/40655/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/61532/image"
     },
     {
       "EntityId": 18304,
