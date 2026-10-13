@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:14 AM 13-10-2026",
+    "LastUpdate": "11:15 AM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -47,33 +47,21 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1954/image"
     },
     {
-      "EntityId": 1338,
-      "VideoName": "Famalic?o vs Alverca",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-13 01:15:00",
-      "Description": "Watch Famalic?o vs Alverca — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/49531/image",
-      "ThumbnailTV": "",
+      "EntityId": 18900,
+      "VideoName": "Afghanistan vs Bangladesh",
+      "CategoryName": "Afghanistan vs Bangladesh 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-10-09 12:00:00",
+      "Description": "The Afghanistan vs Bangladesh Test Series 2026 in the UAE brings two competitive cricket sides together for an exciting international contest. Led by Rahmat Shah, Afghanistan will face Najmul Hossain Shanto’s Bangladesh in a thrilling Test series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Afghanistan vs Bangladesh Test Series 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791467509324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg",
       "IsFreeToWatch": false,
+      "CategoryId": 1161,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Cricket",
+      "is_full_data": true,
       "Status": "Live",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Famalic?o",
-      "Team2Name": "Alverca",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/49531/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/190328/image"
+      "UrlSlug": "afghanistan-vs-bangladesh-2026"
     },
     {
       "EntityId": 18967,
@@ -6559,6 +6547,35 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
+    },
+    {
+      "EntityId": 1338,
+      "VideoName": "Famalic?o vs Alverca",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-13 01:15:00",
+      "Description": "Watch Famalic?o vs Alverca — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/49531/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Ended",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Famalic?o",
+      "Team2Name": "Alverca",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/49531/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/190328/image"
     },
     {
       "EntityId": 1336,
