@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:34 PM 13-10-2026",
+    "LastUpdate": "01:35 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 335
+    "LiveCount": 6,
+    "UpcomingCount": 334
   },
   "Matches": [
     {
@@ -27,6 +27,26 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Gamba Osaka"
+    },
+    {
+      "EntityId": 1342,
+      "VideoName": "Newcastle Jets vs Gamba Osaka",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-13 13:45:00",
+      "Description": "Watch Newcastle Jets vs Gamba Osaka — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2934/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Newcastle Jets",
+      "Team2Name": "Gamba Osaka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2934/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3138/image"
     },
     {
       "EntityId": 1341,
@@ -6604,26 +6624,6 @@
       "Team2Name": "Ratchaburi FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3149/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/85743/image"
-    },
-    {
-      "EntityId": 1342,
-      "VideoName": "Newcastle Jets vs Gamba Osaka",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-13 13:45:00",
-      "Description": "Watch Newcastle Jets vs Gamba Osaka — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2934/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Newcastle Jets",
-      "Team2Name": "Gamba Osaka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2934/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3138/image"
     }
   ]
 }
