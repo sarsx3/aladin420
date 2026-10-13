@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:23 PM 13-10-2026",
+    "LastUpdate": "09:24 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -285,13 +285,13 @@
     },
     {
       "EntityId": 1090547794,
-      "VideoName": "Garvi Gujjus vs Rajasthan Spikers",
+      "VideoName": "Namma Bengaluru Smashers vs Delhi Dynamites",
       "CategoryName": "Volleyball Championship League 2026",
       "StageName": "Live",
       "EventStartDate": "2026-10-13 18:53:16",
-      "Description": "Watch Garvi Gujjus vs Rajasthan Spikers live from Volleyball Championship League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball Championship League 2026 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
+      "Description": "Watch Namma Bengaluru Smashers vs Delhi Dynamites live from Volleyball Championship League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball Championship League 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9369,
@@ -6739,8 +6739,16 @@
       "Status": "Upcoming",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+      "sources": [
+        {
+          "label": "TNT4 SPORTS-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Sabah",
       "Team2Name": "SK Slavia Praha",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/267828/image",
