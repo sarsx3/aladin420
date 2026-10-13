@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 13-10-2026",
+    "LastUpdate": "09:50 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 340
+    "LiveCount": 12,
+    "UpcomingCount": 338
   },
   "Matches": [
     {
@@ -46,6 +46,64 @@
       "Status": "Live",
       "UrlSlug": "afc-champions-league-elite-Al Sadd SC vs Al Hilal SFC",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+    },
+    {
+      "EntityId": 1352,
+      "VideoName": "Al Sadd vs Al Hilal Riyadh",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-13 22:00:00",
+      "Description": "Watch Al Sadd vs Al Hilal Riyadh — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/39733/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Sadd",
+      "Team2Name": "Al Hilal Riyadh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/39733/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/21895/image"
+    },
+    {
+      "EntityId": 1353,
+      "VideoName": "Al Seeb SC vs Al Hussein",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-13 22:00:00",
+      "Description": "Watch Al Seeb SC vs Al Hussein — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/71044/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Seeb SC",
+      "Team2Name": "Al Hussein",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/71044/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/117204/image"
     },
     {
       "EntityId": 1351,
@@ -6775,64 +6833,6 @@
       "Team2Name": "Sporting Lisbon",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3001/image"
-    },
-    {
-      "EntityId": 1352,
-      "VideoName": "Al Sadd vs Al Hilal Riyadh",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-13 22:00:00",
-      "Description": "Watch Al Sadd vs Al Hilal Riyadh — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/39733/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Sadd",
-      "Team2Name": "Al Hilal Riyadh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/39733/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/21895/image"
-    },
-    {
-      "EntityId": 1353,
-      "VideoName": "Al Seeb SC vs Al Hussein",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-13 22:00:00",
-      "Description": "Watch Al Seeb SC vs Al Hussein — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/71044/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Seeb SC",
-      "Team2Name": "Al Hussein",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/71044/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/117204/image"
     }
   ]
 }
