@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:51 AM 14-10-2026",
+    "LastUpdate": "12:52 AM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 29,
+    "LiveCount": 33,
     "UpcomingCount": 312
   },
   "Matches": [
@@ -146,8 +146,24 @@
       "Status": "Live",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Villarreal",
       "Team2Name": "Napoli",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2819/image",
@@ -166,8 +182,24 @@
       "Status": "Live",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Viking",
       "Team2Name": "Bayern",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1164/image",
@@ -194,6 +226,13 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Atl. Madrid",
@@ -214,8 +253,16 @@
       "Status": "Live",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Inter",
       "Team2Name": "Club Brugge",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2697/image",
@@ -234,8 +281,16 @@
       "Status": "Live",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "RB Leipzig",
       "Team2Name": "PSV",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/36360/image",
@@ -262,6 +317,21 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Galatasaray",
@@ -282,8 +352,16 @@
       "Status": "Live",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Arsenal",
       "Team2Name": "Lille",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/42/image",
@@ -328,6 +406,144 @@
       "Team2Name": "Preston",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/9/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/21/image"
+    },
+    {
+      "EntityId": 1090547846,
+      "VideoName": "Atletico Madrid vs Man United",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 00:52:19",
+      "Description": "Watch Atletico Madrid vs Man United live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960641~acl=/*~id=28450448947460609437521951931255~hmac=54510b137aea504a41b2de3f42b7a0d81709d1d3c50d603353c1ed043d718895",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960641~acl=/*~id=28450448947460609437521951931255~hmac=54510b137aea504a41b2de3f42b7a0d81709d1d3c50d603353c1ed043d718895"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791917539
+    },
+    {
+      "EntityId": 1090547845,
+      "VideoName": "Arsenal vs Lille",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 00:52:19",
+      "Description": "Watch Arsenal vs Lille live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170656647329_UCL2627_MD2_Arsenal_vs_Lille_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170656647329_UCL2627_MD2_Arsenal_vs_Lille_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960655~acl=/*~id=40217707972704396299392453830088~hmac=17e24ac5fa17defce3a2109b370308f3af9f6613f846a6754dca52b9d132ac7f",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960655~acl=/*~id=40217707972704396299392453830088~hmac=17e24ac5fa17defce3a2109b370308f3af9f6613f846a6754dca52b9d132ac7f"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791917539
+    },
+    {
+      "EntityId": 1090547896,
+      "VideoName": "Galatasaray vs Barcelona",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 00:52:19",
+      "Description": "Watch Galatasaray vs Barcelona live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791172070951329_UCL2627_MD2_Galatasaray_vs_Barcelona_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791172070951329_UCL2627_MD2_Galatasaray_vs_Barcelona_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960641~acl=/*~id=28450448947460609437521951931255~hmac=54510b137aea504a41b2de3f42b7a0d81709d1d3c50d603353c1ed043d718895",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960641~acl=/*~id=28450448947460609437521951931255~hmac=54510b137aea504a41b2de3f42b7a0d81709d1d3c50d603353c1ed043d718895"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791917539
+    },
+    {
+      "EntityId": 1090547897,
+      "VideoName": "Viking vs Bayern Munchen",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 00:52:19",
+      "Description": "Watch Viking vs Bayern Munchen live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791173576083329_UCL2627_MD2_Viking_vs_Bayern_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791173576083329_UCL2627_MD2_Viking_vs_Bayern_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960674~acl=/*~id=76819685140461914140618820168970~hmac=376f3961d4af160383bd19b0c1c2ef7b4d25fe6887d4ab1f9ee03a2439ed50d6",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960674~acl=/*~id=76819685140461914140618820168970~hmac=376f3961d4af160383bd19b0c1c2ef7b4d25fe6887d4ab1f9ee03a2439ed50d6"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791917539
+    },
+    {
+      "EntityId": 1090547844,
+      "VideoName": "Inter vs Club Brugge",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 00:52:19",
+      "Description": "Watch Inter vs Club Brugge live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170449538329_UCL2627_MD2_Inter_vs_Club_Brugge_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170449538329_UCL2627_MD2_Inter_vs_Club_Brugge_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960684~acl=/*~id=01327634728635828612176939184337~hmac=c6b15312fca1d0d37e29f41525102eb98eb75b7e9cbefdd82fb2becec9ab7de3",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960684~acl=/*~id=01327634728635828612176939184337~hmac=c6b15312fca1d0d37e29f41525102eb98eb75b7e9cbefdd82fb2becec9ab7de3"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791917539
+    },
+    {
+      "EntityId": 1090547895,
+      "VideoName": "Villarreal vs Napoli",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 00:52:19",
+      "Description": "Watch Villarreal vs Napoli live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791171438383329_UCL2627_MD2_Villarreal_vs_Napoli_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791171438383329_UCL2627_MD2_Villarreal_vs_Napoli_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960693~acl=/*~id=60433824799398733291609117298475~hmac=ef154eb454f30cd93939d526ec5c5c1e24da059866ce327dc0a94c4ff920b570",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960693~acl=/*~id=60433824799398733291609117298475~hmac=ef154eb454f30cd93939d526ec5c5c1e24da059866ce327dc0a94c4ff920b570"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791917539
     },
     {
       "EntityId": 1391,
@@ -666,52 +882,6 @@
       "Team2Name": "Sporting Lisbon",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3001/image"
-    },
-    {
-      "EntityId": 1090547842,
-      "VideoName": "Lens vs Sporting CP - MD2",
-      "CategoryName": "UEFA Champions League 2026-27",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-13 22:24:19",
-      "Description": "Watch Lens vs Sporting CP - MD2 live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9543,
-      "UrlSlug": "uefa-champions-league-2026-27-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1791908659
-    },
-    {
-      "EntityId": 1090547843,
-      "VideoName": "Sabah vs Slavia Praha",
-      "CategoryName": "UEFA Champions League 2026-27",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-13 22:24:19",
-      "Description": "Watch Sabah vs Slavia Praha live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9543,
-      "UrlSlug": "uefa-champions-league-2026-27-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1791908659
     },
     {
       "EntityId": 1351,
