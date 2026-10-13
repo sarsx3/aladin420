@@ -1,16 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:20 AM 14-10-2026",
+    "LastUpdate": "01:21 AM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 31,
+    "LiveCount": 32,
     "UpcomingCount": 312
   },
   "Matches": [
+    {
+      "EntityId": 1090547894,
+      "VideoName": "Leipzig vs PSV",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 01:21:18",
+      "Description": "Watch Leipzig vs PSV live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791171216450329_UCL2627_MD2_Leipzig_vs_PSV_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791171216450329_UCL2627_MD2_Leipzig_vs_PSV_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791962434~acl=/*~id=76046850828053335887458794654945~hmac=9a646d2b86a96e1c42fc33abfb796e174a8eedddf50e0656b12f4daa619ccaad",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791962434~acl=/*~id=76046850828053335887458794654945~hmac=9a646d2b86a96e1c42fc33abfb796e174a8eedddf50e0656b12f4daa619ccaad"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791919278
+    },
     {
       "EntityId": 18343,
       "VideoName": "Galatasaray vs Barcelona",
@@ -232,21 +255,6 @@
             "Referer": "https://stream0.org/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/46dbaa3b-ea2b-4a86-ace0-59dd828444db.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.55/hls/FF666A.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Viking",
@@ -372,21 +380,6 @@
             "Referer": "https://stream0.org/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/04b55d6a-98c1-4aa1-b8c6-941e3efcb91d.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.59/hls/H999AAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Inter",
@@ -421,21 +414,6 @@
           "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/29a0a4c3-75e2-4f14-98ee-b47c5ae51f89.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/FF666.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -568,21 +546,6 @@
             "Referer": "https://stream0.org/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/46a1ec93-a37e-4a2c-83e5-19855ca7ff5d.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/H999AA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Arsenal",
@@ -676,29 +639,6 @@
       "FirstSeenTs": 1791917539
     },
     {
-      "EntityId": 1090547845,
-      "VideoName": "Arsenal vs Lille",
-      "CategoryName": "UEFA Champions League 2026-27",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-14 00:52:19",
-      "Description": "Watch Arsenal vs Lille live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170656647329_UCL2627_MD2_Arsenal_vs_Lille_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170656647329_UCL2627_MD2_Arsenal_vs_Lille_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9543,
-      "UrlSlug": "uefa-champions-league-2026-27-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960655~acl=/*~id=40217707972704396299392453830088~hmac=17e24ac5fa17defce3a2109b370308f3af9f6613f846a6754dca52b9d132ac7f",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960655~acl=/*~id=40217707972704396299392453830088~hmac=17e24ac5fa17defce3a2109b370308f3af9f6613f846a6754dca52b9d132ac7f"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1791917539
-    },
-    {
       "EntityId": 1090547896,
       "VideoName": "Galatasaray vs Barcelona",
       "CategoryName": "UEFA Champions League 2026-27",
@@ -716,6 +656,29 @@
         {
           "label": "English",
           "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960641~acl=/*~id=28450448947460609437521951931255~hmac=54510b137aea504a41b2de3f42b7a0d81709d1d3c50d603353c1ed043d718895"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791917539
+    },
+    {
+      "EntityId": 1090547845,
+      "VideoName": "Arsenal vs Lille",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 00:52:19",
+      "Description": "Watch Arsenal vs Lille live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170656647329_UCL2627_MD2_Arsenal_vs_Lille_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170656647329_UCL2627_MD2_Arsenal_vs_Lille_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960655~acl=/*~id=40217707972704396299392453830088~hmac=17e24ac5fa17defce3a2109b370308f3af9f6613f846a6754dca52b9d132ac7f",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1791960655~acl=/*~id=40217707972704396299392453830088~hmac=17e24ac5fa17defce3a2109b370308f3af9f6613f846a6754dca52b9d132ac7f"
         }
       ],
       "Provider": "SonyLiv",
