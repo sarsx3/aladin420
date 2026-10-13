@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:45 PM 13-10-2026",
+    "LastUpdate": "03:46 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 344
+    "LiveCount": 9,
+    "UpcomingCount": 347
   },
   "Matches": [
     {
@@ -26,7 +26,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "afc-champions-league-elite-Shanghai Port FC vs Daejeon Hana Citizen FC"
+      "UrlSlug": "afc-champions-league-elite-Shanghai Port FC vs Daejeon Hana Citizen FC",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     },
     {
       "EntityId": 18663,
@@ -80,24 +81,6 @@
       "Status": "Live",
       "UrlSlug": "federation-cup-football-live",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-    },
-    {
-      "EntityId": 18653,
-      "VideoName": "Newcastle Jets FC (AUS) vs Gamba Osaka (JPN) Live",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-13 13:45:00",
-      "Description": "Watch Newcastle Jets FC vs Gamba Osaka live online on tapmad. The AFC Champions League Elite Newcastle Jets FC vs Gamba Osaka match is scheduled to take place on 13-Oct,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791360983324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913609831020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 828,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Gamba Osaka",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
     },
     {
       "EntityId": 1342,
@@ -1744,6 +1727,23 @@
       "UrlSlug": "angers-vs-marseille-ligue-one-live-match"
     },
     {
+      "EntityId": 19004,
+      "VideoName": "Moto 3 - Olbia, Italy",
+      "CategoryName": "UIM - ABP Aquabike World Championship 2026",
+      "StageName": "Race 3",
+      "EventStartDate": "2026-10-18 19:00:00",
+      "Description": "Watch Moto 3 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791884711324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918847111020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1133,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Racing",
+      "is_full_data": true,
+      "Status": "Upcoming",
+      "UrlSlug": "uim-abp-aquabike-world-championship-2026"
+    },
+    {
       "EntityId": 1571,
       "VideoName": "Leeds vs Man Utd",
       "CategoryName": "Premier League",
@@ -2663,6 +2663,23 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1644/image"
     },
     {
+      "EntityId": 18998,
+      "VideoName": "Moto 2 - Olbia, Italy",
+      "CategoryName": "UIM - ABP Aquabike World Championship 2026",
+      "StageName": "Race 2",
+      "EventStartDate": "2026-10-17 20:30:00",
+      "Description": "Watch Moto 2 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791884366324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918843661020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1133,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Racing",
+      "is_full_data": true,
+      "Status": "Upcoming",
+      "UrlSlug": "uim-abp-aquabike-world-championship-2026"
+    },
+    {
       "EntityId": 1534,
       "VideoName": "ADO Den Haag vs PSV",
       "CategoryName": "Eredivisie",
@@ -3552,6 +3569,23 @@
       "Team2Name": "FC Heidenheim",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/5885/image"
+    },
+    {
+      "EntityId": 18992,
+      "VideoName": "Moto 1 - Olbia, Italy",
+      "CategoryName": "UIM - ABP Aquabike World Championship 2026",
+      "StageName": "Race 1",
+      "EventStartDate": "2026-10-17 15:00:00",
+      "Description": "Watch Moto 1 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791884041324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918840411020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1133,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Racing",
+      "is_full_data": true,
+      "Status": "Upcoming",
+      "UrlSlug": "uim-abp-aquabike-world-championship-2026"
     },
     {
       "EntityId": 1488,
