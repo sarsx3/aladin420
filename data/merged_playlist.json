@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:26 AM 15-10-2026",
+    "LastUpdate": "12:27 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -9043,8 +9043,17 @@
       "Status": "Upcoming",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "QPR",
       "Team2Name": "Derby County",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1/image",
@@ -9063,8 +9072,17 @@
       "Status": "Upcoming",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Portsmouth",
       "Team2Name": "Sheffield Utd",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2/image",
