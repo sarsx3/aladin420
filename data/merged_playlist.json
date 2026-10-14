@@ -1,16 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:49 AM 15-10-2026",
+    "LastUpdate": "03:50 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 425
+    "LiveCount": 1,
+    "UpcomingCount": 424
   },
   "Matches": [
+    {
+      "EntityId": 1409,
+      "VideoName": "Sarmiento Junin vs River Plate arg",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 04:00:00",
+      "Description": "Watch Sarmiento Junin vs River Plate arg — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42338/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sarmiento Junin",
+      "Team2Name": "River Plate arg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/42338/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3211/image"
+    },
     {
       "EntityId": 17702,
       "VideoName": "South Africa vs Australia",
@@ -8256,26 +8276,6 @@
       "Team2Name": "New York City FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
-    },
-    {
-      "EntityId": 1409,
-      "VideoName": "Sarmiento Junin vs River Plate arg",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 04:00:00",
-      "Description": "Watch Sarmiento Junin vs River Plate arg — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42338/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sarmiento Junin",
-      "Team2Name": "River Plate arg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/42338/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3211/image"
     }
   ]
 }
