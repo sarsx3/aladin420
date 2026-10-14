@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:00 PM 14-10-2026",
+    "LastUpdate": "11:01 PM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -504,6 +504,14 @@
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
           "drmScheme": "YTcxOTE4ZmNjMmYxMjA2NmY3MGI3YzM5YjBlMGRjZjM6YTVlMzUxMjFkNGY2ZjE2Njk0YmVhMTUzMzRmMTQ4MTQ=",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
