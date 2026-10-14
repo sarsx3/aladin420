@@ -1,16 +1,58 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 AM 15-10-2026",
+    "LastUpdate": "05:20 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 424
+    "LiveCount": 2,
+    "UpcomingCount": 423
   },
   "Matches": [
+    {
+      "EntityId": 1443,
+      "VideoName": "Inter Miami vs New York City FC",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 05:30:00",
+      "Description": "Watch Inter Miami vs New York City FC 🔥 — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/337602/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001791950415-0-0-ff117ec7da0d817e905daa4972b4c1b0",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001791950415-0-0-ff117ec7da0d817e905daa4972b4c1b0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1791986765-0-0-11fefa10135722d5fd484a90fcdd1b76",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6d56f94746a135f7c804aafc845bd395&txTime=6acfd29d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Inter Miami",
+      "Team2Name": "New York City FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
+    },
     {
       "EntityId": 1409,
       "VideoName": "Sarmiento Junin vs River Plate arg",
@@ -8265,48 +8307,6 @@
       "Team2Name": "Lion City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/40662/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3041/image"
-    },
-    {
-      "EntityId": 1443,
-      "VideoName": "Inter Miami vs New York City FC",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 05:30:00",
-      "Description": "Watch Inter Miami vs New York City FC 🔥 — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/337602/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001791950415-0-0-ff117ec7da0d817e905daa4972b4c1b0",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001791950415-0-0-ff117ec7da0d817e905daa4972b4c1b0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1791986765-0-0-11fefa10135722d5fd484a90fcdd1b76",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6d56f94746a135f7c804aafc845bd395&txTime=6acfd29d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Inter Miami",
-      "Team2Name": "New York City FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
     }
   ]
 }
