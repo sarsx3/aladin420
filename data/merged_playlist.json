@@ -1,16 +1,33 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:04 PM 14-10-2026",
+    "LastUpdate": "07:05 PM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 453
+    "LiveCount": 7,
+    "UpcomingCount": 454
   },
   "Matches": [
+    {
+      "EntityId": 18473,
+      "VideoName": "PFC Nasaf (UZB) vs Al Wahda FC (UAE) Live",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 2",
+      "EventStartDate": "2026-10-14 19:45:00",
+      "Description": "Watch PFC Nasaf vs Al Wahda FC live online on tapmad. The AFC Champions League Two PFC Nasaf vs Al Wahda FC match is scheduled to take place on 14-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791967432324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919674321020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 829,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "afc-champions-league-two"
+    },
     {
       "EntityId": 17717,
       "VideoName": "India vs West Indies",
@@ -26,7 +43,8 @@
       "NewSportsGenre": "Cricket",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "west-indies-tour-of-india-2026"
+      "UrlSlug": "west-indies-tour-of-india-2026",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
     },
     {
       "EntityId": 1090547987,
@@ -5016,6 +5034,23 @@
       "is_full_data": true,
       "Status": "Upcoming",
       "UrlSlug": "australia-tour-of-south-africa-2026"
+    },
+    {
+      "EntityId": 18880,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "Pakistan ODI Tri-Series 2026",
+      "StageName": "1st ODI",
+      "EventStartDate": "2026-10-18 14:00:00",
+      "Description": "Watch Pakistan ODI Tri-Series 2026 live on tapmad. The PK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st ODI is scheduled to be played on 18-Oct-2026 at 02:00 PM . Fans can watch Pakistan ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791982339324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919823391020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1160,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Cricket",
+      "is_full_data": true,
+      "Status": "Upcoming",
+      "UrlSlug": "pk-vs-sl-1st-odi-live"
     },
     {
       "EntityId": 1593,
