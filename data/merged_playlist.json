@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 AM 15-10-2026",
+    "LastUpdate": "12:35 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 16,
-    "UpcomingCount": 436
+    "LiveCount": 19,
+    "UpcomingCount": 433
   },
   "Matches": [
     {
@@ -26,8 +26,7 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "shakhtar donetsk-vs-aek athens-ucl-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8"
+      "UrlSlug": "shakhtar donetsk-vs-aek athens-ucl-live-match"
     },
     {
       "EntityId": 18353,
@@ -44,8 +43,7 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "real betis-vs-porto-ucl-live-match",
-      "stream_url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8"
+      "UrlSlug": "real betis-vs-porto-ucl-live-match"
     },
     {
       "EntityId": 18354,
@@ -62,8 +60,7 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "roma-vs-real madrid-ucl-live-match",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+      "UrlSlug": "roma-vs-real madrid-ucl-live-match"
     },
     {
       "EntityId": 18355,
@@ -131,8 +128,94 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "bodo/glimt-vs-borussia dortmund-ucl-live-match",
-      "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8"
+      "UrlSlug": "bodo/glimt-vs-borussia dortmund-ucl-live-match"
+    },
+    {
+      "EntityId": 1418,
+      "VideoName": "QPR vs Derby County",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 00:45:00",
+      "Description": "Watch QPR vs Derby County — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "QPR",
+      "Team2Name": "Derby County",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/27/image"
+    },
+    {
+      "EntityId": 1419,
+      "VideoName": "Portsmouth vs Sheffield Utd",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 00:45:00",
+      "Description": "Watch Portsmouth vs Sheffield Utd — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Portsmouth",
+      "Team2Name": "Sheffield Utd",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/15/image"
+    },
+    {
+      "EntityId": 1420,
+      "VideoName": "Norwich vs Southampton FC",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 00:45:00",
+      "Description": "Watch Norwich vs Southampton FC — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/263/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Norwich",
+      "Team2Name": "Southampton FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/263/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/45/image"
     },
     {
       "EntityId": 18493,
@@ -9042,93 +9125,6 @@
       "Team2Name": "West Ham United FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/92/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/37/image"
-    },
-    {
-      "EntityId": 1418,
-      "VideoName": "QPR vs Derby County",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 00:45:00",
-      "Description": "Watch QPR vs Derby County — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "QPR",
-      "Team2Name": "Derby County",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/27/image"
-    },
-    {
-      "EntityId": 1419,
-      "VideoName": "Portsmouth vs Sheffield Utd",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 00:45:00",
-      "Description": "Watch Portsmouth vs Sheffield Utd — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Portsmouth",
-      "Team2Name": "Sheffield Utd",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/15/image"
-    },
-    {
-      "EntityId": 1420,
-      "VideoName": "Norwich vs Southampton FC",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 00:45:00",
-      "Description": "Watch Norwich vs Southampton FC — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/263/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Norwich",
-      "Team2Name": "Southampton FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/263/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/45/image"
     }
   ]
 }
