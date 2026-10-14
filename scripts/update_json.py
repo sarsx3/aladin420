@@ -7,8 +7,8 @@ How it works
 ------------
 1. TAPMAD_URL is treated as the "source of truth" for structure. Its JSON
    shape (HeaderInfo / Stats / Matches[...]) is never changed.
-2. SONYLIV_URL is fetched and every entry in its "live_matches" list is
-   converted (reshaped) into a Tapmad-style "Matches" entry.
+2. SONYLIV_URL (an M3U playlist, parsed into "live_matches") is fetched and
+   every entry is converted (reshaped) into a Tapmad-style "Matches" entry.
 3. EVENTS_URL (events.json on GitHub) is fetched — {"events": [matchObject, ...]}.
    Each entry with visibility="public" is converted into Tapmad schema,
    filtering out already-ended matches (no stream + past time). The output
@@ -50,9 +50,11 @@ TAPMAD_URL = (
     "https://gist.githubusercontent.com/albatr0ssss/"
     "3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.json"
 )
+# SonyLiv source is now an M3U playlist (direct, ready-to-play HLS URLs with
+# every audio language). It is parsed by parse_sonyliv_m3u() below.
 SONYLIV_URL = (
-    "https://raw.githubusercontent.com/srhady/SonyLiv/"
-    "refs/heads/main/sonyliv_playlist.json"
+    "https://raw.githubusercontent.com/sm-monirulislam/"
+    "SonyLiv_Event_Playlist/refs/heads/main/sonyLiv.m3u"
 )
 # Events source (replaces Firebase) — {"events": [match, ...]}
 EVENTS_URL = (
@@ -226,6 +228,108 @@ def sonyliv_sources(m: dict) -> list:
     return sources
 
 
+SONY_LANG_LABELS = {
+    "ENG": "English", "HIN": "Hindi", "TAM": "Tamil", "TEL": "Telugu",
+    "KAN": "Kannada", "MAL": "Malayalam", "BEN": "Bengali", "MAR": "Marathi",
+}
+SONY_TOURNAMENT_PREFIX = {
+    "UCL": "UEFA Champions League",
+    "UEL": "UEFA Europa League",
+    "UECL": "UEFA Conference League",
+}
+M3U_ATTR_RE = re.compile(r'([A-Za-z0-9_-]+)="([^"]*)"')
+SONY_URL_LANG_RE = re.compile(r"/([A-Za-z]{3})/[^/?]+\.m3u8")
+SONY_ID_RE = re.compile(r"^(.*?)_([A-Za-z]{3})$")
+SONY_THUMB_TOURN_RE = re.compile(r"/(?:\d+_)?([A-Z]{2,5})(\d{2})(\d{2})_")
+SONY_BRACKET_RE = re.compile(r"\s*\[[^\]]*\]\s*$")
+
+
+def parse_sonyliv_m3u(text: str, previous: dict | None = None) -> dict:
+    """
+    Parse the SonyLiv M3U playlist into the same {"live_matches": [...]} shape
+    the converter below already understands. Entries are grouped per match
+    (tvg-id "<match_id>_<LANG>") so one match gets ONE row with one source per
+    audio language (English first). The playable URL is used exactly as
+    published in the M3U - nothing is appended or rewritten.
+    """
+    previous = previous or {}
+    matches, order = {}, []
+    cur = None
+    for raw in text.splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        if line.startswith("#EXTINF"):
+            attrs = dict(M3U_ATTR_RE.findall(line))
+            disp = line.split(",", 1)[1].strip() if "," in line else ""
+            cur = (attrs, disp)
+            continue
+        if line.startswith("#"):
+            continue
+        if cur is None or not line.lower().startswith(("http://", "https://")):
+            continue
+        attrs, disp = cur
+        cur = None
+        url = line
+
+        tvg_id = (attrs.get("tvg-id") or "").strip()
+        title_raw = (attrs.get("tvg-name") or disp).strip()
+
+        id_m = SONY_ID_RE.match(tvg_id)
+        match_id = id_m.group(1) if id_m else tvg_id
+        lang_code = id_m.group(2).upper() if id_m else ""
+        url_lang = SONY_URL_LANG_RE.search(url.split("?", 1)[0])
+        if url_lang:
+            lang_code = url_lang.group(1).upper()
+        if not lang_code:
+            lang_code = "ENG"
+
+        title = SONY_BRACKET_RE.sub("", title_raw).strip()
+        if not match_id:
+            match_id = hashlib.md5(title.encode("utf-8")).hexdigest()[:9]
+
+        thumb = (attrs.get("tvg-logo") or "").strip()
+
+        # Tournament: the M3U only says group-title="Football". Prefer the
+        # value we already stored for this match, then derive it from the
+        # thumbnail file name (e.g. UCL2627 -> "UEFA Champions League
+        # 2026-27"), then fall back to the group-title.
+        tournament = ((previous.get(match_id) or {}).get("CategoryName") or "").strip()
+        if not tournament:
+            tm = SONY_THUMB_TOURN_RE.search(thumb)
+            if tm and tm.group(1) in SONY_TOURNAMENT_PREFIX:
+                tournament = (f"{SONY_TOURNAMENT_PREFIX[tm.group(1)]} "
+                              f"20{tm.group(2)}-{tm.group(3)}")
+        if not tournament:
+            tournament = (attrs.get("group-title") or "Football").strip()
+
+        entry = matches.get(match_id)
+        if entry is None:
+            entry = {
+                "match_id": match_id,
+                "title": title,
+                "tournament": tournament,
+                "thumbnail": thumb,
+                "_sources": [],
+            }
+            matches[match_id] = entry
+            order.append(match_id)
+        if not any(x["url"] == url for x in entry["_sources"]):
+            entry["_sources"].append({
+                "label": SONY_LANG_LABELS.get(lang_code, lang_code),
+                "url": url,
+                "_lang": lang_code,
+            })
+
+    out = []
+    for mid in order:
+        e = matches[mid]
+        e["_sources"].sort(key=lambda x: 0 if x["_lang"] == "ENG" else 1)  # stable
+        e["_sources"] = [{"label": x["label"], "url": x["url"]} for x in e["_sources"]]
+        out.append(e)
+    return {"live_matches": out}
+
+
 def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict, previous: dict | None = None) -> list:
     """
     SonyLiv has NO kick-off time in its feed. Instead of inventing one from
@@ -248,7 +352,7 @@ def convert_sonyliv_to_tapmad_schema(sonyliv_data: dict, previous: dict | None =
         if not video_name:
             continue
 
-        sources = sonyliv_sources(m)
+        sources = m.get("_sources") or sonyliv_sources(m)
         if not sources:
             continue  # nothing playable
 
@@ -624,7 +728,8 @@ def main() -> int:
 
     # ── Source 2: SonyLiv ────────────────────────────────────────────────
     try:
-        sonyliv_data = fetch_json(SONYLIV_URL)
+        sonyliv_data = parse_sonyliv_m3u(
+            fetch(SONYLIV_URL).decode("utf-8", errors="replace"), previous_sony)
         sonyliv_matches = convert_sonyliv_to_tapmad_schema(sonyliv_data, previous_sony)
         print(f"[OK] SonyLiv: {len(sonyliv_matches)} matches converted")
     except Exception as e:
