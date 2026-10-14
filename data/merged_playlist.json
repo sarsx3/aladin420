@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 14-10-2026",
+    "LastUpdate": "09:50 PM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 451
+    "LiveCount": 14,
+    "UpcomingCount": 448
   },
   "Matches": [
     {
@@ -63,6 +63,96 @@
       "Status": "Live",
       "UrlSlug": "afc-champions-league-two",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "EntityId": 1388,
+      "VideoName": "Al-Taawon vs Al Rayyan",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 22:00:00",
+      "Description": "Watch Al-Taawon vs Al Rayyan — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56021/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001791948192-0-0-8a59548ae533b47f1c61cfb6b055222e",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001791948192-0-0-8a59548ae533b47f1c61cfb6b055222e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al-Taawon",
+      "Team2Name": "Al Rayyan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/56021/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/40660/image"
+    },
+    {
+      "EntityId": 1389,
+      "VideoName": "Muharraq SC vs Gol Gohar",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 22:00:00",
+      "Description": "Watch Muharraq SC vs Gol Gohar — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/45474/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Muharraq SC",
+      "Team2Name": "Gol Gohar",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/45474/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/275525/image"
+    },
+    {
+      "EntityId": 1390,
+      "VideoName": "Al-Jazira vs Arkadag",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 22:00:00",
+      "Description": "Watch Al-Jazira vs Arkadag — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8090/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001791948285-0-0-733cf60a3b5d0cca3faec697b4a1b3eb",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001791948285-0-0-733cf60a3b5d0cca3faec697b4a1b3eb",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791974645-0-0-4091be4e63ccf365012b48ca1ec832a2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791978485-0-0-696ff0b0e0c9ba059c521774e02adec4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al-Jazira",
+      "Team2Name": "Arkadag",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/8090/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/469420/image"
     },
     {
       "EntityId": 1400,
@@ -9031,96 +9121,6 @@
       "Team2Name": "Como",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2959/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
-    },
-    {
-      "EntityId": 1388,
-      "VideoName": "Al-Taawon vs Al Rayyan",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-14 22:00:00",
-      "Description": "Watch Al-Taawon vs Al Rayyan — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56021/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001791948192-0-0-8a59548ae533b47f1c61cfb6b055222e",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001791948192-0-0-8a59548ae533b47f1c61cfb6b055222e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al-Taawon",
-      "Team2Name": "Al Rayyan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56021/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/40660/image"
-    },
-    {
-      "EntityId": 1389,
-      "VideoName": "Muharraq SC vs Gol Gohar",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-14 22:00:00",
-      "Description": "Watch Muharraq SC vs Gol Gohar — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/45474/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Muharraq SC",
-      "Team2Name": "Gol Gohar",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/45474/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/275525/image"
-    },
-    {
-      "EntityId": 1390,
-      "VideoName": "Al-Jazira vs Arkadag",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-14 22:00:00",
-      "Description": "Watch Al-Jazira vs Arkadag — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8090/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001791948285-0-0-733cf60a3b5d0cca3faec697b4a1b3eb",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001791948285-0-0-733cf60a3b5d0cca3faec697b4a1b3eb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791974645-0-0-4091be4e63ccf365012b48ca1ec832a2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791978485-0-0-696ff0b0e0c9ba059c521774e02adec4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al-Jazira",
-      "Team2Name": "Arkadag",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/8090/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/469420/image"
     }
   ]
 }
