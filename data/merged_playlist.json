@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:54 AM 15-10-2026",
+    "LastUpdate": "12:55 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 30,
+    "LiveCount": 28,
     "UpcomingCount": 425
   },
   "Matches": [
@@ -222,6 +222,20 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1791977585-0-0-232cc97f5fa1fa3acdea69eae6441dd2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2adad1692f8afc9c5a0f2255db6b4d05&txTime=6acfaefd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Bodo Glimt",
@@ -335,6 +349,14 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Man City",
@@ -385,6 +407,13 @@
             "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "AS Roma",
@@ -419,6 +448,13 @@
           "url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -460,6 +496,13 @@
         {
           "label": "Server - 2",
           "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791977345-0-0-029524d64f4416e0ff2659fdc2c958d0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -801,186 +844,6 @@
       "Team2Name": "Al Nahda",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/47482/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/40648/image"
-    },
-    {
-      "EntityId": 1380,
-      "VideoName": "LASK vs Liverpool",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-14 22:45:00",
-      "Description": "Watch LASK vs Liverpool — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2058/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68",
-      "sources": [
-        {
-          "label": "sonyliv-aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001791948677-0-0-8a5eff82b8b56010254f95814acc1553",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791974705-0-0-90af034ae678bd0eeec45c4c70a16f2b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=cab9aa6d54b16a5a7b5ce2350f576720&txTime=6acfa381",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sryyedmu8v/out/v1/4dc59fd7700642b4be87f5e612b19df2/0e37f950-6ffa-4f63-b88d-dd6c4fabd003-cenc.mpd?aws_sessionId=1124ba46-5484-4b40-bebb-4458920b81d0?|drmScheme=clearkey&drmLicense=3a1c451ffc0dd98444c3950b9f8333f4:a6e6dd3d407c3ca531d817e72fd240a4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "VIX Español FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1zyfqt5pka/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd?aws_sessionId=d489c3ec-b204-45c2-bb98-31a187843d01?|drmScheme=clearkey&drmLicense=23c68026a4a92a82c03b3d7e7924b342:0811239285fd4778d325e1d63a66bb2b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://chatgpt.hereisman.net/playlist/58029/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "LASK",
-      "Team2Name": "Liverpool",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2058/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/44/image"
-    },
-    {
-      "EntityId": 1381,
-      "VideoName": "Feyenoord vs Como",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-14 22:45:00",
-      "Description": "Watch Feyenoord vs Como — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2959/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb",
-      "sources": [
-        {
-          "label": "sonyliv-aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001791948454-0-0-f9398def64e230b1a3f6e1cea84003fc",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.fmp.live/live/live_57689_lud.m3u8?auth_key=1792008221-0-0-7ebe2c2eff37689c62d4224945043821",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1791999005-0-0-23a65362c9ab8cd11355ae0e99e0ccc9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bzwyqtfne1/out/v1/4738ca812efc4e479962387ce9638c1e/91bf3dd7-b3de-4bae-8449-ef173d741d4b-cenc.mpd?aws_sessionId=2c53f966-b154-48d3-9dfc-e72097a0bcaf?|drmScheme=clearkey&drmLicense=4733a461d2ac2e41045bdf6eb4a48d34:b6f731f225351a8029c58624fdf112ad",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "VIX Español FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhtbae2kfy/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?aws_sessionId=60a6715e-bcb3-4766-b7c9-030a66091f75?|drmScheme=clearkey&drmLicense=79f896678ea586e1c0ab644934c24678:6d78ba30699beb8486dd83f8813a8902",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://chatgpt.hereisman.net/playlist/58028/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Feyenoord",
-      "Team2Name": "Como",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2959/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
     },
     {
       "EntityId": 1400,
