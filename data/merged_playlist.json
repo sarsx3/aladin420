@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:21 PM 14-10-2026",
+    "LastUpdate": "07:22 PM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 453
   },
   "Matches": [
@@ -97,6 +97,29 @@
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    },
+    {
+      "EntityId": 1090547989,
+      "VideoName": "Punjab FC vs Odisha FC",
+      "CategoryName": "MG Indian Super League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 19:22:20",
+      "Description": "Watch Punjab FC vs Odisha FC live from MG Indian Super League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream MG Indian Super League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9527,
+      "UrlSlug": "mg-indian-super-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8/ENG/master.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1791984140
     },
     {
       "EntityId": 1090547987,
