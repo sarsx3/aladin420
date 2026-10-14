@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:14 AM 15-10-2026",
+    "LastUpdate": "01:15 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -420,6 +420,13 @@
         {
           "label": "sonyliv-aq",
           "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.fmp.live/live/live_57721_lud.m3u8?auth_key=1792016102-0-0-146d53e34fa480e359c2c38dd57b0cc3",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
