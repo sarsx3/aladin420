@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:13 AM 15-10-2026",
+    "LastUpdate": "12:14 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -8841,8 +8841,24 @@
       "Status": "Upcoming",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y8csztrnlv/out/v1/e48799ec18b041eabdb969bcc780360a/cenc.mpd?|drmScheme=clearkey&drmLicense=38860f7afdae191a91be6ec3de367010:9beffbfff68efb289f2a556070057a7e",
+      "sources": [
+        {
+          "label": "cbs sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y8csztrnlv/out/v1/e48799ec18b041eabdb969bcc780360a/cenc.mpd?|drmScheme=clearkey&drmLicense=38860f7afdae191a91be6ec3de367010:9beffbfff68efb289f2a556070057a7e",
+          "headers": {
+            "Referer": "https://amazon.com",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001791950014-0-0-eba5af61c4165f91e8c6251b0a61602b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Bodo Glimt",
       "Team2Name": "Borussia Dortmund",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/656/image",
