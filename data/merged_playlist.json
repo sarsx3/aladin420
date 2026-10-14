@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:45 PM 14-10-2026",
+    "LastUpdate": "09:46 PM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 11,
     "UpcomingCount": 451
   },
   "Matches": [
@@ -43,7 +43,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "afc-champions-league-two"
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
     },
     {
       "EntityId": 18498,
@@ -60,7 +61,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "afc-champions-league-two"
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
     {
       "EntityId": 1400,
@@ -158,24 +160,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1791985939
-    },
-    {
-      "EntityId": 18473,
-      "VideoName": "PFC Nasaf (UZB) vs Al Wahda FC (UAE) Live",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-14 19:45:00",
-      "Description": "Watch PFC Nasaf vs Al Wahda FC live online on tapmad. The AFC Champions League Two PFC Nasaf vs Al Wahda FC match is scheduled to take place on 14-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791967432324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919674321020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 829,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     },
     {
       "EntityId": 1387,
