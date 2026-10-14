@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:03 AM 15-10-2026",
+    "LastUpdate": "01:04 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -98,7 +98,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "aston villa-vs-fenerbahce-ucl-live-match"
+      "UrlSlug": "aston villa-vs-fenerbahce-ucl-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
     },
     {
       "EntityId": 18357,
@@ -115,7 +116,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "manchester city-vs-paris saint-germain-ucl-live-match"
+      "UrlSlug": "manchester city-vs-paris saint-germain-ucl-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
     },
     {
       "EntityId": 18358,
@@ -555,6 +557,20 @@
           "url": "http://193.47.62.59/hls/BGBGBGAAAAQQ.m3u8",
           "headers": {
             "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BD Server - 1",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792090942~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=1890000065807_fc-web_998c375c-9ffb-49~Signature=AYG9sxF0q-P94hgWuAOLSB2qICDr30XHLW_Bv7f7b9FSAXZftjguckFNKv1rZLdtMw12TY7WVR09AxN_OvO55bdH0WoA",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BD Server - 2",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/720p.m3u8?hdntl=Expires=1792090942~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=1890000065807_fc-web_998c375c-9ffb-49~Signature=AYG9sxF0q-P94hgWuAOLSB2qICDr30XHLW_Bv7f7b9FSAXZftjguckFNKv1rZLdtMw12TY7WVR09AxN_OvO55bdH0WoA",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
