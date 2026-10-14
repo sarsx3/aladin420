@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:18 PM 14-10-2026",
+    "LastUpdate": "09:20 PM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 452
+    "LiveCount": 12,
+    "UpcomingCount": 451
   },
   "Matches": [
     {
@@ -63,6 +63,41 @@
       "UrlSlug": "afc-champions-league-two"
     },
     {
+      "EntityId": 1400,
+      "VideoName": "Bangladesh Champions vs South Africa Champions",
+      "CategoryName": "World Championship of Legends",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-14 21:30:00",
+      "Description": "Watch Bangladesh Champions vs South Africa Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1L6.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9369,
+      "UrlSlug": "world-championship-of-legends",
+      "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "sources": [
+        {
+          "label": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh Champions",
+      "Team2Name": "South Africa Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VN.png"
+    },
+    {
       "EntityId": 1090547983,
       "VideoName": "Manchester City vs PSG - MD 2",
       "CategoryName": "UEFA Youth League 2026-27",
@@ -87,13 +122,13 @@
     },
     {
       "EntityId": 1090547997,
-      "VideoName": "Kakatiya Knights vs Rajputana Royals",
+      "VideoName": "Chola Chiefs vs Mighty Marathas",
       "CategoryName": "Archery Premier League 2026",
       "StageName": "Live",
       "EventStartDate": "2026-10-14 19:52:19",
-      "Description": "Watch Kakatiya Knights vs Rajputana Royals live from Archery Premier League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Archery Premier League 2026 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791663077997929_APL26_Kakatiya_Knights_vs_Rajputana_Royals_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791663077997929_APL26_Kakatiya_Knights_vs_Rajputana_Royals_live_landscape_thumb.jpg",
+      "Description": "Watch Chola Chiefs vs Mighty Marathas live from Archery Premier League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Archery Premier League 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791663428342929_APL26_Chola_Chiefs_vs_Mighty_Marathas_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791663428342929_APL26_Chola_Chiefs_vs_Mighty_Marathas_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9968,
@@ -234,6 +269,14 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+          "drmScheme": "YTcxOTE4ZmNjMmYxMjA2NmY3MGI3YzM5YjBlMGRjZjM6YTVlMzUxMjFkNGY2ZjE2Njk0YmVhMTUzMzRmMTQ4MTQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "India",
@@ -266,13 +309,13 @@
     },
     {
       "EntityId": 1090547987,
-      "VideoName": "Ayodhya Garjan vs Emperia Marathas",
+      "VideoName": "Hooghly Hitters vs Haryana Hurricanes",
       "CategoryName": "Volleyball Championship League 2026",
       "StageName": "Live",
       "EventStartDate": "2026-10-14 18:54:18",
-      "Description": "Watch Ayodhya Garjan vs Emperia Marathas live from Volleyball Championship League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball Championship League 2026 online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166619555518_VCL_Ayodhya_Garjan_vs_Emperia_Marathas_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166619555518_VCL_Ayodhya_Garjan_vs_Emperia_Marathas_live_landscape_thumb.jpg",
+      "Description": "Watch Hooghly Hitters vs Haryana Hurricanes live from Volleyball Championship League 2026. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball Championship League 2026 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166659556718_VCL_Hooghly_Hitters_vs_Haryana_Hurricanes_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166659556718_VCL_Hooghly_Hitters_vs_Haryana_Hurricanes_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9369,
@@ -9048,41 +9091,6 @@
       "Team2Name": "Arkadag",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/8090/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/469420/image"
-    },
-    {
-      "EntityId": 1400,
-      "VideoName": "Bangladesh Champions vs South Africa Champions",
-      "CategoryName": "World Championship of Legends",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-14 21:30:00",
-      "Description": "Watch Bangladesh Champions vs South Africa Champions — World Championship of Legends. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1L6.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9369,
-      "UrlSlug": "world-championship-of-legends",
-      "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "sources": [
-        {
-          "label": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh Champions",
-      "Team2Name": "South Africa Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1L6.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/VN.png"
     }
   ]
 }
