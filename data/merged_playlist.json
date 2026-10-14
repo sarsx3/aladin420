@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:48 AM 15-10-2026",
+    "LastUpdate": "02:49 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 23,
+    "LiveCount": 25,
     "UpcomingCount": 425
   },
   "Matches": [
@@ -779,22 +779,123 @@
       "FirstSeenTs": 1792003938
     },
     {
-      "EntityId": 18493,
-      "VideoName": "Al Faisaly (JOR) vs Al Nahda Club (OMA) Live",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-15 00:15:00",
-      "Description": "Watch Al Faisaly vs Al Nahda Club live online on tapmad. The AFC Champions League Two Al Faisaly vs Al Nahda Club match is scheduled to take place on 15-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791527842324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915278421020x576.jpg",
+      "EntityId": 1418,
+      "VideoName": "QPR vs Derby County",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 00:45:00",
+      "Description": "Watch QPR vs Derby County — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1/image",
+      "ThumbnailTV": "",
       "IsFreeToWatch": false,
-      "CategoryId": 829,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "QPR",
+      "Team2Name": "Derby County",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/27/image"
+    },
+    {
+      "EntityId": 1419,
+      "VideoName": "Portsmouth vs Sheffield Utd",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 00:45:00",
+      "Description": "Watch Portsmouth vs Sheffield Utd — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://netanjahu.hls.st/t/079b0b648fe797ce1b776997d4fba2f4/index.m3u8?",
+          "headers": {
+            "Referer": "https://iplayer.is/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090",
+          "headers": {
+            "Referer": "https://player.online878.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Portsmouth",
+      "Team2Name": "Sheffield Utd",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/15/image"
+    },
+    {
+      "EntityId": 1420,
+      "VideoName": "Norwich vs Southampton FC",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 00:45:00",
+      "Description": "Watch Norwich vs Southampton FC — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/263/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://netanjahu.hls.st/t/b51d93f8f43655bd11e0a63e963dd97c/index.m3u8?",
+          "headers": {
+            "Referer": "https://iplayer.is/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live.vivo155.com/live/hd-en-1-4563621.m3u8?txSecret=b34541e3f4b4d269c1d49e7366ef1478&txTime=6ACFDFE4",
+          "headers": {
+            "Referer": "https://player.online878.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Norwich",
+      "Team2Name": "Southampton FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/263/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/45/image"
     },
     {
       "EntityId": 17702,
