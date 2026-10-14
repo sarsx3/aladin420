@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:14 AM 15-10-2026",
+    "LastUpdate": "12:15 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -8877,8 +8877,30 @@
       "Status": "Upcoming",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001791950528-0-0-52ebf8b81a98c82ed22c2e6ca09c0c32",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001791950528-0-0-52ebf8b81a98c82ed22c2e6ca09c0c32",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791977885-0-0-77dc275f3cc41de2a0f27d5645e9b307",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791977945-0-0-8bc93a69998b294892e6edf8d0021739",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Shakhtar",
       "Team2Name": "AEK Athens FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3313/image",
