@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:40 PM 15-10-2026",
+    "LastUpdate": "08:41 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -24,8 +24,23 @@
       "Status": "Live",
       "CategoryId": 9404,
       "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001792032789-0-0-5011e3573c460736a2a11e748a068741",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001792032789-0-0-5011e3573c460736a2a11e748a068741",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1792077605-0-0-5a803296918fe37c986bad1be51c42c0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al-Khaleej",
       "Team2Name": "Al-Fayha FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/167228/image",
