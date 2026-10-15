@@ -1,16 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:00 AM 16-10-2026",
+    "LastUpdate": "01:01 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 33,
+    "LiveCount": 31,
     "UpcomingCount": 372
   },
   "Matches": [
+    {
+      "EntityId": 1090548315,
+      "VideoName": "Celta vs Juventus",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-16 01:01:18",
+      "Description": "Watch Celta vs Juventus live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792090878
+    },
     {
       "EntityId": 18949,
       "VideoName": "Ferencvaros vs Viktoria Plzen",
@@ -26,7 +49,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "ferencvaros-vs-viktoria-plzen-uel-live-match"
+      "UrlSlug": "ferencvaros-vs-viktoria-plzen-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     },
     {
       "EntityId": 18950,
@@ -43,7 +67,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "rennes-vs-ofi-uel-live-match"
+      "UrlSlug": "rennes-vs-ofi-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
       "EntityId": 18951,
@@ -95,7 +120,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "celta-vs-juventus-uel-live-match"
+      "UrlSlug": "celta-vs-juventus-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
     },
     {
       "EntityId": 18954,
@@ -112,7 +138,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "hoffenheim-vs-besiktas-uel-live-match"
+      "UrlSlug": "hoffenheim-vs-besiktas-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
     },
     {
       "EntityId": 18955,
@@ -859,74 +886,15 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792131828~acl=/*~id=18891833116928470776729820212143~hmac=f57df55d10e00313498960c7d928f8125746a080c390db075456787a9b834f54",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792131828~acl=/*~id=18891833116928470776729820212143~hmac=f57df55d10e00313498960c7d928f8125746a080c390db075456787a9b834f54"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e"
         }
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792087340
-    },
-    {
-      "EntityId": 1090548113,
-      "VideoName": "Salzburg vs Milan",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-16 00:02:20",
-      "Description": "Watch Salzburg vs Milan live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792131828~acl=/*~id=18891833116928470776729820212143~hmac=f57df55d10e00313498960c7d928f8125746a080c390db075456787a9b834f54",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792131828~acl=/*~id=18891833116928470776729820212143~hmac=f57df55d10e00313498960c7d928f8125746a080c390db075456787a9b834f54"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792087340
-    },
-    {
-      "EntityId": 18942,
-      "VideoName": "Torreense vs Sunderland",
-      "CategoryName": "UEFA Europa League 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Torreense vs Sunderland live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791660440324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916604401020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 905,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "torreense-vs-sunderland-uel-live-match",
-      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-    },
-    {
-      "EntityId": 18944,
-      "VideoName": "AZ Alkmaar vs H. Beer-Sheva",
-      "CategoryName": "UEFA Europa League 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch AZ Alkmaar vs H. Beer-Sheva live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791660792324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916607921020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 905,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match",
-      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
     },
     {
       "EntityId": 17702,
