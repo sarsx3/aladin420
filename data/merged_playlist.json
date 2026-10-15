@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:06 AM 16-10-2026",
+    "LastUpdate": "01:07 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -701,8 +701,24 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://www.rtmpcdn.com/live/23283798-5002-4cca-b344-fb6b923aac05.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://www.rtmpcdn.com/live/23283798-5002-4cca-b344-fb6b923aac05.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.41/hls/H999.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Brann",
       "Team2Name": "Lincoln Red Imps",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1159/image",
@@ -763,8 +779,24 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://www.rtmpcdn.com/live/c02be80d-ae8f-41fd-a862-893eb1573887.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://www.rtmpcdn.com/live/c02be80d-ae8f-41fd-a862-893eb1573887.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.41/hls/H999AAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "STVV",
       "Team2Name": "FC Iberia 1999",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2895/image",
