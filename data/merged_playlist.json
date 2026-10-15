@@ -1,39 +1,16 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:34 AM 16-10-2026",
+    "LastUpdate": "01:35 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 31,
+    "LiveCount": 30,
     "UpcomingCount": 372
   },
   "Matches": [
-    {
-      "EntityId": 1090548084,
-      "VideoName": "Lyon vs Crystal Palace - MD2",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-16 01:34:19",
-      "Description": "Watch Lyon vs Crystal Palace - MD2 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792092859
-    },
     {
       "EntityId": 1090548315,
       "VideoName": "Celta vs Juventus",
@@ -47,11 +24,11 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792135468~acl=/*~id=34384541915083584311778472923435~hmac=060b0d64d7e5ffaa6e62684cc515c8054b5da15080c0f23ef075ce096a72c7f3",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792135468~acl=/*~id=34384541915083584311778472923435~hmac=060b0d64d7e5ffaa6e62684cc515c8054b5da15080c0f23ef075ce096a72c7f3"
         }
       ],
       "Provider": "SonyLiv",
@@ -675,6 +652,20 @@
           "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1792093805-0-0-7e8274f5bcb90ffef3937a867d316df2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792093805-0-0-fabdd01c65b562b59650cbd7cb8b68c5",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
