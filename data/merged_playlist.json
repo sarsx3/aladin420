@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:23 AM 16-10-2026",
+    "LastUpdate": "12:24 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -8820,8 +8820,30 @@
       "Status": "Upcoming",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792045770-0-0-5d6bddf6db55f921be983c1befab70a1",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792045770-0-0-5d6bddf6db55f921be983c1befab70a1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=3afa8a0218661f72219e1b773ad35ca4&txTime=6ad11865",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1792070225-0-0-f5df2ffa4d39b56e5cd0ab3153126071",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Brighton",
       "Team2Name": "FK Kauno Žalgiris",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/30/image",
@@ -8840,8 +8862,30 @@
       "Status": "Upcoming",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792045565-0-0-d3471a2caa02eab5014a9e7ef40abeb8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792045565-0-0-d3471a2caa02eab5014a9e7ef40abeb8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=09f60542859c2c4eaa9cb871d179a4a6&txTime=6ad15555",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1792085765-0-0-4146253944312d48a76dc4ab7b3bfc19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Atalanta",
       "Team2Name": "Pafos FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2686/image",
