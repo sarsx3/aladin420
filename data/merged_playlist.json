@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:50 PM 15-10-2026",
+    "LastUpdate": "10:51 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -565,8 +565,24 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://www.rtmpcdn.com/live/e4c1c97f-c635-4a0e-ac60-a63e8929047b.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://www.rtmpcdn.com/live/e4c1c97f-c635-4a0e-ac60-a63e8929047b.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.41/hls/ZKKKAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Riga",
       "Team2Name": "FC Kairat Almaty",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/162368/image",
@@ -585,8 +601,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAAAAQAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAAAAQAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/7fd2f092-0f11-4011-944d-e935a2d3648e.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "CSKA Sofia",
       "Team2Name": "AS Monaco",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3275/image",
