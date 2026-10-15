@@ -1,16 +1,62 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:01 AM 16-10-2026",
+    "LastUpdate": "12:02 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 26,
+    "LiveCount": 28,
     "UpcomingCount": 317
   },
   "Matches": [
+    {
+      "EntityId": 1090548084,
+      "VideoName": "Lyon vs Crystal Palace - MD2",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-16 00:02:20",
+      "Description": "Watch Lyon vs Crystal Palace - MD2 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792130003~acl=/*~id=20534915662241156243504619738933~hmac=3b3d968c60f55bb526f8cad88f423b7e83e9bbad7e2d8ad3685b8df348b4e839",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792130003~acl=/*~id=20534915662241156243504619738933~hmac=3b3d968c60f55bb526f8cad88f423b7e83e9bbad7e2d8ad3685b8df348b4e839"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792087340
+    },
+    {
+      "EntityId": 1090548113,
+      "VideoName": "Salzburg vs Milan",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-16 00:02:20",
+      "Description": "Watch Salzburg vs Milan live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792130003~acl=/*~id=20534915662241156243504619738933~hmac=3b3d968c60f55bb526f8cad88f423b7e83e9bbad7e2d8ad3685b8df348b4e839",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792130003~acl=/*~id=20534915662241156243504619738933~hmac=3b3d968c60f55bb526f8cad88f423b7e83e9bbad7e2d8ad3685b8df348b4e839"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792087340
+    },
     {
       "EntityId": 18941,
       "VideoName": "RB Salzburg vs Milan",
@@ -6940,8 +6986,23 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792044500-0-0-9f1f01757b630c12ee160199a5c6de62",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792044500-0-0-9f1f01757b630c12ee160199a5c6de62",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c06163d8276af1ed505228fef0c0c663&txTime=6ad11739",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "RC Celta",
       "Team2Name": "Juventus",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2821/image",
