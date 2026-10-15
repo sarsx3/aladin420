@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:09 AM 16-10-2026",
+    "LastUpdate": "12:10 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -7118,8 +7118,30 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792044322-0-0-af8cf1eca3bb313c846f524d2d0e9198",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792044322-0-0-af8cf1eca3bb313c846f524d2d0e9198",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792069625-0-0-a7df16ba47e7428199db6a16eedcc388",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1792069865-0-0-28eff4c4f51f59b67fe94850751eceee",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Benfica",
       "Team2Name": "Celtic",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3006/image",
@@ -7138,8 +7160,23 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792045034-0-0-428fda5a86b4fb5e78deb1c1ca1d17b0",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792045034-0-0-428fda5a86b4fb5e78deb1c1ca1d17b0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1792070105-0-0-1cceb0b8613e255d540dc3b00d691f21",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hoffenheim",
       "Team2Name": "Besiktas",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2569/image",
@@ -7178,8 +7215,23 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792045312-0-0-3357b222c2e63d932dc77231e0d023e2",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792045312-0-0-3357b222c2e63d932dc77231e0d023e2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1792081985-0-0-c9f49c2116067387f3ba0b5540d81ae0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "N.E.C.",
       "Team2Name": "Levski Sofia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2962/image",
