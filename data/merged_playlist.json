@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:57 PM 15-10-2026",
+    "LastUpdate": "10:58 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 28,
+    "LiveCount": 27,
     "UpcomingCount": 402
   },
   "Matches": [
@@ -712,8 +712,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAAAAQA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAAAAQA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/ecb18d54-ec38-41bc-948d-60992f13ddad.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "KuPS",
       "Team2Name": "Trabzonspor",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2244/image",
@@ -732,8 +749,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/17c52a2e-5134-46f5-be12-cc2f002c9502.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Gent",
       "Team2Name": "AGF Aarhus",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2903/image",
@@ -752,8 +786,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKK.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKK.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/76bd61b7-db84-4cfe-9e24-c732181bcfca.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "KF Egnatia",
       "Team2Name": "FC Midtjylland",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/264619/image",
@@ -772,8 +823,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAAAAQAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAAAAQAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/9fe31447-623d-4029-bf14-f4e554ce45d1.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hajduk Split",
       "Team2Name": "Ajax Amsterdam",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2036/image",
@@ -792,8 +860,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/ccd0a3a6-f009-4200-9489-03fa4dce8619.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Lugano",
       "Team2Name": "FK Crvena zvezda",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2443/image",
@@ -840,41 +925,6 @@
       "Team2Name": "Al Fateh SC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/168086/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/56023/image"
-    },
-    {
-      "EntityId": 1441,
-      "VideoName": "Al-Khaleej vs Al-Fayha FC",
-      "CategoryName": "Saudi League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-15 20:50:00",
-      "Description": "Watch Al-Khaleej vs Al-Fayha FC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/167228/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001792032789-0-0-5011e3573c460736a2a11e748a068741",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001792032789-0-0-5011e3573c460736a2a11e748a068741",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1792077605-0-0-5a803296918fe37c986bad1be51c42c0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al-Khaleej",
-      "Team2Name": "Al-Fayha FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/167228/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/168094/image"
     },
     {
       "EntityId": 17702,
