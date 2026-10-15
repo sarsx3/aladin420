@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:34 PM 15-10-2026",
+    "LastUpdate": "10:35 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 420
+    "LiveCount": 28,
+    "UpcomingCount": 402
   },
   "Matches": [
     {
@@ -26,7 +26,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "rb-salzburg-vs-milan-uel-live-match"
+      "UrlSlug": "rb-salzburg-vs-milan-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     },
     {
       "EntityId": 18942,
@@ -43,7 +44,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "torreense-vs-sunderland-uel-live-match"
+      "UrlSlug": "torreense-vs-sunderland-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
       "EntityId": 18943,
@@ -78,7 +80,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match"
+      "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
     },
     {
       "EntityId": 18945,
@@ -95,7 +98,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "sparta-praha-vs-lillestrom-uel-live-match"
+      "UrlSlug": "sparta-praha-vs-lillestrom-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
     },
     {
       "EntityId": 18946,
@@ -112,7 +116,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "ol-vs-palace-uel-live-match"
+      "UrlSlug": "ol-vs-palace-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
       "EntityId": 18947,
@@ -129,7 +134,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "union-vs-real-sociedad-uel-live-match"
+      "UrlSlug": "union-vs-real-sociedad-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
     },
     {
       "EntityId": 18948,
@@ -148,6 +154,439 @@
       "Status": "Live",
       "UrlSlug": "lech-poznan-vs-leverkusen-uel-live-match",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 1422,
+      "VideoName": "AZ Alkmaar vs Hapoel Be'er Sheva FC",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch AZ Alkmaar vs Hapoel Be'er Sheva FC — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2950/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792043542-0-0-f91f2d2d2c4d94bebffa5cffeaef8f6a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=08d53c8b85f47c1a9b82c4ebcfdffde8&txTime=6ad114a5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "AZ Alkmaar",
+      "Team2Name": "Hapoel Be'er Sheva FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2950/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5202/image"
+    },
+    {
+      "EntityId": 1423,
+      "VideoName": "St. Gilloise vs Real Sociedad",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch St. Gilloise vs Real Sociedad — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4860/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "St. Gilloise",
+      "Team2Name": "Real Sociedad",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4860/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2824/image"
+    },
+    {
+      "EntityId": 1424,
+      "VideoName": "Lech Poznan vs Bayer 04 Leverkusen",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Lech Poznan vs Bayer 04 Leverkusen — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3121/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lech Poznan",
+      "Team2Name": "Bayer 04 Leverkusen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3121/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    },
+    {
+      "EntityId": 1425,
+      "VideoName": "Torreense vs Sunderland AFC",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Torreense vs Sunderland AFC — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25787/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Torreense",
+      "Team2Name": "Sunderland AFC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/25787/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/41/image"
+    },
+    {
+      "EntityId": 1426,
+      "VideoName": "Lyon vs Crystal Palace FC",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Lyon vs Crystal Palace FC — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1649/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Lyon",
+      "Team2Name": "Crystal Palace FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1649/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7/image"
+    },
+    {
+      "EntityId": 1427,
+      "VideoName": "Sparta Praha vs Lillestrom",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Sparta Praha vs Lillestrom — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2218/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sparta Praha",
+      "Team2Name": "Lillestrom",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2218/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/664/image"
+    },
+    {
+      "EntityId": 1428,
+      "VideoName": "Celje vs Omonia",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Celje vs Omonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2413/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Celje",
+      "Team2Name": "Omonia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2413/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3395/image"
+    },
+    {
+      "EntityId": 1429,
+      "VideoName": "Salzburg vs AC Milan",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Salzburg vs AC Milan — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2046/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Salzburg",
+      "Team2Name": "AC Milan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2046/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
+    },
+    {
+      "EntityId": 1430,
+      "VideoName": "Craiova vs Getafe CF",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Craiova vs Getafe CF — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/116223/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Craiova",
+      "Team2Name": "Getafe CF",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/116223/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2859/image"
+    },
+    {
+      "EntityId": 1431,
+      "VideoName": "Riga vs FC Kairat Almaty",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Riga vs FC Kairat Almaty — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/162368/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Riga",
+      "Team2Name": "FC Kairat Almaty",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/162368/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5172/image"
+    },
+    {
+      "EntityId": 1432,
+      "VideoName": "CSKA Sofia vs AS Monaco",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch CSKA Sofia vs AS Monaco — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3275/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "CSKA Sofia",
+      "Team2Name": "AS Monaco",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3275/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1653/image"
+    },
+    {
+      "EntityId": 1433,
+      "VideoName": "Panathinaikos vs FK Borac Banja Luka",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Panathinaikos vs FK Borac Banja Luka — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3248/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Panathinaikos",
+      "Team2Name": "FK Borac Banja Luka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3248/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5235/image"
+    },
+    {
+      "EntityId": 1434,
+      "VideoName": "Mjällby AIF vs Inter Club de Escaldes",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Mjällby AIF vs Inter Club de Escaldes — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1783/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Mjällby AIF",
+      "Team2Name": "Inter Club de Escaldes",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1783/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/37946/image"
+    },
+    {
+      "EntityId": 1435,
+      "VideoName": "KuPS vs Trabzonspor",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch KuPS vs Trabzonspor — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2244/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "KuPS",
+      "Team2Name": "Trabzonspor",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2244/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3051/image"
+    },
+    {
+      "EntityId": 1436,
+      "VideoName": "Gent vs AGF Aarhus",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Gent vs AGF Aarhus — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2903/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Gent",
+      "Team2Name": "AGF Aarhus",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2903/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1291/image"
+    },
+    {
+      "EntityId": 1437,
+      "VideoName": "KF Egnatia vs FC Midtjylland",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch KF Egnatia vs FC Midtjylland — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/264619/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "KF Egnatia",
+      "Team2Name": "FC Midtjylland",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/264619/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1289/image"
+    },
+    {
+      "EntityId": 1438,
+      "VideoName": "Hajduk Split vs Ajax Amsterdam",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Hajduk Split vs Ajax Amsterdam — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2036/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Hajduk Split",
+      "Team2Name": "Ajax Amsterdam",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2036/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    },
+    {
+      "EntityId": 1439,
+      "VideoName": "Lugano vs FK Crvena zvezda",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-15 22:45:00",
+      "Description": "Watch Lugano vs FK Crvena zvezda — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2443/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lugano",
+      "Team2Name": "FK Crvena zvezda",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2443/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5149/image"
     },
     {
       "EntityId": 1442,
@@ -8013,416 +8452,6 @@
       "Team2Name": "Al Nassr",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34469/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/23400/image"
-    },
-    {
-      "EntityId": 1422,
-      "VideoName": "AZ Alkmaar vs Hapoel Be'er Sheva FC",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch AZ Alkmaar vs Hapoel Be'er Sheva FC — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2950/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "AZ Alkmaar",
-      "Team2Name": "Hapoel Be'er Sheva FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2950/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5202/image"
-    },
-    {
-      "EntityId": 1423,
-      "VideoName": "St. Gilloise vs Real Sociedad",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch St. Gilloise vs Real Sociedad — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4860/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "St. Gilloise",
-      "Team2Name": "Real Sociedad",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4860/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2824/image"
-    },
-    {
-      "EntityId": 1424,
-      "VideoName": "Lech Poznan vs Bayer 04 Leverkusen",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Lech Poznan vs Bayer 04 Leverkusen — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3121/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lech Poznan",
-      "Team2Name": "Bayer 04 Leverkusen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3121/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
-    },
-    {
-      "EntityId": 1425,
-      "VideoName": "Torreense vs Sunderland AFC",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Torreense vs Sunderland AFC — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25787/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Torreense",
-      "Team2Name": "Sunderland AFC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/25787/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/41/image"
-    },
-    {
-      "EntityId": 1426,
-      "VideoName": "Lyon vs Crystal Palace FC",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Lyon vs Crystal Palace FC — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1649/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
-      "sources": [
-        {
-          "label": "sonyliv-aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lyon",
-      "Team2Name": "Crystal Palace FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1649/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7/image"
-    },
-    {
-      "EntityId": 1427,
-      "VideoName": "Sparta Praha vs Lillestrom",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Sparta Praha vs Lillestrom — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2218/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sparta Praha",
-      "Team2Name": "Lillestrom",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2218/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/664/image"
-    },
-    {
-      "EntityId": 1428,
-      "VideoName": "Celje vs Omonia",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Celje vs Omonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2413/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Celje",
-      "Team2Name": "Omonia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2413/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3395/image"
-    },
-    {
-      "EntityId": 1429,
-      "VideoName": "Salzburg vs AC Milan",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Salzburg vs AC Milan — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2046/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
-      "sources": [
-        {
-          "label": "sonyliv-aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Salzburg",
-      "Team2Name": "AC Milan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2046/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
-    },
-    {
-      "EntityId": 1430,
-      "VideoName": "Craiova vs Getafe CF",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Craiova vs Getafe CF — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/116223/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Craiova",
-      "Team2Name": "Getafe CF",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/116223/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2859/image"
-    },
-    {
-      "EntityId": 1431,
-      "VideoName": "Riga vs FC Kairat Almaty",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Riga vs FC Kairat Almaty — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/162368/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Riga",
-      "Team2Name": "FC Kairat Almaty",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/162368/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5172/image"
-    },
-    {
-      "EntityId": 1432,
-      "VideoName": "CSKA Sofia vs AS Monaco",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch CSKA Sofia vs AS Monaco — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3275/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "CSKA Sofia",
-      "Team2Name": "AS Monaco",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3275/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1653/image"
-    },
-    {
-      "EntityId": 1433,
-      "VideoName": "Panathinaikos vs FK Borac Banja Luka",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Panathinaikos vs FK Borac Banja Luka — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3248/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Panathinaikos",
-      "Team2Name": "FK Borac Banja Luka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3248/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5235/image"
-    },
-    {
-      "EntityId": 1434,
-      "VideoName": "Mjällby AIF vs Inter Club de Escaldes",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Mjällby AIF vs Inter Club de Escaldes — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1783/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Mjällby AIF",
-      "Team2Name": "Inter Club de Escaldes",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1783/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/37946/image"
-    },
-    {
-      "EntityId": 1435,
-      "VideoName": "KuPS vs Trabzonspor",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch KuPS vs Trabzonspor — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2244/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "KuPS",
-      "Team2Name": "Trabzonspor",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2244/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3051/image"
-    },
-    {
-      "EntityId": 1436,
-      "VideoName": "Gent vs AGF Aarhus",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Gent vs AGF Aarhus — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2903/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Gent",
-      "Team2Name": "AGF Aarhus",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2903/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1291/image"
-    },
-    {
-      "EntityId": 1437,
-      "VideoName": "KF Egnatia vs FC Midtjylland",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch KF Egnatia vs FC Midtjylland — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/264619/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "KF Egnatia",
-      "Team2Name": "FC Midtjylland",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/264619/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1289/image"
-    },
-    {
-      "EntityId": 1438,
-      "VideoName": "Hajduk Split vs Ajax Amsterdam",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Hajduk Split vs Ajax Amsterdam — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2036/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Hajduk Split",
-      "Team2Name": "Ajax Amsterdam",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2036/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
-    },
-    {
-      "EntityId": 1439,
-      "VideoName": "Lugano vs FK Crvena zvezda",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Lugano vs FK Crvena zvezda — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2443/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lugano",
-      "Team2Name": "FK Crvena zvezda",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2443/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5149/image"
     }
   ]
 }
