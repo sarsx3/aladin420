@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:01 PM 15-10-2026",
+    "LastUpdate": "06:02 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 427
   },
   "Matches": [
@@ -80,24 +80,6 @@
       "Status": "Live",
       "UrlSlug": "afc-champions-league-two",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-    },
-    {
-      "EntityId": 18508,
-      "VideoName": "Tai Po FC (HKG) vs Lion City Sailors FC (SGP) Live",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-15 16:00:00",
-      "Description": "Watch Tai Po FC vs Lion City Sailors FC live online on tapmad. The AFC Champions League Two Tai Po FC vs Lion City Sailors FC match is scheduled to take place on 15-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791528747324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915287471020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 829,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
     {
       "EntityId": 18513,
@@ -8484,8 +8466,30 @@
       "Status": "Upcoming",
       "CategoryId": 9305,
       "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792025405-0-0-a3c2c6baedbf4b8ae0fb9ed77a14b652",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792025405-0-0-a3c2c6baedbf4b8ae0fb9ed77a14b652",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792059725-0-0-316cf22ffde73b0028177b00743586d8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=4365b8d23b6c6d21024451685e3026a0&txTime=6ad0f4c5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Svay Rieng",
       "Team2Name": "Shanghai Shenhua FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/153474/image",
