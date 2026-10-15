@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:54 PM 15-10-2026",
+    "LastUpdate": "10:55 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -638,8 +638,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.44/hls/GYGYGY.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.44/hls/GYGYGY.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/c3732e5a-108e-4ef9-8596-8ef6d87bfb16.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Panathinaikos",
       "Team2Name": "FK Borac Banja Luka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3248/image",
@@ -658,8 +675,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/1392bda4-82e3-4c6a-adfa-71f811ce3ebb.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Mjällby AIF",
       "Team2Name": "Inter Club de Escaldes",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1783/image",
@@ -678,8 +712,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAAAAQA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAAAAQA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/ecb18d54-ec38-41bc-948d-60992f13ddad.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "KuPS",
       "Team2Name": "Trabzonspor",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2244/image",
@@ -698,8 +749,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/17c52a2e-5134-46f5-be12-cc2f002c9502.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Gent",
       "Team2Name": "AGF Aarhus",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2903/image",
@@ -718,8 +786,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKK.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKK.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/76bd61b7-db84-4cfe-9e24-c732181bcfca.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "KF Egnatia",
       "Team2Name": "FC Midtjylland",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/264619/image",
@@ -738,8 +823,25 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/ZKKKAAAAQAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAAAAQAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/9fe31447-623d-4029-bf14-f4e554ce45d1.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hajduk Split",
       "Team2Name": "Ajax Amsterdam",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2036/image",
