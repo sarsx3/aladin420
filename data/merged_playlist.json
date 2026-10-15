@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:31 PM 15-10-2026",
+    "LastUpdate": "10:32 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -26,7 +26,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "rb-salzburg-vs-milan-uel-live-match"
+      "UrlSlug": "rb-salzburg-vs-milan-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     },
     {
       "EntityId": 18942,
@@ -43,7 +44,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "torreense-vs-sunderland-uel-live-match"
+      "UrlSlug": "torreense-vs-sunderland-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
       "EntityId": 18943,
@@ -78,7 +80,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match"
+      "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
     },
     {
       "EntityId": 18945,
@@ -95,7 +98,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "sparta-praha-vs-lillestrom-uel-live-match"
+      "UrlSlug": "sparta-praha-vs-lillestrom-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
     },
     {
       "EntityId": 18946,
@@ -112,7 +116,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "ol-vs-palace-uel-live-match"
+      "UrlSlug": "ol-vs-palace-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
       "EntityId": 18947,
@@ -129,7 +134,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "union-vs-real-sociedad-uel-live-match"
+      "UrlSlug": "union-vs-real-sociedad-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
     },
     {
       "EntityId": 18948,
@@ -8087,8 +8093,17 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Torreense",
       "Team2Name": "Sunderland AFC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/25787/image",
@@ -8107,8 +8122,24 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Lyon",
       "Team2Name": "Crystal Palace FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1649/image",
@@ -8167,8 +8198,24 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+      "sources": [
+        {
+          "label": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123930~acl=/*~id=57399239211503195469487298601338~hmac=4f705858148351b4a21b71d4006cbb393d87a7e63fa417cbf4c8979dde6404b0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Salzburg",
       "Team2Name": "AC Milan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2046/image",
