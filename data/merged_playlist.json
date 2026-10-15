@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:03 AM 16-10-2026",
+    "LastUpdate": "01:04 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 33,
+    "LiveCount": 31,
     "UpcomingCount": 372
   },
   "Matches": [
@@ -49,7 +49,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "ferencvaros-vs-viktoria-plzen-uel-live-match"
+      "UrlSlug": "ferencvaros-vs-viktoria-plzen-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     },
     {
       "EntityId": 18950,
@@ -66,7 +67,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "rennes-vs-ofi-uel-live-match"
+      "UrlSlug": "rennes-vs-ofi-uel-live-match",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
       "EntityId": 18951,
@@ -118,7 +120,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "celta-vs-juventus-uel-live-match"
+      "UrlSlug": "celta-vs-juventus-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
     },
     {
       "EntityId": 18954,
@@ -135,7 +138,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "hoffenheim-vs-besiktas-uel-live-match"
+      "UrlSlug": "hoffenheim-vs-besiktas-uel-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
     },
     {
       "EntityId": 18955,
@@ -465,14 +469,6 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Rennes",
@@ -601,17 +597,8 @@
       "Status": "Live",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Ferencvaros",
       "Team2Name": "Viktoria Plzen",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1925/image",
@@ -908,42 +895,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792087340
-    },
-    {
-      "EntityId": 18942,
-      "VideoName": "Torreense vs Sunderland",
-      "CategoryName": "UEFA Europa League 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch Torreense vs Sunderland live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791660440324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916604401020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 905,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "torreense-vs-sunderland-uel-live-match",
-      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-    },
-    {
-      "EntityId": 18944,
-      "VideoName": "AZ Alkmaar vs H. Beer-Sheva",
-      "CategoryName": "UEFA Europa League 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-10-15 22:45:00",
-      "Description": "Watch AZ Alkmaar vs H. Beer-Sheva live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791660792324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916607921020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 905,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match",
-      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
     },
     {
       "EntityId": 17702,
