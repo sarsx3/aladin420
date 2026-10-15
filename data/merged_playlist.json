@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:43 PM 15-10-2026",
+    "LastUpdate": "10:44 PM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -211,8 +211,38 @@
       "Status": "Live",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792044078-0-0-a47df2120398d7dc9340cf5a564f2084",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1792077725-0-0-1c4416803e4c7b2d990b1fe5f306a0c9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1792077785-0-0-c57e8538ceed687912048f9421fb6dba",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "St. Gilloise",
       "Team2Name": "Real Sociedad",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4860/image",
@@ -231,8 +261,46 @@
       "Status": "Live",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/DMMM.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792043879-0-0-440f45f5fe4805ab2f2c36ab4c0dd334",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=00d0cb5b3a0fa8b7c78e87095a000398&txTime=6ad114e1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792085645-0-0-5464ba7e64237452aa566497a065ddb3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Lech Poznan",
       "Team2Name": "Bayer 04 Leverkusen",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3121/image",
@@ -258,6 +326,14 @@
           "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/3HHHAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
