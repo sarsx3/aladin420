@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 AM 17-10-2026",
+    "LastUpdate": "12:35 AM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 450
+    "LiveCount": 10,
+    "UpcomingCount": 448
   },
   "Matches": [
     {
@@ -45,6 +45,76 @@
       "Status": "Live",
       "UrlSlug": "le mans-vs-toulouse-ligue-one-live-match",
       "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
+    },
+    {
+      "EntityId": 1518,
+      "VideoName": "Le Mans vs Toulouse",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 00:45:00",
+      "Description": "Watch Le Mans vs Toulouse — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1672/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792165915-0-0-29eaae539c190b01977e6c958a656621",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1792171685-0-0-80e7671cfe2f6e8a8da91bec31dfc38e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792171685-0-0-f4ad62a1e24d098ee306008e0a74a800",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Le Mans",
+      "Team2Name": "Toulouse",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1672/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1681/image"
+    },
+    {
+      "EntityId": 1530,
+      "VideoName": "Frosinone vs Sassuolo",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 00:45:00",
+      "Description": "Watch Frosinone vs Sassuolo — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2801/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Frosinone",
+      "Team2Name": "Sassuolo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2801/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2793/image"
     },
     {
       "EntityId": 1520,
@@ -8999,76 +9069,6 @@
       "Team2Name": "Levante",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2832/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2849/image"
-    },
-    {
-      "EntityId": 1518,
-      "VideoName": "Le Mans vs Toulouse",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 00:45:00",
-      "Description": "Watch Le Mans vs Toulouse — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1672/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792165915-0-0-29eaae539c190b01977e6c958a656621",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1792171685-0-0-80e7671cfe2f6e8a8da91bec31dfc38e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792171685-0-0-f4ad62a1e24d098ee306008e0a74a800",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Le Mans",
-      "Team2Name": "Toulouse",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1672/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1681/image"
-    },
-    {
-      "EntityId": 1530,
-      "VideoName": "Frosinone vs Sassuolo",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 00:45:00",
-      "Description": "Watch Frosinone vs Sassuolo — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2801/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Frosinone",
-      "Team2Name": "Sassuolo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2801/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2793/image"
     },
     {
       "EntityId": 17100,
