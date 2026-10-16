@@ -1,16 +1,33 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:15 AM 17-10-2026",
+    "LastUpdate": "12:16 AM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 453
+    "LiveCount": 6,
+    "UpcomingCount": 452
   },
   "Matches": [
+    {
+      "EntityId": 18275,
+      "VideoName": "Deportivo vs Levante",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 9",
+      "EventStartDate": "2026-10-17 01:00:00",
+      "Description": "The 78th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790932697324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909326981020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 827,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "laliga--deportivo-vs-levante-live"
+    },
     {
       "EntityId": 18422,
       "VideoName": "Le Mans vs Toulouse",
@@ -26,7 +43,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "le mans-vs-toulouse-ligue-one-live-match"
+      "UrlSlug": "le mans-vs-toulouse-ligue-one-live-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
     },
     {
       "EntityId": 1533,
@@ -8857,23 +8875,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4937/image"
     },
     {
-      "EntityId": 18275,
-      "VideoName": "Deportivo vs Levante",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 9",
-      "EventStartDate": "2026-10-17 01:00:00",
-      "Description": "The 78th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790932697324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909326981020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 827,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "laliga--deportivo-vs-levante-live"
-    },
-    {
       "EntityId": 1495,
       "VideoName": "Burnley vs Wolverhampton Wanderers",
       "CategoryName": "Championship",
@@ -8966,8 +8967,45 @@
       "Status": "Upcoming",
       "CategoryId": 9044,
       "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SporTV BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792165160-0-0-adadd0391ca9abd2e1701824494435fa",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1792171745-0-0-f50154076c1267de429ea202ef1670cb",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1792171745-0-0-1561a78ddcb902a3d4c7baa1b7e363ee",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Eintracht",
       "Team2Name": "Köln",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2674/image",
