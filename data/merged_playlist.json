@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:35 AM 17-10-2026",
+    "LastUpdate": "12:36 AM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 8,
     "UpcomingCount": 448
   },
   "Matches": [
@@ -109,8 +109,38 @@
       "Status": "Live",
       "CategoryId": 9359,
       "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792165828-0-0-02e19eff73ea9c7148faa26b98531745",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=6967b789938588147e28d3535a2f9d04&txTime=6ad2a4f5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=074385bac5aa2d7f8b46684d25d223c8&txTime=6ad2a4f5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Frosinone",
       "Team2Name": "Sassuolo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2801/image",
@@ -243,97 +273,6 @@
       "Team2Name": "SBV Excelsior",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2964/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2967/image"
-    },
-    {
-      "EntityId": 1481,
-      "VideoName": "Energie Cottbus vs Nurnberg",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-16 22:30:00",
-      "Description": "Watch Energie Cottbus vs Nurnberg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2532/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792133933-0-0-c5331f3c7ce814329bc23fe9f38e4632",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792133933-0-0-c5331f3c7ce814329bc23fe9f38e4632",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792159386-0-0-b67d9f0040d955efff0c732712cbc3d7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BeIN SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Energie Cottbus",
-      "Team2Name": "Nurnberg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2532/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2523/image"
-    },
-    {
-      "EntityId": 1482,
-      "VideoName": "Holstein Kiel vs Hertha BSC",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-16 22:30:00",
-      "Description": "Watch Holstein Kiel vs Hertha BSC — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2573/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792134063-0-0-614006cdd394e1ad54325b7b9b37cfa3",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792134063-0-0-614006cdd394e1ad54325b7b9b37cfa3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1792159506-0-0-eb4cfc7e3ab009c3fcbabd34453ba19d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c28995c979d9a496765e645c119b2301&txTime=6ad2759e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BeIN SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Holstein Kiel",
-      "Team2Name": "Hertha BSC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2573/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2528/image"
     },
     {
       "EntityId": 1486,
