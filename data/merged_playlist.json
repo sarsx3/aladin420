@@ -1,16 +1,93 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:19 PM 16-10-2026",
+    "LastUpdate": "10:20 PM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 458
+    "LiveCount": 6,
+    "UpcomingCount": 456
   },
   "Matches": [
+    {
+      "EntityId": 1481,
+      "VideoName": "Energie Cottbus vs Nurnberg",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-16 22:30:00",
+      "Description": "Watch Energie Cottbus vs Nurnberg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2532/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792133933-0-0-c5331f3c7ce814329bc23fe9f38e4632",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792133933-0-0-c5331f3c7ce814329bc23fe9f38e4632",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792159386-0-0-b67d9f0040d955efff0c732712cbc3d7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Energie Cottbus",
+      "Team2Name": "Nurnberg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2532/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2523/image"
+    },
+    {
+      "EntityId": 1482,
+      "VideoName": "Holstein Kiel vs Hertha BSC",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-16 22:30:00",
+      "Description": "Watch Holstein Kiel vs Hertha BSC — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2573/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792134063-0-0-614006cdd394e1ad54325b7b9b37cfa3",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792134063-0-0-614006cdd394e1ad54325b7b9b37cfa3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1792159506-0-0-eb4cfc7e3ab009c3fcbabd34453ba19d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c28995c979d9a496765e645c119b2301&txTime=6ad2759e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Holstein Kiel",
+      "Team2Name": "Hertha BSC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2573/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2528/image"
+    },
     {
       "EntityId": 1486,
       "VideoName": "Australia Champions vs West Indies Champions",
@@ -8997,83 +9074,6 @@
       "Team2Name": "Al Shabab",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34315/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/34313/image"
-    },
-    {
-      "EntityId": 1481,
-      "VideoName": "Energie Cottbus vs Nurnberg",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-16 22:30:00",
-      "Description": "Watch Energie Cottbus vs Nurnberg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2532/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792133933-0-0-c5331f3c7ce814329bc23fe9f38e4632",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792133933-0-0-c5331f3c7ce814329bc23fe9f38e4632",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792159386-0-0-b67d9f0040d955efff0c732712cbc3d7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Energie Cottbus",
-      "Team2Name": "Nurnberg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2532/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2523/image"
-    },
-    {
-      "EntityId": 1482,
-      "VideoName": "Holstein Kiel vs Hertha BSC",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-16 22:30:00",
-      "Description": "Watch Holstein Kiel vs Hertha BSC — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2573/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792134063-0-0-614006cdd394e1ad54325b7b9b37cfa3",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792134063-0-0-614006cdd394e1ad54325b7b9b37cfa3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1792159506-0-0-eb4cfc7e3ab009c3fcbabd34453ba19d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c28995c979d9a496765e645c119b2301&txTime=6ad2759e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Holstein Kiel",
-      "Team2Name": "Hertha BSC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2573/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2528/image"
     }
   ]
 }
