@@ -1,16 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:01 PM 16-10-2026",
+    "LastUpdate": "08:02 PM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 459
   },
   "Matches": [
+    {
+      "EntityId": 1090548554,
+      "VideoName": "Rajputana Royals vs Chola Chiefs",
+      "CategoryName": "Archery",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-16 20:02:18",
+      "Description": "Watch Rajputana Royals vs Chola Chiefs live from Archery. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Archery online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959239730579_APL26_Rajputana-Royals-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959239730579_APL26_Rajputana-Royals-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9137,
+      "UrlSlug": "archery-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792159338
+    },
     {
       "EntityId": 1090548555,
       "VideoName": "Sporting Club Delhi vs Mohun Bagan Super Giant",
@@ -24,19 +47,19 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc"
         },
         {
           "label": "Bengali",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc"
         }
       ],
       "Provider": "SonyLiv",
@@ -117,15 +140,15 @@
       "Status": "Live",
       "CategoryId": 9473,
       "UrlSlug": "volleyball-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792202106~acl=/*~id=57618009136002027885996200064987~hmac=72e18ab71114bf61598d077966b8df2ac884dc3f138341aa53cb5dc0d95d46bc"
         }
       ],
       "Provider": "SonyLiv",
