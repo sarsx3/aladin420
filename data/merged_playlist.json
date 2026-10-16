@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:32 AM 16-10-2026",
+    "LastUpdate": "11:33 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "KYZDE9tEjjriV3j10xekr"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 448
   },
   "Matches": [
@@ -27,6 +27,29 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "pakistan-womens-under-19s-t20-tri-series-2026-27"
+    },
+    {
+      "EntityId": 1090548548,
+      "VideoName": "SJM Macao Open - Day 2",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-16 11:33:15",
+      "Description": "Watch SJM Macao Open - Day 2 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792171777~acl=/*~id=32321207580967518564568459506342~hmac=28c9a4ab6c15405d1badf58598e6af7f313bfcf8c5219484de3012d6663224f8",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792171777~acl=/*~id=32321207580967518564568459506342~hmac=28c9a4ab6c15405d1badf58598e6af7f313bfcf8c5219484de3012d6663224f8"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792128795
     },
     {
       "EntityId": 17702,
