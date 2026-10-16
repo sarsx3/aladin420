@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 AM 17-10-2026",
+    "LastUpdate": "12:50 AM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 448
+    "LiveCount": 10,
+    "UpcomingCount": 446
   },
   "Matches": [
     {
@@ -27,6 +27,46 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "laliga--deportivo-vs-levante-live"
+    },
+    {
+      "EntityId": 1495,
+      "VideoName": "Burnley vs Wolverhampton Wanderers",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 01:00:00",
+      "Description": "Watch Burnley vs Wolverhampton Wanderers — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Burnley",
+      "Team2Name": "Wolverhampton Wanderers",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3/image"
+    },
+    {
+      "EntityId": 1537,
+      "VideoName": "Deportivo vs Levante",
+      "CategoryName": "LaLiga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 01:00:00",
+      "Description": "Watch Deportivo vs Levante — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2832/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9723,
+      "UrlSlug": "laliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Deportivo",
+      "Team2Name": "Levante",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2832/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2849/image"
     },
     {
       "EntityId": 18422,
@@ -8968,46 +9008,6 @@
       "Team2Name": "Instituto AC Cordoba",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/36839/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4937/image"
-    },
-    {
-      "EntityId": 1495,
-      "VideoName": "Burnley vs Wolverhampton Wanderers",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 01:00:00",
-      "Description": "Watch Burnley vs Wolverhampton Wanderers — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Burnley",
-      "Team2Name": "Wolverhampton Wanderers",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3/image"
-    },
-    {
-      "EntityId": 1537,
-      "VideoName": "Deportivo vs Levante",
-      "CategoryName": "LaLiga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 01:00:00",
-      "Description": "Watch Deportivo vs Levante — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2832/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9723,
-      "UrlSlug": "laliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Deportivo",
-      "Team2Name": "Levante",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2832/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2849/image"
     },
     {
       "EntityId": 17100,
