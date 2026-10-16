@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:29 AM 17-10-2026",
+    "LastUpdate": "12:30 AM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -116,8 +116,17 @@
       "Status": "Live",
       "CategoryId": 9491,
       "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/4HHHAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/4HHHAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Leganés",
       "Team2Name": "Cordoba",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2845/image",
@@ -9004,8 +9013,38 @@
       "Status": "Upcoming",
       "CategoryId": 9502,
       "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792165915-0-0-29eaae539c190b01977e6c958a656621",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1792171685-0-0-80e7671cfe2f6e8a8da91bec31dfc38e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792171685-0-0-f4ad62a1e24d098ee306008e0a74a800",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Le Mans",
       "Team2Name": "Toulouse",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1672/image",
