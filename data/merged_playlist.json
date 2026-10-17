@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:41 PM 17-10-2026",
+    "LastUpdate": "08:42 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -1340,12 +1340,8 @@
       "Status": "Live",
       "CategoryId": 9158,
       "UrlSlug": "odi-tri-nation-series-in-uae-2026",
-      "stream_url": "https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
       "sources": [
-        {
-          "label": "Nagorik TV",
-          "url": "https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8"
-        },
         {
           "label": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
@@ -1353,6 +1349,10 @@
             "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "Nagorik TV",
+          "url": "https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8"
         },
         {
           "label": "PrioFy- TSports",
