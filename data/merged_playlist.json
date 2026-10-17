@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:28 PM 17-10-2026",
+    "LastUpdate": "11:29 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 11,
     "UpcomingCount": 410
   },
   "Matches": [
@@ -386,6 +386,78 @@
       "Team2Name": "Al Ettifaq",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/530631/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/34318/image"
+    },
+    {
+      "EntityId": 1519,
+      "VideoName": "Strasbourg vs Paris Saint-Germain",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 21:15:00",
+      "Description": "Watch Strasbourg vs Paris Saint-Germain — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1659/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "sources": [
+        {
+          "label": "BEIN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPORT2 TV CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-aq",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792216911-0-0-28805ae753e47dd77f2976c3233a07d4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1792248246-0-0-078277ed3683e0c5608891fe6a749806",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1792248306-0-0-b4d23bd0e3be473f644496606ceff0ea",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "http://193.47.62.55/hls/cuuuaaaaaaqq.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Strasbourg",
+      "Team2Name": "Paris Saint-Germain",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1659/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1644/image"
     },
     {
       "EntityId": 19096,
