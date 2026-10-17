@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:49 PM 17-10-2026",
+    "LastUpdate": "04:50 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 459
+    "LiveCount": 9,
+    "UpcomingCount": 456
   },
   "Matches": [
     {
@@ -28,6 +28,117 @@
       "Status": "Live",
       "UrlSlug": "ban-vs-zim-1st-odi-live",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 1527,
+      "VideoName": "Furth vs Braunschweig",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:00:00",
+      "Description": "Watch Furth vs Braunschweig — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2551/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://edgestream2.pro/hls/.m3u8",
+          "headers": {
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.55/hls/8GGG.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Furth",
+      "Team2Name": "Braunschweig",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2551/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2557/image"
+    },
+    {
+      "EntityId": 1528,
+      "VideoName": "FC Kaiserslautern vs Bochum",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:00:00",
+      "Description": "Watch FC Kaiserslautern vs Bochum — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2675/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://edgestream2.pro/hls/.m3u8",
+          "headers": {
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.55/hls/8GGGA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "FC Kaiserslautern",
+      "Team2Name": "Bochum",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2675/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2542/image"
+    },
+    {
+      "EntityId": 1529,
+      "VideoName": "Wolfsburg vs FC Heidenheim",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:00:00",
+      "Description": "Watch Wolfsburg vs FC Heidenheim — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2524/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://edgestream2.pro/hls/.m3u8",
+          "headers": {
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.55/hls/8GGGAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Wolfsburg",
+      "Team2Name": "FC Heidenheim",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5885/image"
     },
     {
       "EntityId": 18992,
@@ -9033,93 +9144,6 @@
       "Team2Name": "Luton",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/72/image"
-    },
-    {
-      "EntityId": 1527,
-      "VideoName": "Furth vs Braunschweig",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:00:00",
-      "Description": "Watch Furth vs Braunschweig — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2551/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://edgestream2.pro/hls/.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://edgestream2.pro/hls/.m3u8",
-          "headers": {
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Furth",
-      "Team2Name": "Braunschweig",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2551/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2557/image"
-    },
-    {
-      "EntityId": 1528,
-      "VideoName": "FC Kaiserslautern vs Bochum",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:00:00",
-      "Description": "Watch FC Kaiserslautern vs Bochum — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2675/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://edgestream2.pro/hls/.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://edgestream2.pro/hls/.m3u8",
-          "headers": {
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "FC Kaiserslautern",
-      "Team2Name": "Bochum",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2675/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2542/image"
-    },
-    {
-      "EntityId": 1529,
-      "VideoName": "Wolfsburg vs FC Heidenheim",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:00:00",
-      "Description": "Watch Wolfsburg vs FC Heidenheim — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2524/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://edgestream2.pro/hls/.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://edgestream2.pro/hls/.m3u8",
-          "headers": {
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Wolfsburg",
-      "Team2Name": "FC Heidenheim",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5885/image"
     }
   ]
 }
