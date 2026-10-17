@@ -1,16 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:29 PM 17-10-2026",
+    "LastUpdate": "01:30 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 460
   },
   "Matches": [
+    {
+      "EntityId": 1090548710,
+      "VideoName": "DP World India Championship - Day 3",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 13:30:40",
+      "Description": "Watch DP World India Championship - Day 3 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792265117~acl=/*~id=46585018770531469324960533532267~hmac=a19661643b4191bfc7422038b40db64bcf5275c6d902af0fc66c2ac8663acde4",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792265117~acl=/*~id=46585018770531469324960533532267~hmac=a19661643b4191bfc7422038b40db64bcf5275c6d902af0fc66c2ac8663acde4"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792222240
+    },
     {
       "EntityId": 1090548709,
       "VideoName": "SJM Macao Open - Day 3",
@@ -24,11 +47,11 @@
       "Status": "Live",
       "CategoryId": 9232,
       "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792263294~acl=/*~id=01282327856075749174418735269628~hmac=f9a94d69ab1519c35b2f33318685dc6d1b239225d0bbba96af6fa3b1efe4e344",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792265117~acl=/*~id=46585018770531469324960533532267~hmac=a19661643b4191bfc7422038b40db64bcf5275c6d902af0fc66c2ac8663acde4",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792263294~acl=/*~id=01282327856075749174418735269628~hmac=f9a94d69ab1519c35b2f33318685dc6d1b239225d0bbba96af6fa3b1efe4e344"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792265117~acl=/*~id=46585018770531469324960533532267~hmac=a19661643b4191bfc7422038b40db64bcf5275c6d902af0fc66c2ac8663acde4"
         }
       ],
       "Provider": "SonyLiv",
