@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:10 PM 17-10-2026",
+    "LastUpdate": "10:11 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 20,
+    "LiveCount": 38,
     "UpcomingCount": 414
   },
   "Matches": [
@@ -415,6 +415,594 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792245676
+    },
+    {
+      "EntityId": 1491,
+      "VideoName": "Fulham vs Hull City",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Fulham vs Hull City — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/43/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO3/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO3/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792215397-0-0-a8013eb28f80e01a9ef894634b3bbf9d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e7412cb13c61d278e13d29a8c3028155&txTime=6ad3b895",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792242426-0-0-b716c8f866a3beae4d92ce7df1ab9f33",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/d6f999ea-dc58-4d95-a707-dae77c6cb70f.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Fulham",
+      "Team2Name": "Hull City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/43/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/96/image"
+    },
+    {
+      "EntityId": 1492,
+      "VideoName": "Brentford vs Liverpool",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Brentford vs Liverpool — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/50/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792215265-0-0-d740a036115dc92d268bec71936976c6",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792215265-0-0-d740a036115dc92d268bec71936976c6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a43eb384d2e959929c5932627f0d78b9&txTime=6ad3b859",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e7412cb13c61d278e13d29a8c3028155&txTime=6ad3b895",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Brentford",
+      "Team2Name": "Liverpool",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/50/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/44/image"
+    },
+    {
+      "EntityId": 1493,
+      "VideoName": "Man City vs Ipswich",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Man City vs Ipswich — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/17/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO4/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO4/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792215650-0-0-a062cc7ddd4a62ed2134d3582b22f421",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1792242545-0-0-3c3b592d727e2eb78650ec12f77803cd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792243146-0-0-0162aeb2cd8011bd3e219d2174e03bfe",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/91eba60d-514b-41a7-ba01-92b3d15aaa28.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Man City",
+      "Team2Name": "Ipswich",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/32/image"
+    },
+    {
+      "EntityId": 1499,
+      "VideoName": "Wrexham vs Preston",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Wrexham vs Preston — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/64/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Wrexham",
+      "Team2Name": "Preston",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/64/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/21/image"
+    },
+    {
+      "EntityId": 1500,
+      "VideoName": "West Brom vs Blackburn",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch West Brom vs Blackburn — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.44/hls/H111AAAAQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.44/hls/H111AAAAQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "West Brom",
+      "Team2Name": "Blackburn",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/8/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/46/image"
+    },
+    {
+      "EntityId": 1501,
+      "VideoName": "Swansea vs West Ham",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Swansea vs West Ham — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/74/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.41/hls/BIIIAAAAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/BIIIAAAAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Swansea",
+      "Team2Name": "West Ham",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/74/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/37/image"
+    },
+    {
+      "EntityId": 1502,
+      "VideoName": "Southampton vs Bolton",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Southampton vs Bolton — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/45/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.50/hls/L111AAQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/L111AAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Southampton",
+      "Team2Name": "Bolton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/45/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5/image"
+    },
+    {
+      "EntityId": 1503,
+      "VideoName": "Norwich vs Portsmouth",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Norwich vs Portsmouth — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/263/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/N777AAAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/N777AAAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Norwich",
+      "Team2Name": "Portsmouth",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/263/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2/image"
+    },
+    {
+      "EntityId": 1504,
+      "VideoName": "Derby vs Stoke City",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Derby vs Stoke City — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/27/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.44/hls/H111AAAAQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.44/hls/H111AAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Derby",
+      "Team2Name": "Stoke City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/27/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/29/image"
+    },
+    {
+      "EntityId": 1505,
+      "VideoName": "Bristol City vs Sheffield Utd",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Bristol City vs Sheffield Utd — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/58/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.41/hls/BIIIAAAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/BIIIAAAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bristol City",
+      "Team2Name": "Sheffield Utd",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/58/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/15/image"
+    },
+    {
+      "EntityId": 1506,
+      "VideoName": "Birmingham vs Queens Park Rangers",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Birmingham vs Queens Park Rangers — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/9/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.59/hls/N777.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/N777.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Birmingham",
+      "Team2Name": "Queens Park Rangers",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/9/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1/image"
+    },
+    {
+      "EntityId": 1509,
+      "VideoName": "Wycombe vs Notts County",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Wycombe vs Notts County — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/62/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Wycombe",
+      "Team2Name": "Notts County",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/62/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/56/image"
+    },
+    {
+      "EntityId": 1510,
+      "VideoName": "Wigan vs Reading",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Wigan vs Reading — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/49/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.59/hls/N777AAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/N777AAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Wigan",
+      "Team2Name": "Reading",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/49/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/28/image"
+    },
+    {
+      "EntityId": 1511,
+      "VideoName": "Stockport vs Bromley",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Stockport vs Bromley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/10/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.41/hls/BIIIAAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/BIIIAAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Stockport",
+      "Team2Name": "Bromley",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/10/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/180/image"
+    },
+    {
+      "EntityId": 1512,
+      "VideoName": "Sheffield Wed vs AFC Wimbledon",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Sheffield Wed vs AFC Wimbledon — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/12/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.50/hls/L111AAQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/L111AAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sheffield Wed",
+      "Team2Name": "AFC Wimbledon",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/12/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/71/image"
+    },
+    {
+      "EntityId": 1513,
+      "VideoName": "Plymouth vs Huddersfield",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Plymouth vs Huddersfield — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/79/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.59/hls/N777AAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.59/hls/N777AAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Plymouth",
+      "Team2Name": "Huddersfield",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/79/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/59/image"
+    },
+    {
+      "EntityId": 1514,
+      "VideoName": "Leyton Orient vs Blackpool",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Leyton Orient vs Blackpool — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/83/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.44/hls/H111AAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.44/hls/H111AAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Leyton Orient",
+      "Team2Name": "Blackpool",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/83/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/67/image"
+    },
+    {
+      "EntityId": 1515,
+      "VideoName": "Leicester City vs Doncaster",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:00:00",
+      "Description": "Watch Leicester City vs Doncaster — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/31/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.41/hls/BIIIAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/BIIIAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Leicester City",
+      "Team2Name": "Doncaster",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/31/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/84/image"
     },
     {
       "EntityId": 1516,
