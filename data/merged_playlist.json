@@ -1,16 +1,62 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 AM 18-10-2026",
+    "LastUpdate": "05:20 AM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 390
+    "LiveCount": 6,
+    "UpcomingCount": 388
   },
   "Matches": [
+    {
+      "EntityId": 18232,
+      "VideoName": "Buckley vs Malott",
+      "CategoryName": "UFC 2026",
+      "StageName": "Fight Night",
+      "EventStartDate": "2026-10-18 06:00:00",
+      "Description": "UFC Fight Night Live: Watch Buckley vs Malott live online on tapmad. Enjoy watching Buckley vs Malott live streaming online in Pakistan with full match highlights. The fight will start at 05:00 AM on 18-Oct. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791796374324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917963751020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 265,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Mma",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "ufc fight night-buckley vs malott-live",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 1561,
+      "VideoName": "Atlanta United vs Inter Miami",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 05:30:00",
+      "Description": "Watch Atlanta United vs Inter Miami — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/243211/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792264914-0-0-330450ba7d5513e30c12a932932dde61",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792264914-0-0-330450ba7d5513e30c12a932932dde61",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Atlanta United",
+      "Team2Name": "Inter Miami",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/243211/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/337602/image"
+    },
     {
       "EntityId": 1559,
       "VideoName": "Atletico Tucuman vs Rosario Central",
@@ -7670,23 +7716,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
-      "EntityId": 18232,
-      "VideoName": "Buckley vs Malott",
-      "CategoryName": "UFC 2026",
-      "StageName": "Fight Night",
-      "EventStartDate": "2026-10-18 06:00:00",
-      "Description": "UFC Fight Night Live: Watch Buckley vs Malott live online on tapmad. Enjoy watching Buckley vs Malott live streaming online in Pakistan with full match highlights. The fight will start at 05:00 AM on 18-Oct. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791796374324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917963751020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 265,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Mma",
-      "is_full_data": true,
-      "Status": "Upcoming",
-      "UrlSlug": "ufc fight night-buckley vs malott-live"
-    },
-    {
       "EntityId": 1562,
       "VideoName": "São Paulo vs Vasco",
       "CategoryName": "Brasileirão Série A",
@@ -7705,34 +7734,6 @@
       "Team2Name": "Vasco",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1981/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1974/image"
-    },
-    {
-      "EntityId": 1561,
-      "VideoName": "Atlanta United vs Inter Miami",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 05:30:00",
-      "Description": "Watch Atlanta United vs Inter Miami — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/243211/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792264914-0-0-330450ba7d5513e30c12a932932dde61",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792264914-0-0-330450ba7d5513e30c12a932932dde61",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Atlanta United",
-      "Team2Name": "Inter Miami",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/243211/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/337602/image"
     }
   ]
 }
