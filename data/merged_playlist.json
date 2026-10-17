@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:53 PM 17-10-2026",
+    "LastUpdate": "05:54 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -60,8 +60,38 @@
       "Status": "Live",
       "CategoryId": 9723,
       "UrlSlug": "laliga",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792214435-0-0-b5bbe84c2b28376df3c207b853e8421b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1792241165-0-0-58733d9a880ba6a02bfb7d3e1d8b84f7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792241166-0-0-62b0ae3724404628313f7a3fded3083f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Espanyol",
       "Team2Name": "Atl. Madrid",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2814/image",
@@ -376,6 +406,41 @@
           "label": "willow-alt",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
           "drmScheme": "ZDY3YzBmM2U4ZDE3NmU2OTNlOWQ0NTJlYzRhZWNhMmY6M2NhZTVkZTI4YjE2YWU4MTUyOTk5NTc0Y2VkM2I0ZGI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-nha-ncg/_nc_cat-108/_nc_sr_t-4/v/rAScbKarC6QOi_zY5_k91dEiL7knMYlf7HmQqYdGV6JkZDQ/_nc_ohc-jjJCFSL1ZywQ7kNvwGIrpFw/live-dash/dash-abr-ibr-audio/1092294006953813.mpd?_nc_eui2=AeFmYSDuWjnHJNf_WzYQuaMAO8kwrvt8x7M7yTCu-3zHs4C-1PTDVTgIBxynITdY_lJk-ZmjYpCjY8MUgsjtOKqe&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNJAPYmA2RkK7IfkRIQpW05K1hdWcdbnwPmU1sIbt980Q&oe=6AD53D30",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-atn-frc/_nc_cat-1/_nc_sr_t-4/v/rASfa51WJRJS26Mc0us2MJNEBj9iJR4LYi4tC99N1_5zSWQ/_nc_ohc-kXeK5a_t-QoQ7kNvwH_lbQG/live-dash/dash-abr-ibr-audio/122104214972580930.mpd?_nc_eui2=AeF2X7TTcUVcLPRY5ffdu0E81bGBZNHtIhzVsYFk0e0iHKj4oNesWMchsGFJJ5KGuIxTogUt3APRb1TcNptYBCU0&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMNbiOykeCY-l8ZN_quHcBFLA1swUZAhy8DLmVVL9yswQ&oe=6AD5481C",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-ldc-ftw/_nc_cat-1/_nc_sr_t-4/v/rASe8AnCNSUIj3Z_QoEmguT8id6Hdm3aC5Md4dz1oLp_6LA/_nc_ohc-jbAP7CdDhlIQ7kNvwH1vRQk/live-dash/dash-abr-ibr-audio/1017933047984615.mpd?_nc_eui2=AeH6vh1m_pSpIe4Zi4FLNV6qpZGfzkalwBKlkZ_ORqXAElyYE_nL-cBYQPbWO25G_BZwe5qryM-oVMQcEx82PMlg&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQOtGxaTu7FpRZOGS_Qh8AXHi56DPIdwc11ZlsSyevxkTA&oe=6AD52B17",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-hil-rva/_nc_cat-1/_nc_sr_t-4/v/rASfJWFWUGgREw7IA17Dr3clI7izpYGpprXPUclaKHVkakA/_nc_ohc-4mQlJwnR5IoQ7kNvwHIuImR/live-dash/dash-abr-ibr-audio/122125022823400736.mpd?_nc_eui2=AeHqsMHQhSEIsflvavntnc7Lsp7VrsaPR1uyntWuxo9HW9bMjxoQ0Yii3du9a2n3kPQrjtVpdyVR8xe4ytP6QVx_&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMcn4PgInJdjCUqU4yjJupJF3-3HueK609PAdcUPjEBcg&oe=6AD52896",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-1/_nc_sr_t-4/v/rASe-r66XSfQ0H6QwfPw4MYDOYM6yPwY-Np1hsdJDna2G9A/_nc_ohc-26h1ivKTunUQ7kNvwHbfCh2/live-dash/dash-abr-ibr-audio/122118974793323743.mpd?_nc_eui2=AeEFWxVrU7tWASiRS1HrDS1bpZXvhD8x6G6lle-EPzHobkrQSW45ST5dBKvI5Ntd3Jd4c-ToFcMzM2KNYEDgyyHD&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNrmbz_2Lmm7tCH6LaHpOLYqbYTzawMjeW1ORqbD2WkYQ&oe=6AD5293C",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
