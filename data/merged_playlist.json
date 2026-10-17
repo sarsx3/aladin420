@@ -1,16 +1,33 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:47 PM 17-10-2026",
+    "LastUpdate": "07:48 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 18,
+    "LiveCount": 19,
     "UpcomingCount": 440
   },
   "Matches": [
+    {
+      "EntityId": 18998,
+      "VideoName": "Moto 2 - Olbia, Italy",
+      "CategoryName": "UIM - ABP Aquabike World Championship 2026",
+      "StageName": "Race 2",
+      "EventStartDate": "2026-10-17 20:30:00",
+      "Description": "Watch Moto 2 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791964131324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919641311020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1133,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Racing",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "uim-abp-aquabike-world-championship-2026"
+    },
     {
       "EntityId": 18277,
       "VideoName": "Villarreal vs Elche",
@@ -8980,8 +8997,38 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO3/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO3/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792215397-0-0-a8013eb28f80e01a9ef894634b3bbf9d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e7412cb13c61d278e13d29a8c3028155&txTime=6ad3b895",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792242426-0-0-b716c8f866a3beae4d92ce7df1ab9f33",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Fulham",
       "Team2Name": "Hull City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/43/image",
@@ -9000,8 +9047,30 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792215265-0-0-d740a036115dc92d268bec71936976c6",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792215265-0-0-d740a036115dc92d268bec71936976c6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a43eb384d2e959929c5932627f0d78b9&txTime=6ad3b859",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e7412cb13c61d278e13d29a8c3028155&txTime=6ad3b895",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Brentford",
       "Team2Name": "Liverpool",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/50/image",
@@ -9020,8 +9089,38 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO4/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO4/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792215650-0-0-a062cc7ddd4a62ed2134d3582b22f421",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1792242545-0-0-3c3b592d727e2eb78650ec12f77803cd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792243146-0-0-0162aeb2cd8011bd3e219d2174e03bfe",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Man City",
       "Team2Name": "Ipswich",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
