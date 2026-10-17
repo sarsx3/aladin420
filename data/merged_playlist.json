@@ -1,16 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:49 AM 18-10-2026",
+    "LastUpdate": "02:50 AM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 395
+    "LiveCount": 7,
+    "UpcomingCount": 394
   },
   "Matches": [
+    {
+      "EntityId": 1556,
+      "VideoName": "Botafogo vs Chapecoense",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 03:00:00",
+      "Description": "Watch Botafogo vs Chapecoense — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1958/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+      "sources": [
+        {
+          "label": "PREMIERE2 BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Botafogo",
+      "Team2Name": "Chapecoense",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1958/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/21845/image"
+    },
     {
       "EntityId": 18279,
       "VideoName": "Valencia vs Athletic",
@@ -7879,34 +7907,6 @@
       "Team2Name": "Coritiba",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1977/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1982/image"
-    },
-    {
-      "EntityId": 1556,
-      "VideoName": "Botafogo vs Chapecoense",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 03:00:00",
-      "Description": "Watch Botafogo vs Chapecoense — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1958/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-      "sources": [
-        {
-          "label": "PREMIERE2 BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Botafogo",
-      "Team2Name": "Chapecoense",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1958/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/21845/image"
     }
   ]
 }
