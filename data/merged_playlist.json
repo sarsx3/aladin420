@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:18 PM 17-10-2026",
+    "LastUpdate": "10:19 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 19,
+    "LiveCount": 20,
     "UpcomingCount": 414
   },
   "Matches": [
@@ -264,6 +264,24 @@
       "Team2Name": "PSV",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2966/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2952/image"
+    },
+    {
+      "EntityId": 18277,
+      "VideoName": "Villarreal vs Elche",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 9",
+      "EventStartDate": "2026-10-17 20:15:00",
+      "Description": "The 80th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Villarreal vs Elche live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933029324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909330291020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 827,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "laliga--villarreal-vs-elche-live",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
     },
     {
       "EntityId": 1539,
@@ -8709,52 +8727,8 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO5/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO5/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "NBC SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SKY SPORTS EPL - FHD",
-          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792215764-0-0-93755de88eee4849292bb7ea82883fee",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1792253286-0-0-c513ddc4116d3f4c15923731beecb4e6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1792253346-0-0-695f6d1ad1013fee0ad07921f62754dd",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Newcastle Utd",
       "Team2Name": "Aston Villa",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/39/image",
