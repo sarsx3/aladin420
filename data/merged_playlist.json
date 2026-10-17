@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:19 AM 18-10-2026",
+    "LastUpdate": "12:20 AM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 404
+    "LiveCount": 15,
+    "UpcomingCount": 403
   },
   "Matches": [
     {
@@ -61,6 +61,26 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "troyes-vs-lens-ligue-one-live-match"
+    },
+    {
+      "EntityId": 1550,
+      "VideoName": "Hannover vs St. Pauli",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 00:30:00",
+      "Description": "Watch Hannover vs St. Pauli — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Hannover",
+      "Team2Name": "St. Pauli",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2526/image"
     },
     {
       "EntityId": 1547,
@@ -8463,26 +8483,6 @@
       "Team2Name": "Genoa",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2702/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2713/image"
-    },
-    {
-      "EntityId": 1550,
-      "VideoName": "Hannover vs St. Pauli",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 00:30:00",
-      "Description": "Watch Hannover vs St. Pauli — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Hannover",
-      "Team2Name": "St. Pauli",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2526/image"
     }
   ]
 }
