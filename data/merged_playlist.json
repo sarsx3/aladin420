@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:03 PM 17-10-2026",
+    "LastUpdate": "05:04 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 7,
     "UpcomingCount": 456
   },
   "Matches": [
@@ -28,6 +28,33 @@
       "Status": "Live",
       "UrlSlug": "ban-vs-zim-1st-odi-live",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 1090548893,
+      "VideoName": "Inter Kashi vs Odisha FC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:04:17",
+      "Description": "Watch Inter Kashi vs Odisha FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792235057
     },
     {
       "EntityId": 1527,
@@ -159,60 +186,6 @@
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
     {
-      "EntityId": 18251,
-      "VideoName": "Rahamatgonj MFS vs Brothers Union Ltd",
-      "CategoryName": "Bangladesh Football League 2026/27",
-      "StageName": "Round 4",
-      "EventStartDate": "2026-10-17 14:45:00",
-      "Description": "Watch Rahamatgonj MFS vs Brothers Union Ltd in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Rahamatgonj MFS vs Brothers Union Ltd match will take place on 17-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1792155878324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921558781020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1105,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "bangladesh-football-league-2038",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
-    },
-    {
-      "EntityId": 18252,
-      "VideoName": "Abahani Ltd. Dhaka vs Chattogram City FC",
-      "CategoryName": "Bangladesh Football League 2026/27",
-      "StageName": "Round 4",
-      "EventStartDate": "2026-10-17 14:45:00",
-      "Description": "Watch Abahani Ltd. Dhaka vs Chattogram City FC in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Abahani Ltd. Dhaka vs Chattogram City FC match will take place on 17-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1792155945324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921559451020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1105,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "bangladesh-football-league-2038",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
-    },
-    {
-      "EntityId": 18253,
-      "VideoName": "Bangladesh Police FC vs Arambagh Krira Shangha",
-      "CategoryName": "Bangladesh Football League 2026/27",
-      "StageName": "Round 4",
-      "EventStartDate": "2026-10-17 14:45:00",
-      "Description": "Watch Bangladesh Police FC vs Arambagh Krira Shangha in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Bangladesh Police FC vs Arambagh Krira Shangha match will take place on 17-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1792156018324x432.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921560181020x576.jpg",
-      "IsFreeToWatch": false,
-      "CategoryId": 1105,
-      "regionsAllowed": "BD,NP",
-      "NewSportsGenre": "Football",
-      "is_full_data": true,
-      "Status": "Live",
-      "UrlSlug": "bangladesh-football-league-2038",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-    },
-    {
       "EntityId": 1090548710,
       "VideoName": "DP World India Championship - Day 3",
       "CategoryName": "Golf",
@@ -225,11 +198,11 @@
       "Status": "Live",
       "CategoryId": 9232,
       "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792276024~acl=/*~id=31542019451764253668677297883798~hmac=3cf2e4e238f6a75a2fdfd7fc59e4359761f202dff7bda6a1abbe42dbcf89167e",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792276024~acl=/*~id=31542019451764253668677297883798~hmac=3cf2e4e238f6a75a2fdfd7fc59e4359761f202dff7bda6a1abbe42dbcf89167e"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015"
         }
       ],
       "Provider": "SonyLiv",
