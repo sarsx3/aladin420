@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:12 PM 17-10-2026",
+    "LastUpdate": "05:13 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -9043,6 +9043,27 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792234991-0-0-5c5b6031ae48ce0b6968e93eed95e8f7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1792236005-0-0-511d3ae8cdb64d29f53e4fd0ede331f7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=18416f6dee4d5a8c5cdf9eb4788d28ba&txTime=6ad39ff9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Everton",
@@ -9063,8 +9084,17 @@
       "Status": "Upcoming",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Watford",
       "Team2Name": "Charlton",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/24/image",
@@ -9083,8 +9113,17 @@
       "Status": "Upcoming",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Millwall",
       "Team2Name": "Lincoln",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/25/image",
