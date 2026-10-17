@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:57 AM 18-10-2026",
+    "LastUpdate": "04:58 AM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -24,8 +24,17 @@
       "Status": "Live",
       "CategoryId": 9216,
       "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/HHHHA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/HHHHA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Atletico Tucuman",
       "Team2Name": "Rosario Central",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/36833/image",
@@ -44,8 +53,17 @@
       "Status": "Live",
       "CategoryId": 9216,
       "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/HHHHAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/HHHHAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Velez Sarsfield",
       "Team2Name": "Gimnasia Mendoza",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/872",
