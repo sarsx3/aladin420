@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 PM 17-10-2026",
+    "LastUpdate": "05:20 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 456
+    "LiveCount": 15,
+    "UpcomingCount": 449
   },
   "Matches": [
     {
@@ -62,6 +62,244 @@
       "Status": "Live",
       "UrlSlug": "ban-vs-zim-1st-odi-live",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 1490,
+      "VideoName": "Everton vs Chelsea",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch Everton vs Chelsea — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/48/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tnt sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792234991-0-0-5c5b6031ae48ce0b6968e93eed95e8f7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1792236005-0-0-511d3ae8cdb64d29f53e4fd0ede331f7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=18416f6dee4d5a8c5cdf9eb4788d28ba&txTime=6ad39ff9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Everton",
+      "Team2Name": "Chelsea",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/48/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/38/image"
+    },
+    {
+      "EntityId": 1496,
+      "VideoName": "Watford vs Charlton",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch Watford vs Charlton — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Watford",
+      "Team2Name": "Charlton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/24/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/47/image"
+    },
+    {
+      "EntityId": 1497,
+      "VideoName": "Millwall vs Lincoln",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch Millwall vs Lincoln — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Millwall",
+      "Team2Name": "Lincoln",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/25/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/92/image"
+    },
+    {
+      "EntityId": 1498,
+      "VideoName": "Middlesbrough vs Cardiff City",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch Middlesbrough vs Cardiff City — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.50/hls/4GGGQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/4GGGQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Middlesbrough",
+      "Team2Name": "Cardiff City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/61/image"
+    },
+    {
+      "EntityId": 1507,
+      "VideoName": "Peterborough vs Burton",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch Peterborough vs Burton — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/54/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.50/hls/4GGGQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/4GGGQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Peterborough",
+      "Team2Name": "Burton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/54/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/134/image"
+    },
+    {
+      "EntityId": 1508,
+      "VideoName": "MK Dons vs Luton",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch MK Dons vs Luton — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.50/hls/4GGGQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/4GGGQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "MK Dons",
+      "Team2Name": "Luton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/72/image"
+    },
+    {
+      "EntityId": 1545,
+      "VideoName": "Bangladesh vs Zimbabwe",
+      "CategoryName": "ODI Tri-Nation Series in UAE- 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch Bangladesh vs Zimbabwe 🔥 — ODI Tri-Nation Series in UAE- 2026. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9158,
+      "UrlSlug": "odi-tri-nation-series-in-uae-2026",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 1090548893,
@@ -8993,244 +9231,6 @@
       "Team2Name": "Almeria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/24360/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2858/image"
-    },
-    {
-      "EntityId": 1545,
-      "VideoName": "Bangladesh vs Zimbabwe",
-      "CategoryName": "ODI Tri-Nation Series in UAE- 2026",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 18:00:00",
-      "Description": "Watch Bangladesh vs Zimbabwe 🔥 — ODI Tri-Nation Series in UAE- 2026. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9158,
-      "UrlSlug": "odi-tri-nation-series-in-uae-2026",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
-      "EntityId": 1490,
-      "VideoName": "Everton vs Chelsea",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:30:00",
-      "Description": "Watch Everton vs Chelsea — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/48/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792234991-0-0-5c5b6031ae48ce0b6968e93eed95e8f7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1792236005-0-0-511d3ae8cdb64d29f53e4fd0ede331f7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=18416f6dee4d5a8c5cdf9eb4788d28ba&txTime=6ad39ff9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Everton",
-      "Team2Name": "Chelsea",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/48/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/38/image"
-    },
-    {
-      "EntityId": 1496,
-      "VideoName": "Watford vs Charlton",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:30:00",
-      "Description": "Watch Watford vs Charlton — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Watford",
-      "Team2Name": "Charlton",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/24/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/47/image"
-    },
-    {
-      "EntityId": 1497,
-      "VideoName": "Millwall vs Lincoln",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:30:00",
-      "Description": "Watch Millwall vs Lincoln — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Millwall",
-      "Team2Name": "Lincoln",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/25/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/92/image"
-    },
-    {
-      "EntityId": 1498,
-      "VideoName": "Middlesbrough vs Cardiff City",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:30:00",
-      "Description": "Watch Middlesbrough vs Cardiff City — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.50/hls/4GGGQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Middlesbrough",
-      "Team2Name": "Cardiff City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/61/image"
-    },
-    {
-      "EntityId": 1507,
-      "VideoName": "Peterborough vs Burton",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:30:00",
-      "Description": "Watch Peterborough vs Burton — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/54/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/4GGGQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Peterborough",
-      "Team2Name": "Burton",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/54/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/134/image"
-    },
-    {
-      "EntityId": 1508,
-      "VideoName": "MK Dons vs Luton",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 17:30:00",
-      "Description": "Watch MK Dons vs Luton — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/4GGGQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "MK Dons",
-      "Team2Name": "Luton",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/72/image"
     }
   ]
 }
