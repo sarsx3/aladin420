@@ -1,16 +1,56 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:49 AM 18-10-2026",
+    "LastUpdate": "04:50 AM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 392
+    "LiveCount": 5,
+    "UpcomingCount": 390
   },
   "Matches": [
+    {
+      "EntityId": 1559,
+      "VideoName": "Atletico Tucuman vs Rosario Central",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 05:00:00",
+      "Description": "Watch Atletico Tucuman vs Rosario Central — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36833/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Atletico Tucuman",
+      "Team2Name": "Rosario Central",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36833/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3217/image"
+    },
+    {
+      "EntityId": 1560,
+      "VideoName": "Velez Sarsfield vs Gimnasia Mendoza",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 05:00:00",
+      "Description": "Watch Velez Sarsfield vs Gimnasia Mendoza — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/872",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Velez Sarsfield",
+      "Team2Name": "Gimnasia Mendoza",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/872",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/11915"
+    },
     {
       "EntityId": 1558,
       "VideoName": "Athletico-PR vs Palmeiras",
@@ -7695,46 +7735,6 @@
       "Team2Name": "Inter Miami",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/243211/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/337602/image"
-    },
-    {
-      "EntityId": 1559,
-      "VideoName": "Atletico Tucuman vs Rosario Central",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 05:00:00",
-      "Description": "Watch Atletico Tucuman vs Rosario Central — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36833/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Atletico Tucuman",
-      "Team2Name": "Rosario Central",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36833/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3217/image"
-    },
-    {
-      "EntityId": 1560,
-      "VideoName": "Velez Sarsfield vs Gimnasia Mendoza",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 05:00:00",
-      "Description": "Watch Velez Sarsfield vs Gimnasia Mendoza — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/872",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Velez Sarsfield",
-      "Team2Name": "Gimnasia Mendoza",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/872",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/11915"
     }
   ]
 }
