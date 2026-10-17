@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:31 PM 17-10-2026",
+    "LastUpdate": "09:32 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 41,
+    "LiveCount": 36,
     "UpcomingCount": 415
   },
   "Matches": [
@@ -24,8 +24,17 @@
       "Status": "Live",
       "CategoryId": 9404,
       "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/j444AAAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/j444AAAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "NEOM SC",
       "Team2Name": "Al Ettifaq",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/530631/image",
@@ -277,19 +286,19 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54"
         },
         {
           "label": "Tamil",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54"
         }
       ],
       "Provider": "SonyLiv",
@@ -308,11 +317,11 @@
       "Status": "Live",
       "CategoryId": 9137,
       "UrlSlug": "archery-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54"
         }
       ],
       "Provider": "SonyLiv",
@@ -983,242 +992,6 @@
       "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
     },
     {
-      "EntityId": 1521,
-      "VideoName": "Elversberg vs Augsburg",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-17 19:30:00",
-      "Description": "Watch Elversberg vs Augsburg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2598/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-      "sources": [
-        {
-          "label": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792216911-0-0-28805ae753e47dd77f2976c3233a07d4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1792236305-0-0-dd325642517d114996214cb20058ced2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=0e107be842c8ea7ce11a67a26f432d05&txTime=6ad3a19d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Elversberg",
-      "Team2Name": "Augsburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2598/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2600/image"
-    },
-    {
-      "EntityId": 1522,
-      "VideoName": "Schalke 04 vs Mainz",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-17 19:30:00",
-      "Description": "Watch Schalke 04 vs Mainz — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2530/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792216598-0-0-600ea61b3f303e434fa3599ef1b8ef6c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1792241945-0-0-7e33c1d49c1eeba8cb36123cea30fba8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Schalke 04",
-      "Team2Name": "Mainz",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2530/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2556/image"
-    },
-    {
-      "EntityId": 1523,
-      "VideoName": "Werder Bremen vs SC Paderborn",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-17 19:30:00",
-      "Description": "Watch Werder Bremen vs SC Paderborn — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2534/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001792216020-0-0-2797b614aba07061255fcc0e17aa3984",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1792242066-0-0-e9b30f33a20899301fbc1d90d3cbe292",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Werder Bremen",
-      "Team2Name": "SC Paderborn",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2534/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2561/image"
-    },
-    {
-      "EntityId": 1524,
-      "VideoName": "Hamburger SV vs Stuttgart",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-17 19:30:00",
-      "Description": "Watch Hamburger SV vs Stuttgart — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2676/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792216765-0-0-7cade6ac89e14cae84d2648339031582",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=974aa4ec83aba8bc94b319c6d9617173&txTime=6ad3a1d9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1792239905-0-0-d0a41a83c224c1ed3527b81086cc7772",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hamburger SV",
-      "Team2Name": "Stuttgart",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2676/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
-    },
-    {
-      "EntityId": 1525,
-      "VideoName": "Union Berlin vs Dortmund",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-17 19:30:00",
-      "Description": "Watch Union Berlin vs Dortmund — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2547/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792216242-0-0-1ef5a585e4b8f83636ea1b57732648ba",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792242006-0-0-25fb5ea7200db74202bbbb02fba9c157",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1792242006-0-0-fa372e77ca7cdc5ced215ce5b260af33",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Union Berlin",
-      "Team2Name": "Dortmund",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2547/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2673/image"
-    },
-    {
       "EntityId": 1546,
       "VideoName": "India vs West Indies",
       "CategoryName": "India vs West Indies – 5th T20I",
@@ -1280,26 +1053,26 @@
     },
     {
       "EntityId": 1090548711,
-      "VideoName": "Haryana Hurricanes vs Emperia Marathas - Super 6",
+      "VideoName": "Ayodhya Garjan vs Delhi Dynamites - Super 6",
       "CategoryName": "Volleyball",
       "StageName": "Live",
       "EventStartDate": "2026-10-17 19:00:53",
-      "Description": "Watch Haryana Hurricanes vs Emperia Marathas - Super 6 live from Volleyball. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg",
+      "Description": "Watch Ayodhya Garjan vs Delhi Dynamites - Super 6 live from Volleyball. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9473,
       "UrlSlug": "volleyball-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792293649~acl=/*~id=42763093376937770258781514888550~hmac=a53229958e89f976282a5afd80e0d7072e815b282eb96ea4ef7c88e1718d8c54"
         }
       ],
       "Provider": "SonyLiv",
