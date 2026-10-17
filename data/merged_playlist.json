@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:16 AM 18-10-2026",
+    "LastUpdate": "01:17 AM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 14,
     "UpcomingCount": 397
   },
   "Matches": [
@@ -497,6 +497,130 @@
       "Status": "Live",
       "UrlSlug": "pfl-2026-nikoloz-abramishvili-vs-aaron-mckenzie-live",
       "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "EntityId": 1545,
+      "VideoName": "Bangladesh vs Zimbabwe",
+      "CategoryName": "ODI Tri-Nation Series in UAE- 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 17:30:00",
+      "Description": "Watch Bangladesh vs Zimbabwe 🔥 — ODI Tri-Nation Series in UAE- 2026. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9158,
+      "UrlSlug": "odi-tri-nation-series-in-uae-2026",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Nagorik TV",
+          "url": "https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "label": "PrioFy- TSports",
+          "url": "https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "label": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
+          "drmScheme": "ZDY3YzBmM2U4ZDE3NmU2OTNlOWQ0NTJlYzRhZWNhMmY6M2NhZTVkZTI4YjE2YWU4MTUyOTk5NTc0Y2VkM2I0ZGI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
+          "drmScheme": "ZDY3YzBmM2U4ZDE3NmU2OTNlOWQ0NTJlYzRhZWNhMmY6M2NhZTVkZTI4YjE2YWU4MTUyOTk5NTc0Y2VkM2I0ZGI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-nha-ncg/_nc_cat-108/_nc_sr_t-4/v/rAScbKarC6QOi_zY5_k91dEiL7knMYlf7HmQqYdGV6JkZDQ/_nc_ohc-jjJCFSL1ZywQ7kNvwGIrpFw/live-dash/dash-abr-ibr-audio/1092294006953813.mpd?_nc_eui2=AeFmYSDuWjnHJNf_WzYQuaMAO8kwrvt8x7M7yTCu-3zHs4C-1PTDVTgIBxynITdY_lJk-ZmjYpCjY8MUgsjtOKqe&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNJAPYmA2RkK7IfkRIQpW05K1hdWcdbnwPmU1sIbt980Q&oe=6AD53D30",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-atn-frc/_nc_cat-1/_nc_sr_t-4/v/rASfa51WJRJS26Mc0us2MJNEBj9iJR4LYi4tC99N1_5zSWQ/_nc_ohc-kXeK5a_t-QoQ7kNvwH_lbQG/live-dash/dash-abr-ibr-audio/122104214972580930.mpd?_nc_eui2=AeF2X7TTcUVcLPRY5ffdu0E81bGBZNHtIhzVsYFk0e0iHKj4oNesWMchsGFJJ5KGuIxTogUt3APRb1TcNptYBCU0&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMNbiOykeCY-l8ZN_quHcBFLA1swUZAhy8DLmVVL9yswQ&oe=6AD5481C",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-ldc-ftw/_nc_cat-1/_nc_sr_t-4/v/rASe8AnCNSUIj3Z_QoEmguT8id6Hdm3aC5Md4dz1oLp_6LA/_nc_ohc-jbAP7CdDhlIQ7kNvwH1vRQk/live-dash/dash-abr-ibr-audio/1017933047984615.mpd?_nc_eui2=AeH6vh1m_pSpIe4Zi4FLNV6qpZGfzkalwBKlkZ_ORqXAElyYE_nL-cBYQPbWO25G_BZwe5qryM-oVMQcEx82PMlg&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQOtGxaTu7FpRZOGS_Qh8AXHi56DPIdwc11ZlsSyevxkTA&oe=6AD52B17",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-hil-rva/_nc_cat-1/_nc_sr_t-4/v/rASfJWFWUGgREw7IA17Dr3clI7izpYGpprXPUclaKHVkakA/_nc_ohc-4mQlJwnR5IoQ7kNvwHIuImR/live-dash/dash-abr-ibr-audio/122125022823400736.mpd?_nc_eui2=AeHqsMHQhSEIsflvavntnc7Lsp7VrsaPR1uyntWuxo9HW9bMjxoQ0Yii3du9a2n3kPQrjtVpdyVR8xe4ytP6QVx_&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMcn4PgInJdjCUqU4yjJupJF3-3HueK609PAdcUPjEBcg&oe=6AD52896",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-ncg-frc/_nc_cat-1/_nc_sr_t-4/v/rASdfrV2K3RCTG8brPb32heR8lLS2981Z7SX_EFrCb0EYDQ/_nc_ohc-Iwq7KV8wYeIQ7kNvwEQYh4Z/live-dash/dash-abr-ibr-audio/1145011191807715.mpd?_nc_eui2=AeHGSSxvhf8eQnSBxef6GormD11CIdN55HkPXUIh03nkeTe9hu0giulSddRqFaeLBKj9Q-uT7Sb0vU5CmisvQDnZ&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNMUlZUkssnzt99dNY0U-0PWO4uJza7dlVY1_TstVdyKA&oe=6AD551D9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "cricbuzz-hd",
+          "url": "https://002.cdnplayer.eu/live/csstream4/chunklist.m3u8?vidictid=207433366724&id=1004&pk=11610a315ce224d69ccaa6eefe427320123ac668175cab4fa723a8d26c70079a7cd1e852e5e39946a92b0026f9c2a3f2929e954e05749f2bf1710e86d5ff4502",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
+          "drmScheme": "ZDY3YzBmM2U4ZDE3NmU2OTNlOWQ0NTJlYzRhZWNhMmY6M2NhZTVkZTI4YjE2YWU4MTUyOTk5NTc0Y2VkM2I0ZGI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-ftw-vll/_nc_cat-1/_nc_sr_t-4/v/rASczeAZLo1dcE8_neSzpxm8hbZYc7HBkVvauHYX1tYb4xQ/_nc_ohc-4OoaMd3qM-8Q7kNvwGGbgF7/live-dash/dash-abr-ibr-audio/122118989931323743.mpd?_nc_eui2=AeEogWapv6uZ6MZC0Pe7YDmYNNWOuBEaSsQ01Y64ERpKxI7nb90qp98naGrtoa5BFT7Rwzh3FpA14ZdGS1_Rk5Jk&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQPqA3L0p59WkjDn8UBvjqi0SEp7Lvm_iK9x6aTv3BRdXw&oe=6AD563AE",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 17100,
