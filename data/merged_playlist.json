@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:56 PM 17-10-2026",
+    "LastUpdate": "05:57 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -60,8 +60,38 @@
       "Status": "Live",
       "CategoryId": 9723,
       "UrlSlug": "laliga",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792214435-0-0-b5bbe84c2b28376df3c207b853e8421b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1792241165-0-0-58733d9a880ba6a02bfb7d3e1d8b84f7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792241166-0-0-62b0ae3724404628313f7a3fded3083f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Espanyol",
       "Team2Name": "Atl. Madrid",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2814/image",
