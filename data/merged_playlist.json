@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:20 PM 17-10-2026",
+    "LastUpdate": "08:21 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -298,6 +298,13 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
           "headers": {
             "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
