@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:47 AM 18-10-2026",
+    "LastUpdate": "02:48 AM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 6,
     "UpcomingCount": 395
   },
   "Matches": [
@@ -200,177 +200,6 @@
       "Status": "Live",
       "UrlSlug": "troyes-vs-lens-ligue-one-live-match",
       "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-    },
-    {
-      "EntityId": 1590,
-      "VideoName": "Troyes vs Lens",
-      "CategoryName": "Ligue 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 00:45:00",
-      "Description": "Watch Troyes vs Lens — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1652/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792217120-0-0-1403ff7b03c9c1aa382acfe7fe324bfa",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792253706-0-0-7b319ff4d0195e95382b426273579448",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4cc5f4763e04a3897fa358f84bced2ae&txTime=6ad3e595",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Troyes",
-      "Team2Name": "Lens",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1652/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1648/image"
-    },
-    {
-      "EntityId": 1591,
-      "VideoName": "Lille vs Brest",
-      "CategoryName": "Ligue 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 00:45:00",
-      "Description": "Watch Lille vs Brest — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1643/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792217249-0-0-cb6b9ef1a2f0dcbe985399da8a2ae6df",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=14bc3e1998c763b5b5b7ab17b4325b4e&txTime=6ad3e4e2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792253646-0-0-650aed0a9abddf7a68c8ad26d53ed673",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lille",
-      "Team2Name": "Brest",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1643/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1715/image"
-    },
-    {
-      "EntityId": 1592,
-      "VideoName": "AS Roma vs Genoa",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 00:45:00",
-      "Description": "Watch AS Roma vs Genoa — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2702/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
-      "sources": [
-        {
-          "label": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BeIN2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792215018-0-0-a6d5a00af7f2589a16a857cbab4d00c0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=164cf793970c159dfc983995e1042b7a&txTime=6ad3e4a6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1792253586-0-0-76328a26ba3084752da9a23a7ab2db8e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "AS Roma",
-      "Team2Name": "Genoa",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2702/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2713/image"
     },
     {
       "EntityId": 17100,
@@ -8064,8 +7893,16 @@
       "Status": "Upcoming",
       "CategoryId": 9308,
       "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+      "sources": [
+        {
+          "label": "PREMIERE2 BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Botafogo",
       "Team2Name": "Chapecoense",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1958/image",
