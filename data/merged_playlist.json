@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 17-10-2026",
+    "LastUpdate": "08:20 PM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 38,
-    "UpcomingCount": 418
+    "LiveCount": 39,
+    "UpcomingCount": 417
   },
   "Matches": [
     {
@@ -29,6 +29,34 @@
       "UrlSlug": "uim-abp-aquabike-world-championship-2026"
     },
     {
+      "EntityId": 1534,
+      "VideoName": "ADO Den Haag vs PSV",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-17 20:30:00",
+      "Description": "Watch ADO Den Haag vs PSV — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2966/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "sources": [
+        {
+          "label": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "ADO Den Haag",
+      "Team2Name": "PSV",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2966/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2952/image"
+    },
+    {
       "EntityId": 18277,
       "VideoName": "Villarreal vs Elche",
       "CategoryName": "LaLiga 2026/27",
@@ -43,7 +71,8 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "laliga--villarreal-vs-elche-live"
+      "UrlSlug": "laliga--villarreal-vs-elche-live",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
     },
     {
       "EntityId": 1539,
@@ -9500,26 +9529,6 @@
       "Team2Name": "Paris Saint-Germain",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1659/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1644/image"
-    },
-    {
-      "EntityId": 1534,
-      "VideoName": "ADO Den Haag vs PSV",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-17 20:30:00",
-      "Description": "Watch ADO Den Haag vs PSV — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2966/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "ADO Den Haag",
-      "Team2Name": "PSV",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2966/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2952/image"
     }
   ]
 }
