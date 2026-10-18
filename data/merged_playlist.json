@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:00 PM 18-10-2026",
+    "LastUpdate": "10:01 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -233,8 +233,12 @@
       "Status": "Live",
       "CategoryId": 9400,
       "UrlSlug": "world-championship-of-legends-final",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
+      "stream_url": "https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8",
       "sources": [
+        {
+          "label": "PrioFy TSports",
+          "url": "https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8"
+        },
         {
           "label": "willow-aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
