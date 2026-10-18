@@ -1,16 +1,59 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 PM 18-10-2026",
+    "LastUpdate": "04:20 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 407
+    "LiveCount": 4,
+    "UpcomingCount": 406
   },
   "Matches": [
+    {
+      "EntityId": 1564,
+      "VideoName": "Udinese vs Lecce",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 16:30:00",
+      "Description": "Watch Udinese vs Lecce — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2695/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792299672-0-0-55384c10d24283b0e15d9b9fd7a91db4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1792321025-0-0-6c79e0bb5eebea20a13b77e0ee064267",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Udinese",
+      "Team2Name": "Lecce",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2689/image"
+    },
     {
       "EntityId": 1563,
       "VideoName": "PEC Zwolle vs Go Ahead Eagles",
@@ -88,6 +131,22 @@
           "label": "willow-alt",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
           "drmScheme": "NzgzNjI0NDE4YTczODc0YjFiYWNiZDc5ZGRhNTZjNDQ6OWMzYThhMDZlZDA2OWUyOGFhODZjNWUyMmRmZWFlNjc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+          "drmScheme": "MDEyMTEwYWZiZTliZGY0MGU3ZGEzY2M3NjZhZDA0MWU6YjJiOTFmODlkMmIyMjNiMzQ5MjA4ZTQ0ZTVmZjQ5ZGE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+          "drmScheme": "MDEyMTEwYWZiZTliZGY0MGU3ZGEzY2M3NjZhZDA0MWU6YjJiOTFmODlkMmIyMjNiMzQ5MjA4ZTQ0ZTVmZjQ5ZGE=",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -7353,6 +7412,14 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
+          "drmScheme": "NzgzNjI0NDE4YTczODc0YjFiYWNiZDc5ZGRhNTZjNDQ6OWMzYThhMDZlZDA2OWUyOGFhODZjNWUyMmRmZWFlNjc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "South Africa",
@@ -8133,49 +8200,6 @@
       "Team2Name": "Darmstadt 98",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2553/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2576/image"
-    },
-    {
-      "EntityId": 1564,
-      "VideoName": "Udinese vs Lecce",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 16:30:00",
-      "Description": "Watch Udinese vs Lecce — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2695/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792299672-0-0-55384c10d24283b0e15d9b9fd7a91db4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1792321025-0-0-6c79e0bb5eebea20a13b77e0ee064267",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Udinese",
-      "Team2Name": "Lecce",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2689/image"
     }
   ]
 }
