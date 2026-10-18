@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 18-10-2026",
+    "LastUpdate": "09:50 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 20,
-    "UpcomingCount": 383
+    "LiveCount": 21,
+    "UpcomingCount": 382
   },
   "Matches": [
     {
@@ -27,6 +27,26 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "laliga--malaga-vs-real-sociedad-live"
+    },
+    {
+      "EntityId": 1585,
+      "VideoName": "AC Milan vs Atalanta",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 22:00:00",
+      "Description": "Watch AC Milan vs Atalanta — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2692/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "AC Milan",
+      "Team2Name": "Atalanta",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2686/image"
     },
     {
       "EntityId": 1583,
@@ -8228,26 +8248,6 @@
       "Team2Name": "CD Eldense",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2831/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/47321/image"
-    },
-    {
-      "EntityId": 1585,
-      "VideoName": "AC Milan vs Atalanta",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 22:00:00",
-      "Description": "Watch AC Milan vs Atalanta — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2692/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "AC Milan",
-      "Team2Name": "Atalanta",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2686/image"
     }
   ]
 }
