@@ -1,16 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:04 PM 18-10-2026",
+    "LastUpdate": "04:05 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 408
+    "LiveCount": 5,
+    "UpcomingCount": 407
   },
   "Matches": [
+    {
+      "EntityId": 1563,
+      "VideoName": "PEC Zwolle vs Go Ahead Eagles",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 16:15:00",
+      "Description": "Watch PEC Zwolle vs Go Ahead Eagles — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2971/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "PEC Zwolle",
+      "Team2Name": "Go Ahead Eagles",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2971/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2979/image"
+    },
     {
       "EntityId": 17701,
       "VideoName": "South Africa vs Australia",
@@ -8106,26 +8126,6 @@
       "Team2Name": "Lecce",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2689/image"
-    },
-    {
-      "EntityId": 1563,
-      "VideoName": "PEC Zwolle vs Go Ahead Eagles",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 16:15:00",
-      "Description": "Watch PEC Zwolle vs Go Ahead Eagles — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2971/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "PEC Zwolle",
-      "Team2Name": "Go Ahead Eagles",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2971/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2979/image"
     }
   ]
 }
