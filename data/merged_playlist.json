@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:49 PM 18-10-2026",
+    "LastUpdate": "06:50 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 16,
-    "UpcomingCount": 399
+    "LiveCount": 21,
+    "UpcomingCount": 394
   },
   "Matches": [
     {
@@ -26,7 +26,205 @@
       "NewSportsGenre": "Football",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "angers-vs-marseille-ligue-one-live-match"
+      "UrlSlug": "angers-vs-marseille-ligue-one-live-match",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
+    },
+    {
+      "EntityId": 1571,
+      "VideoName": "Leeds vs Man Utd",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:00:00",
+      "Description": "Watch Leeds vs Man Utd — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO8/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO8/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792300868-0-0-26e1b54b6fa26c2195878f03429c923a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792322885-0-0-8d9677d8d34f8f065d8c946c35e3256f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1792322945-0-0-f23b33ad3d80c7b69d38d4aefde1b20b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Leeds",
+      "Team2Name": "Man Utd",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/35/image"
+    },
+    {
+      "EntityId": 1572,
+      "VideoName": "Brighton vs Crystal Palace",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:00:00",
+      "Description": "Watch Brighton vs Crystal Palace — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/30/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO7/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO7/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SKY SPORTS EPL - FHD",
+          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792300777-0-0-ff9b24d942a5bc77e543dcaf87685753",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1792322825-0-0-e4c042b0cf3510371b6b204fe12f7ddf",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=c02a9a38d0dc16a8fc78826180b0d826&txTime=6ad4f359",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Brighton",
+      "Team2Name": "Crystal Palace",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/30/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7/image"
+    },
+    {
+      "EntityId": 1573,
+      "VideoName": "Bournemouth vs Sunderland",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:00:00",
+      "Description": "Watch Bournemouth vs Sunderland — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/60/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO6/hls/index.m3u8",
+      "sources": [
+        {
+          "label": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO6/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792300682-0-0-344ea83583801484ce8cd678c0a304ce",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792322585-0-0-2bf868655de34871540b1eb3114bcc2d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1792322645-0-0-15c780b3c02e1b3c9da924d856b2f8e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bournemouth",
+      "Team2Name": "Sunderland",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/60/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/41/image"
+    },
+    {
+      "EntityId": 1574,
+      "VideoName": "Fiorentina vs Como",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:00:00",
+      "Description": "Watch Fiorentina vs Como — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2693/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Fiorentina",
+      "Team2Name": "Como",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2693/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
+    },
+    {
+      "EntityId": 1575,
+      "VideoName": "Angers vs Marseille",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:00:00",
+      "Description": "Watch Angers vs Marseille — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1684/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Angers",
+      "Team2Name": "Marseille",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1684/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1641/image"
     },
     {
       "EntityId": 19004,
@@ -8280,136 +8478,6 @@
       "Team2Name": "Zimbabwe Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213119/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/417062/image"
-    },
-    {
-      "EntityId": 1571,
-      "VideoName": "Leeds vs Man Utd",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 19:00:00",
-      "Description": "Watch Leeds vs Man Utd — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO8/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO8/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792300868-0-0-26e1b54b6fa26c2195878f03429c923a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792322885-0-0-8d9677d8d34f8f065d8c946c35e3256f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1792322945-0-0-f23b33ad3d80c7b69d38d4aefde1b20b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Leeds",
-      "Team2Name": "Man Utd",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/35/image"
-    },
-    {
-      "EntityId": 1572,
-      "VideoName": "Brighton vs Crystal Palace",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 19:00:00",
-      "Description": "Watch Brighton vs Crystal Palace — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/30/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Brighton",
-      "Team2Name": "Crystal Palace",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/30/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7/image"
-    },
-    {
-      "EntityId": 1573,
-      "VideoName": "Bournemouth vs Sunderland",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 19:00:00",
-      "Description": "Watch Bournemouth vs Sunderland — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/60/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Bournemouth",
-      "Team2Name": "Sunderland",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/60/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/41/image"
-    },
-    {
-      "EntityId": 1574,
-      "VideoName": "Fiorentina vs Como",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 19:00:00",
-      "Description": "Watch Fiorentina vs Como — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2693/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Fiorentina",
-      "Team2Name": "Como",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2693/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
-    },
-    {
-      "EntityId": 1575,
-      "VideoName": "Angers vs Marseille",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 19:00:00",
-      "Description": "Watch Angers vs Marseille — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1684/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Angers",
-      "Team2Name": "Marseille",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1684/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1641/image"
     }
   ]
 }
