@@ -1,16 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 AM 19-10-2026",
+    "LastUpdate": "04:20 AM 19-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 367
+    "LiveCount": 7,
+    "UpcomingCount": 366
   },
   "Matches": [
+    {
+      "EntityId": 1598,
+      "VideoName": "Remo vs Red Bull Bragantino",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-19 04:30:00",
+      "Description": "Watch Remo vs Red Bull Bragantino — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2012/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+      "sources": [
+        {
+          "label": "PREMIERER4 FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Remo",
+      "Team2Name": "Red Bull Bragantino",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1999/image"
+    },
     {
       "EntityId": 1597,
       "VideoName": "Bahia vs Flamengo",
@@ -7496,34 +7524,6 @@
       "is_full_data": true,
       "Status": "Upcoming",
       "UrlSlug": "afg-vs-zim-2nd-odi-live"
-    },
-    {
-      "EntityId": 1598,
-      "VideoName": "Remo vs Red Bull Bragantino",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-19 04:30:00",
-      "Description": "Watch Remo vs Red Bull Bragantino — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2012/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-      "sources": [
-        {
-          "label": "PREMIERER4 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Remo",
-      "Team2Name": "Red Bull Bragantino",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1999/image"
     }
   ]
 }
