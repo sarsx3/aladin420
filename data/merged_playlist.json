@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:34 PM 18-10-2026",
+    "LastUpdate": "08:35 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 23,
-    "UpcomingCount": 390
+    "LiveCount": 24,
+    "UpcomingCount": 389
   },
   "Matches": [
     {
@@ -61,6 +61,41 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "paris fc-vs-rennes-ligue-one-live-match"
+    },
+    {
+      "EntityId": 1579,
+      "VideoName": "Groningen vs Ajax Amsterdam",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 20:45:00",
+      "Description": "Watch Groningen vs Ajax Amsterdam — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2951/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792327025-0-0-c06ac310fc264225b345bf57cb9e2b25",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Groningen",
+      "Team2Name": "Ajax Amsterdam",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2951/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
     },
     {
       "EntityId": 18281,
@@ -8523,41 +8558,6 @@
       "Team2Name": "Auxerre",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1662/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
-    },
-    {
-      "EntityId": 1579,
-      "VideoName": "Groningen vs Ajax Amsterdam",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 20:45:00",
-      "Description": "Watch Groningen vs Ajax Amsterdam — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2951/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792327025-0-0-c06ac310fc264225b345bf57cb9e2b25",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Groningen",
-      "Team2Name": "Ajax Amsterdam",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2951/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
     }
   ]
 }
