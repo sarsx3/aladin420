@@ -1,16 +1,110 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:19 PM 18-10-2026",
+    "LastUpdate": "07:20 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 20,
-    "UpcomingCount": 394
+    "LiveCount": 22,
+    "UpcomingCount": 392
   },
   "Matches": [
+    {
+      "EntityId": 1576,
+      "VideoName": "Leverkusen vs Freiburg",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:30:00",
+      "Description": "Watch Leverkusen vs Freiburg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2681/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792301462-0-0-3fdec90d75a466fb4eb978600011d296",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1792331286-0-0-038d32704ce1bc1a896c4d4f8f7dfef8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=be7c7a97bd596ace1752ced315e87d7c&txTime=6ad514de",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Leverkusen",
+      "Team2Name": "Freiburg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2681/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2538/image"
+    },
+    {
+      "EntityId": 1920,
+      "VideoName": "India Women vs Zimbabwe Women",
+      "CategoryName": "Twenty20 International Women - 2nd T20I",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:30:00",
+      "Description": "Watch India Women vs Zimbabwe Women — Twenty20 International Women - 2nd T20I. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213119/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9786,
+      "UrlSlug": "twenty20-international-women-2nd-t20i",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
+          "drmScheme": "MDA1M2I5NTE0NDA5ZGUyN2JmNjIyMWM4MTRiNTM4ZjQ6MTgxMTQzODIwNWJlNjAwODMzY2M5MmFhMjgyMDhkN2Y=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
+          "drmScheme": "MDA1M2I5NTE0NDA5ZGUyN2JmNjIyMWM4MTRiNTM4ZjQ6MTgxMTQzODIwNWJlNjAwODMzY2M5MmFhMjgyMDhkN2Y=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tnt sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "India Women",
+      "Team2Name": "Zimbabwe Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/213119/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/417062/image"
+    },
     {
       "EntityId": 1090548741,
       "VideoName": "Emperia Marathas vs Tamil Titans - Super 6",
@@ -8502,100 +8596,6 @@
       "Team2Name": "Cadiz",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/33779/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4488/image"
-    },
-    {
-      "EntityId": 1576,
-      "VideoName": "Leverkusen vs Freiburg",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 19:30:00",
-      "Description": "Watch Leverkusen vs Freiburg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2681/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792301462-0-0-3fdec90d75a466fb4eb978600011d296",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1792331286-0-0-038d32704ce1bc1a896c4d4f8f7dfef8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=be7c7a97bd596ace1752ced315e87d7c&txTime=6ad514de",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Leverkusen",
-      "Team2Name": "Freiburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2681/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2538/image"
-    },
-    {
-      "EntityId": 1920,
-      "VideoName": "India Women vs Zimbabwe Women",
-      "CategoryName": "Twenty20 International Women - 2nd T20I",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 19:30:00",
-      "Description": "Watch India Women vs Zimbabwe Women — Twenty20 International Women - 2nd T20I. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213119/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9786,
-      "UrlSlug": "twenty20-international-women-2nd-t20i",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-          "drmScheme": "MDA1M2I5NTE0NDA5ZGUyN2JmNjIyMWM4MTRiNTM4ZjQ6MTgxMTQzODIwNWJlNjAwODMzY2M5MmFhMjgyMDhkN2Y=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-          "drmScheme": "MDA1M2I5NTE0NDA5ZGUyN2JmNjIyMWM4MTRiNTM4ZjQ6MTgxMTQzODIwNWJlNjAwODMzY2M5MmFhMjgyMDhkN2Y=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India Women",
-      "Team2Name": "Zimbabwe Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213119/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/417062/image"
     }
   ]
 }
