@@ -1,16 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:01 PM 18-10-2026",
+    "LastUpdate": "03:02 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 408
   },
   "Matches": [
+    {
+      "EntityId": 1090548739,
+      "VideoName": "SJM Macao Open - Day 4",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 15:02:17",
+      "Description": "Watch SJM Macao Open - Day 4 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792354839~acl=/*~id=86811392518880738691954558609166~hmac=f034e56c043061c7ef51f76763f2b06f84704f657d4d4b0ae7b341f2597a4744",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792354839~acl=/*~id=86811392518880738691954558609166~hmac=f034e56c043061c7ef51f76763f2b06f84704f657d4d4b0ae7b341f2597a4744"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792314137
+    },
     {
       "EntityId": 17701,
       "VideoName": "South Africa vs Australia",
@@ -96,11 +119,11 @@
       "Status": "Live",
       "CategoryId": 9232,
       "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792356658~acl=/*~id=76234643612346664172265433460456~hmac=23218ef7ef60ae6b169d862f8ff227d3e0d94f879d023de63022dc2452a933da",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792354839~acl=/*~id=86811392518880738691954558609166~hmac=f034e56c043061c7ef51f76763f2b06f84704f657d4d4b0ae7b341f2597a4744",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792356658~acl=/*~id=76234643612346664172265433460456~hmac=23218ef7ef60ae6b169d862f8ff227d3e0d94f879d023de63022dc2452a933da"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792354839~acl=/*~id=86811392518880738691954558609166~hmac=f034e56c043061c7ef51f76763f2b06f84704f657d4d4b0ae7b341f2597a4744"
         }
       ],
       "Provider": "SonyLiv",
