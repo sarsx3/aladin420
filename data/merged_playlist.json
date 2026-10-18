@@ -1,16 +1,47 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:01 PM 18-10-2026",
+    "LastUpdate": "05:02 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 406
   },
   "Matches": [
+    {
+      "EntityId": 1090549112,
+      "VideoName": "Churchill Brothers SC vs East Bengal FC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 17:02:19",
+      "Description": "Watch Churchill Brothers SC vs East Bengal FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
+        },
+        {
+          "label": "Bengali",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792321339
+    },
     {
       "EntityId": 1564,
       "VideoName": "Udinese vs Lecce",
@@ -206,11 +237,11 @@
       "Status": "Live",
       "CategoryId": 9232,
       "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
         }
       ],
       "Provider": "SonyLiv",
