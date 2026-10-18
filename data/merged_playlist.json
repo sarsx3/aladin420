@@ -1,16 +1,67 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:30 PM 18-10-2026",
+    "LastUpdate": "08:31 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 20,
+    "LiveCount": 23,
     "UpcomingCount": 390
   },
   "Matches": [
+    {
+      "EntityId": 18427,
+      "VideoName": "Le Havre vs Auxerre",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 7",
+      "EventStartDate": "2026-10-18 21:15:00",
+      "Description": "Watch Le Havre vs Auxerre live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Le Havre vs Auxerre match will take place on 18-Oct, Sunday, at 08:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791881710324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918817101020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "le havre-vs-auxerre-ligue-one-live-match"
+    },
+    {
+      "EntityId": 18428,
+      "VideoName": "Lorient vs Monaco",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 7",
+      "EventStartDate": "2026-10-18 21:15:00",
+      "Description": "Watch Lorient vs Monaco live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Monaco match will take place on 18-Oct, Sunday, at 11:45 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791881833324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918818331020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "lorient-vs-monaco-ligue-one-live-match"
+    },
+    {
+      "EntityId": 18429,
+      "VideoName": "Paris FC vs Rennes",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 7",
+      "EventStartDate": "2026-10-18 21:15:00",
+      "Description": "Watch Paris FC vs Rennes live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Paris FC vs Rennes match will take place on 18-Oct, Sunday, at 11:45 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791881975324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918819751020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "paris fc-vs-rennes-ligue-one-live-match"
+    },
     {
       "EntityId": 18281,
       "VideoName": "Celta vs Alaves",
@@ -8486,8 +8537,23 @@
       "Status": "Upcoming",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792327025-0-0-c06ac310fc264225b345bf57cb9e2b25",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Groningen",
       "Team2Name": "Ajax Amsterdam",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2951/image",
