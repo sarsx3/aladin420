@@ -1,16 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:34 PM 18-10-2026",
+    "LastUpdate": "11:35 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 379
+    "LiveCount": 7,
+    "UpcomingCount": 378
   },
   "Matches": [
+    {
+      "EntityId": 1589,
+      "VideoName": "Racing Club vs Independiente",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 23:45:00",
+      "Description": "Watch Racing Club vs Independiente — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3215/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Racing Club",
+      "Team2Name": "Independiente",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3215/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3209/image"
+    },
     {
       "EntityId": 18282,
       "VideoName": "Malaga vs Real Sociedad",
@@ -7692,26 +7712,6 @@
       "Team2Name": "Al Khaleej",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/56023/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/167228/image"
-    },
-    {
-      "EntityId": 1589,
-      "VideoName": "Racing Club vs Independiente",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 23:45:00",
-      "Description": "Watch Racing Club vs Independiente — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3215/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Racing Club",
-      "Team2Name": "Independiente",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3215/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3209/image"
     }
   ]
 }
