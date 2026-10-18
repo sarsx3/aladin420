@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:10 PM 18-10-2026",
+    "LastUpdate": "07:11 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -8516,8 +8516,38 @@
       "Status": "Upcoming",
       "CategoryId": 9044,
       "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792301462-0-0-3fdec90d75a466fb4eb978600011d296",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1792331286-0-0-038d32704ce1bc1a896c4d4f8f7dfef8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=be7c7a97bd596ace1752ced315e87d7c&txTime=6ad514de",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Leverkusen",
       "Team2Name": "Freiburg",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2681/image",
