@@ -1,16 +1,125 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 PM 18-10-2026",
+    "LastUpdate": "09:20 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 17,
-    "UpcomingCount": 386
+    "LiveCount": 20,
+    "UpcomingCount": 383
   },
   "Matches": [
+    {
+      "EntityId": 1583,
+      "VideoName": "Forest vs Arsenal",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 21:30:00",
+      "Description": "Watch Forest vs Arsenal — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/14/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Forest",
+      "Team2Name": "Arsenal",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/14/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
+    },
+    {
+      "EntityId": 1584,
+      "VideoName": "Gladbach vs Hoffenheim",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 21:30:00",
+      "Description": "Watch Gladbach vs Hoffenheim — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2527/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Gladbach",
+      "Team2Name": "Hoffenheim",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2569/image"
+    },
+    {
+      "EntityId": 1594,
+      "VideoName": "TBC vs TBC",
+      "CategoryName": "World Championship of Legends – Final",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 21:30:00",
+      "Description": "Watch TBC vs TBC — World Championship of Legends – Final. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9400,
+      "UrlSlug": "world-championship-of-legends-final",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
+          "drmScheme": "YzRlNmJkMzA2OThmOTFjMGQxZTk5ZTUwNWQ4ODU5Yzc6Y2VhOGJhNjFlNTMyYzcxNDNjNjMwZjBjOWJlY2Q3YTY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
+          "drmScheme": "YzRlNmJkMzA2OThmOTFjMGQxZTk5ZTUwNWQ4ODU5Yzc6Y2VhOGJhNjFlNTMyYzcxNDNjNjMwZjBjOWJlY2Q3YTY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "STARZPLAY-aq",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?",
+          "drmScheme": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drmScheme": "ODJkZmNhMjM4ZThjNGI0MzBhMzI2OWRiNzE5NjVkYjk6YTAwYjI4Y2FmNGFjNjI4ZTc3YTU1M2Q0NDBjMGRkY2E=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow sports-aq",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drmScheme": "MjkwZTA5YzgzN2RhNzhkNWNkOTYxOTc4ZDM5MDUxNWM6Yjc0ODgzNmM3MWU2YTRjYTY4ZWY1YjU2NTJkYjYyNDc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode-ind",
+          "url": "https://dai-fancode.pages.dev/mumbai/4249234_english_hls_a20c9caab64583_1ta-di_h264/index.m3u8",
+          "headers": {
+            "Referer": "https://fancode.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "TBC",
+      "Team2Name": "TBC",
+      "Team1Logo": "",
+      "Team2Logo": ""
+    },
     {
       "EntityId": 18427,
       "VideoName": "Le Havre vs Auxerre",
@@ -8098,115 +8207,6 @@
       "Team2Name": "Atalanta",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2686/image"
-    },
-    {
-      "EntityId": 1583,
-      "VideoName": "Forest vs Arsenal",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 21:30:00",
-      "Description": "Watch Forest vs Arsenal — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/14/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Forest",
-      "Team2Name": "Arsenal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/14/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
-    },
-    {
-      "EntityId": 1584,
-      "VideoName": "Gladbach vs Hoffenheim",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 21:30:00",
-      "Description": "Watch Gladbach vs Hoffenheim — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2527/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Gladbach",
-      "Team2Name": "Hoffenheim",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2569/image"
-    },
-    {
-      "EntityId": 1594,
-      "VideoName": "TBC vs TBC",
-      "CategoryName": "World Championship of Legends – Final",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 21:30:00",
-      "Description": "Watch TBC vs TBC — World Championship of Legends – Final. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9400,
-      "UrlSlug": "world-championship-of-legends-final",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-          "drmScheme": "YzRlNmJkMzA2OThmOTFjMGQxZTk5ZTUwNWQ4ODU5Yzc6Y2VhOGJhNjFlNTMyYzcxNDNjNjMwZjBjOWJlY2Q3YTY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-          "drmScheme": "YzRlNmJkMzA2OThmOTFjMGQxZTk5ZTUwNWQ4ODU5Yzc6Y2VhOGJhNjFlNTMyYzcxNDNjNjMwZjBjOWJlY2Q3YTY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "STARZPLAY-aq",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?",
-          "drmScheme": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drmScheme": "ODJkZmNhMjM4ZThjNGI0MzBhMzI2OWRiNzE5NjVkYjk6YTAwYjI4Y2FmNGFjNjI4ZTc3YTU1M2Q0NDBjMGRkY2E=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow sports-aq",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drmScheme": "MjkwZTA5YzgzN2RhNzhkNWNkOTYxOTc4ZDM5MDUxNWM6Yjc0ODgzNmM3MWU2YTRjYTY4ZWY1YjU2NTJkYjYyNDc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode-ind",
-          "url": "https://dai-fancode.pages.dev/mumbai/4249234_english_hls_a20c9caab64583_1ta-di_h264/index.m3u8",
-          "headers": {
-            "Referer": "https://fancode.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "TBC",
-      "Team2Name": "TBC",
-      "Team1Logo": "",
-      "Team2Logo": ""
     }
   ]
 }
