@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:45 PM 18-10-2026",
+    "LastUpdate": "10:46 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 20,
+    "LiveCount": 17,
     "UpcomingCount": 379
   },
   "Matches": [
@@ -593,41 +593,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
     },
     {
-      "EntityId": 1579,
-      "VideoName": "Groningen vs Ajax Amsterdam",
-      "CategoryName": "Eredivisie",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 20:45:00",
-      "Description": "Watch Groningen vs Ajax Amsterdam — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2951/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792303302-0-0-d3bcbb4594c33be8b5043fa7ab652b94",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792327025-0-0-c06ac310fc264225b345bf57cb9e2b25",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Groningen",
-      "Team2Name": "Ajax Amsterdam",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2951/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
-    },
-    {
       "EntityId": 1090548750,
       "VideoName": "Kakatiya Knights vs Mighty Marathas - Final",
       "CategoryName": "Archery",
@@ -649,50 +614,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792332138
-    },
-    {
-      "EntityId": 1920,
-      "VideoName": "India Women vs Zimbabwe Women",
-      "CategoryName": "Twenty20 International Women - 2nd T20I",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 19:30:00",
-      "Description": "Watch India Women vs Zimbabwe Women — Twenty20 International Women - 2nd T20I. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213119/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9786,
-      "UrlSlug": "twenty20-international-women-2nd-t20i",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-          "drmScheme": "MDA1M2I5NTE0NDA5ZGUyN2JmNjIyMWM4MTRiNTM4ZjQ6MTgxMTQzODIwNWJlNjAwODMzY2M5MmFhMjgyMDhkN2Y=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-          "drmScheme": "MDA1M2I5NTE0NDA5ZGUyN2JmNjIyMWM4MTRiNTM4ZjQ6MTgxMTQzODIwNWJlNjAwODMzY2M5MmFhMjgyMDhkN2Y=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India Women",
-      "Team2Name": "Zimbabwe Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213119/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/417062/image"
     },
     {
       "EntityId": 1090548741,
@@ -738,74 +659,6 @@
       "Status": "Live",
       "UrlSlug": "pk-vs-sl-1st-odi-live",
       "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-    },
-    {
-      "EntityId": 1593,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "Pakistan vs Sri Lanka – 1st Match",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 14:00:00",
-      "Description": "Watch Pakistan vs Sri Lanka — Pakistan vs Sri Lanka – 1st Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9578,
-      "UrlSlug": "pakistan-vs-sri-lanka-1st-match",
-      "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "sources": [
-        {
-          "label": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
-          "drmScheme": "NzgzNjI0NDE4YTczODc0YjFiYWNiZDc5ZGRhNTZjNDQ6OWMzYThhMDZlZDA2OWUyOGFhODZjNWUyMmRmZWFlNjc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
-          "drmScheme": "NzgzNjI0NDE4YTczODc0YjFiYWNiZDc5ZGRhNTZjNDQ6OWMzYThhMDZlZDA2OWUyOGFhODZjNWUyMmRmZWFlNjc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
-          "drmScheme": "MDEyMTEwYWZiZTliZGY0MGU3ZGEzY2M3NjZhZDA0MWU6YjJiOTFmODlkMmIyMjNiMzQ5MjA4ZTQ0ZTVmZjQ5ZGE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
-          "drmScheme": "MDEyMTEwYWZiZTliZGY0MGU3ZGEzY2M3NjZhZDA0MWU6YjJiOTFmODlkMmIyMjNiMzQ5MjA4ZTQ0ZTVmZjQ5ZGE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan",
-      "Team2Name": "Sri Lanka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
       "EntityId": 17100,
