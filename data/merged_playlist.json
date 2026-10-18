@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:04 PM 18-10-2026",
+    "LastUpdate": "09:05 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 22,
-    "UpcomingCount": 389
+    "LiveCount": 25,
+    "UpcomingCount": 386
   },
   "Matches": [
     {
@@ -64,6 +64,112 @@
       "Status": "Live",
       "UrlSlug": "paris fc-vs-rennes-ligue-one-live-match",
       "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+      "EntityId": 1580,
+      "VideoName": "Paris FC vs Rennes",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 21:15:00",
+      "Description": "Watch Paris FC vs Rennes — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6070/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792302225-0-0-2a0b6914ed17d0adee9f4b9a6c6bae00",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=33648cd39206d504d6ee89e579cc8e30&txTime=6ad5160a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=9a40de619f5d71cf0d29ee022e09cec5&txTime=6ad51645",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Paris FC",
+      "Team2Name": "Rennes",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6070/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1658/image"
+    },
+    {
+      "EntityId": 1581,
+      "VideoName": "Lorient vs Monaco",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 21:15:00",
+      "Description": "Watch Lorient vs Monaco — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1656/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lorient",
+      "Team2Name": "Monaco",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1656/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1653/image"
+    },
+    {
+      "EntityId": 1582,
+      "VideoName": "Le Havre vs Auxerre",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 21:15:00",
+      "Description": "Watch Le Havre vs Auxerre — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1662/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792302649-0-0-29efaec541ff14bb85db4cf3c6fc6e37",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Le Havre",
+      "Team2Name": "Auxerre",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1662/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
     },
     {
       "EntityId": 1579,
@@ -8455,112 +8561,6 @@
       "Team2Name": "TBC",
       "Team1Logo": "",
       "Team2Logo": ""
-    },
-    {
-      "EntityId": 1580,
-      "VideoName": "Paris FC vs Rennes",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 21:15:00",
-      "Description": "Watch Paris FC vs Rennes — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6070/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792302225-0-0-2a0b6914ed17d0adee9f4b9a6c6bae00",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=33648cd39206d504d6ee89e579cc8e30&txTime=6ad5160a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=9a40de619f5d71cf0d29ee022e09cec5&txTime=6ad51645",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Paris FC",
-      "Team2Name": "Rennes",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6070/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1658/image"
-    },
-    {
-      "EntityId": 1581,
-      "VideoName": "Lorient vs Monaco",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 21:15:00",
-      "Description": "Watch Lorient vs Monaco — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1656/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lorient",
-      "Team2Name": "Monaco",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1656/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1653/image"
-    },
-    {
-      "EntityId": 1582,
-      "VideoName": "Le Havre vs Auxerre",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 21:15:00",
-      "Description": "Watch Le Havre vs Auxerre — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1662/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792302649-0-0-29efaec541ff14bb85db4cf3c6fc6e37",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Le Havre",
-      "Team2Name": "Auxerre",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1662/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
     }
   ]
 }
