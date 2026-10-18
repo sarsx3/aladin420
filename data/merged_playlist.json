@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:29 PM 18-10-2026",
+    "LastUpdate": "05:30 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -27,6 +27,29 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "laliga--osasuna-vs-racing-santander-live"
+    },
+    {
+      "EntityId": 1090549111,
+      "VideoName": "DP World Locker Room - Day 4",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 17:30:43",
+      "Description": "Watch DP World Locker Room - Day 4 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792323043
     },
     {
       "EntityId": 1565,
@@ -128,19 +151,19 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4"
         },
         {
           "label": "Bengali",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4"
         }
       ],
       "Provider": "SonyLiv",
@@ -410,29 +433,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 1090548740,
-      "VideoName": "DP World India Championship - Day 4",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 11:30:42",
-      "Description": "Watch DP World India Championship - Day 4 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792363927~acl=/*~id=58817696153931166593592331366917~hmac=5f4eabad3153efb0c3cf22df293404f07b3cca4429e8b61e46bde5667caf57a2"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792301442
     },
     {
       "EntityId": 17100,
