@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:04 PM 18-10-2026",
+    "LastUpdate": "08:05 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 20,
-    "UpcomingCount": 392
+    "LiveCount": 22,
+    "UpcomingCount": 390
   },
   "Matches": [
     {
@@ -27,6 +27,46 @@
       "is_full_data": true,
       "Status": "Live",
       "UrlSlug": "laliga--celta-vs-alaves-live"
+    },
+    {
+      "EntityId": 1577,
+      "VideoName": "RC Celta vs Alaves",
+      "CategoryName": "LaLiga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 20:15:00",
+      "Description": "Watch RC Celta vs Alaves — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2821/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9723,
+      "UrlSlug": "laliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "RC Celta",
+      "Team2Name": "Alaves",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2821/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2885/image"
+    },
+    {
+      "EntityId": 1578,
+      "VideoName": "Granada vs Cadiz",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 20:15:00",
+      "Description": "Watch Granada vs Cadiz — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/33779/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Granada",
+      "Team2Name": "Cadiz",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/33779/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4488/image"
     },
     {
       "EntityId": 1090548742,
@@ -8491,46 +8531,6 @@
       "Team2Name": "Ajax Amsterdam",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2951/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
-    },
-    {
-      "EntityId": 1577,
-      "VideoName": "RC Celta vs Alaves",
-      "CategoryName": "LaLiga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 20:15:00",
-      "Description": "Watch RC Celta vs Alaves — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2821/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9723,
-      "UrlSlug": "laliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "RC Celta",
-      "Team2Name": "Alaves",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2821/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2885/image"
-    },
-    {
-      "EntityId": 1578,
-      "VideoName": "Granada vs Cadiz",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-18 20:15:00",
-      "Description": "Watch Granada vs Cadiz — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/33779/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Granada",
-      "Team2Name": "Cadiz",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/33779/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4488/image"
     }
   ]
 }
