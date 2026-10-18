@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:17 PM 18-10-2026",
+    "LastUpdate": "06:18 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -11,6 +11,23 @@
     "UpcomingCount": 400
   },
   "Matches": [
+    {
+      "EntityId": 18426,
+      "VideoName": "Angers vs Marseille",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 7",
+      "EventStartDate": "2026-10-18 19:00:00",
+      "Description": "Watch Angers vs Marseille live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Angers vs Marseille match will take place on 18-Oct, Sunday, at 06:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791881566324x432.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918815661020x576.jpg",
+      "IsFreeToWatch": false,
+      "CategoryId": 1115,
+      "regionsAllowed": "BD,NP",
+      "NewSportsGenre": "Football",
+      "is_full_data": true,
+      "Status": "Live",
+      "UrlSlug": "angers-vs-marseille-ligue-one-live-match"
+    },
     {
       "EntityId": 19004,
       "VideoName": "Moto 3 - Olbia, Italy",
@@ -26,7 +43,8 @@
       "NewSportsGenre": "Racing",
       "is_full_data": true,
       "Status": "Live",
-      "UrlSlug": "uim-abp-aquabike-world-championship-2026"
+      "UrlSlug": "uim-abp-aquabike-world-championship-2026",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
     {
       "EntityId": 18280,
@@ -329,41 +347,6 @@
       "Team2Name": "Lecce",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2689/image"
-    },
-    {
-      "EntityId": 1563,
-      "VideoName": "PEC Zwolle vs Go Ahead Eagles",
-      "CategoryName": "Eredivisie",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 16:15:00",
-      "Description": "Watch PEC Zwolle vs Go Ahead Eagles — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2971/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792299583-0-0-10bf345f309fe1faf028cd62df896a1e",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792299583-0-0-10bf345f309fe1faf028cd62df896a1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=e1eb73aa9231606f0b72fc518712f2b1&txTime=6ad4ebd9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "PEC Zwolle",
-      "Team2Name": "Go Ahead Eagles",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2971/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2979/image"
     },
     {
       "EntityId": 17701,
@@ -8383,8 +8366,16 @@
       "Status": "Upcoming",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792300430-0-0-7c3e36b9e64a0aa0e23e463912898ff8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792300430-0-0-7c3e36b9e64a0aa0e23e463912898ff8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Cambuur",
       "Team2Name": "AZ Alkmaar",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2970/image",
