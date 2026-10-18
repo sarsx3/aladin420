@@ -1,16 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:59 PM 18-10-2026",
+    "LastUpdate": "07:00 PM 18-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 21,
+    "LiveCount": 20,
     "UpcomingCount": 394
   },
   "Matches": [
+    {
+      "EntityId": 1090548741,
+      "VideoName": "Emperia Marathas vs Tamil Titans - Super 6",
+      "CategoryName": "Volleyball",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-18 19:00:52",
+      "Description": "Watch Emperia Marathas vs Tamil Titans - Super 6 live from Volleyball. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Volleyball online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9473,
+      "UrlSlug": "volleyball-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371214~acl=/*~id=14645615924967336865133029730930~hmac=243733f5c0bb1e5ccfa9f726c6d8b7b55eb9b89567385a32351b3cc0075fe671",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371214~acl=/*~id=14645615924967336865133029730930~hmac=243733f5c0bb1e5ccfa9f726c6d8b7b55eb9b89567385a32351b3cc0075fe671"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792371214~acl=/*~id=14645615924967336865133029730930~hmac=243733f5c0bb1e5ccfa9f726c6d8b7b55eb9b89567385a32351b3cc0075fe671"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792328452
+    },
     {
       "EntityId": 18426,
       "VideoName": "Angers vs Marseille",
@@ -466,29 +493,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2851/image"
     },
     {
-      "EntityId": 1090549111,
-      "VideoName": "DP World Locker Room - Day 4",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 17:30:43",
-      "Description": "Watch DP World Locker Room - Day 4 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792323043
-    },
-    {
       "EntityId": 1565,
       "VideoName": "Arminia vs Osnabrück",
       "CategoryName": "Bundesliga 2",
@@ -588,73 +592,23 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371214~acl=/*~id=14645615924967336865133029730930~hmac=243733f5c0bb1e5ccfa9f726c6d8b7b55eb9b89567385a32351b3cc0075fe671",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371214~acl=/*~id=14645615924967336865133029730930~hmac=243733f5c0bb1e5ccfa9f726c6d8b7b55eb9b89567385a32351b3cc0075fe671"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792371214~acl=/*~id=14645615924967336865133029730930~hmac=243733f5c0bb1e5ccfa9f726c6d8b7b55eb9b89567385a32351b3cc0075fe671"
         },
         {
           "label": "Bengali",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792371214~acl=/*~id=14645615924967336865133029730930~hmac=243733f5c0bb1e5ccfa9f726c6d8b7b55eb9b89567385a32351b3cc0075fe671"
         }
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792321459
-    },
-    {
-      "EntityId": 1564,
-      "VideoName": "Udinese vs Lecce",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-18 16:30:00",
-      "Description": "Watch Udinese vs Lecce — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2695/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792299672-0-0-55384c10d24283b0e15d9b9fd7a91db4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1792321025-0-0-6c79e0bb5eebea20a13b77e0ee064267",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://www.rtmpcdn.com/live/65239c27-289b-4956-9097-76289f46e000.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Udinese",
-      "Team2Name": "Lecce",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2689/image"
     },
     {
       "EntityId": 17701,
