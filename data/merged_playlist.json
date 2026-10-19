@@ -1,16 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:04 AM 20-10-2026",
+    "LastUpdate": "01:05 AM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 486
+    "LiveCount": 11,
+    "UpcomingCount": 485
   },
   "Matches": [
+    {
+      "EntityId": 1614,
+      "VideoName": "Braga vs Gil Vicente",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-20 01:15:00",
+      "Description": "Watch Braga vs Gil Vicente — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2999/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Braga",
+      "Team2Name": "Gil Vicente",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2999/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3010/image"
+    },
     {
       "EntityId": 18284,
       "VideoName": "Getafe vs Rayo Vallecano",
@@ -10037,26 +10057,6 @@
       "Team2Name": "Central Córdoba",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/877",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/65676/image"
-    },
-    {
-      "EntityId": 1614,
-      "VideoName": "Braga vs Gil Vicente",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-20 01:15:00",
-      "Description": "Watch Braga vs Gil Vicente — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2999/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Braga",
-      "Team2Name": "Gil Vicente",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2999/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3010/image"
     }
   ]
 }
