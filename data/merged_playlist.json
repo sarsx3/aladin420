@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:27 PM 19-10-2026",
+    "LastUpdate": "11:28 PM 19-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 493
   },
   "Matches": [
@@ -162,6 +162,13 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-ncg/_nc_cat-1/_nc_sr_t-4/v/rASevlNWXUxSKy4bkbi43mc3Jd88ZGeeC0GdfiqQCJzDbrw/_nc_ohc-OZD1GhOOSGgQ7kNvwG-_5fM/live-dash/dash-abr-ibr-audio/122145589359206066.mpd?_nc_eui2=AeE3fmbsf-NXTs4CRPF9V-HS00Qnuf-rGYjTRCe5_6sZiEKkYbZ4RhZ2qqobaOEaHMYsqFgbqz56H0uWGHJAYEdF&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQPUfbuGyjedSemqQh-YbjGD20gvtwf-Tss9LLC_g0pf3A&oe=6AD81F45",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Afghanistan",
@@ -189,72 +196,6 @@
         "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
         "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
       ]
-    },
-    {
-      "EntityId": 1623,
-      "VideoName": "South Africa vs Australia",
-      "CategoryName": "International Test Series",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-19 14:00:00",
-      "Description": "Watch South Africa vs Australia — International Test Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9711,
-      "UrlSlug": "international-test-series",
-      "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-      "sources": [
-        {
-          "label": "SKY CRICKET FHD",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dpmwhamcg5/out/v1/75e085ecbcf54d8082aa137858f9260b/cenc.mpd",
-          "drmScheme": "NWQxMDRlYTY4NWY0ZTM0Y2E4MmI1MTc1OGM0YTFmMWY6MzgxN2UwNDRhYTdjZjNjMDEyMDY5ZmFlOGExYjE3Y2I=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dpmwhamcg5/out/v1/75e085ecbcf54d8082aa137858f9260b/cenc.mpd",
-          "drmScheme": "NWQxMDRlYTY4NWY0ZTM0Y2E4MmI1MTc1OGM0YTFmMWY6MzgxN2UwNDRhYTdjZjNjMDEyMDY5ZmFlOGExYjE3Y2I=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "South Africa",
-      "Team2Name": "Australia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     },
     {
       "EntityId": 17100,
