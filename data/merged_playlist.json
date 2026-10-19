@@ -1,16 +1,45 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:49 AM 20-10-2026",
+    "LastUpdate": "03:50 AM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 485
+    "LiveCount": 1,
+    "UpcomingCount": 484
   },
   "Matches": [
+    {
+      "EntityId": 1610,
+      "VideoName": "Newell's vs Central Córdoba",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-20 04:00:00",
+      "Description": "Watch Newell's vs Central Córdoba — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/877",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "http://193.47.62.50/hls/O555AAAAAQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.50/hls/O555AAAAAQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Newell's",
+      "Team2Name": "Central Córdoba",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/877",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/65676/image"
+    },
     {
       "EntityId": 17100,
       "VideoName": "Al-Ittihad vs Al-Shabab",
@@ -9501,35 +9530,6 @@
       "Team2Name": "Vitoria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1957/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1962/image"
-    },
-    {
-      "EntityId": 1610,
-      "VideoName": "Newell's vs Central Córdoba",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-20 04:00:00",
-      "Description": "Watch Newell's vs Central Córdoba — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/877",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "http://193.47.62.50/hls/O555AAAAAQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/O555AAAAAQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Newell's",
-      "Team2Name": "Central Córdoba",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/877",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/65676/image"
     }
   ]
 }
