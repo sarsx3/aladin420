@@ -1,16 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:19 PM 19-10-2026",
+    "LastUpdate": "10:20 PM 19-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 495
+    "LiveCount": 9,
+    "UpcomingCount": 494
   },
   "Matches": [
+    {
+      "EntityId": 1601,
+      "VideoName": "Monza vs Cagliari",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-19 22:30:00",
+      "Description": "Watch Monza vs Cagliari — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2729/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Monza",
+      "Team2Name": "Cagliari",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2729/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2719/image"
+    },
     {
       "EntityId": 17104,
       "VideoName": "Al-Fayha vs Al-Ahli",
@@ -9993,26 +10013,6 @@
       "Team2Name": "Al Hazm",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/168086/image"
-    },
-    {
-      "EntityId": 1601,
-      "VideoName": "Monza vs Cagliari",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-19 22:30:00",
-      "Description": "Watch Monza vs Cagliari — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2729/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Monza",
-      "Team2Name": "Cagliari",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2729/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2719/image"
     }
   ]
 }
