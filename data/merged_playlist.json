@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 19-10-2026",
+    "LastUpdate": "11:50 PM 19-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 493
+    "LiveCount": 6,
+    "UpcomingCount": 491
   },
   "Matches": [
     {
@@ -30,6 +30,46 @@
       "stream_url": [
         "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
       ]
+    },
+    {
+      "EntityId": 1615,
+      "VideoName": "Al Shabab vs Al Faysaly",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-20 00:00:00",
+      "Description": "Watch Al Shabab vs Al Faysaly — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34313/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Shabab",
+      "Team2Name": "Al Faysaly",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34313/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/56035/image"
+    },
+    {
+      "EntityId": 1616,
+      "VideoName": "Al-Hilal vs Al Hazm",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-20 00:00:00",
+      "Description": "Watch Al-Hilal vs Al Hazm — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al-Hilal",
+      "Team2Name": "Al Hazm",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/168086/image"
     },
     {
       "EntityId": 1601,
@@ -9824,46 +9864,6 @@
       "Team2Name": "Tenerife",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/24336/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2822/image"
-    },
-    {
-      "EntityId": 1615,
-      "VideoName": "Al Shabab vs Al Faysaly",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-20 00:00:00",
-      "Description": "Watch Al Shabab vs Al Faysaly — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34313/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Shabab",
-      "Team2Name": "Al Faysaly",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34313/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/56035/image"
-    },
-    {
-      "EntityId": 1616,
-      "VideoName": "Al-Hilal vs Al Hazm",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-20 00:00:00",
-      "Description": "Watch Al-Hilal vs Al Hazm — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al-Hilal",
-      "Team2Name": "Al Hazm",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/168086/image"
     }
   ]
 }
