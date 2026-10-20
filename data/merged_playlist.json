@@ -1,16 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:04 PM 20-10-2026",
+    "LastUpdate": "08:05 PM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 484
   },
   "Matches": [
+    {
+      "EntityId": 1090549193,
+      "VideoName": "Manchester City vs Athens - MD3",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-20 20:05:29",
+      "Description": "Watch Manchester City vs Athens - MD3 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792548018~acl=/*~id=87522341312208449584704894559672~hmac=f9b2b76d38a7a80fc4293ce1eed231da765900eb1ae830ad65051d3d073c57c6",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792548018~acl=/*~id=87522341312208449584704894559672~hmac=f9b2b76d38a7a80fc4293ce1eed231da765900eb1ae830ad65051d3d073c57c6"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792505129
+    },
     {
       "EntityId": 1090549194,
       "VideoName": "PSG vs Barcelona",
@@ -24,11 +47,11 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792542561~acl=/*~id=93431792692230212220246841966279~hmac=920cc09380648a0477369b483bff8f7ea489889e280dce36230575238bba172b",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792548018~acl=/*~id=87522341312208449584704894559672~hmac=f9b2b76d38a7a80fc4293ce1eed231da765900eb1ae830ad65051d3d073c57c6",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792542561~acl=/*~id=93431792692230212220246841966279~hmac=920cc09380648a0477369b483bff8f7ea489889e280dce36230575238bba172b"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792548018~acl=/*~id=87522341312208449584704894559672~hmac=f9b2b76d38a7a80fc4293ce1eed231da765900eb1ae830ad65051d3d073c57c6"
         }
       ],
       "Provider": "SonyLiv",
