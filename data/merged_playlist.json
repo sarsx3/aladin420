@@ -1,14 +1,14 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:49 PM 20-10-2026",
+    "LastUpdate": "01:50 PM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 478
+    "LiveCount": 3,
+    "UpcomingCount": 477
   },
   "Matches": [
     {
@@ -31,6 +31,42 @@
         "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
         "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
       ]
+    },
+    {
+      "EntityId": 1624,
+      "VideoName": "Pakistan vs England",
+      "CategoryName": "Pakistan vs England – 2nd Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-20 14:00:00",
+      "Description": "Watch Pakistan vs England — Pakistan vs England – 2nd Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9257,
+      "UrlSlug": "pakistan-vs-england-2nd-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-hd",
+          "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakistan",
+      "Team2Name": "England",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     },
     {
       "EntityId": 17701,
@@ -9457,42 +9493,6 @@
       "Team2Name": "Al Riyadh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/853574/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
-    },
-    {
-      "EntityId": 1624,
-      "VideoName": "Pakistan vs England",
-      "CategoryName": "Pakistan vs England – 2nd Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-20 14:00:00",
-      "Description": "Watch Pakistan vs England — Pakistan vs England – 2nd Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9257,
-      "UrlSlug": "pakistan-vs-england-2nd-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-hd",
-          "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan",
-      "Team2Name": "England",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     }
   ]
 }
