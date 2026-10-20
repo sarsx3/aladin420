@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:30 AM 21-10-2026",
+    "LastUpdate": "12:31 AM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -8993,8 +8993,17 @@
       "Status": "Upcoming",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Burton",
       "Team2Name": "Bradford",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/134/image",
@@ -9013,8 +9022,17 @@
       "Status": "Upcoming",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Bromley",
       "Team2Name": "Leicester City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/180/image",
@@ -9033,8 +9051,17 @@
       "Status": "Upcoming",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/QFFFAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Blackpool",
       "Team2Name": "MK Dons",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/67/image",
@@ -9053,8 +9080,17 @@
       "Status": "Upcoming",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/QFFFAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "AFC Wimbledon",
       "Team2Name": "Mansfield",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/71/image",
