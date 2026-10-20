@@ -1,16 +1,58 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:49 PM 20-10-2026",
+    "LastUpdate": "08:50 PM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss",
     "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 483
+    "LiveCount": 3,
+    "UpcomingCount": 482
   },
   "Matches": [
+    {
+      "EntityId": 1617,
+      "VideoName": "Diriyah vs Al Riyadh",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-20 21:00:00",
+      "Description": "Watch Diriyah vs Al Riyadh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/853574/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792499335-0-0-ba5907684eb73c95a9b96d1fc21ff923",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792499335-0-0-ba5907684eb73c95a9b96d1fc21ff923",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1792506906-0-0-0e916d59c4b8685f1a987e69678c0d3a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1792510206-0-0-9bc388c883f96d649d51f16a2ba7958c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Diriyah",
+      "Team2Name": "Al Riyadh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/853574/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
+    },
     {
       "EntityId": 1090549193,
       "VideoName": "Manchester City vs Athens - MD3",
@@ -9679,48 +9721,6 @@
       "Team2Name": "Al Qadsiah",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/56021/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/56027/image"
-    },
-    {
-      "EntityId": 1617,
-      "VideoName": "Diriyah vs Al Riyadh",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-20 21:00:00",
-      "Description": "Watch Diriyah vs Al Riyadh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/853574/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792499335-0-0-ba5907684eb73c95a9b96d1fc21ff923",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792499335-0-0-ba5907684eb73c95a9b96d1fc21ff923",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1792506906-0-0-0e916d59c4b8685f1a987e69678c0d3a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1792510206-0-0-9bc388c883f96d649d51f16a2ba7958c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Diriyah",
-      "Team2Name": "Al Riyadh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/853574/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
     }
   ]
 }
