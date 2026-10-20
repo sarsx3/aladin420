@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 AM 21-10-2026",
+    "LastUpdate": "12:35 AM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 17,
-    "UpcomingCount": 427
+    "LiveCount": 29,
+    "UpcomingCount": 415
   },
   "Matches": [
     {
@@ -128,6 +128,345 @@
       "stream_url": [
         "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
       ]
+    },
+    {
+      "EntityId": 1634,
+      "VideoName": "Wolves vs Portsmouth",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Wolves vs Portsmouth — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.55/hls/FEEEEA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/FEEEEA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Wolves",
+      "Team2Name": "Portsmouth",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2/image"
+    },
+    {
+      "EntityId": 1635,
+      "VideoName": "Stevenage vs Plymouth",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Stevenage vs Plymouth — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/133/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/FEEEE.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/FEEEE.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Stevenage",
+      "Team2Name": "Plymouth",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/133/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/79/image"
+    },
+    {
+      "EntityId": 1636,
+      "VideoName": "Oxford Utd vs Wigan",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Oxford Utd vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/95/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQQQQAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Oxford Utd",
+      "Team2Name": "Wigan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/95/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
+    },
+    {
+      "EntityId": 1637,
+      "VideoName": "Notts County vs Sheffield Wed",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Notts County vs Sheffield Wed — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQQQQAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Notts County",
+      "Team2Name": "Sheffield Wed",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/56/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/12/image"
+    },
+    {
+      "EntityId": 1638,
+      "VideoName": "Luton vs Barnsley",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Luton vs Barnsley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/72/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQQQQA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Luton",
+      "Team2Name": "Barnsley",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/72/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/23/image"
+    },
+    {
+      "EntityId": 1639,
+      "VideoName": "Doncaster vs Stockport",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Doncaster vs Stockport — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/84/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Doncaster",
+      "Team2Name": "Stockport",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/84/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/10/image"
+    },
+    {
+      "EntityId": 1640,
+      "VideoName": "Huddersfield vs Peterborough",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Huddersfield vs Peterborough — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/59/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Huddersfield",
+      "Team2Name": "Peterborough",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/59/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/54/image"
+    },
+    {
+      "EntityId": 1641,
+      "VideoName": "Cambridge vs Wycombe",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Cambridge vs Wycombe — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/63/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Cambridge",
+      "Team2Name": "Wycombe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/63/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/62/image"
+    },
+    {
+      "EntityId": 1642,
+      "VideoName": "Burton vs Bradford",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Burton vs Bradford — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/134/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Burton",
+      "Team2Name": "Bradford",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/134/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/22/image"
+    },
+    {
+      "EntityId": 1643,
+      "VideoName": "Bromley vs Leicester City",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Bromley vs Leicester City — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/180/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bromley",
+      "Team2Name": "Leicester City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/180/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/31/image"
+    },
+    {
+      "EntityId": 1644,
+      "VideoName": "Blackpool vs MK Dons",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch Blackpool vs MK Dons — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/67/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Blackpool",
+      "Team2Name": "MK Dons",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/67/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4/image"
+    },
+    {
+      "EntityId": 1645,
+      "VideoName": "AFC Wimbledon vs Mansfield",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 00:45:00",
+      "Description": "Watch AFC Wimbledon vs Mansfield — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/71/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.55/hls/QFFFAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/QFFFAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "AFC Wimbledon",
+      "Team2Name": "Mansfield",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/71/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/70/image"
     },
     {
       "EntityId": 17102,
@@ -8599,30 +8938,8 @@
       "Status": "Upcoming",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792502356-0-0-5ec73a93b91cd940eae2689d51b46bff",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792502356-0-0-5ec73a93b91cd940eae2689d51b46bff",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=fcffecb5e124183bf2b1f00181ac43ff&txTime=6ad7c666",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1792523706-0-0-f37f893bd35e924eeb2e1e65d52a7664",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Liverpool",
       "Team2Name": "Villarreal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/44/image",
@@ -8778,345 +9095,6 @@
       "Team2Name": "Slovan Bratislava",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2702/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2404/image"
-    },
-    {
-      "EntityId": 1634,
-      "VideoName": "Wolves vs Portsmouth",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Wolves vs Portsmouth — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.55/hls/FEEEEA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/FEEEEA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Wolves",
-      "Team2Name": "Portsmouth",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2/image"
-    },
-    {
-      "EntityId": 1635,
-      "VideoName": "Stevenage vs Plymouth",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Stevenage vs Plymouth — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/133/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/FEEEE.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/FEEEE.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Stevenage",
-      "Team2Name": "Plymouth",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/133/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/79/image"
-    },
-    {
-      "EntityId": 1636,
-      "VideoName": "Oxford Utd vs Wigan",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Oxford Utd vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/95/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAAQQQQAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Oxford Utd",
-      "Team2Name": "Wigan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/95/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
-    },
-    {
-      "EntityId": 1637,
-      "VideoName": "Notts County vs Sheffield Wed",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Notts County vs Sheffield Wed — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAAQQQQAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Notts County",
-      "Team2Name": "Sheffield Wed",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/12/image"
-    },
-    {
-      "EntityId": 1638,
-      "VideoName": "Luton vs Barnsley",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Luton vs Barnsley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/72/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAAQQQQA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Luton",
-      "Team2Name": "Barnsley",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/72/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/23/image"
-    },
-    {
-      "EntityId": 1639,
-      "VideoName": "Doncaster vs Stockport",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Doncaster vs Stockport — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/84/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Doncaster",
-      "Team2Name": "Stockport",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/84/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/10/image"
-    },
-    {
-      "EntityId": 1640,
-      "VideoName": "Huddersfield vs Peterborough",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Huddersfield vs Peterborough — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/59/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAAQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Huddersfield",
-      "Team2Name": "Peterborough",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/59/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/54/image"
-    },
-    {
-      "EntityId": 1641,
-      "VideoName": "Cambridge vs Wycombe",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Cambridge vs Wycombe — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/63/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAAQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Cambridge",
-      "Team2Name": "Wycombe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/63/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/62/image"
-    },
-    {
-      "EntityId": 1642,
-      "VideoName": "Burton vs Bradford",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Burton vs Bradford — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/134/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAAQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAAQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Burton",
-      "Team2Name": "Bradford",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/134/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/22/image"
-    },
-    {
-      "EntityId": 1643,
-      "VideoName": "Bromley vs Leicester City",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Bromley vs Leicester City — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/180/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAAQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAAQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bromley",
-      "Team2Name": "Leicester City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/180/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/31/image"
-    },
-    {
-      "EntityId": 1644,
-      "VideoName": "Blackpool vs MK Dons",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch Blackpool vs MK Dons — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/67/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Blackpool",
-      "Team2Name": "MK Dons",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/67/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4/image"
-    },
-    {
-      "EntityId": 1645,
-      "VideoName": "AFC Wimbledon vs Mansfield",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 00:45:00",
-      "Description": "Watch AFC Wimbledon vs Mansfield — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/71/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.55/hls/QFFFAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/QFFFAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "AFC Wimbledon",
-      "Team2Name": "Mansfield",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/71/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/70/image"
     }
   ]
 }
