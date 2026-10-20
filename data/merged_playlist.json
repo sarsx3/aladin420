@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:44 AM 21-10-2026",
+    "LastUpdate": "01:45 AM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -576,6 +576,21 @@
           "label": "Server - 11",
           "url": "https://www.rtmpcdn.com/live/cc6e1810-55a8-4a5d-85a1-b660ee4125b8.m3u8",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "VIX Español FHD",
+          "url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/elbaat95gq/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd?|drmScheme=clearkey&drmLicense=f7a854d5fdcf12cb47bc58298a6668a1:f28532cf4e9b88b72d1bcc751262cea1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "HD QUALITY TV",
+          "url": "https://live.vivo155.com/live/hd-en-1-4628468.m3u8?txSecret=2553058b8ee16dbdc18579e3b3f86078&txTime=6AD7CA51",
+          "headers": {
+            "Referer": "https://player.online878.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
