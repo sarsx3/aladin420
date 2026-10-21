@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:09 AM 22-10-2026",
+    "LastUpdate": "12:10 AM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -8324,8 +8324,16 @@
       "Status": "Upcoming",
       "CategoryId": 9209,
       "UrlSlug": "uefa-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792554915-0-0-853e5bcf3f4f693c108aa1dc577c4741",
+      "sources": [
+        {
+          "label": "SportsHype cdn-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792554915-0-0-853e5bcf3f4f693c108aa1dc577c4741",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Club Brugge KV",
       "Team2Name": "Lens",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2888/image",
