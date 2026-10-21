@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:19 AM 22-10-2026",
+    "LastUpdate": "01:20 AM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -502,6 +502,44 @@
         {
           "label": "hd  quality",
           "url": "https://pull.qjkngv.com/live/stream-613431_lhd.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58359/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPANISH + HD",
+          "url": "https://edgestream5.pro/hls/hflfkrtib42.m3u8",
+          "headers": {
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ENGLISH + HD",
+          "url": "https://edgestream1.pro/hls/sqdahach1ax.m3u8",
+          "headers": {
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tv quality",
+          "url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_27fdfa10_1b03_4279_824b_df40c2e86caa/index.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://www.rtmpcdn.com/live/61bfd383-21d8-4110-a59d-12e9e0cbcac5.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
