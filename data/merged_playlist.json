@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:30 PM 21-10-2026",
+    "LastUpdate": "10:31 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 406
   },
   "Matches": [
@@ -29,27 +29,50 @@
       ]
     },
     {
-      "EntityId": 1090549302,
-      "VideoName": "Inter Milan vs Shakhtar Donetsk - MD3",
-      "CategoryName": "Football",
+      "EntityId": 1090549217,
+      "VideoName": "Como vs Man United",
+      "CategoryName": "UEFA Champions League 2026-27",
       "StageName": "Live",
-      "EventStartDate": "2026-10-21 20:04:21",
-      "Description": "Watch Inter Milan vs Shakhtar Donetsk - MD3 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg",
+      "EventStartDate": "2026-10-21 22:31:17",
+      "Description": "Watch Como vs Man United live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d"
         }
       ],
       "Provider": "SonyLiv",
-      "FirstSeenTs": 1792591461
+      "FirstSeenTs": 1792600277
+    },
+    {
+      "EntityId": 1090549216,
+      "VideoName": "Lille vs Galatasaray",
+      "CategoryName": "UEFA Champions League 2026-27",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 22:31:17",
+      "Description": "Watch Lille vs Galatasaray live from UEFA Champions League 2026-27. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream UEFA Champions League 2026-27 online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9543,
+      "UrlSlug": "uefa-champions-league-2026-27-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792600277
     },
     {
       "EntityId": 1649,
@@ -184,11 +207,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d"
         }
       ],
       "Provider": "SonyLiv",
