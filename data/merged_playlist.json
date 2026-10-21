@@ -1,15 +1,33 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:01 PM 21-10-2026",
+    "LastUpdate": "05:02 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 407
   },
   "Matches": [
+    {
+      "EntityId": 18903,
+      "VideoName": "Afghanistan vs Bangladesh",
+      "CategoryName": "UAE ODI Tri-Series 2026",
+      "StageName": "3rd ODI",
+      "EventStartDate": "2026-10-21 17:30:00",
+      "Description": "Watch UAE ODI Tri-Series 2026 live on tapmad. The AFG vs BAN brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 22-Oct-2026 at 01:00 PM . Fans can watch UAE ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792390173540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792390173540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1174,
+      "UrlSlug": "afg-vs-ban-3rd-odi-live",
+      "stream_url": [
+        "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+        "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
+      ]
+    },
     {
       "EntityId": 1090549320,
       "VideoName": "Rajasthan Frontiers vs Haryana Lions",
@@ -7308,6 +7326,20 @@
       "UrlSlug": "ferencvaros-vs-torreense-uel-live-match"
     },
     {
+      "EntityId": 18962,
+      "VideoName": "Sturm Graz vs Marseille",
+      "CategoryName": "UEFA Europa League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-22 22:45:00",
+      "Description": "Watch Sturm Graz vs Marseille live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791666045540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1791666045540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 905,
+      "UrlSlug": "strum-graz-vs-marseille-uel-live-match"
+    },
+    {
       "EntityId": 1658,
       "VideoName": "Union Saint-Gilloise vs Hapoel Beer Sheva",
       "CategoryName": "UEFA Europa League",
@@ -8169,26 +8201,20 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "Tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Afghanistan",
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 18903,
-      "VideoName": "Afghanistan vs Bangladesh",
-      "CategoryName": "UAE ODI Tri-Series 2026",
-      "StageName": "3rd ODI",
-      "EventStartDate": "2026-10-21 17:30:00",
-      "Description": "Watch UAE ODI Tri-Series 2026 live on tapmad. The AFG vs BAN brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 22-Oct-2026 at 01:00 PM . Fans can watch UAE ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792390173540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792390173540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1174,
-      "UrlSlug": "afg-vs-ban-3rd-odi-live"
     }
   ]
 }
