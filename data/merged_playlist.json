@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:10 PM 21-10-2026",
+    "LastUpdate": "01:11 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -8073,8 +8073,25 @@
       "Status": "Upcoming",
       "CategoryId": 9711,
       "UrlSlug": "international-test-series",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+          "drmScheme": "MzlkNmZkNzJiYzdiMjJhYjAzZWEzZDgxY2I4YzczOWE6OTFhOTMwMmI0ODhkYzc2YjYxYjlhYjdjNGUxNThhYTI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+          "drmScheme": "MzlkNmZkNzJiYzdiMjJhYjAzZWEzZDgxY2I4YzczOWE6OTFhOTMwMmI0ODhkYzc2YjYxYjlhYjdjNGUxNThhYTI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "South Africa",
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
