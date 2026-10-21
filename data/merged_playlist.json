@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:34 PM 21-10-2026",
+    "LastUpdate": "06:35 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 406
   },
   "Matches": [
+    {
+      "EntityId": 1090549301,
+      "VideoName": "LOSC Lille vs Galatasaray - MD3",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 18:35:24",
+      "Description": "Watch LOSC Lille vs Galatasaray - MD3 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi22110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792628646~acl=/*~id=28935171206672199819046981513033~hmac=1eed7774d78f0f862d80b74a714c52342d5562e4a890684a8beca158ef6df46e",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi22110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792628646~acl=/*~id=28935171206672199819046981513033~hmac=1eed7774d78f0f862d80b74a714c52342d5562e4a890684a8beca158ef6df46e"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792586124
+    },
     {
       "EntityId": 1649,
       "VideoName": "Afghanistan vs Bangladesh",
@@ -150,11 +173,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792621372~acl=/*~id=12028391383296947903348950450069~hmac=fbc13d9e66cc29a62554821f0f3b7dcb57f08da7b8e9f9a86235ad59079f2bab",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792628646~acl=/*~id=28935171206672199819046981513033~hmac=1eed7774d78f0f862d80b74a714c52342d5562e4a890684a8beca158ef6df46e",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792621372~acl=/*~id=12028391383296947903348950450069~hmac=fbc13d9e66cc29a62554821f0f3b7dcb57f08da7b8e9f9a86235ad59079f2bab"
+          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792628646~acl=/*~id=28935171206672199819046981513033~hmac=1eed7774d78f0f862d80b74a714c52342d5562e4a890684a8beca158ef6df46e"
         }
       ],
       "Provider": "SonyLiv",
