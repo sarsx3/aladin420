@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:43 AM 22-10-2026",
+    "LastUpdate": "01:44 AM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -568,6 +568,34 @@
         {
           "label": "Server-1",
           "url": "https://www.rtmpcdn.com/live/61bfd383-21d8-4110-a59d-12e9e0cbcac5.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TNT BRASIL FHD",
+          "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fpdxqdql9c/out/v1/c924679be15341649642c8349ecb353f/cenc.mpd?|drmScheme=clearkey&drmLicense=6f8c882c6744246cc84282b0e0effab5:dd9ab472acead0eb65f951b02754e14b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e9xjpejmtk/out/v1/cbf21d748d024933bcd2144998273a4b/cenc.mpd?aws_sessionId=2eadec73-24ac-4b20-a24e-0ee003f9571e?|drmScheme=clearkey&drmLicense=b2a7c60eafdb4dac7117621bd8326e6b:7a059eb03ac5bc107572ae435d880b09",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "DAZN DE FHD",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/avldqxvr9i/out/v1/198ef6f294454faa8f2c8f7895385642/cenc.mpd?|drmScheme=clearkey&drmLicense=4778ad81d1e2d083de95fc43457fe4b3:4deaf63e414adf2d16926eecc69260ac",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PRIME SONYLIV FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyqrddnqee/out/v1/1f8a1dc64cf14a32b2e1a39cee8264d3/cenc.mpd?|drmScheme=clearkey&drmLicense=7586eaca78873994968116bb1339d957:fcadd17824f8dd4b75122c7abdd05b95",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
