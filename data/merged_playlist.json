@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:41 PM 21-10-2026",
+    "LastUpdate": "10:42 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -85,6 +85,14 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sony sports-bd",
+          "url": "https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/576/576.m3u8?hdntl=Expires=1792687029~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AbYP0EdlM0fdHgZaLvCTISI4N8Byk3WNClJE9rqWwQXDV3u3lHzu6Owy5uDQQTxWNrUwXj8e1RY--ecyXIwPGUNjUYkC&nocache=1792600654373",
+          "headers": {
+            "Referer": "https://toffeelive.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
