@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:31 PM 21-10-2026",
+    "LastUpdate": "02:32 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 407
   },
   "Matches": [
+    {
+      "EntityId": 1090549320,
+      "VideoName": "Rajasthan Frontiers vs Haryana Lions",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 14:32:19",
+      "Description": "Watch Rajasthan Frontiers vs Haryana Lions live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792614099~acl=/*~id=52261968787615198883198327855116~hmac=dafe9f4c907b0a743bb89f6054d0dfd22d2e15b02eda3f00132bd8650ace3125",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792614099~acl=/*~id=52261968787615198883198327855116~hmac=dafe9f4c907b0a743bb89f6054d0dfd22d2e15b02eda3f00132bd8650ace3125"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792571539
+    },
     {
       "EntityId": 1680,
       "VideoName": "South Africa vs Australia",
@@ -8116,8 +8139,23 @@
       "Status": "Upcoming",
       "CategoryId": 9065,
       "UrlSlug": "odi-tri-nation-series-in-uae-2026",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "hhh",
+      "sources": [
+        {
+          "label": "test button 1",
+          "url": "hhh",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "test button 3",
+          "url": "test button 1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Afghanistan",
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
