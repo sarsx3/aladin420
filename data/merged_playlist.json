@@ -1,15 +1,103 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:49 PM 21-10-2026",
+    "LastUpdate": "05:50 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 407
+    "LiveCount": 5,
+    "UpcomingCount": 406
   },
   "Matches": [
+    {
+      "EntityId": 1649,
+      "VideoName": "Afghanistan vs Bangladesh",
+      "CategoryName": "ODI Tri-Nation Series in UAE, 2026",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-21 18:00:00",
+      "Description": "Watch Afghanistan vs Bangladesh — ODI Tri-Nation Series in UAE, 2026. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9065,
+      "UrlSlug": "odi-tri-nation-series-in-uae-2026",
+      "stream_url": "hhh",
+      "sources": [
+        {
+          "label": "test button 1",
+          "url": "hhh",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "test button 3",
+          "url": "test button 1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports-hd",
+          "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
+          "drmScheme": "YTAxNmJiZjg5OGMxNTIyNzU4YzEzZWMxOWMyODBkMmE6ZjdhNzBhZjQ5YzUxNjMwZTU0YTNlYzZkZmUyZGU1ODI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
+          "drmScheme": "YTAxNmJiZjg5OGMxNTIyNzU4YzEzZWMxOWMyODBkMmE6ZjdhNzBhZjQ5YzUxNjMwZTU0YTNlYzZkZmUyZGU1ODI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://scontent.fdac27-2.fna.fbcdn.net/hvideo-hil-pnb/_nc_cat-106/_nc_sr_t-4/v/rASfJUBzP5JhgDHZ5EZb5xDjSSMdR5RmnnJ2zjmFfTfcGUA/_nc_ohc-CfuQpj0n6RUQ7kNvwHsKNrQ/live-dash/dash-abr-ibr-audio/122140494675161822.mpd?_nc_eui2=AeG-VUlmDcaTHW74x7b5dk0SnhJy6jNxr7ueEnLqM3Gvu-fDhEgFBkIKeXi_2ZiGvfi5n4PGPKZ3EuJTtWVPUDfv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMHj5odV4BCfXvNhrf0XXPWvjSxfNa-nUs-gYs7zViM2Q&oe=6ADA6218",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-eag-vll/_nc_cat-110/_nc_sr_t-4/v/rASdkVyX6TDbtExgFqqzEWGGV5b7A2hK0aISp6oBq6g6V2A/_nc_ohc-3kTG1k8Kk4MQ7kNvwGSBkcw/live-dash/dash-abr-ibr-audio/960649223784517.mpd?_nc_eui2=AeEOG3JmFO4v7pJk0g0siEBfuuEmfdmiRte64SZ92aJG1_KFOkZfaffbAakNTlNX7NmfMOTqx1aG6RsKdXCYDd6X&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQM0AvuIKE22CcMlw4MrJBtGbinwtTKwFgsmXFTLAntrcg&oe=6ADA7990",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode-ind",
+          "url": "https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8",
+          "headers": {
+            "Referer": "https://fancode.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Bangladesh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
+    },
     {
       "EntityId": 18903,
       "VideoName": "Afghanistan vs Bangladesh",
@@ -8172,94 +8260,6 @@
       "Team2Name": "Galatasaray",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1643/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3061/image"
-    },
-    {
-      "EntityId": 1649,
-      "VideoName": "Afghanistan vs Bangladesh",
-      "CategoryName": "ODI Tri-Nation Series in UAE, 2026",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-21 18:00:00",
-      "Description": "Watch Afghanistan vs Bangladesh — ODI Tri-Nation Series in UAE, 2026. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9065,
-      "UrlSlug": "odi-tri-nation-series-in-uae-2026",
-      "stream_url": "hhh",
-      "sources": [
-        {
-          "label": "test button 1",
-          "url": "hhh",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "test button 3",
-          "url": "test button 1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports-hd",
-          "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
-          "drmScheme": "YTAxNmJiZjg5OGMxNTIyNzU4YzEzZWMxOWMyODBkMmE6ZjdhNzBhZjQ5YzUxNjMwZTU0YTNlYzZkZmUyZGU1ODI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
-          "drmScheme": "YTAxNmJiZjg5OGMxNTIyNzU4YzEzZWMxOWMyODBkMmE6ZjdhNzBhZjQ5YzUxNjMwZTU0YTNlYzZkZmUyZGU1ODI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://scontent.fdac27-2.fna.fbcdn.net/hvideo-hil-pnb/_nc_cat-106/_nc_sr_t-4/v/rASfJUBzP5JhgDHZ5EZb5xDjSSMdR5RmnnJ2zjmFfTfcGUA/_nc_ohc-CfuQpj0n6RUQ7kNvwHsKNrQ/live-dash/dash-abr-ibr-audio/122140494675161822.mpd?_nc_eui2=AeG-VUlmDcaTHW74x7b5dk0SnhJy6jNxr7ueEnLqM3Gvu-fDhEgFBkIKeXi_2ZiGvfi5n4PGPKZ3EuJTtWVPUDfv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMHj5odV4BCfXvNhrf0XXPWvjSxfNa-nUs-gYs7zViM2Q&oe=6ADA6218",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-eag-vll/_nc_cat-110/_nc_sr_t-4/v/rASdkVyX6TDbtExgFqqzEWGGV5b7A2hK0aISp6oBq6g6V2A/_nc_ohc-3kTG1k8Kk4MQ7kNvwGSBkcw/live-dash/dash-abr-ibr-audio/960649223784517.mpd?_nc_eui2=AeEOG3JmFO4v7pJk0g0siEBfuuEmfdmiRte64SZ92aJG1_KFOkZfaffbAakNTlNX7NmfMOTqx1aG6RsKdXCYDd6X&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQM0AvuIKE22CcMlw4MrJBtGbinwtTKwFgsmXFTLAntrcg&oe=6ADA7990",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode-ind",
-          "url": "https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8",
-          "headers": {
-            "Referer": "https://fancode.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Bangladesh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
     }
   ]
 }
