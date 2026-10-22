@@ -46,9 +46,13 @@ import urllib.error
 from datetime import datetime, timezone, timedelta
 
 # --- Sources --------------------------------------------------------------
+# Tapmad source (sm-monirulislam). Its own schema (name / matches[] with
+# content_entity_id, title, header_name, start_time_bd, stream_url ...) is
+# converted to the Tapmad HeaderInfo / Stats / Matches schema by
+# convert_tapmad_new_to_schema() below, so the OUTPUT format is unchanged.
 TAPMAD_URL = (
-    "https://gist.githubusercontent.com/albatr0ssss/"
-    "3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.json"
+    "https://raw.githubusercontent.com/sm-monirulislam/"
+    "Tapmad_Auto_Update_Playlist/refs/heads/main/tapmad_data.json"
 )
 # SonyLiv source is now an M3U playlist (direct, ready-to-play HLS URLs with
 # every audio language). It is parsed by parse_sonyliv_m3u() below.
@@ -162,6 +166,93 @@ def parse_event_datetime(value: str):
 def now_bd() -> datetime:
     """Current time in Bangladesh (UTC+6), timezone-aware."""
     return datetime.now(BD_TZ)
+
+
+# --------------------------------------------------------------------------
+# Conversion: new Tapmad source (matches[]) -> Tapmad HeaderInfo/Stats/Matches
+# --------------------------------------------------------------------------
+TAPMAD_STATUS_MAP = {"LIVE": "Live", "UPCOMING": "Upcoming"}
+
+
+def convert_tapmad_new_to_schema(src: dict) -> dict:
+    """
+    Convert the sm-monirulislam Tapmad feed into the exact structure the rest
+    of this script (and the app) already expects:
+        {"HeaderInfo": {...}, "Stats": {...}, "Matches": [ {...}, ... ]}
+
+    Field mapping (per match):
+      content_entity_id        -> EntityId
+      title                    -> VideoName
+      header_name "Stage - Cat"-> StageName ("Stage") + CategoryName ("Cat")
+      start_time_bd            -> EventStartDate (already BD time, as-is)
+      description              -> Description
+      thumbnail / tv_image     -> ThumbnailStandard / ThumbnailTV
+      status LIVE/UPCOMING     -> Status Live/Upcoming
+      stream_url               -> stream_url  (copied EXACTLY, untouched;
+                                  omitted when the feed has none, like before)
+    """
+    header_src = src if isinstance(src, dict) else {}
+    header = {
+        "PlaylistName": "Tapmad Matches Metadata",
+        "LastUpdate": (header_src.get("last_update_time") or "").strip(),
+        "Telegram": (header_src.get("telegram_channel") or "").strip(),
+        "Owner": (header_src.get("owner") or "").strip(),
+    }
+
+    converted = []
+    for m in (header_src.get("matches") or []):
+        if not isinstance(m, dict):
+            continue
+
+        video_name = (m.get("title") or "").strip()
+        if not video_name:
+            continue
+
+        status = TAPMAD_STATUS_MAP.get(str(m.get("status") or "").strip().upper())
+        if status is None:
+            continue  # ended / unknown -> same as before: only Live/Upcoming
+
+        header_name = (m.get("header_name") or "").strip()
+        if " - " in header_name:
+            stage, category = header_name.split(" - ", 1)
+            stage, category = stage.strip(), category.strip()
+        else:
+            stage, category = "", header_name
+
+        raw_id = m.get("content_entity_id")
+        try:
+            entity_id = int(raw_id)
+        except (TypeError, ValueError):
+            entity_id = raw_id
+
+        entry = {
+            "EntityId": entity_id,
+            "VideoName": video_name,
+            "CategoryName": category,
+            "StageName": stage,
+            "EventStartDate": (m.get("start_time_bd") or "").strip(),
+            "Description": m.get("description") or "",
+            "ThumbnailStandard": (m.get("thumbnail") or "").strip(),
+            "ThumbnailTV": (m.get("tv_image") or "").strip(),
+            "IsFreeToWatch": False,
+            "Status": status,
+            "CategoryId": stable_category_id(category or video_name),
+            "UrlSlug": slugify(category) or (m.get("seo_title") or "live-match"),
+        }
+        # Stream link goes in EXACTLY as published (no rewriting at all).
+        stream_url = m.get("stream_url")
+        if isinstance(stream_url, str) and stream_url.strip():
+            entry["stream_url"] = stream_url.strip()
+
+        converted.append(entry)
+
+    live = sum(1 for x in converted if x["Status"] == "Live")
+    upcoming = sum(1 for x in converted if x["Status"] == "Upcoming")
+    return {
+        "HeaderInfo": header,
+        "Stats": {"LiveCount": live, "UpcomingCount": upcoming},
+        "Matches": converted,
+    }
 
 
 # --------------------------------------------------------------------------
@@ -721,7 +812,8 @@ def main() -> int:
 
     # ── Source 1: Tapmad (structure anchor) ──────────────────────────────
     try:
-        tapmad_data = fetch_json(TAPMAD_URL)
+        tapmad_data = convert_tapmad_new_to_schema(fetch_json(TAPMAD_URL))
+        print(f"[OK] Tapmad: {len(tapmad_data['Matches'])} matches converted")
     except Exception as e:
         print(f"[ERROR] could not fetch Tapmad source: {e}", file=sys.stderr)
         any_failed = True
