@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 22-10-2026",
+    "LastUpdate": "08:20 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 391
+    "LiveCount": 7,
+    "UpcomingCount": 390
   },
   "Matches": [
     {
@@ -23,6 +23,26 @@
       "Status": "Live",
       "CategoryId": 9476,
       "UrlSlug": "saudi-pro-league-2026-27"
+    },
+    {
+      "EntityId": 1666,
+      "VideoName": "FC Kairat Almaty vs Panathinaikos",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-22 20:30:00",
+      "Description": "Watch FC Kairat Almaty vs Panathinaikos — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5172/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "FC Kairat Almaty",
+      "Team2Name": "Panathinaikos",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/5172/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3248/image"
     },
     {
       "EntityId": 18882,
@@ -7910,26 +7930,6 @@
       "Team2Name": "Al Shabab",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/56023/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/34313/image"
-    },
-    {
-      "EntityId": 1666,
-      "VideoName": "FC Kairat Almaty vs Panathinaikos",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-22 20:30:00",
-      "Description": "Watch FC Kairat Almaty vs Panathinaikos — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5172/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "FC Kairat Almaty",
-      "Team2Name": "Panathinaikos",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/5172/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3248/image"
     }
   ]
 }
