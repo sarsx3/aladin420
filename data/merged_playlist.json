@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:34 PM 22-10-2026",
+    "LastUpdate": "08:35 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 390
+    "LiveCount": 9,
+    "UpcomingCount": 389
   },
   "Matches": [
     {
@@ -23,6 +23,56 @@
       "Status": "Live",
       "CategoryId": 9476,
       "UrlSlug": "saudi-pro-league-2026-27"
+    },
+    {
+      "EntityId": 1677,
+      "VideoName": "Al Fateh SC vs Al Shabab",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-22 20:45:00",
+      "Description": "Watch Al Fateh SC vs Al Shabab — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56023/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792642293-0-0-878291b37c004ea0f90debe3f442b755",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792642293-0-0-878291b37c004ea0f90debe3f442b755",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792672566-0-0-fdbb6fffc0efb6699241cc17080c2606",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792672566-0-0-6f3da68b8bb3504f2b11f772c610bb7a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "http://193.47.62.44/hls/BHBHBHA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Fateh SC",
+      "Team2Name": "Al Shabab",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/56023/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34313/image"
     },
     {
       "EntityId": 1090549551,
@@ -7942,56 +7992,6 @@
       "Team2Name": "Mjällby AIF",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/116312/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1783/image"
-    },
-    {
-      "EntityId": 1677,
-      "VideoName": "Al Fateh SC vs Al Shabab",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-22 20:45:00",
-      "Description": "Watch Al Fateh SC vs Al Shabab — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56023/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792642293-0-0-878291b37c004ea0f90debe3f442b755",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792642293-0-0-878291b37c004ea0f90debe3f442b755",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792672566-0-0-fdbb6fffc0efb6699241cc17080c2606",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792672566-0-0-6f3da68b8bb3504f2b11f772c610bb7a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-7",
-          "url": "http://193.47.62.44/hls/BHBHBHA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Fateh SC",
-      "Team2Name": "Al Shabab",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56023/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34313/image"
     }
   ]
 }
