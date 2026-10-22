@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:11 AM 23-10-2026",
+    "LastUpdate": "02:12 AM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -629,6 +629,29 @@
           "url": "http://193.47.62.59/hls/FAFAFAF.m3u8",
           "headers": {
             "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/thuew7mmv7/out/v1/99fb6805ff3640da956dfff39390973e/cenc.mpd?|drmScheme=clearkey&drmLicense=6f1caf2a90a358ec66956d6387c2b27d:5d32dac2c9c6e2ebaaf1e1a427016036",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "STREAM TV + HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58409/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FASTER TV+ HD",
+          "url": "https://live.vivo155.com/live/hd-en-1-4630623.m3u8?txSecret=56e3cf705eef8aa8c496a2b27db00781&txTime=6ADA6E3F",
+          "headers": {
+            "Referer": "https://player.online878.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
