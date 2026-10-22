@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 PM 22-10-2026",
+    "LastUpdate": "12:50 PM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 395
+    "LiveCount": 5,
+    "UpcomingCount": 394
   },
   "Matches": [
     {
@@ -27,6 +27,59 @@
         "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
         "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
       ]
+    },
+    {
+      "EntityId": 1679,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "International T20I Series",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-22 13:00:00",
+      "Description": "Watch New Zealand vs India — International T20I Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9938,
+      "UrlSlug": "international-t20i-series",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
+          "drmScheme": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
+          "drmScheme": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tnt sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drmScheme": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "New Zealand",
+      "Team2Name": "India",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
     },
     {
       "EntityId": 1090549541,
@@ -7902,59 +7955,6 @@
       "Team2Name": "Ireland",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/199275/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187766/image"
-    },
-    {
-      "EntityId": 1679,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "International T20I Series",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-22 13:00:00",
-      "Description": "Watch New Zealand vs India — International T20I Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9938,
-      "UrlSlug": "international-t20i-series",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-          "drmScheme": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-          "drmScheme": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drmScheme": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "New Zealand",
-      "Team2Name": "India",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
     }
   ]
 }
