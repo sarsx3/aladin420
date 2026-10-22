@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:30 PM 22-10-2026",
+    "LastUpdate": "06:31 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -25,27 +25,43 @@
       "UrlSlug": "pakistan-odi-tri-series-2026"
     },
     {
-      "EntityId": 1090549594,
-      "VideoName": "Mumbai Mavericks vs Tamilnadu Thunders",
+      "EntityId": 1090549541,
+      "VideoName": "1st T20I",
       "CategoryName": "Cricket",
       "StageName": "Live",
-      "EventStartDate": "2026-10-22 18:30:46",
-      "Description": "Watch Mumbai Mavericks vs Tamilnadu Thunders live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
+      "EventStartDate": "2026-10-22 18:31:18",
+      "Description": "Watch 1st T20I live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9",
       "sources": [
         {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9"
+        },
+        {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9"
         }
       ],
       "Provider": "SonyLiv",
-      "FirstSeenTs": 1792672246
+      "FirstSeenTs": 1792672278
     },
     {
       "EntityId": 1681,
