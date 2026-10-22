@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:43 PM 22-10-2026",
+    "LastUpdate": "05:44 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 392
   },
   "Matches": [
@@ -112,103 +112,6 @@
       "Team2Name": "England",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187756/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
-    },
-    {
-      "EntityId": 1679,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "International T20I Series",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-22 13:00:00",
-      "Description": "Watch New Zealand vs India — International T20I Series. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9938,
-      "UrlSlug": "international-t20i-series",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-          "drmScheme": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-          "drmScheme": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drmScheme": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-aq",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792695826~acl=/*~id=67633810384148911320636062075469~hmac=00d3b54b9965708edc82a6da6605931f4c9fe64a5ae7966fcf6bcf163c4a9dfd",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-nha-frc/_nc_cat-1/_nc_sr_t-4/v/rASfSqkdFLeECS_-F66781K_d_dZI02tAKLIrbTr0CYe9wg/_nc_ohc-1_t3yDZnO_cQ7kNvwHyaAZ9/live-dash/dash-abr-ibr-audio/122211468944399632.mpd?_nc_eui2=AeEvWXEPXYHo9QAg3LE-kBtW1gjuLEk6Cp7WCO4sSToKnj-LRUtP5ogKzd4e6T5ZEArbRAsNEDoX4uXeVEf8gh2r&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNS828u74FlQy5LDsS9b7__--Xwq0L3KIk2TKBfnZmGdA&oe=6ADB84CB",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "WILLOW HD",
-          "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "cricbuzz-hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.41/hls/KKKK.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
-          "drmScheme": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "New Zealand",
-      "Team2Name": "India",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
     },
     {
       "EntityId": 1090549541,
