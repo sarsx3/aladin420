@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:42 PM 22-10-2026",
+    "LastUpdate": "10:43 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -523,8 +523,30 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792641851-0-0-51b37ae12f0ad5b3a3adbda9aa1e9287",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792641851-0-0-51b37ae12f0ad5b3a3adbda9aa1e9287",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1792672626-0-0-ef39a8c232de9fd2bc0d00e9fcd47efc",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=334857938978decdd4fd42e31bb4014a&txTime=6ada51f6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Getafe",
       "Team2Name": "Lugano",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2859/image",
@@ -543,8 +565,17 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/EEEEAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/EEEEAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "FK Kauno Žalgiris",
       "Team2Name": "Brann",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/80741/image",
