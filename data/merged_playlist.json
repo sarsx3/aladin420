@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:36 PM 22-10-2026",
+    "LastUpdate": "10:37 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -289,30 +289,8 @@
       "Status": "Live",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792637483-0-0-1efa9ab5351e0b5a11476fd1d05e8546",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792637483-0-0-1efa9ab5351e0b5a11476fd1d05e8546",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=093f52c6c83b894fa62bdbf9a73f833a&txTime=6ada665a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1792680007-0-0-88f3c3053deb809238ab0eed547f9b0f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Juventus",
       "Team2Name": "Rennes",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2687/image",
