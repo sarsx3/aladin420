@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:24 AM 23-10-2026",
+    "LastUpdate": "01:25 AM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -600,6 +600,21 @@
           "label": "Server-3",
           "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792682166-0-0-0c4d7ff959e0dee3a99c251a8c4fd00c",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TNT3 SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "https://chatgpt.hereisman.net/playlist/58412/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
