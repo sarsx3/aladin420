@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:29 PM 22-10-2026",
+    "LastUpdate": "07:30 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 392
+    "LiveCount": 5,
+    "UpcomingCount": 391
   },
   "Matches": [
     {
@@ -23,6 +23,26 @@
       "Status": "Live",
       "CategoryId": 9501,
       "UrlSlug": "pakistan-odi-tri-series-2026"
+    },
+    {
+      "EntityId": 1676,
+      "VideoName": "Al Hazm FC vs Al Feiha",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-22 19:40:00",
+      "Description": "Watch Al Hazm FC vs Al Feiha — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/168086/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Hazm FC",
+      "Team2Name": "Al Feiha",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/168086/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/168094/image"
     },
     {
       "EntityId": 1090549594,
@@ -7872,26 +7892,6 @@
       "Team2Name": "Panathinaikos",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/5172/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3248/image"
-    },
-    {
-      "EntityId": 1676,
-      "VideoName": "Al Hazm FC vs Al Feiha",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-22 19:40:00",
-      "Description": "Watch Al Hazm FC vs Al Feiha — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/168086/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Hazm FC",
-      "Team2Name": "Al Feiha",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/168086/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/168094/image"
     }
   ]
 }
