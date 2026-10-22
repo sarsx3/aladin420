@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:08 AM 23-10-2026",
+    "LastUpdate": "01:09 AM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -475,6 +475,21 @@
           "label": "Server-3",
           "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=8cd0854023f7b89896013d491349bea9&txTime=6adaa07a",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "https://www.rtmpcdn.com/live/10c08b25-9717-486e-83ea-a5404a7b0107.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-8",
+          "url": "http://193.47.62.59/hls/FAFAFAF.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
