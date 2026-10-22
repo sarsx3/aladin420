@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:45 PM 22-10-2026",
+    "LastUpdate": "10:46 PM 22-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 32,
+    "LiveCount": 33,
     "UpcomingCount": 372
   },
   "Matches": [
@@ -594,37 +594,8 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792641741-0-0-999b818ec074f970bec28080f33bca71",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792641741-0-0-999b818ec074f970bec28080f33bca71",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1792680486-0-0-11c34eae762b5c9ef5cd8d021caa3d84",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1792680546-0-0-f1ed120f6ae30575ffaadec2dad7e1fc",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1792681986-0-0-8792023515c16d5959888c746af66cfe",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "FK Jablonec",
       "Team2Name": "Brighton",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2205/image",
@@ -643,17 +614,8 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "http://193.47.62.55/hls/EEEEAAAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.55/hls/EEEEAAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Red Star Belgrade",
       "Team2Name": "FC Copenhagen",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/5149/image",
@@ -672,17 +634,8 @@
       "Status": "Live",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "http://193.47.62.55/hls/EEEEAAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.55/hls/EEEEAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "FC Nordsjælland",
       "Team2Name": "CSKA Sofia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1292/image",
@@ -811,6 +764,35 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792679539
+    },
+    {
+      "EntityId": 1666,
+      "VideoName": "FC Kairat Almaty vs Panathinaikos",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-22 20:30:00",
+      "Description": "Watch FC Kairat Almaty vs Panathinaikos — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5172/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "http://193.47.62.41/hls/BEEE.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/BEEE.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "FC Kairat Almaty",
+      "Team2Name": "Panathinaikos",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/5172/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3248/image"
     },
     {
       "EntityId": 18882,
