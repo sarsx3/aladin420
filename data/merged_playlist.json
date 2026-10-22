@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:42 AM 23-10-2026",
+    "LastUpdate": "12:43 AM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -7884,8 +7884,37 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792640613-0-0-c950b7be1d44705e2fe4dcb4ba66097d",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792640613-0-0-c950b7be1d44705e2fe4dcb4ba66097d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1792682106-0-0-88ef72fb7bc0f473ead299785042d991",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1792682106-0-0-fd4bb421ebaff2bc280e70520d2bd1ce",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1792682106-0-0-1108df2bd84864c8760b3180b52d3e04",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Bournemouth",
       "Team2Name": "AC Milan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/60/image",
@@ -7904,8 +7933,30 @@
       "Status": "Upcoming",
       "CategoryId": 9386,
       "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001792641209-0-0-61bbe148fd6178b093fb76ad637e2015",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001792641209-0-0-61bbe148fd6178b093fb76ad637e2015",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1792694826-0-0-efe5427961805c4c0359e8f7f3a99dd4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792694826-0-0-2a4f28d23189996f8656e4f5c9e6882d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "NK Celje",
       "Team2Name": "Red Bull Salzburg",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2413/image",
