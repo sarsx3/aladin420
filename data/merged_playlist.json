@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:01 AM 23-10-2026",
+    "LastUpdate": "12:02 AM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 27,
+    "LiveCount": 26,
     "UpcomingCount": 371
   },
   "Matches": [
@@ -731,38 +731,15 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792731348~acl=/*~id=72051289123786711396639704138209~hmac=a006ca427ccd4284b9ee61a40a856e79aa587955b1c41cae8d95bdd9152c2471",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792731348~acl=/*~id=72051289123786711396639704138209~hmac=a006ca427ccd4284b9ee61a40a856e79aa587955b1c41cae8d95bdd9152c2471"
+          "url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891"
         }
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792686859
-    },
-    {
-      "EntityId": 1090549594,
-      "VideoName": "Mumbai Mavericks vs Tamilnadu Thunders",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-22 18:34:21",
-      "Description": "Watch Mumbai Mavericks vs Tamilnadu Thunders live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792731348~acl=/*~id=72051289123786711396639704138209~hmac=a006ca427ccd4284b9ee61a40a856e79aa587955b1c41cae8d95bdd9152c2471",
-      "sources": [
-        {
-          "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792731348~acl=/*~id=72051289123786711396639704138209~hmac=a006ca427ccd4284b9ee61a40a856e79aa587955b1c41cae8d95bdd9152c2471"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792672461
     },
     {
       "EntityId": 2022,
