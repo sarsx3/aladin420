@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:53 AM 23-10-2026",
+    "LastUpdate": "01:54 AM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -313,6 +313,20 @@
           "url": "https://chatgpt.hereisman.net/playlist/58406/load-playlist?&.m3u8",
           "headers": {
             "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1j0rfg20mw/out/v1/7809feb199f04398a835b99c885db5b5/cenc.mpd?|drmScheme=clearkey&drmLicense=52ca896b0fd49cf0ac859c2b4a548dff:d0b24508be2c31c2e8145ac2e13898f9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FASTER TV+ HD",
+          "url": "https://live.vivo155.com/live/hd-en-1-4630523.m3u8?txSecret=7b6f149bac39548865f86e595f5395af&txTime=6ADA6D5C",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -7697,8 +7711,16 @@
       "Status": "Upcoming",
       "CategoryId": 9404,
       "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1j0rfg20mw/out/v1/7809feb199f04398a835b99c885db5b5/cenc.mpd?|drmScheme=clearkey&drmLicense=52ca896b0fd49cf0ac859c2b4a548dff:d0b24508be2c31c2e8145ac2e13898f9",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1j0rfg20mw/out/v1/7809feb199f04398a835b99c885db5b5/cenc.mpd?|drmScheme=clearkey&drmLicense=52ca896b0fd49cf0ac859c2b4a548dff:d0b24508be2c31c2e8145ac2e13898f9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Qadisiya",
       "Team2Name": "Al Hilal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/56027/image",
