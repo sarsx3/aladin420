@@ -683,8 +683,38 @@ def sort_key(match: dict):
     return (status_rank, -dt_key)
 
 
+def normalize_tapmad_match(match: dict) -> dict:
+    """
+    Tapmad's feed may give `stream_url` as a LIST of links. The app expects
+    `stream_url` as a single string (+ optional `sources` list), exactly like
+    the SonyLiv / Events entries. Convert list -> first link as string and
+    build `sources` (Server 1, Server 2, ...). Anything else is left as is.
+    """
+    if not isinstance(match, dict):
+        return match
+    urls = match.get("stream_url")
+    if not isinstance(urls, list):
+        return match
+
+    clean = []
+    for u in urls:
+        if isinstance(u, str) and u.strip() and u.strip() not in clean:
+            clean.append(u.strip())
+
+    fixed = dict(match)
+    if not clean:
+        fixed.pop("stream_url", None)
+        return fixed
+    fixed["stream_url"] = clean[0]
+    if "sources" not in fixed:
+        fixed["sources"] = [
+            {"label": f"Server {i}", "url": u} for i, u in enumerate(clean, 1)
+        ]
+    return fixed
+
+
 def merge(tapmad_data: dict, sonyliv_matches: list, firebase_matches: list) -> dict:
-    tapmad_matches = tapmad_data.get("Matches", [])
+    tapmad_matches = [normalize_tapmad_match(m) for m in tapmad_data.get("Matches", [])]
     merged_matches = tapmad_matches + sonyliv_matches + firebase_matches
     merged_matches.sort(key=sort_key)
 
