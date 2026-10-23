@@ -1,15 +1,61 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:04 PM 23-10-2026",
+    "LastUpdate": "03:05 PM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 4,
     "UpcomingCount": 337
   },
   "Matches": [
+    {
+      "EntityId": 1090550071,
+      "VideoName": "LINK Hong Kong Open - Day 2",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-23 15:05:24",
+      "Description": "Watch LINK Hong Kong Open - Day 2 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792746324
+    },
+    {
+      "EntityId": 1090550070,
+      "VideoName": "Genesis Championship - Day 2",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-23 15:05:24",
+      "Description": "Watch Genesis Championship - Day 2 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792746324
+    },
     {
       "EntityId": 2,
       "VideoName": "India Women vs Zimbabwe Women",
@@ -81,11 +127,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788937~acl=/*~id=29370777944413818848525474453256~hmac=72bb440b4c5ddd40ac6252798959253e268085a702b8dc42526f7fe6bb8f712c",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102",
       "sources": [
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788937~acl=/*~id=29370777944413818848525474453256~hmac=72bb440b4c5ddd40ac6252798959253e268085a702b8dc42526f7fe6bb8f712c"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102"
         }
       ],
       "Provider": "SonyLiv",
