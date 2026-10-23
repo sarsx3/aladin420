@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:59 AM 23-10-2026",
+    "LastUpdate": "09:00 AM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 352
   },
   "Matches": [
+    {
+      "EntityId": 1090550070,
+      "VideoName": "Genesis Championship - Day 2",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-23 09:00:50",
+      "Description": "Watch Genesis Championship - Day 2 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792767098~acl=/*~id=54817834888339269178708831510087~hmac=bdc68d33abe2f4e793e60cb820cd2bae906c4cddb33a870b8c8ac570d88e1160",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792767098~acl=/*~id=54817834888339269178708831510087~hmac=bdc68d33abe2f4e793e60cb820cd2bae906c4cddb33a870b8c8ac570d88e1160"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792724450
+    },
     {
       "EntityId": 2,
       "VideoName": "India Women vs Zimbabwe Women",
