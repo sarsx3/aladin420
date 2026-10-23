@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:18 PM 23-10-2026",
+    "LastUpdate": "10:19 PM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -7102,30 +7102,8 @@
       "Status": "Upcoming",
       "CategoryId": 9427,
       "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792730532-0-0-2dc8710f242bef321587cf409d4e2740",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792730532-0-0-2dc8710f242bef321587cf409d4e2740",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792759146-0-0-d9d4d13e5ffc16b1bcf2f5eb10d7c3ea",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1792759146-0-0-bc364beecec63706d4e56b37968c1707",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Darmstadt 98",
       "Team2Name": "St. Pauli",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2576/image",
