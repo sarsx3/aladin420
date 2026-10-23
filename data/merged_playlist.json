@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:17 AM 24-10-2026",
+    "LastUpdate": "01:18 AM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -160,6 +160,13 @@
             "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Bolton",
@@ -237,6 +244,21 @@
           "label": "Server-5",
           "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6750239b6136f293d3cc4b8f386bf8d7&txTime=6adb9c32",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "https://www.rtmpcdn.com/live/ba4cee7c-e64d-409e-b958-f92c46e2c0a6.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-8",
+          "url": "http://193.47.62.44/hls/AAIIIAAAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
