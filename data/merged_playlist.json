@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:19 PM 23-10-2026",
+    "LastUpdate": "10:20 PM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 349
+    "LiveCount": 8,
+    "UpcomingCount": 347
   },
   "Matches": [
     {
@@ -37,6 +37,90 @@
       "Status": "Live",
       "CategoryId": 9352,
       "UrlSlug": "uae-odi-tri-series-2026"
+    },
+    {
+      "EntityId": 1701,
+      "VideoName": "Bochum vs Wolfsburg",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-23 22:30:00",
+      "Description": "Watch Bochum vs Wolfsburg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2542/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792730510-0-0-b9fbbd863b210deeaa902efd78dc742d",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792730510-0-0-b9fbbd863b210deeaa902efd78dc742d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=13c6432971fe0628c310cf0053929086&txTime=6adba736",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=bbb9cb5462e096e954027e49aa5ca413&txTime=6adba772",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bochum",
+      "Team2Name": "Wolfsburg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2542/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2524/image"
+    },
+    {
+      "EntityId": 1702,
+      "VideoName": "Darmstadt 98 vs St. Pauli",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-23 22:30:00",
+      "Description": "Watch Darmstadt 98 vs St. Pauli — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2576/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792730532-0-0-2dc8710f242bef321587cf409d4e2740",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792730532-0-0-2dc8710f242bef321587cf409d4e2740",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792759146-0-0-d9d4d13e5ffc16b1bcf2f5eb10d7c3ea",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1792759146-0-0-bc364beecec63706d4e56b37968c1707",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Darmstadt 98",
+      "Team2Name": "St. Pauli",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2576/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2526/image"
     },
     {
       "EntityId": 1705,
@@ -7068,46 +7152,6 @@
       "Team2Name": "Al Hilal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/56027/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/21895/image"
-    },
-    {
-      "EntityId": 1701,
-      "VideoName": "Bochum vs Wolfsburg",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-23 22:30:00",
-      "Description": "Watch Bochum vs Wolfsburg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2542/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Bochum",
-      "Team2Name": "Wolfsburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2542/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2524/image"
-    },
-    {
-      "EntityId": 1702,
-      "VideoName": "Darmstadt 98 vs St. Pauli",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-23 22:30:00",
-      "Description": "Watch Darmstadt 98 vs St. Pauli — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2576/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Darmstadt 98",
-      "Team2Name": "St. Pauli",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2576/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2526/image"
     }
   ]
 }
