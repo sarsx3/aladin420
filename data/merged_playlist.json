@@ -1,42 +1,45 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:01 PM 23-10-2026",
+    "LastUpdate": "05:02 PM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 352
   },
   "Matches": [
     {
-      "EntityId": 18255,
-      "VideoName": "Fakirerpool Young Mens Club vs Rahamatgonj MFS",
-      "CategoryName": "Bangladesh Football League 2026/27",
-      "StageName": "Round 5",
-      "EventStartDate": "2026-10-23 20:45:00",
-      "Description": "Watch Fakirerpool Young Mens Club vs Rahamatgonj MFS in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Fakirerpool Young Mens Club vs Rahamatgonj MFS match will take place on 23-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792672255540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792672255540x302.jpg",
+      "EntityId": 1090550073,
+      "VideoName": "Inter Kashi vs East Bengal FC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-23 17:02:19",
+      "Description": "Watch Inter Kashi vs East Bengal FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 9382,
-      "UrlSlug": "bangladesh-football-league-2026-27"
-    },
-    {
-      "EntityId": 18254,
-      "VideoName": "Brothers Union Ltd vs Abahani Ltd. Dhaka",
-      "CategoryName": "Bangladesh Football League 2026/27",
-      "StageName": "Round 5",
-      "EventStartDate": "2026-10-23 20:45:00",
-      "Description": "Watch Brothers Union Ltd vs Abahani Ltd. Dhaka in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Brothers Union Ltd vs Abahani Ltd. Dhaka match will take place on 23-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792672189540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792672189540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9382,
-      "UrlSlug": "bangladesh-football-league-2026-27"
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
+        },
+        {
+          "label": "Bengali",
+          "url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792753339
     },
     {
       "EntityId": 2,
@@ -117,11 +120,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792793183~acl=/*~id=37234806411266048009983404275832~hmac=848ae0cda370e8b791ad7323f4c75b96074158ee0977bec0b8dced9b03f7bf69",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea",
       "sources": [
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792793183~acl=/*~id=37234806411266048009983404275832~hmac=848ae0cda370e8b791ad7323f4c75b96074158ee0977bec0b8dced9b03f7bf69"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
         }
       ],
       "Provider": "SonyLiv",
