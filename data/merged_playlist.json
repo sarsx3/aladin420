@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:34 AM 24-10-2026",
+    "LastUpdate": "01:35 AM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
-    "UpcomingCount": 338
+    "LiveCount": 13,
+    "UpcomingCount": 337
   },
   "Matches": [
+    {
+      "EntityId": 1760,
+      "VideoName": "Guimarães vs Maritimo",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 01:45:00",
+      "Description": "Watch Guimarães vs Maritimo — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3009/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "http://193.47.62.44/hls/AAIIIAAAAAQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.44/hls/AAIIIAAAAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Guimarães",
+      "Team2Name": "Maritimo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3009/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3007/image"
+    },
     {
       "EntityId": 18286,
       "VideoName": "Alaves vs Malaga",
@@ -7266,35 +7295,6 @@
       "Team2Name": "Platense",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/11915",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/36837/image"
-    },
-    {
-      "EntityId": 1760,
-      "VideoName": "Guimarães vs Maritimo",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 01:45:00",
-      "Description": "Watch Guimarães vs Maritimo — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3009/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "http://193.47.62.44/hls/AAIIIAAAAAQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.44/hls/AAIIIAAAAAQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Guimarães",
-      "Team2Name": "Maritimo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3009/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3007/image"
     }
   ]
 }
