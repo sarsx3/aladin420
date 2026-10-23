@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:09 PM 23-10-2026",
+    "LastUpdate": "02:10 PM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -132,6 +132,22 @@
         {
           "label": "TNT2 SPORTS FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd",
+          "drmScheme": "ZGU0Zjc2MTlhZDE0ODcyOWFlYjNmYTI2OWM2NmFjNjk6MzlmMTVjMjYyMDY0ZTkzZTMxN2FlZmViNGQ0NThjZjA=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd",
+          "drmScheme": "ZGU0Zjc2MTlhZDE0ODcyOWFlYjNmYTI2OWM2NmFjNjk6MzlmMTVjMjYyMDY0ZTkzZTMxN2FlZmViNGQ0NThjZjA=",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
