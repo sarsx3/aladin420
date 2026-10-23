@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:46 PM 23-10-2026",
+    "LastUpdate": "05:47 PM 23-10-2026",
     "Telegram": "https://t.me/sm_iptv_bd",
     "Owner": "Monirul Islam"
   },
@@ -7118,6 +7118,13 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports-hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
