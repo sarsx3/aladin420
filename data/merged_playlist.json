@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:59 PM 24-10-2026",
+    "LastUpdate": "03:00 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 6,
     "UpcomingCount": 332
   },
   "Matches": [
@@ -86,27 +86,27 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792875236~acl=/*~id=29835328083586905508160659744383~hmac=9e6888d49158edd62281ca2d5cfed45a4c136d788271bdd4695e709cfbdb030e",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792875236~acl=/*~id=29835328083586905508160659744383~hmac=9e6888d49158edd62281ca2d5cfed45a4c136d788271bdd4695e709cfbdb030e"
         },
         {
           "label": "Tamil",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792875236~acl=/*~id=29835328083586905508160659744383~hmac=9e6888d49158edd62281ca2d5cfed45a4c136d788271bdd4695e709cfbdb030e"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792875236~acl=/*~id=29835328083586905508160659744383~hmac=9e6888d49158edd62281ca2d5cfed45a4c136d788271bdd4695e709cfbdb030e"
         },
         {
           "label": "Telugu",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792875236~acl=/*~id=29835328083586905508160659744383~hmac=9e6888d49158edd62281ca2d5cfed45a4c136d788271bdd4695e709cfbdb030e"
         },
         {
           "label": "Kannada",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792875236~acl=/*~id=29835328083586905508160659744383~hmac=9e6888d49158edd62281ca2d5cfed45a4c136d788271bdd4695e709cfbdb030e"
         }
       ],
       "Provider": "SonyLiv",
@@ -237,52 +237,6 @@
       "Team2Name": "India",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
-    },
-    {
-      "EntityId": 1090550217,
-      "VideoName": "LINK Hong Kong Open - Day 3",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 11:00:51",
-      "Description": "Watch LINK Hong Kong Open - Day 3 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792818051
-    },
-    {
-      "EntityId": 1090550216,
-      "VideoName": "Genesis Championship - Day 3",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 10:00:49",
-      "Description": "Watch Genesis Championship - Day 3 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792871520~acl=/*~id=30115866206279557297705988195896~hmac=802148865869b840c39272d5ab9a0f262e2ff5eeeddfdc46a9136a5e5b3ee657"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792814449
     },
     {
       "EntityId": 2022,
