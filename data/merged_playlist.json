@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:04 PM 24-10-2026",
+    "LastUpdate": "07:05 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
+    "LiveCount": 13,
     "UpcomingCount": 319
   },
   "Matches": [
@@ -638,128 +638,6 @@
       "Team2Name": "Wigan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/59/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
-    },
-    {
-      "EntityId": 1750,
-      "VideoName": "Magdeburg vs Karlsruher",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 17:00:00",
-      "Description": "Watch Magdeburg vs Karlsruher — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2591/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001792833573-0-0-c4851bfc62ad6074311dd95ffad40773",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001792833573-0-0-c4851bfc62ad6074311dd95ffad40773",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "http://193.47.62.55/hls/ITTTAAAAAQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Magdeburg",
-      "Team2Name": "Karlsruher",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2591/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2553/image"
-    },
-    {
-      "EntityId": 1751,
-      "VideoName": "Hertha BSC vs Arminia",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 17:00:00",
-      "Description": "Watch Hertha BSC vs Arminia — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2528/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792833491-0-0-5e5281be9d1168ea8896eed0c1009428",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792833491-0-0-5e5281be9d1168ea8896eed0c1009428",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "http://193.47.62.55/hls/ITTTAAAAAQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hertha BSC",
-      "Team2Name": "Arminia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2528/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2540/image"
-    },
-    {
-      "EntityId": 1752,
-      "VideoName": "FC Heidenheim vs Energie Cottbus",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 17:00:00",
-      "Description": "Watch FC Heidenheim vs Energie Cottbus — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5885/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792833370-0-0-a28aa7598433211833e5e42dc18d3ce9",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792833370-0-0-a28aa7598433211833e5e42dc18d3ce9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792841466-0-0-4159c09c40768f633e0d55ce69fec0bb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1792841466-0-0-611237bdd82588322931bcf34b440a9e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-7",
-          "url": "http://193.47.62.55/hls/ITTTAAAAAQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "FC Heidenheim",
-      "Team2Name": "Energie Cottbus",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/5885/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2532/image"
     },
     {
       "EntityId": 2022,
