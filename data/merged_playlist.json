@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 24-10-2026",
+    "LastUpdate": "08:20 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 34,
-    "UpcomingCount": 291
+    "LiveCount": 36,
+    "UpcomingCount": 289
   },
   "Matches": [
+    {
+      "EntityId": 1758,
+      "VideoName": "Utrecht vs PEC Zwolle",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 20:30:00",
+      "Description": "Watch Utrecht vs PEC Zwolle — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/698",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Utrecht",
+      "Team2Name": "PEC Zwolle",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/698",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/710"
+    },
+    {
+      "EntityId": 1761,
+      "VideoName": "Amadora vs Casa Pia",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 20:30:00",
+      "Description": "Watch Amadora vs Casa Pia — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3035/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Amadora",
+      "Team2Name": "Casa Pia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3035/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/36365/image"
+    },
     {
       "EntityId": 18288,
       "VideoName": "Racing Santander vs Espanyol",
@@ -190,30 +230,6 @@
           "label": "Server-4",
           "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792841946-0-0-365759281f189e4d312ac0b78688192c",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PEACOCK TV HD",
-          "url": "https://chatgpt.hereisman.net/playlist/58490/load-playlist-multi?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8",
-          "headers": {
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.41/hls/VAVAVAq.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -903,36 +919,6 @@
           "label": "Server-1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792832184-0-0-a6bd0ab2b1c46eefc3b55fbc89af8525",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FHD STREAMING",
-          "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd?|drmScheme=clearkey&drmLicense=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "HD QUALITY + LIVE",
-          "url": "https://live.vivo155.com/live/hd-en-1-4566351.m3u8?txSecret=02b4225dccd5639920a0ba83380b4d97&txTime=6ADCC62B",
-          "headers": {
-            "Referer": "https://player.online878.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/d966ac82-7128-4ff9-b929-27927a6d5533.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.55/hls/QOOOQQA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -7041,46 +7027,6 @@
       "Team2Name": "Al Ettifaq",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/269199/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/34318/image"
-    },
-    {
-      "EntityId": 1758,
-      "VideoName": "Utrecht vs PEC Zwolle",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 20:30:00",
-      "Description": "Watch Utrecht vs PEC Zwolle — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/698",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Utrecht",
-      "Team2Name": "PEC Zwolle",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/698",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/710"
-    },
-    {
-      "EntityId": 1761,
-      "VideoName": "Amadora vs Casa Pia",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 20:30:00",
-      "Description": "Watch Amadora vs Casa Pia — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3035/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Amadora",
-      "Team2Name": "Casa Pia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3035/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/36365/image"
     }
   ]
 }
