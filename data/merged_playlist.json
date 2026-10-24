@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:43 AM 25-10-2026",
+    "LastUpdate": "05:44 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 255
   },
   "Matches": [
@@ -206,72 +206,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792879461
-    },
-    {
-      "EntityId": 1829,
-      "VideoName": "New York RB vs Inter Miami",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 03:30:00",
-      "Description": "Watch New York RB vs Inter Miami — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2506/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "http://193.47.62.44/hls/KNNNAAQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/KNNNAAQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://proomagfgx.publicvm.com/my-hls/111/index.m3u8?expires=1792881225&token=240a0fdab3bb5d6bdb7fd97711c70ad4",
-          "headers": {
-            "Referer": "https://proomagfgxx.publicvm.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/53d87021-8a6b-4acf-8c2f-df210c056263.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://proomagfgx.publicvm.com/my-hls/111/index.m3u8?expires=1792882128&token=656b0cc402edee4a38a75c11344a150a",
-          "headers": {
-            "Referer": "https://proomagfgxx.publicvm.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-eag-frc/_nc_cat-104/_nc_sr_t-4/v/rAScG3I9Ebwt36JJsNYtjZ4pKlZ8WDDZSTh0ktuuPyVwBSg/_nc_ohc-slERW7ZyG2QQ7kNvwEuSpCf/live-dash/dash-abr-ibr-audio/122181693428957861.mpd?_nc_eui2=AeF1puQ9EfGuDJtXXDkU31T6eO9pxaCva81472nFoK9rzcuWso2mSFGhbnFWY4KSvFmTy9cwmNRBb8vho0DbcO8r&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMnszULMUmdIOKYPB1TTqnPXevSsL1VOXaKssNnxEBftQ&oe=6ADF0BA6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SportsHype cdn-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792832969-0-0-4ff7a4b57e401069305add2adcfc000c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "New York RB",
-      "Team2Name": "Inter Miami",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2506/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/337602/image"
     },
     {
       "EntityId": 2022,
@@ -5282,6 +5216,14 @@
           "label": "PREMIERER5 FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.59/hls/FIIIAAAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
