@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:58 PM 24-10-2026",
+    "LastUpdate": "07:59 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -232,8 +232,17 @@
       "Status": "Live",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.44/hls/YCCCAAAQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.44/hls/YCCCAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "QPR",
       "Team2Name": "Swansea",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1/image",
@@ -294,8 +303,17 @@
       "Status": "Live",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.50/hls/HHHHQQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.50/hls/HHHHQQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Lincoln",
       "Team2Name": "Burnley",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/92/image",
@@ -314,8 +332,17 @@
       "Status": "Live",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/MMMMAAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/MMMMAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Cardiff",
       "Team2Name": "Birmingham",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/61/image",
@@ -334,8 +361,17 @@
       "Status": "Live",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.44/hls/YCCCAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.44/hls/YCCCAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Blackburn",
       "Team2Name": "Wrexham",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/46/image",
@@ -354,8 +390,17 @@
       "Status": "Live",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/TKKKQQQA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/TKKKQQQA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Stevenage",
       "Team2Name": "MK Dons",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/133/image",
@@ -374,8 +419,17 @@
       "Status": "Live",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.50/hls/HHHHQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.50/hls/HHHHQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Reading",
       "Team2Name": "Barnsley",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/28/image",
@@ -394,8 +448,17 @@
       "Status": "Live",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/MMMMAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/MMMMAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Oxford Utd",
       "Team2Name": "Bradford",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/95/image",
@@ -414,8 +477,17 @@
       "Status": "Live",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.44/hls/YCCCAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.44/hls/YCCCAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Notts County",
       "Team2Name": "Stockport",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/56/image",
@@ -434,8 +506,17 @@
       "Status": "Live",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/TKKKQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/TKKKQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Doncaster",
       "Team2Name": "Sheffield Wed",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/84/image",
@@ -454,8 +535,17 @@
       "Status": "Live",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.50/hls/HHHHQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.50/hls/HHHHQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Cambridge",
       "Team2Name": "Plymouth",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/63/image",
