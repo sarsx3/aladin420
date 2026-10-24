@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:59 AM 24-10-2026",
+    "LastUpdate": "10:00 AM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 333
   },
   "Matches": [
+    {
+      "EntityId": 1090550216,
+      "VideoName": "Genesis Championship - Day 3",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 10:00:49",
+      "Description": "Watch Genesis Championship - Day 3 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792857473~acl=/*~id=84404425292107753858754504726168~hmac=18ff380dd84dd1506c9a9f0e100f79714d472835c59e7656133bc0bc7b042892",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792857473~acl=/*~id=84404425292107753858754504726168~hmac=18ff380dd84dd1506c9a9f0e100f79714d472835c59e7656133bc0bc7b042892"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792814449
+    },
     {
       "EntityId": 19072,
       "VideoName": "Qualiyfing Race - Zheijang, China",
@@ -44,11 +67,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853838~acl=/*~id=45738553180787853378416691555932~hmac=60d0d19f54beed160860dd3676aebc4953abaf230d4eb4eb33fa84f5e81bc941",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792857473~acl=/*~id=84404425292107753858754504726168~hmac=18ff380dd84dd1506c9a9f0e100f79714d472835c59e7656133bc0bc7b042892",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853838~acl=/*~id=45738553180787853378416691555932~hmac=60d0d19f54beed160860dd3676aebc4953abaf230d4eb4eb33fa84f5e81bc941"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792857473~acl=/*~id=84404425292107753858754504726168~hmac=18ff380dd84dd1506c9a9f0e100f79714d472835c59e7656133bc0bc7b042892"
         }
       ],
       "Provider": "SonyLiv",
