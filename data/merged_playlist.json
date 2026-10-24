@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:58 AM 25-10-2026",
+    "LastUpdate": "12:59 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 13,
     "UpcomingCount": 270
   },
   "Matches": [
@@ -91,6 +91,20 @@
         {
           "label": "Server-3",
           "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1792842606-0-0-f4bf437a56db8756662c20ff4fc434f2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "D SPORTS + FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "CAZE TV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd?|drmScheme=clearkey&drmLicense=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -405,64 +419,6 @@
       "Team2Name": "Nashville SC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/22006/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/337612/image"
-    },
-    {
-      "EntityId": 1762,
-      "VideoName": "Alverca vs Arouca",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 23:00:00",
-      "Description": "Watch Alverca vs Arouca — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/190328/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "http://193.47.62.55/hls/duuuuQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.55/hls/duuuuQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Alverca",
-      "Team2Name": "Arouca",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/190328/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/25777/image"
-    },
-    {
-      "EntityId": 1759,
-      "VideoName": "Willem II vs Cambuur",
-      "CategoryName": "Eredivisie",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 22:45:00",
-      "Description": "Watch Willem II vs Cambuur — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/706",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "http://193.47.62.55/hls/IPPPAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.55/hls/IPPPAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Willem II",
-      "Team2Name": "Cambuur",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/706",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/726"
     },
     {
       "EntityId": 1090550233,
