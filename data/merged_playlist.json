@@ -1,15 +1,147 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:19 PM 24-10-2026",
+    "LastUpdate": "07:20 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 319
+    "LiveCount": 18,
+    "UpcomingCount": 314
   },
   "Matches": [
+    {
+      "EntityId": 1744,
+      "VideoName": "SC Paderborn vs Hamburger SV",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 19:30:00",
+      "Description": "Watch SC Paderborn vs Hamburger SV — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2561/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
+      "sources": [
+        {
+          "label": "Myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792832184-0-0-a6bd0ab2b1c46eefc3b55fbc89af8525",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "SC Paderborn",
+      "Team2Name": "Hamburger SV",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2561/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2676/image"
+    },
+    {
+      "EntityId": 1745,
+      "VideoName": "Köln vs Schalke 04",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 19:30:00",
+      "Description": "Watch Köln vs Schalke 04 — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001792838183-0-0-5047609ce6a73c0a38d4e6151a207753",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Köln",
+      "Team2Name": "Schalke 04",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2530/image"
+    },
+    {
+      "EntityId": 1746,
+      "VideoName": "Mainz vs Werder Bremen",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 19:30:00",
+      "Description": "Watch Mainz vs Werder Bremen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2556/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Mainz",
+      "Team2Name": "Werder Bremen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2556/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2534/image"
+    },
+    {
+      "EntityId": 1747,
+      "VideoName": "Augsburg vs Union Berlin",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 19:30:00",
+      "Description": "Watch Augsburg vs Union Berlin — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2600/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Augsburg",
+      "Team2Name": "Union Berlin",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2600/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2547/image"
+    },
+    {
+      "EntityId": 1748,
+      "VideoName": "RB Leipzig vs Elversberg",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 19:30:00",
+      "Description": "Watch RB Leipzig vs Elversberg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36360/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "RB Leipzig",
+      "Team2Name": "Elversberg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36360/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2598/image"
+    },
     {
       "EntityId": 1090550219,
       "VideoName": "Punjab Falcons vs Haryana Lions",
@@ -6876,161 +7008,6 @@
       "Team2Name": "Abha Club",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/530631/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/168090/image"
-    },
-    {
-      "EntityId": 1744,
-      "VideoName": "SC Paderborn vs Hamburger SV",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 19:30:00",
-      "Description": "Watch SC Paderborn vs Hamburger SV — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2561/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-      "sources": [
-        {
-          "label": "Myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792832184-0-0-a6bd0ab2b1c46eefc3b55fbc89af8525",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "SC Paderborn",
-      "Team2Name": "Hamburger SV",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2561/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2676/image"
-    },
-    {
-      "EntityId": 1745,
-      "VideoName": "Köln vs Schalke 04",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 19:30:00",
-      "Description": "Watch Köln vs Schalke 04 — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001792838183-0-0-5047609ce6a73c0a38d4e6151a207753",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Köln",
-      "Team2Name": "Schalke 04",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2530/image"
-    },
-    {
-      "EntityId": 1746,
-      "VideoName": "Mainz vs Werder Bremen",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 19:30:00",
-      "Description": "Watch Mainz vs Werder Bremen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2556/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792832365-0-0-6ee200968c96f1ffc92843af49e912dc",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1792841826-0-0-e4dbbbb7ef057da7b9d9d7381110374f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Mainz",
-      "Team2Name": "Werder Bremen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2556/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2534/image"
-    },
-    {
-      "EntityId": 1747,
-      "VideoName": "Augsburg vs Union Berlin",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 19:30:00",
-      "Description": "Watch Augsburg vs Union Berlin — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2600/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Augsburg",
-      "Team2Name": "Union Berlin",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2600/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2547/image"
-    },
-    {
-      "EntityId": 1748,
-      "VideoName": "RB Leipzig vs Elversberg",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 19:30:00",
-      "Description": "Watch RB Leipzig vs Elversberg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36360/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "RB Leipzig",
-      "Team2Name": "Elversberg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36360/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2598/image"
     }
   ]
 }
