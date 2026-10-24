@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:27 PM 24-10-2026",
+    "LastUpdate": "10:28 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 14,
     "UpcomingCount": 281
   },
   "Matches": [
@@ -400,32 +400,20 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.55/hls/ajjjaaaqqqaaaaq.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Napoli",
       "Team2Name": "AS Roma",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2714/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2702/image"
-    },
-    {
-      "EntityId": 1742,
-      "VideoName": "Toulouse vs Troyes",
-      "CategoryName": "Ligue 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 21:15:00",
-      "Description": "Watch Toulouse vs Troyes — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1681/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Toulouse",
-      "Team2Name": "Troyes",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1681/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1652/image"
     },
     {
       "EntityId": 1765,
@@ -6108,8 +6096,17 @@
       "Status": "Upcoming",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/IPPPAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/IPPPAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Willem II",
       "Team2Name": "Cambuur",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/706",
