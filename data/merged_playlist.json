@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:56 PM 24-10-2026",
+    "LastUpdate": "08:57 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -43,8 +43,17 @@
       "Status": "Live",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/SSSSQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/SSSSQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Utrecht",
       "Team2Name": "PEC Zwolle",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/698",
@@ -63,8 +72,17 @@
       "Status": "Live",
       "CategoryId": 9861,
       "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/SSSS.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/SSSS.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Amadora",
       "Team2Name": "Casa Pia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3035/image",
@@ -168,8 +186,17 @@
       "Status": "Live",
       "CategoryId": 9491,
       "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Leganés",
       "Team2Name": "Mallorca",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2845/image",
