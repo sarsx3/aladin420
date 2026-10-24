@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:54 PM 24-10-2026",
+    "LastUpdate": "08:55 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 35,
-    "UpcomingCount": 289
+    "LiveCount": 36,
+    "UpcomingCount": 288
   },
   "Matches": [
+    {
+      "EntityId": 1765,
+      "VideoName": "Al-Kholood vs Al Ettifaq",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 21:05:00",
+      "Description": "Watch Al-Kholood vs Al Ettifaq — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/269199/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al-Kholood",
+      "Team2Name": "Al Ettifaq",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/269199/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34318/image"
+    },
     {
       "EntityId": 1758,
       "VideoName": "Utrecht vs PEC Zwolle",
@@ -23,8 +43,17 @@
       "Status": "Live",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/SSSSQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/SSSSQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Utrecht",
       "Team2Name": "PEC Zwolle",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/698",
@@ -43,8 +72,17 @@
       "Status": "Live",
       "CategoryId": 9861,
       "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/SSSS.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/SSSS.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Amadora",
       "Team2Name": "Casa Pia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3035/image",
@@ -148,8 +186,17 @@
       "Status": "Live",
       "CategoryId": 9491,
       "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Leganés",
       "Team2Name": "Mallorca",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2845/image",
@@ -7139,26 +7186,6 @@
       "Team2Name": "Troyes",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1681/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1652/image"
-    },
-    {
-      "EntityId": 1765,
-      "VideoName": "Al-Kholood vs Al Ettifaq",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 21:05:00",
-      "Description": "Watch Al-Kholood vs Al Ettifaq — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/269199/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al-Kholood",
-      "Team2Name": "Al Ettifaq",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/269199/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34318/image"
     }
   ]
 }
