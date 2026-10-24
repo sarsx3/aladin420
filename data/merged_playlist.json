@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:32 PM 24-10-2026",
+    "LastUpdate": "07:33 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 18,
     "UpcomingCount": 314
   },
   "Matches": [
@@ -539,6 +539,340 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1713,
+      "VideoName": "Aston Villa vs Manchester City",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 17:30:00",
+      "Description": "Watch Aston Villa vs Manchester City — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "sources": [
+        {
+          "label": "TNT1 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "NBC SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TNT FHD (XTRA TIME)",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BD Server-1",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-2/0/master_2500.m3u8?hdntl=Expires=1792926705~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AYYZkYwl6d4gTFu1U6BqmdPUipjkqb8S7rMOupPmscVNDM9bHuyxdrzf3YgjUTi1U5QAg6Kx9hYsB7kOdjAgYgL1KzAF&nocache=1792840312856",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BD Server-2",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-2/1/master_1800.m3u8?hdntl=Expires=1792926705~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AYYZkYwl6d4gTFu1U6BqmdPUipjkqb8S7rMOupPmscVNDM9bHuyxdrzf3YgjUTi1U5QAg6Kx9hYsB7kOdjAgYgL1KzAF&nocache=1792840316001",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792820681-0-0-8331327ba5cc613e44ce619b973432da",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=27b31fd1b9f1638e04141f72ab551750&txTime=6adcdd4a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1792841466-0-0-ae5ca37920748cc9a594fcf18f402c6a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/0cfbfcaf-ae9f-44c6-b092-00475dde70a5.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "https://n220.ys.football/online/kHOZYfAx68sQs61Y7Bj4pw/1792845395/tnt1_480.m3u8",
+          "headers": {
+            "Referer": "https://stream0.org/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-8",
+          "url": "https://1cdn.syria-player.info/proxy.php?stream=bein1/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "USA NETWORK HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58484/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TNT SPORTS HD",
+          "url": "https://hls.meth-streams-hd.cfd/live/espn-401879256/index.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dgpgbewozb/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/a4890a21-ab74-4418-b921-07825cac4745-cenc.mpd?aws_sessionId=59e6dafc-1abe-4f6c-bf76-ae4377146ed2?|drmScheme=clearkey&drmLicense=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Aston Villa",
+      "Team2Name": "Manchester City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/40/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/17/image"
+    },
+    {
+      "EntityId": 1718,
+      "VideoName": "Sheff Utd vs Derby",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 17:30:00",
+      "Description": "Watch Sheff Utd vs Derby — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/15/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQG.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.50/hls/YYYYYAAAQQQG.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://live.vivo155.com/live/sd-1-4563641.m3u8?txSecret=44fc057bde1280205d768ce2f4cc0178&txTime=6ADCA8FD",
+          "headers": {
+            "Referer": "https://player.online878.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sheff Utd",
+      "Team2Name": "Derby",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/15/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/27/image"
+    },
+    {
+      "EntityId": 1719,
+      "VideoName": "Portsmouth vs Millwall",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 17:30:00",
+      "Description": "Watch Portsmouth vs Millwall — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.50/hls/YYYYYAAAQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cc8sy2vwou/out/v1/878c1bca77264c3c98d044a8c6d6b531/ef90b033-b260-421b-a9ae-c0db0b707701-cenc.mpd?aws_sessionId=7d13603a-82ed-4a7e-8643-8b6de82c8e92?|drmScheme=clearkey&drmLicense=2851e5c587fb73d5c6264491bfc35b42:fdf8c0cfb89998556cf807b4c6b8f0cc",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://live.vivo155.com/live/sd-1-4563639.m3u8?txSecret=ea52647242b88e842eeaa34d0217a19b&txTime=6ADCA921",
+          "headers": {
+            "Referer": "https://player.online878.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Portsmouth",
+      "Team2Name": "Millwall",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/25/image"
+    },
+    {
+      "EntityId": 1720,
+      "VideoName": "Charlton vs Norwich",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 17:30:00",
+      "Description": "Watch Charlton vs Norwich — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "sources": [
+        {
+          "label": "BEIN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "CBS SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BD Server-1",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792927003~_GO=Generated~acl=/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/*~SessionID=1890000065807_fc-web_a569d64f-76a1-4b~Signature=AYEmQleRWeToDbG3mirdea4wcPGchD0LLoo7Kgh_DRlRUEAx43uwHmNf0AhsHN6NC7XphBENab8KR4RMbWeX_TTQA6oJ",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BD Server-2",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/540p.m3u8?hdntl=Expires=1792927003~_GO=Generated~acl=/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/*~SessionID=1890000065807_fc-web_a569d64f-76a1-4b~Signature=AYEmQleRWeToDbG3mirdea4wcPGchD0LLoo7Kgh_DRlRUEAx43uwHmNf0AhsHN6NC7XphBENab8KR4RMbWeX_TTQA6oJ",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.50/hls/YYYYYAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "HD QUALITY",
+          "url": "https://live.vivo155.com/live/sd-1-4563637.m3u8?txSecret=33a21785000fa4185ab42213ddb46faf&txTime=6ADCA939",
+          "headers": {
+            "Referer": "https://player.online878.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Charlton",
+      "Team2Name": "Norwich",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/47/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/263/image"
+    },
+    {
+      "EntityId": 1729,
+      "VideoName": "Luton vs Leicester City",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 17:30:00",
+      "Description": "Watch Luton vs Leicester City — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/72/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.50/hls/YYYYYAAAQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.50/hls/YYYYYAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Luton",
+      "Team2Name": "Leicester City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/72/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/31/image"
+    },
+    {
+      "EntityId": 1730,
+      "VideoName": "Huddersfield vs Wigan",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 17:30:00",
+      "Description": "Watch Huddersfield vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/59/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.50/hls/YYYYYAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.50/hls/YYYYYAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Huddersfield",
+      "Team2Name": "Wigan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/59/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
     },
     {
       "EntityId": 2022,
