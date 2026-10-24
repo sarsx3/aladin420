@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 AM 25-10-2026",
+    "LastUpdate": "12:50 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
-    "UpcomingCount": 273
+    "LiveCount": 15,
+    "UpcomingCount": 270
   },
   "Matches": [
     {
@@ -30,6 +30,75 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1811,
+      "VideoName": "ADO Den Haag vs Heerenveen",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 01:00:00",
+      "Description": "Watch ADO Den Haag vs Heerenveen — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2966/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "ADO Den Haag",
+      "Team2Name": "Heerenveen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2966/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2964/image"
+    },
+    {
+      "EntityId": 1819,
+      "VideoName": "Atl. Madrid vs Deportivo",
+      "CategoryName": "LaLiga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 01:00:00",
+      "Description": "Watch Atl. Madrid vs Deportivo — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2836/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9723,
+      "UrlSlug": "laliga",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Atl. Madrid",
+      "Team2Name": "Deportivo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2836/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2832/image"
+    },
+    {
+      "EntityId": 1823,
+      "VideoName": "Almeria vs Real Oviedo",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 01:00:00",
+      "Description": "Watch Almeria vs Real Oviedo — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2858/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Almeria",
+      "Team2Name": "Real Oviedo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2851/image"
     },
     {
       "EntityId": 18433,
@@ -5722,75 +5791,6 @@
       "Team2Name": "Toronto",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2504/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/7080/image"
-    },
-    {
-      "EntityId": 1811,
-      "VideoName": "ADO Den Haag vs Heerenveen",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 01:00:00",
-      "Description": "Watch ADO Den Haag vs Heerenveen — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2966/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "ADO Den Haag",
-      "Team2Name": "Heerenveen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2966/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2964/image"
-    },
-    {
-      "EntityId": 1819,
-      "VideoName": "Atl. Madrid vs Deportivo",
-      "CategoryName": "LaLiga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 01:00:00",
-      "Description": "Watch Atl. Madrid vs Deportivo — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2836/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9723,
-      "UrlSlug": "laliga",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Atl. Madrid",
-      "Team2Name": "Deportivo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2836/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2832/image"
-    },
-    {
-      "EntityId": 1823,
-      "VideoName": "Almeria vs Real Oviedo",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 01:00:00",
-      "Description": "Watch Almeria vs Real Oviedo — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2858/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Almeria",
-      "Team2Name": "Real Oviedo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2851/image"
     }
   ]
 }
