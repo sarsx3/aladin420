@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 AM 25-10-2026",
+    "LastUpdate": "12:35 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
-    "UpcomingCount": 275
+    "LiveCount": 18,
+    "UpcomingCount": 273
   },
   "Matches": [
     {
@@ -51,6 +51,46 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1794,
+      "VideoName": "Lens vs Paris FC",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 00:45:00",
+      "Description": "Watch Lens vs Paris FC — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1648/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lens",
+      "Team2Name": "Paris FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/6070/image"
+    },
+    {
+      "EntityId": 1806,
+      "VideoName": "Lazio vs Parma",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 00:45:00",
+      "Description": "Watch Lazio vs Parma — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2699/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lazio",
+      "Team2Name": "Parma",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2699/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2690/image"
     },
     {
       "EntityId": 1802,
@@ -5975,46 +6015,6 @@
       "Team2Name": "Real Oviedo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2851/image"
-    },
-    {
-      "EntityId": 1794,
-      "VideoName": "Lens vs Paris FC",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 00:45:00",
-      "Description": "Watch Lens vs Paris FC — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1648/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lens",
-      "Team2Name": "Paris FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/6070/image"
-    },
-    {
-      "EntityId": 1806,
-      "VideoName": "Lazio vs Parma",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 00:45:00",
-      "Description": "Watch Lazio vs Parma — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2699/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lazio",
-      "Team2Name": "Parma",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2699/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2690/image"
     }
   ]
 }
