@@ -1,15 +1,131 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 AM 25-10-2026",
+    "LastUpdate": "05:20 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 259
+    "LiveCount": 10,
+    "UpcomingCount": 255
   },
   "Matches": [
+    {
+      "EntityId": 1830,
+      "VideoName": "Philadelphia Union vs Revolution",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 05:30:00",
+      "Description": "Watch Philadelphia Union vs Revolution — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/39833/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "http://193.47.62.41/hls/KVVVAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/KVVVAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Philadelphia Union",
+      "Team2Name": "Revolution",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/39833/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2511/image"
+    },
+    {
+      "EntityId": 1831,
+      "VideoName": "Orlando City vs New York City",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 05:30:00",
+      "Description": "Watch Orlando City vs New York City — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/52237/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "http://193.47.62.41/hls/KVVVAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/KVVVAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Orlando City",
+      "Team2Name": "New York City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/52237/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
+    },
+    {
+      "EntityId": 1832,
+      "VideoName": "DC United vs FC Cincinnati",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 05:30:00",
+      "Description": "Watch DC United vs FC Cincinnati — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2502/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "http://193.47.62.41/hls/KVVVA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/KVVVA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "DC United",
+      "Team2Name": "FC Cincinnati",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2502/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/215167/image"
+    },
+    {
+      "EntityId": 1833,
+      "VideoName": "Atlanta United vs Chicago Fire",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 05:30:00",
+      "Description": "Watch Atlanta United vs Chicago Fire — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/243211/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "http://193.47.62.41/hls/KVVV.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/KVVV.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Atlanta United",
+      "Team2Name": "Chicago Fire",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/243211/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2505/image"
+    },
     {
       "EntityId": 1787,
       "VideoName": "Chapecoense vs Fluminense",
@@ -5244,122 +5360,6 @@
       "Team2Name": "Bahia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1968/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1955/image"
-    },
-    {
-      "EntityId": 1830,
-      "VideoName": "Philadelphia Union vs Revolution",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 05:30:00",
-      "Description": "Watch Philadelphia Union vs Revolution — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/39833/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "http://193.47.62.41/hls/KVVVAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.41/hls/KVVVAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Philadelphia Union",
-      "Team2Name": "Revolution",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/39833/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2511/image"
-    },
-    {
-      "EntityId": 1831,
-      "VideoName": "Orlando City vs New York City",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 05:30:00",
-      "Description": "Watch Orlando City vs New York City — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/52237/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "http://193.47.62.41/hls/KVVVAA.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.41/hls/KVVVAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Orlando City",
-      "Team2Name": "New York City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/52237/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
-    },
-    {
-      "EntityId": 1832,
-      "VideoName": "DC United vs FC Cincinnati",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 05:30:00",
-      "Description": "Watch DC United vs FC Cincinnati — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2502/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "http://193.47.62.41/hls/KVVVA.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.41/hls/KVVVA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "DC United",
-      "Team2Name": "FC Cincinnati",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2502/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/215167/image"
-    },
-    {
-      "EntityId": 1833,
-      "VideoName": "Atlanta United vs Chicago Fire",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 05:30:00",
-      "Description": "Watch Atlanta United vs Chicago Fire — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/243211/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "http://193.47.62.41/hls/KVVV.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.41/hls/KVVV.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Atlanta United",
-      "Team2Name": "Chicago Fire",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/243211/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2505/image"
     }
   ]
 }
