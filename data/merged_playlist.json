@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:59 PM 24-10-2026",
+    "LastUpdate": "12:00 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 14,
     "UpcomingCount": 276
   },
   "Matches": [
@@ -48,8 +48,17 @@
       "Status": "Live",
       "CategoryId": 9404,
       "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.55/hls/dooooAAAAQQ.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.55/hls/dooooAAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al Riyadh",
       "Team2Name": "Al Taawoun",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/168088/image",
@@ -509,27 +518,27 @@
       "Status": "Live",
       "CategoryId": 9992,
       "UrlSlug": "fight-sports-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783"
+          "url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783"
+          "url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f"
         },
         {
           "label": "Tamil",
-          "url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783"
+          "url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f"
         },
         {
           "label": "Telugu",
-          "url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783"
+          "url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f"
         },
         {
           "label": "Kannada",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f"
         }
       ],
       "Provider": "SonyLiv",
@@ -614,29 +623,6 @@
       "Team2Name": "AS Roma",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2714/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2702/image"
-    },
-    {
-      "EntityId": 1090550219,
-      "VideoName": "Punjab Falcons vs Haryana Lions",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 19:03:15",
-      "Description": "Watch Punjab Falcons vs Haryana Lions live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783",
-      "sources": [
-        {
-          "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1792846995
     },
     {
       "EntityId": 2022,
@@ -4479,6 +4465,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2829/image"
     },
     {
+      "EntityId": 18439,
+      "VideoName": "PSG vs OL",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-26 01:45:00",
+      "Description": "Watch PSG vs OL live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs OL match will take place on 26-Oct, Monday, at 01:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792391804540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792391804540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "psg-vs-ol-ligue-one-live-match"
+    },
+    {
       "EntityId": 1849,
       "VideoName": "PSG vs Olympique Lyonnais",
       "CategoryName": "Ligue 1",
@@ -5993,20 +5993,6 @@
       "Team2Name": "Real Oviedo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2851/image"
-    },
-    {
-      "EntityId": 18433,
-      "VideoName": "Lens vs Paris FC",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 8",
-      "EventStartDate": "2026-10-25 00:45:00",
-      "Description": "Watch Lens vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lens vs Paris FC match will take place on 25-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792391037540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792391037540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1115,
-      "UrlSlug": "lens-vs-paris fc-ligue-one-live-match"
     },
     {
       "EntityId": 1794,
