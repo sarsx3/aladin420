@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:50 AM 25-10-2026",
+    "LastUpdate": "01:51 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
+    "LiveCount": 17,
     "UpcomingCount": 264
   },
   "Matches": [
@@ -693,72 +693,6 @@
       "Team2Name": "Al Taawoun",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/168088/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/56021/image"
-    },
-    {
-      "EntityId": 1710,
-      "VideoName": "Banfield vs Lanus",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 23:45:00",
-      "Description": "Watch Banfield vs Lanus — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3219/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "http://193.47.62.55/hls/doooo.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.55/hls/doooo.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Banfield",
-      "Team2Name": "Lanus",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3219/image",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/869"
-    },
-    {
-      "EntityId": 1775,
-      "VideoName": "CF Montréal vs Nashville SC",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-24 23:30:00",
-      "Description": "Watch CF Montréal vs Nashville SC — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22006/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "http://193.47.62.55/hls/WAWAWAAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.55/hls/WAWAWAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://chatgpt.hereisman.net/playlist/58518/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "CF Montréal",
-      "Team2Name": "Nashville SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/22006/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/337612/image"
     },
     {
       "EntityId": 1090550233,
