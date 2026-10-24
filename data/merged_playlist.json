@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:59 PM 24-10-2026",
+    "LastUpdate": "09:00 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -166,6 +166,14 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Racing Santander",
@@ -215,15 +223,15 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792893521~acl=/*~id=53550245594285528395626426702493~hmac=7d2513240e537f3718a700426098ef10dcbe20071ab07ae4de829703eed22a32",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792893521~acl=/*~id=53550245594285528395626426702493~hmac=7d2513240e537f3718a700426098ef10dcbe20071ab07ae4de829703eed22a32"
+          "url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792893521~acl=/*~id=53550245594285528395626426702493~hmac=7d2513240e537f3718a700426098ef10dcbe20071ab07ae4de829703eed22a32"
+          "url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e"
         }
       ],
       "Provider": "SonyLiv",
@@ -1331,11 +1339,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792893521~acl=/*~id=53550245594285528395626426702493~hmac=7d2513240e537f3718a700426098ef10dcbe20071ab07ae4de829703eed22a32",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e",
       "sources": [
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792893521~acl=/*~id=53550245594285528395626426702493~hmac=7d2513240e537f3718a700426098ef10dcbe20071ab07ae4de829703eed22a32"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e"
         }
       ],
       "Provider": "SonyLiv",
