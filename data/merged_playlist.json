@@ -1,15 +1,60 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:12 PM 24-10-2026",
+    "LastUpdate": "11:20 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
-    "UpcomingCount": 279
+    "LiveCount": 14,
+    "UpcomingCount": 278
   },
   "Matches": [
+    {
+      "EntityId": 18234,
+      "VideoName": "Volkanovski vs Evloev",
+      "CategoryName": "UFC 2026",
+      "StageName": "UFC 333",
+      "EventStartDate": "2026-10-25 00:00:00",
+      "Description": "UFC 333 Live: Watch Volkanovski vs Evloev live online on tapmad. Enjoy watching Volkanovski vs Evloev live streaming online in Bangladesh with full match highlights. The fight will start at 12:00 AM on 25-Oct. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792131891540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792131891540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 265,
+      "UrlSlug": "ufc 333-volkanovski vs evloev-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 1775,
+      "VideoName": "CF Montréal vs Nashville SC",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 23:30:00",
+      "Description": "Watch CF Montréal vs Nashville SC — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22006/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "CF Montréal",
+      "Team2Name": "Nashville SC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/22006/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/337612/image"
+    },
     {
       "EntityId": 1762,
       "VideoName": "Alverca vs Arouca",
@@ -4516,6 +4561,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3203/image"
     },
     {
+      "EntityId": 18293,
+      "VideoName": "Real Sociedad vs Levante",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 10",
+      "EventStartDate": "2026-10-25 23:30:00",
+      "Description": "The 85th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Sociedad vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792649965540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792649965540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--real-sociedad-vs-levante-live"
+    },
+    {
       "EntityId": 1822,
       "VideoName": "Real Sociedad vs Levante",
       "CategoryName": "LaLiga",
@@ -5972,20 +6031,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2675/image"
     },
     {
-      "EntityId": 18234,
-      "VideoName": "Volkanovski vs Evloev",
-      "CategoryName": "UFC 2026",
-      "StageName": "UFC 333",
-      "EventStartDate": "2026-10-25 00:00:00",
-      "Description": "UFC 333 Live: Watch Volkanovski vs Evloev live online on tapmad. Enjoy watching Volkanovski vs Evloev live streaming online in Bangladesh with full match highlights. The fight will start at 12:00 AM on 25-Oct. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792131891540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792131891540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 265,
-      "UrlSlug": "ufc 333-volkanovski vs evloev-live"
-    },
-    {
       "EntityId": 1818,
       "VideoName": "Al Riyadh vs Al Taawoun",
       "CategoryName": "Saudi League",
@@ -6024,26 +6069,6 @@
       "Team2Name": "Lanus",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3219/image",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/869"
-    },
-    {
-      "EntityId": 1775,
-      "VideoName": "CF Montréal vs Nashville SC",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 23:30:00",
-      "Description": "Watch CF Montréal vs Nashville SC — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22006/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "CF Montréal",
-      "Team2Name": "Nashville SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/22006/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/337612/image"
     }
   ]
 }
