@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:11 AM 25-10-2026",
+    "LastUpdate": "05:12 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5250,8 +5250,17 @@
       "Status": "Upcoming",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/KVVVAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/KVVVAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Philadelphia Union",
       "Team2Name": "Revolution",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/39833/image",
@@ -5270,8 +5279,17 @@
       "Status": "Upcoming",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/KVVVAA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/KVVVAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Orlando City",
       "Team2Name": "New York City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/52237/image",
@@ -5290,8 +5308,17 @@
       "Status": "Upcoming",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/KVVVA.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.41/hls/KVVVA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "DC United",
       "Team2Name": "FC Cincinnati",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2502/image",
