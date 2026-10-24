@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:49 PM 24-10-2026",
+    "LastUpdate": "10:50 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 280
+    "LiveCount": 15,
+    "UpcomingCount": 279
   },
   "Matches": [
+    {
+      "EntityId": 1762,
+      "VideoName": "Alverca vs Arouca",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-24 23:00:00",
+      "Description": "Watch Alverca vs Arouca — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/190328/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Alverca",
+      "Team2Name": "Arouca",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/190328/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/25777/image"
+    },
     {
       "EntityId": 1759,
       "VideoName": "Willem II vs Cambuur",
@@ -6070,26 +6090,6 @@
       "Team2Name": "Nashville SC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/22006/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/337612/image"
-    },
-    {
-      "EntityId": 1762,
-      "VideoName": "Alverca vs Arouca",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-24 23:00:00",
-      "Description": "Watch Alverca vs Arouca — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/190328/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Alverca",
-      "Team2Name": "Arouca",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/190328/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/25777/image"
     }
   ]
 }
