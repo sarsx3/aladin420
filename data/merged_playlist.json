@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:25 PM 25-10-2026",
+    "LastUpdate": "08:26 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -30,6 +30,34 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
           "headers": {
             "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SporTV BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792897254-0-0-18478f2c9495f06bef7081857a3f1870",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f3bf9b916a6c697ffc1cc0a88f9e13e2&txTime=6addf072",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1792939446-0-0-a09c3f52b3265de8f961070ba5bc09dc",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -599,6 +627,28 @@
           "label": "Server-2",
           "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792921326-0-0-b697ebd2907a56fa7bea7df921b2a841",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w1hi8fdwt6/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/daf62d05-3d8a-4f12-844e-4bafb7cacb6a-cenc.mpd?aws_sessionId=9dfb7f37-d0a6-4480-b5e4-b08d83cedabb?|drmScheme=clearkey&drmLicense=79f0c868f01bd48b3a492859fa44bd68:5486005bc7cd83085e9b98436714888b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3alb4gvdah/out/v1/8b048711b298499686581bac84cd0f35/f346386b-66f0-4143-9639-d543dd8f1c81-cenc.mpd?aws_sessionId=28bbb138-d49d-4873-9467-f3af9969acd3?|drmScheme=clearkey&drmLicense=116bfe61690ce8cab199b5ddc4aaadc0:172a5780a320064bd3d78d9c10013627",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58625/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
