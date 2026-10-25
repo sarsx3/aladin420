@@ -1,15 +1,50 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 AM 26-10-2026",
+    "LastUpdate": "12:50 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 210
+    "LiveCount": 8,
+    "UpcomingCount": 209
   },
   "Matches": [
+    {
+      "EntityId": 1851,
+      "VideoName": "AZ Alkmaar vs FC Twente",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-26 01:00:00",
+      "Description": "Watch AZ Alkmaar vs FC Twente — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2950/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792952443-0-0-806aea5a2e78f9b4d60f753651a69af7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "AZ Alkmaar",
+      "Team2Name": "FC Twente",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2950/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2955/image"
+    },
     {
       "EntityId": 1852,
       "VideoName": "Nacional vs SC Braga",
@@ -4518,41 +4553,6 @@
       "Team2Name": "AC Milan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
-    },
-    {
-      "EntityId": 1851,
-      "VideoName": "AZ Alkmaar vs FC Twente",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-26 01:00:00",
-      "Description": "Watch AZ Alkmaar vs FC Twente — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2950/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792952443-0-0-806aea5a2e78f9b4d60f753651a69af7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "AZ Alkmaar",
-      "Team2Name": "FC Twente",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2950/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2955/image"
     }
   ]
 }
