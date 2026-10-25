@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:39 PM 25-10-2026",
+    "LastUpdate": "09:40 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 25,
+    "LiveCount": 23,
     "UpcomingCount": 222
   },
   "Matches": [
@@ -1148,113 +1148,6 @@
       "Team2Name": "Frosinone",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2686/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2801/image"
-    },
-    {
-      "EntityId": 1813,
-      "VideoName": "PSV vs Feyenoord",
-      "CategoryName": "Eredivisie",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 19:30:00",
-      "Description": "Watch PSV vs Feyenoord — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2952/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "sources": [
-        {
-          "label": "SportDigital FussBall",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001792931179-0-0-8689fb42ca6fbc1f6a29e61d3c2097ae",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001792897065-0-0-bc6aea39622977b6d4bdfacfb7de3538",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1792905906-0-0-25d1d6be6c82ddf0b40efba7e42396f2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-7",
-          "url": "http://193.47.62.50/hls/FUUUAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "PSV",
-      "Team2Name": "Feyenoord",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2952/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2959/image"
-    },
-    {
-      "EntityId": 1814,
-      "VideoName": "N.E.C. vs Groningen",
-      "CategoryName": "Eredivisie",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 19:30:00",
-      "Description": "Watch N.E.C. vs Groningen — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2962/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001792931078-0-0-122d1813ba23672f68e5a93940abacad",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "http://193.47.62.50/hls/FUUUAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "N.E.C.",
-      "Team2Name": "Groningen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2962/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2951/image"
     },
     {
       "EntityId": 18883,
