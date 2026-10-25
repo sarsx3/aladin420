@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:10 PM 25-10-2026",
+    "LastUpdate": "02:11 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -75,6 +75,22 @@
         {
           "label": "WILLOW HD",
           "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd",
+          "drmScheme": "NTNhYzU2NzA1MTFkMTMwMDM2NmIzNWI4NWViNmVhZGM6ZTI1NTA4NjA5MWU0NjM4ZjE2OTg1Y2EzZGRkNTZlMmI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd",
+          "drmScheme": "NTNhYzU2NzA1MTFkMTMwMDM2NmIzNWI4NWViNmVhZGM6ZTI1NTA4NjA5MWU0NjM4ZjE2OTg1Y2EzZGRkNTZlMmI=",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
