@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:03 AM 26-10-2026",
+    "LastUpdate": "02:04 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 205
   },
   "Matches": [
@@ -426,25 +426,74 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2955/image"
     },
     {
-      "EntityId": 18293,
-      "VideoName": "Real Sociedad vs Levante",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 10",
-      "EventStartDate": "2026-10-25 23:30:00",
-      "Description": "The 85th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Sociedad vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792649965540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792649965540x302.jpg",
+      "EntityId": 1852,
+      "VideoName": "Nacional vs SC Braga",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-26 00:00:00",
+      "Description": "Watch Nacional vs SC Braga — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3013/image",
+      "ThumbnailTV": "",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--real-sociedad-vs-levante-live",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
       "sources": [
         {
-          "label": "Server 1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001792948836-0-0-7ac2a8c8eb9add3e305b68e6445bbc52",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
-      ]
+      ],
+      "Team1Name": "Nacional",
+      "Team2Name": "SC Braga",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3013/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2999/image"
+    },
+    {
+      "EntityId": 1853,
+      "VideoName": "Rio Ave vs Famalicão",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-26 00:00:00",
+      "Description": "Watch Rio Ave vs Famalicão — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3036/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001792949177-0-0-989f07b09a10bd0421a52d0e79cc692a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Rio Ave",
+      "Team2Name": "Famalicão",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3036/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/49531/image"
     },
     {
       "EntityId": 2022,
