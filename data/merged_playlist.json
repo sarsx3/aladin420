@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:33 PM 25-10-2026",
+    "LastUpdate": "07:34 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5391,8 +5391,51 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=b975108747c185f934f5e6576de9cffe&wsABSTime=1792974033",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=b975108747c185f934f5e6576de9cffe&wsABSTime=1792974033",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792930840-0-0-600e5763ca70b1f736ad7afea9a6e304",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792897133-0-0-f30ac8180129c341f7cdbe1c3fc4a1b5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=762865abd8362bf16d330e7580dd01ac&txTime=6addde66",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792907346-0-0-b46958457ef0edc4fb5adadeb41c36c4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Crystal Palace",
       "Team2Name": "Newcastle Utd",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/7/image",
