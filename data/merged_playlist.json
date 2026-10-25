@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:03 AM 25-10-2026",
+    "LastUpdate": "09:04 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 10,
     "UpcomingCount": 245
   },
   "Matches": [
+    {
+      "EntityId": 1090550570,
+      "VideoName": "Genesis Championship - Day 4",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 09:04:18",
+      "Description": "Watch Genesis Championship - Day 4 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792940171~acl=/*~id=12912728246486593175539297698495~hmac=d76e3e68c5d8a5d4050be15b27c51b9f418742f78c4ed5d0d80fccca013c8820",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792940171~acl=/*~id=12912728246486593175539297698495~hmac=d76e3e68c5d8a5d4050be15b27c51b9f418742f78c4ed5d0d80fccca013c8820"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1792897458
+    },
     {
       "EntityId": 3,
       "VideoName": "India Women vs Zimbabwe Women",
@@ -262,11 +285,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792936539~acl=/*~id=19055626069965509923099062831604~hmac=5f6ebaa698f4b4243c80e769208eaae700b1e5f54b1f8d4963cf3f1a97552222",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792940171~acl=/*~id=12912728246486593175539297698495~hmac=d76e3e68c5d8a5d4050be15b27c51b9f418742f78c4ed5d0d80fccca013c8820",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792936539~acl=/*~id=19055626069965509923099062831604~hmac=5f6ebaa698f4b4243c80e769208eaae700b1e5f54b1f8d4963cf3f1a97552222"
+          "url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792940171~acl=/*~id=12912728246486593175539297698495~hmac=d76e3e68c5d8a5d4050be15b27c51b9f418742f78c4ed5d0d80fccca013c8820"
         }
       ],
       "Provider": "SonyLiv",
