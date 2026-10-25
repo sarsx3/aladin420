@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:19 PM 25-10-2026",
+    "LastUpdate": "10:20 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 20,
-    "UpcomingCount": 218
+    "LiveCount": 22,
+    "UpcomingCount": 216
   },
   "Matches": [
+    {
+      "EntityId": 1793,
+      "VideoName": "Sunderland vs Leeds",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 22:30:00",
+      "Description": "Watch Sunderland vs Leeds — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/41/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sunderland",
+      "Team2Name": "Leeds",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/41/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34/image"
+    },
+    {
+      "EntityId": 1801,
+      "VideoName": "Freiburg vs Bayern",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 22:30:00",
+      "Description": "Watch Freiburg vs Bayern — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2538/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Freiburg",
+      "Team2Name": "Bayern",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2538/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2672/image"
+    },
     {
       "EntityId": 18438,
       "VideoName": "Rennes vs Strasbourg",
@@ -5110,46 +5150,6 @@
       "Team2Name": "Juventus",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2689/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2687/image"
-    },
-    {
-      "EntityId": 1793,
-      "VideoName": "Sunderland vs Leeds",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 22:30:00",
-      "Description": "Watch Sunderland vs Leeds — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/41/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sunderland",
-      "Team2Name": "Leeds",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/41/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34/image"
-    },
-    {
-      "EntityId": 1801,
-      "VideoName": "Freiburg vs Bayern",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 22:30:00",
-      "Description": "Watch Freiburg vs Bayern — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2538/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Freiburg",
-      "Team2Name": "Bayern",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2538/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2672/image"
     }
   ]
 }
