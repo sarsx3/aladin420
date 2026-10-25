@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:45 AM 26-10-2026",
+    "LastUpdate": "01:46 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 207
   },
   "Matches": [
@@ -268,42 +268,6 @@
       "Team2Name": "Famalicão",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3036/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/49531/image"
-    },
-    {
-      "EntityId": 1781,
-      "VideoName": "Aldosivi vs Belgrano",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 23:45:00",
-      "Description": "Watch Aldosivi vs Belgrano — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36836/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=c04f12fb358d8b8953e4e2a2e094408a&wsABSTime=1792991945",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=c04f12fb358d8b8953e4e2a2e094408a&wsABSTime=1792991945",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "http://193.47.62.55/hls/QYYYAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Aldosivi",
-      "Team2Name": "Belgrano",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36836/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3203/image"
     },
     {
       "EntityId": 18293,
