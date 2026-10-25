@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:30 PM 25-10-2026",
+    "LastUpdate": "01:31 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 245
   },
   "Matches": [
+    {
+      "EntityId": 18883,
+      "VideoName": "Pakistan vs England",
+      "CategoryName": "Pakistan ODI Tri-Series 2026",
+      "StageName": "4th ODI",
+      "EventStartDate": "2026-10-25 14:00:00",
+      "Description": "Watch Pakistan ODI Tri-Series 2026 live on tapmad. The PAK vs ENG brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th ODI is scheduled to be played on 25-Oct-2026 at 01:00 PM . Fans can watch Pakistan ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792875880540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792875880540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1160,
+      "UrlSlug": "pak-vs-eng-4th-odi-live",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1090550567,
       "VideoName": "Delhi Leaders vs Mumbai Mavericks",
