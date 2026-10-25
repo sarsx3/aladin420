@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:14 AM 26-10-2026",
+    "LastUpdate": "01:15 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 209
   },
   "Matches": [
@@ -320,106 +320,6 @@
       "Team2Name": "Sporting Gijon",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/5067/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2852/image"
-    },
-    {
-      "EntityId": 1810,
-      "VideoName": "Lecce vs Juventus",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 23:00:00",
-      "Description": "Watch Lecce vs Juventus — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2689/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BeIN2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "Referer": "https://amazon.com",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001792945757-0-0-0bfff7b76c2053981899208b92ca837c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792897650-0-0-5031a7854566f1998dd5b35a9e6f9b61",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792912686-0-0-6f07c9f4fcd4582c158cb00e05581965",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=57241d505bb20f692e3e5cacb4ae6578&txTime=6addf46e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ FHD",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7dfhoajldz/out/v1/43edb751cd124d9abf12eb432736ce0c/cenc.mpd?|drmScheme=clearkey&drmLicense=bec2a2104f3aaf70702ffc887d9401b2:e35cd8ddd8616ab2290e138a4192ae8d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "DAZN DE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lkk71dfv6o/out/v1/e36cdf7a1db74811b774bca1e75f6a61/cenc.mpd?|drmScheme=clearkey&drmLicense=a2fa8eba927af971795222760f089e1e:e4ccc4844b48f34a262e2b68b775acdb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lecce",
-      "Team2Name": "Juventus",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2689/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2687/image"
     },
     {
       "EntityId": 2022,
@@ -3682,6 +3582,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/56035/image"
     },
     {
+      "EntityId": 18783,
+      "VideoName": "Beijing FC (CHN) vs Jeonbuk Hyundai Motors FC (KOR)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-27 18:15:00",
+      "Description": "Watch Beijing FC vs Jeonbuk Hyundai Motors FC live online on tapmad. The AFC Champions League Elite Beijing FC vs Jeonbuk Hyundai Motors FC match is scheduled to take place on 27-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792567809540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792567809540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Beijing FC vs Jeonbuk Hyundai Motors FC"
+    },
+    {
       "EntityId": 1866,
       "VideoName": "Ratchaburi FC vs Kashiwa Reysol",
       "CategoryName": "AFC Champions League Elite",
@@ -4416,20 +4330,6 @@
       "Team2Name": "Viseu",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3001/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3022/image"
-    },
-    {
-      "EntityId": 18294,
-      "VideoName": "Barcelona vs Real Madrid",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 10",
-      "EventStartDate": "2026-10-26 02:00:00",
-      "Description": "The 86th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona vs Real Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792650106540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792650106540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--barcelona-vs-real-madrid-live"
     },
     {
       "EntityId": 1842,
