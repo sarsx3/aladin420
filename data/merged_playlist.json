@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:23 AM 26-10-2026",
+    "LastUpdate": "02:24 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -300,6 +300,13 @@
         {
           "label": "Server-20",
           "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=c030f5fe16ffc7f982866995e65569c7&wsABSTime=1792999201",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "CazéTV-aq",
+          "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
