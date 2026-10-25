@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 25-10-2026",
+    "LastUpdate": "08:20 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 20,
-    "UpcomingCount": 228
+    "LiveCount": 21,
+    "UpcomingCount": 227
   },
   "Matches": [
+    {
+      "EntityId": 1800,
+      "VideoName": "Hoffenheim vs Leverkusen",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:30:00",
+      "Description": "Watch Hoffenheim vs Leverkusen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2569/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Hoffenheim",
+      "Team2Name": "Leverkusen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2569/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    },
     {
       "EntityId": 1090550560,
       "VideoName": "Kerala Blasters FC vs Mumbai City FC",
@@ -5603,35 +5632,6 @@
       "Team2Name": "AD Ceuta",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4488/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2869/image"
-    },
-    {
-      "EntityId": 1800,
-      "VideoName": "Hoffenheim vs Leverkusen",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-25 20:30:00",
-      "Description": "Watch Hoffenheim vs Leverkusen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2569/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hoffenheim",
-      "Team2Name": "Leverkusen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2569/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
     }
   ]
 }
