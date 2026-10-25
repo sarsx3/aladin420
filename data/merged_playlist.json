@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:32 PM 25-10-2026",
+    "LastUpdate": "07:33 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 14,
     "UpcomingCount": 235
   },
   "Matches": [
+    {
+      "EntityId": 18434,
+      "VideoName": "Monaco vs LOSC",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Monaco vs LOSC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Monaco vs LOSC match will take place on 25-Oct, Sunday, at 08:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792391160540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792391161540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1115,
+      "UrlSlug": "monaco-vs-losc-ligue-one-live-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1813,
       "VideoName": "PSV vs Feyenoord",
@@ -5307,8 +5328,51 @@
       "Status": "Upcoming",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001792930961-0-0-e316b8439b94d2f5fb90d83cef5df406",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=dfbe2d3aab5ce2423adb6e480fbf2b51&wsABSTime=1792974162",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792930963-0-0-a8dd791adbde80befcdf133e7a4516a7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792897158-0-0-613e30c4d9ad71f33be21f0153bbe074",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1792907406-0-0-c6a91dc700770fad847d5ba73ae3cee2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hull City",
       "Team2Name": "Brentford",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/96/image",
