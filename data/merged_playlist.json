@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:05 PM 25-10-2026",
+    "LastUpdate": "10:06 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 20,
+    "LiveCount": 27,
     "UpcomingCount": 218
   },
   "Matches": [
@@ -254,14 +254,6 @@
           "label": "Server-4",
           "url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1792939506-0-0-89181f9594cfbfb6630af7af24045371",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -749,6 +741,646 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1789,
+      "VideoName": "Man Utd vs Bournemouth",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Man Utd vs Bournemouth — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/35/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792931039-0-0-b028e49c25948b6d5eb897c4aed7c5ba",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=d48cf85fe7d8647afce271ebdb7661b0&wsABSTime=1792974240",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792931041-0-0-0ab8934d1f6f99a2d6e110797a7f54cd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=9fc25ee44c9410db8d439536b651c02d&wsABSTime=1792974244",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792897194-0-0-caddb4725549dba5f7447cbf43ed33ce",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-8",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792937226-0-0-14064842fef044e143c1f4853fb098c3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-9",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792937226-0-0-e801a09fb8ece8a41e4081a75762e13e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO9/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "CazéTV-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "drmScheme": "MzQ0NzVlZGFiOTkxYWQ1ZTkyNTQ4YWViZDcxMDQxMGE6NTAxYjIwOWNjY2QzMjNhYzAwYmY1YWMxNWI0MDZjYjQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gaudsuwdzu/out/v1/ee234bf8b2854366834b938725860805/8d0448fa-0c72-45b3-b82c-7d30ba04446e-cenc.mpd?aws_sessionId=9088cecf-2021-4b4d-8cb7-6335bc8a2934?|drmScheme=clearkey&drmLicense=93e9a71a6748693bcfff859a71588984:57765ea6439c3f2f2a788a166125c41a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PEACOCK TV HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58628/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Man Utd",
+      "Team2Name": "Bournemouth",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/35/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
+    },
+    {
+      "EntityId": 1790,
+      "VideoName": "Liverpool vs Brighton",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Liverpool vs Brighton — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/44/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+      "sources": [
+        {
+          "label": "SKY SPORTS FHD",
+          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=d6e2c04120c293c138f78831cba4c777&wsABSTime=1792974220",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001792931027-0-0-d8d608348c1a744d3ec0820cd8fd082b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001792931028-0-0-afc950dd6719cce004ce95b718dc3511",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=fd5a2cebd887b5abb65199f4bba82d10&wsABSTime=1792974229",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001792931030-0-0-c356ead96bd02dbff2fec71036ddaf23",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=e5c88394a179c402b78a51f242f6dda6&wsABSTime=1792974319",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-8",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792897177-0-0-bbd3f179fd881028cf90ebb72f57ce43",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-9",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1792927086-0-0-54af430932be497ef606e10fcaff7768",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO8/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "drmScheme": "NDJmNzJjMDI1ZGQ1MzAzOTI0NGFkYzEzYjdlMzFkYWQ6YTdiZDk0MWExOWY2ZGQxNGYzMDA0YTYyM2E2YWQzYTE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS ALT",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PEACOCK TV HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58623/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Liverpool",
+      "Team2Name": "Brighton",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/44/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/30/image"
+    },
+    {
+      "EntityId": 1791,
+      "VideoName": "Hull City vs Brentford",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Hull City vs Brentford — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/96/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001792930961-0-0-e316b8439b94d2f5fb90d83cef5df406",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=dfbe2d3aab5ce2423adb6e480fbf2b51&wsABSTime=1792974162",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792930963-0-0-a8dd791adbde80befcdf133e7a4516a7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792897158-0-0-613e30c4d9ad71f33be21f0153bbe074",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1792907406-0-0-c6a91dc700770fad847d5ba73ae3cee2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO7/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4kgwt3wxbm/out/v1/a8645e4080344c53b38dc66983651d99/011dd183-c4ee-4ad3-aa2f-b9ad1dd26ecf-cenc.mpd?aws_sessionId=e0b734c2-a1f6-40c5-be3b-d2cb3ee3c373?|drmScheme=clearkey&drmLicense=5fea848feb7e7599c451c4a8e89f24be:3dd458a354b8b6f4235693cfdad62c59",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PEACOCK TV HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58627/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Hull City",
+      "Team2Name": "Brentford",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/96/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/50/image"
+    },
+    {
+      "EntityId": 1792,
+      "VideoName": "Crystal Palace vs Newcastle Utd",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Crystal Palace vs Newcastle Utd — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=b975108747c185f934f5e6576de9cffe&wsABSTime=1792974033",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=b975108747c185f934f5e6576de9cffe&wsABSTime=1792974033",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792930840-0-0-600e5763ca70b1f736ad7afea9a6e304",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792897133-0-0-f30ac8180129c341f7cdbe1c3fc4a1b5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=762865abd8362bf16d330e7580dd01ac&txTime=6addde66",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792907346-0-0-b46958457ef0edc4fb5adadeb41c36c4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO6/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pbji843evf/out/v1/00d2828855a944ffbbdc15232c4157a9/abd0cb36-9f5e-4e5c-8f35-c8877e45a38c-cenc.mpd?aws_sessionId=e23071ec-4af2-426f-ab48-a01d996b7cde?|drmScheme=clearkey&drmLicense=0379cfd0b4160fbeb5abf192642d783d:b9bc6ebc8fddc9b6383e208b74b92ec8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "USA NETWORK HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58626/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FASTER TV+ HD",
+          "url": "https://live.vivo155.com/live/hd-en-1-4558641.m3u8?txSecret=f6ab12a1742a122aa83c5c2827b9fcd6&txTime=6ADE1D33",
+          "headers": {
+            "Referer": "https://player.online878.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Crystal Palace",
+      "Team2Name": "Newcastle Utd",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/7/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/39/image"
+    },
+    {
+      "EntityId": 1795,
+      "VideoName": "Monaco vs Lille",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Monaco vs Lille — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1653/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001792930774-0-0-fe9e4225675421885b0e52e3ad4ba249",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792897220-0-0-4edd51ffbbe34640c3727a8b54cad815",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1792911666-0-0-d0600b14b6caacc608547d56bf2350ff",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tbbsvbmgdx/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/8302588a-0170-4d05-b027-450cd56c8f48-cenc.mpd?aws_sessionId=da1acb53-940f-4a11-a430-8af7890b4256?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "CazéTV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd?|drmScheme=clearkey&drmLicense=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FASTER TV HD",
+          "url": "https://live.vivo155.com/live/hd-en-1-4550910.m3u8?txSecret=6017082e7e54b7ac38f8e241c819ef97&txTime=6ADE1E53",
+          "headers": {
+            "Referer": "https://player.online878.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Monaco",
+      "Team2Name": "Lille",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1653/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1643/image"
+    },
+    {
+      "EntityId": 1808,
+      "VideoName": "Genoa vs Venezia",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Genoa vs Venezia — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2713/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792897110-0-0-33ece10fc129d8ecbb5713a3bd57d360",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792921326-0-0-b697ebd2907a56fa7bea7df921b2a841",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w1hi8fdwt6/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/daf62d05-3d8a-4f12-844e-4bafb7cacb6a-cenc.mpd?aws_sessionId=9dfb7f37-d0a6-4480-b5e4-b08d83cedabb?|drmScheme=clearkey&drmLicense=79f0c868f01bd48b3a492859fa44bd68:5486005bc7cd83085e9b98436714888b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3alb4gvdah/out/v1/8b048711b298499686581bac84cd0f35/f346386b-66f0-4143-9639-d543dd8f1c81-cenc.mpd?aws_sessionId=28bbb138-d49d-4873-9467-f3af9969acd3?|drmScheme=clearkey&drmLicense=116bfe61690ce8cab199b5ddc4aaadc0:172a5780a320064bd3d78d9c10013627",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58625/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Genoa",
+      "Team2Name": "Venezia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2713/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2688/image"
+    },
+    {
+      "EntityId": 1809,
+      "VideoName": "Atalanta vs Frosinone",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-25 20:00:00",
+      "Description": "Watch Atalanta vs Frosinone — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2686/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BeIN2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001792897093-0-0-69298826a0df25ee7961fe456b1734fa",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1792906686-0-0-e7be932eef8b2020e2c3b7d7817d0857",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ggl6d7tvsp/out/v1/4f4679779d1b4c4d9ef5db79174645cd/52b6b816-ab13-46e9-a139-ffd8ac6719e6-cenc.mpd?aws_sessionId=321b7331-71d0-4302-b188-7121ae192cff?|drmScheme=clearkey&drmLicense=959af47dfb96e33fc61151a71b1b67cf:1457c7712f2ca60b64555802b33493ed",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zue0iie3rd/out/v1/bcd4620360974c1c9055509f0a109067/f30d67c0-2945-48d6-aa80-eeea48022fcd-cenc.mpd?aws_sessionId=558dddec-009f-483e-b411-6df4f06ff9fe?|drmScheme=clearkey&drmLicense=fcb901e8caeea69d74246d08f8cff863:51ffb003e91b2d101793f9bc8e74651e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58624/load-playlist-multi?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Atalanta",
+      "Team2Name": "Frosinone",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2686/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2801/image"
     },
     {
       "EntityId": 18883,
