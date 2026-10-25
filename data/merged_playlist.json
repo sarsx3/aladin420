@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:17 PM 25-10-2026",
+    "LastUpdate": "07:18 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -4187,6 +4187,20 @@
       "UrlSlug": "afc-champions-league-elite-Al Nassr Club vs Al Wasl FC"
     },
     {
+      "EntityId": 18733,
+      "VideoName": "Al Qadsiah Club (KSA) vs Al Sadd SC (QAT)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-27 00:15:00",
+      "Description": "Watch Al Qadsiah Club vs Al Sadd SC live online on tapmad. The AFC Champions League Elite Al Qadsiah Club vs Al Sadd SC match is scheduled to take place on 27-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792485315540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792485315540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Al Qadsiah Club vs Al Sadd SC"
+    },
+    {
       "EntityId": 1859,
       "VideoName": "Quwa Al Jawiya vs Pakhtakor",
       "CategoryName": "AFC Champions League Elite",
@@ -5035,20 +5049,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
     },
     {
-      "EntityId": 18434,
-      "VideoName": "Monaco vs LOSC",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 8",
-      "EventStartDate": "2026-10-25 20:00:00",
-      "Description": "Watch Monaco vs LOSC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Monaco vs LOSC match will take place on 25-Oct, Sunday, at 08:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792391160540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792391161540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1115,
-      "UrlSlug": "monaco-vs-losc-ligue-one-live-match"
-    },
-    {
       "EntityId": 1789,
       "VideoName": "Man Utd vs Bournemouth",
       "CategoryName": "Premier League",
@@ -5201,8 +5201,52 @@
       "Status": "Upcoming",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "sources": [
+        {
+          "label": "SportDigital FussBall",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001792931179-0-0-8689fb42ca6fbc1f6a29e61d3c2097ae",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001792897065-0-0-bc6aea39622977b6d4bdfacfb7de3538",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1792905906-0-0-25d1d6be6c82ddf0b40efba7e42396f2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-7",
+          "url": "http://193.47.62.50/hls/FUUUAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "PSV",
       "Team2Name": "Feyenoord",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2952/image",
