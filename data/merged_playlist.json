@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:36 PM 25-10-2026",
+    "LastUpdate": "11:37 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
+    "LiveCount": 18,
     "UpcomingCount": 212
   },
   "Matches": [
@@ -895,49 +895,6 @@
       "Team2Name": "Ajax",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2960/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
-    },
-    {
-      "EntityId": 1817,
-      "VideoName": "Estoril vs Moreirense",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 21:30:00",
-      "Description": "Watch Estoril vs Moreirense — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4500/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001792938053-0-0-52ac4828ec28bb25f2ae327e0f8a435d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "http://193.47.62.50/hls/DD555QQQQAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Estoril",
-      "Team2Name": "Moreirense",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4500/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3014/image"
     },
     {
       "EntityId": 1090550567,
