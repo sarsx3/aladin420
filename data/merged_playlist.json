@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:37 AM 26-10-2026",
+    "LastUpdate": "12:38 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
+    "LiveCount": 12,
     "UpcomingCount": 210
   },
   "Matches": [
@@ -385,185 +385,6 @@
       "Team2Name": "Juventus",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2689/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2687/image"
-    },
-    {
-      "EntityId": 1793,
-      "VideoName": "Sunderland vs Leeds",
-      "CategoryName": "Premier League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 22:30:00",
-      "Description": "Watch Sunderland vs Leeds — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/41/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO10/hls/index.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO10/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001792941957-0-0-598a3a98bdec37623f8cf37230ebddb5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=a3cfec43e8607d73a79cbd771d19c903&wsABSTime=1792985158",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001792941958-0-0-401aebab8a160074b8e168142a3e3a5f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792897606-0-0-d022e70142cc119df3f87ad20d593a0f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-6",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=38b4d966f3b3d951caa499bcbb448e8b&txTime=6addf216",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-7",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1792912506-0-0-ec7a7e3bb41843d2699aa3a701779b7f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SKY SPORTS-AQ",
-          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PREMIER LEAGUE + HD",
-          "url": "https://chatgpt.hereisman.net/playlist/58641/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FUBO SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/epdyreharz/out/v1/312cb5388cd94f7c9c257e86819368e0/e53c11a3-fcb9-41c0-ad04-005559cda42c-cenc.mpd?aws_sessionId=d4f4f95f-f2a7-49e9-874d-e11161f6ce55?|drmScheme=clearkey&drmLicense=8cec4d8714298c7793b26974e17c2d75:98f87caad4aacf9353e1c1afaad4eafb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sunderland",
-      "Team2Name": "Leeds",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/41/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34/image"
-    },
-    {
-      "EntityId": 1801,
-      "VideoName": "Freiburg vs Bayern",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-25 22:30:00",
-      "Description": "Watch Freiburg vs Bayern — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2538/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BEIN1 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001792941925-0-0-388c0b3df9e701d618bbbc3df75d41c9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792897564-0-0-ebf05519f6351dde173b4529431ce0a2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1792912266-0-0-3063de0b1af407a8f43dbb5730bac03d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792942446-0-0-082aa716a1a92647f8d70732fe6a908b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "HD QUALITY",
-          "url": "https://chatgpt.hereisman.net/playlist/58640/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Freiburg",
-      "Team2Name": "Bayern",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2538/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2672/image"
     },
     {
       "EntityId": 18438,
@@ -4816,8 +4637,23 @@
       "Status": "Upcoming",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792952443-0-0-806aea5a2e78f9b4d60f753651a69af7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "AZ Alkmaar",
       "Team2Name": "FC Twente",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2950/image",
