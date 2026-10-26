@@ -1,15 +1,91 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 26-10-2026",
+    "LastUpdate": "09:50 PM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 414
+    "LiveCount": 7,
+    "UpcomingCount": 412
   },
   "Matches": [
+    {
+      "EntityId": 1847,
+      "VideoName": "Al Ahli vs Al Gharafa",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-26 22:00:00",
+      "Description": "Watch Al Ahli vs Al Gharafa — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34469/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Ahli",
+      "Team2Name": "Al Gharafa",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34469/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34312/image"
+    },
+    {
+      "EntityId": 1848,
+      "VideoName": "Al Ain vs Tractor FC",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-26 22:00:00",
+      "Description": "Watch Al Ain vs Tractor FC — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/37082/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792977128-0-0-d41376d9c7494bb7d03935574ad95ebd",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792977128-0-0-d41376d9c7494bb7d03935574ad95ebd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1793016546-0-0-98d21bbc426d717ab8f11631ed4a766d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1793019186-0-0-0798fc5abd6a2be823f2593df9b2f378",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793028019-0-0-78208b45488ca3333974f6ed3f6df1c9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Ain",
+      "Team2Name": "Tractor FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/37082/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/53715/image"
+    },
     {
       "EntityId": 1090550650,
       "VideoName": "Mohun Bagan Super Giant vs Chennaiyin FC",
@@ -8359,46 +8435,6 @@
       "Status": "Upcoming",
       "CategoryId": 828,
       "UrlSlug": "afc-champions-league-elite-Al Ahli Saudi FC vs Al Gharafa FC"
-    },
-    {
-      "EntityId": 1847,
-      "VideoName": "Al Ahli vs Al Gharafa",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-26 22:00:00",
-      "Description": "Watch Al Ahli vs Al Gharafa — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34469/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ahli",
-      "Team2Name": "Al Gharafa",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34469/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34312/image"
-    },
-    {
-      "EntityId": 1848,
-      "VideoName": "Al Ain vs Tractor FC",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-26 22:00:00",
-      "Description": "Watch Al Ain vs Tractor FC — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/37082/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ain",
-      "Team2Name": "Tractor FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/37082/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/53715/image"
     }
   ]
 }
