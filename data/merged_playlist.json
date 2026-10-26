@@ -1,15 +1,57 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 AM 27-10-2026",
+    "LastUpdate": "04:20 AM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 409
+    "LiveCount": 5,
+    "UpcomingCount": 408
   },
   "Matches": [
+    {
+      "EntityId": 1870,
+      "VideoName": "Coritiba vs Gremio",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 04:30:00",
+      "Description": "Watch Coritiba vs Gremio — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1982/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+      "sources": [
+        {
+          "label": "PREMIERE2 BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793049720-0-0-f7135033115367c1456af1cace81b922",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Coritiba",
+      "Team2Name": "Gremio",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1982/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
+    },
     {
       "EntityId": 1090550766,
       "VideoName": "1st Unofficial Test - Day 4",
@@ -8288,48 +8330,6 @@
       "Team2Name": "Atlético Mineiro",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/5981/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1977/image"
-    },
-    {
-      "EntityId": 1870,
-      "VideoName": "Coritiba vs Gremio",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-27 04:30:00",
-      "Description": "Watch Coritiba vs Gremio — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1982/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-      "sources": [
-        {
-          "label": "PREMIERE2 BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793049720-0-0-f7135033115367c1456af1cace81b922",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Coritiba",
-      "Team2Name": "Gremio",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1982/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
     }
   ]
 }
