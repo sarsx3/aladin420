@@ -1,169 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:07 AM 26-10-2026",
+    "LastUpdate": "11:08 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 1,
     "UpcomingCount": 200
   },
   "Matches": [
-    {
-      "EntityId": 1856,
-      "VideoName": "Los Angeles FC vs Los Angeles Galaxy",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-26 07:00:00",
-      "Description": "Watch Los Angeles FC vs Los Angeles Galaxy — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274650/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792966956-0-0-3b1fd7cc44536c873aed03956460b171",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Los Angeles FC",
-      "Team2Name": "Los Angeles Galaxy",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274650/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2513/image"
-    },
-    {
-      "EntityId": 1844,
-      "VideoName": "Barracas vs Estudiantes Río Cuarto",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-26 06:30:00",
-      "Description": "Watch Barracas vs Estudiantes Río Cuarto — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65668/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001792966816-0-0-d0a50a21354c507d61b1efb00350c847",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Barracas",
-      "Team2Name": "Estudiantes Río Cuarto",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/65668/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/266694/image"
-    },
-    {
-      "EntityId": 1845,
-      "VideoName": "Central Córdoba vs Velez Sarsfield",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-26 06:30:00",
-      "Description": "Watch Central Córdoba vs Velez Sarsfield — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/65676/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001792966823-0-0-49b8ac63a261f4a9329bee80851dff95",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Central Córdoba",
-      "Team2Name": "Velez Sarsfield",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/65676/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3208/image"
-    },
-    {
-      "EntityId": 1843,
-      "VideoName": "River vs Racing Club",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-26 04:15:00",
-      "Description": "Watch River vs Racing Club — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3211/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "sources": [
-        {
-          "label": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001792963530-0-0-aaa4be58b32e96b72da40febe853e1e6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "River",
-      "Team2Name": "Racing Club",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3211/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3215/image"
-    },
     {
       "EntityId": 1090550644,
       "VideoName": "1st Unofficial Test - Day 3",
@@ -186,26 +32,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1792965739
-    },
-    {
-      "EntityId": 1849,
-      "VideoName": "PSG vs Olympique Lyonnais",
-      "CategoryName": "Ligue 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-26 01:45:00",
-      "Description": "Watch PSG vs Olympique Lyonnais — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1644/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "PSG",
-      "Team2Name": "Olympique Lyonnais",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1644/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
     },
     {
       "EntityId": 2022,
