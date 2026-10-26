@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:01 AM 27-10-2026",
+    "LastUpdate": "04:02 AM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,29 @@
     "UpcomingCount": 409
   },
   "Matches": [
+    {
+      "EntityId": 1090550766,
+      "VideoName": "1st Unofficial Test - Day 4",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 04:02:21",
+      "Description": "Watch 1st Unofficial Test - Day 4 live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793094611~acl=/*~id=07102768838210276312929413959767~hmac=fb2ceac3c1029d5b0c61f2434bc4ba23341bbcba531714a471e7aa76b389875f",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793094611~acl=/*~id=07102768838210276312929413959767~hmac=fb2ceac3c1029d5b0c61f2434bc4ba23341bbcba531714a471e7aa76b389875f"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793052141
+    },
     {
       "EntityId": 1857,
       "VideoName": "Union Santa Fe vs Estudiantes",
@@ -194,27 +217,6 @@
       "Team2Name": "Osasuna",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2833/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2820/image"
-    },
-    {
-      "EntityId": 19321,
-      "VideoName": "PSG vs OL",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 8",
-      "EventStartDate": "2026-10-27 01:30:00",
-      "Description": "Watch PSG vs OL live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs OL match will take place on 26-Oct, Monday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793001440540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793001440540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1115,
-      "UrlSlug": "psg-vs-ol-ligue-one-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 1,
@@ -7335,20 +7337,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     },
     {
-      "EntityId": 19120,
-      "VideoName": "Bangladesh vs West Indies",
-      "CategoryName": "West indies Tour of Bangladesh 2026",
-      "StageName": "1st Test",
-      "EventStartDate": "2026-10-28 10:00:00",
-      "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1246,
-      "UrlSlug": "ban-vs-wi-1st-test-live"
-    },
-    {
       "EntityId": 1918,
       "VideoName": "Bangladesh vs West Indies",
       "CategoryName": "West Indies tour of Bangladesh, 2026 - 1st Test, Day 1",
@@ -8323,6 +8311,20 @@
       "Team2Name": "Chitwan Rhinos",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
+    },
+    {
+      "EntityId": 19327,
+      "VideoName": "Trophy Reveal",
+      "CategoryName": "West indies Tour of Bangladesh 2026",
+      "StageName": "Show",
+      "EventStartDate": "2026-10-27 12:15:00",
+      "Description": "The trophy reveal for the West Indies Tour of Bangladesh 2026 is scheduled for 27 October 2026, marking the beginning of an exciting international cricket series between Bangladesh and the West Indies. With both teams ready to compete, fans can look forward to quality batting, disciplined bowling, and intense on-field action. The 1st Test is scheduled for 28 October 2026 at 10:00 AM. Watch the West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV, and stay tuned for all the action as the series begins.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793048707540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793048708540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1246,
+      "UrlSlug": "West-Indies-Tour-of-Bangladesh-2026-Trophy-Reveal"
     },
     {
       "EntityId": 1858,
