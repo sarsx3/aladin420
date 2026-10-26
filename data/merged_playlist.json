@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:59 PM 26-10-2026",
+    "LastUpdate": "03:00 PM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 0,
+    "LiveCount": 1,
     "UpcomingCount": 200
   },
   "Matches": [
+    {
+      "EntityId": 1090550648,
+      "VideoName": "Rajasthan Frontiers vs Punjab Falcons",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-26 15:00:57",
+      "Description": "Watch Rajasthan Frontiers vs Punjab Falcons live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047939~acl=/*~id=02106771762610221691933674199608~hmac=cbcfac7a8bbdb84840f9b70b693b52aeb68ecf755cc06c80d1846acc52fe03f9",
+      "sources": [
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047939~acl=/*~id=02106771762610221691933674199608~hmac=cbcfac7a8bbdb84840f9b70b693b52aeb68ecf755cc06c80d1846acc52fe03f9"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793005257
+    },
     {
       "EntityId": 2022,
       "VideoName": "Heerenveen vs N.E.C.",
@@ -3285,20 +3308,6 @@
       "UrlSlug": "afc-champions-league-elite-Beijing FC vs Jeonbuk Hyundai Motors FC"
     },
     {
-      "EntityId": 18778,
-      "VideoName": "Ratchaburi FC (THA) vs Kashiwa Reysol (JPN)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-27 18:15:00",
-      "Description": "Watch Ratchaburi FC vs Kashiwa Reysol live online on tapmad. The AFC Champions League Elite Ratchaburi FC vs Kashiwa Reysol match is scheduled to take place on 27-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792567474540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792567474540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Ratchaburi FC vs Kashiwa Reysol"
-    },
-    {
       "EntityId": 1866,
       "VideoName": "Ratchaburi FC vs Kashiwa Reysol",
       "CategoryName": "AFC Champions League Elite",
@@ -3689,6 +3698,20 @@
       "Team2Name": "Osasuna",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2833/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2820/image"
+    },
+    {
+      "EntityId": 19321,
+      "VideoName": "PSG vs OL",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-27 01:30:00",
+      "Description": "Watch PSG vs OL live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs OL match will take place on 26-Oct, Monday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793001440540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793001440540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "psg-vs-ol-ligue-one-live-match"
     },
     {
       "EntityId": 1881,
