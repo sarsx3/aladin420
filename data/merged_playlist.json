@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:03 AM 27-10-2026",
+    "LastUpdate": "01:04 AM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 413
   },
   "Matches": [
+    {
+      "EntityId": 19321,
+      "VideoName": "PSG vs OL",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 8",
+      "EventStartDate": "2026-10-27 01:30:00",
+      "Description": "Watch PSG vs OL live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs OL match will take place on 26-Oct, Monday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793001440540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793001440540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1115,
+      "UrlSlug": "psg-vs-ol-ligue-one-live-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1877,
       "VideoName": "Santa Clara vs SL Benfica FC",
@@ -346,48 +367,6 @@
       "Team2Name": "Ballon dOR",
       "Team1Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg",
       "Team2Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg"
-    },
-    {
-      "EntityId": 18713,
-      "VideoName": "Al Ain FC (UAE) vs Tractor FC (IRN)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-26 22:00:00",
-      "Description": "Watch Al Ain FC vs Tractor FC live online on tapmad. The AFC Champions League Elite Al Ain FC vs Tractor FC match is scheduled to take place on 26-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792483229540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792483229540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Al Ain FC vs Tractor FC",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 18708,
-      "VideoName": "Al Ahli Saudi FC (KSA) vs Al Gharafa FC (QAT)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-26 22:00:00",
-      "Description": "Watch Al Ahli Saudi FC vs Al Gharafa FC live online on tapmad. The AFC Champions League Elite Al Ahli Saudi FC vs Al Gharafa FC match is scheduled to take place on 26-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792482856540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792482856540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Al Ahli Saudi FC vs Al Gharafa FC",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2261,
@@ -7764,6 +7743,20 @@
       "UrlSlug": "afc-champions-league-elite-Al Shamal SC vs Al-Hilal SFC"
     },
     {
+      "EntityId": 18543,
+      "VideoName": "Al Shorta (IRQ) vs Al Hussein (JOR)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-28 00:15:00",
+      "Description": "Watch Al Shorta vs Al Hussein live online on tapmad. The AFC Champions League Two Al Shorta vs Al Hussein match is scheduled to take place on 28-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792654940540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792654941540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two"
+    },
+    {
       "EntityId": 1888,
       "VideoName": "Al Shamal vs Al-Hilal",
       "CategoryName": "AFC Champions League Elite",
@@ -8596,20 +8589,6 @@
       "Team2Name": "Olympique Lyonnais",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1644/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
-    },
-    {
-      "EntityId": 19321,
-      "VideoName": "PSG vs OL",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 8",
-      "EventStartDate": "2026-10-27 01:30:00",
-      "Description": "Watch PSG vs OL live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs OL match will take place on 26-Oct, Monday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793001440540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793001440540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1115,
-      "UrlSlug": "psg-vs-ol-ligue-one-live-match"
     },
     {
       "EntityId": 1881,
