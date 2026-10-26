@@ -1,15 +1,57 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:49 AM 26-10-2026",
+    "LastUpdate": "06:50 AM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 201
+    "LiveCount": 6,
+    "UpcomingCount": 200
   },
   "Matches": [
+    {
+      "EntityId": 1856,
+      "VideoName": "Los Angeles FC vs Los Angeles Galaxy",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-26 07:00:00",
+      "Description": "Watch Los Angeles FC vs Los Angeles Galaxy — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274650/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792966956-0-0-3b1fd7cc44536c873aed03956460b171",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Los Angeles FC",
+      "Team2Name": "Los Angeles Galaxy",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274650/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2513/image"
+    },
     {
       "EntityId": 1844,
       "VideoName": "Barracas vs Estudiantes Río Cuarto",
@@ -4074,48 +4116,6 @@
       "Status": "Upcoming",
       "CategoryId": 828,
       "UrlSlug": "afc-champions-league-elite-PFC Neftchi vs Al Ittihad Club"
-    },
-    {
-      "EntityId": 1856,
-      "VideoName": "Los Angeles FC vs Los Angeles Galaxy",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-26 07:00:00",
-      "Description": "Watch Los Angeles FC vs Los Angeles Galaxy — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274650/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792966956-0-0-3b1fd7cc44536c873aed03956460b171",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Los Angeles FC",
-      "Team2Name": "Los Angeles Galaxy",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274650/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2513/image"
     }
   ]
 }
