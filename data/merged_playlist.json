@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:40 PM 26-10-2026",
+    "LastUpdate": "07:41 PM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -50,6 +50,22 @@
           "label": "Server-1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976984-0-0-958255157e0fe69f8a42b1970e4bffb2",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BD Server",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/EJJJAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
