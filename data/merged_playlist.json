@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:03 PM 26-10-2026",
+    "LastUpdate": "10:04 PM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,48 @@
     "UpcomingCount": 412
   },
   "Matches": [
+    {
+      "EntityId": 18713,
+      "VideoName": "Al Ain FC (UAE) vs Tractor FC (IRN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-26 22:00:00",
+      "Description": "Watch Al Ain FC vs Tractor FC live online on tapmad. The AFC Champions League Elite Al Ain FC vs Tractor FC match is scheduled to take place on 26-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792483229540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792483229540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Al Ain FC vs Tractor FC",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 18708,
+      "VideoName": "Al Ahli Saudi FC (KSA) vs Al Gharafa FC (QAT)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-26 22:00:00",
+      "Description": "Watch Al Ahli Saudi FC vs Al Gharafa FC live online on tapmad. The AFC Champions League Elite Al Ahli Saudi FC vs Al Gharafa FC match is scheduled to take place on 26-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792482856540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792482856540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Al Ahli Saudi FC vs Al Gharafa FC",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1847,
       "VideoName": "Al Ahli vs Al Gharafa",
@@ -149,90 +191,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793023526
-    },
-    {
-      "EntityId": 2232,
-      "VideoName": "Mohun Bagan vs Chennaiyin",
-      "CategoryName": "Indian Super League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-26 20:00:00",
-      "Description": "Watch Mohun Bagan vs Chennaiyin — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/370834/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120303/Footlive2610/ENG/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-      "sources": [
-        {
-          "label": "sonyliv-aq",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120303/Footlive2610/ENG/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-bangla",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120302/Footlive2610/BEN/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Global Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Global Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001793020865-0-0-bf93d53fd876df7a165b09dabe74fc67",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-hindi",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120304/Footlive2610/HIN/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-tamil",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120300/Footlive2610/TAM/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Mohun Bagan",
-      "Team2Name": "Chennaiyin",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/370834/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/174590/image"
-    },
-    {
-      "EntityId": 18703,
-      "VideoName": "PFC Neftchi (UZB) vs Al Ittihad Club (KSA)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-26 19:45:00",
-      "Description": "Watch PFC Neftchi vs Al Ittihad Club live online on tapmad. The AFC Champions League Elite PFC Neftchi vs Al Ittihad Club match is scheduled to take place on 26-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792481747540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792481747540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-PFC Neftchi vs Al Ittihad Club",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 1090550648,
@@ -7658,6 +7616,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2556/image"
     },
     {
+      "EntityId": 18788,
+      "VideoName": "Shabab Al Ahli (UAE) vs Esteghlal FC (IRN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-27 22:00:00",
+      "Description": "Watch Shabab Al Ahli vs Esteghlal FC live online on tapmad. The AFC Champions League Elite Shabab Al Ahli vs Esteghlal FC match is scheduled to take place on 27-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792568193540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792568193540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Shabab Al Ahli vs Esteghlal FC"
+    },
+    {
       "EntityId": 1868,
       "VideoName": "Shabab Al Ahly vs Esteghlal FC Tehran",
       "CategoryName": "AFC Champions League Elite",
@@ -7696,6 +7668,20 @@
       "Team2Name": "East Bengal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/71044/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/40655/image"
+    },
+    {
+      "EntityId": 19111,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "Afghanistan vs Zimbabwe 2026/27",
+      "StageName": "1st T20I",
+      "EventStartDate": "2026-10-27 20:30:00",
+      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 27-Oct-2026 at 08:30 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792753999540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792753999540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1245,
+      "UrlSlug": "afg-vs-zim-1st-t20i-live"
     },
     {
       "EntityId": 1886,
@@ -8378,34 +8364,6 @@
       "Team2Name": "Ballon dOR",
       "Team1Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg",
       "Team2Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg"
-    },
-    {
-      "EntityId": 18713,
-      "VideoName": "Al Ain FC (UAE) vs Tractor FC (IRN)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-26 22:00:00",
-      "Description": "Watch Al Ain FC vs Tractor FC live online on tapmad. The AFC Champions League Elite Al Ain FC vs Tractor FC match is scheduled to take place on 26-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792483229540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792483229540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Al Ain FC vs Tractor FC"
-    },
-    {
-      "EntityId": 18708,
-      "VideoName": "Al Ahli Saudi FC (KSA) vs Al Gharafa FC (QAT)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-26 22:00:00",
-      "Description": "Watch Al Ahli Saudi FC vs Al Gharafa FC live online on tapmad. The AFC Champions League Elite Al Ahli Saudi FC vs Al Gharafa FC match is scheduled to take place on 26-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792482856540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792482856540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Al Ahli Saudi FC vs Al Gharafa FC"
     }
   ]
 }
