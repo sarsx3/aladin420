@@ -1,15 +1,58 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:04 PM 27-10-2026",
+    "LastUpdate": "05:05 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 398
+    "LiveCount": 15,
+    "UpcomingCount": 397
   },
   "Matches": [
+    {
+      "EntityId": 2243,
+      "VideoName": "Karnali Yaks vs Janakpur Bolts",
+      "CategoryName": "NPL 2026 - 3rd T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 17:15:00",
+      "Description": "Watch Karnali Yaks vs Janakpur Bolts — NPL 2026 - 3rd T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZW.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9963,
+      "UrlSlug": "npl-2026-3rd-t20",
+      "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
+      "sources": [
+        {
+          "label": "STAR SPORTS HD",
+          "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FANCODE (IND)",
+          "url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
+          "headers": {
+            "Referer": "https://fancode.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Karnali Yaks",
+      "Team2Name": "Janakpur Bolts",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
+    },
     {
       "EntityId": 18763,
       "VideoName": "Johor Darul Ta'zim FC (MAS) vs Port FC (THA)",
@@ -8537,49 +8580,6 @@
       "Team2Name": "Jeonbuk Hyundai Motors",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3376/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6908/image"
-    },
-    {
-      "EntityId": 2243,
-      "VideoName": "Karnali Yaks vs Janakpur Bolts",
-      "CategoryName": "NPL 2026 - 3rd T20",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-27 17:15:00",
-      "Description": "Watch Karnali Yaks vs Janakpur Bolts — NPL 2026 - 3rd T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9963,
-      "UrlSlug": "npl-2026-3rd-t20",
-      "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
-      "sources": [
-        {
-          "label": "STAR SPORTS HD",
-          "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FANCODE (IND)",
-          "url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
-          "headers": {
-            "Referer": "https://fancode.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Karnali Yaks",
-      "Team2Name": "Janakpur Bolts",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
     }
   ]
 }
