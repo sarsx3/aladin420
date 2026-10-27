@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:28 AM 28-10-2026",
+    "LastUpdate": "01:29 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -7948,8 +7948,17 @@
       "Status": "Upcoming",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/ajjja.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjja.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Luton",
       "Team2Name": "Doncaster",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/72/image",
@@ -7968,8 +7977,17 @@
       "Status": "Upcoming",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/ajjjaa.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjjaa.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "MK Dons",
       "Team2Name": "Bromley",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
@@ -7988,8 +8006,17 @@
       "Status": "Upcoming",
       "CategoryId": 9940,
       "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.59/hls/ajjj.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjj.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Leicester City",
       "Team2Name": "Wigan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/31/image",
