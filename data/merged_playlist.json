@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 27-10-2026",
+    "LastUpdate": "08:20 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 394
+    "LiveCount": 11,
+    "UpcomingCount": 393
   },
   "Matches": [
     {
@@ -34,6 +34,50 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1886,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "Afghanistan vs Zimbabwe – 1st T20I",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 20:30:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — Afghanistan vs Zimbabwe – 1st T20I. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9084,
+      "UrlSlug": "afghanistan-vs-zimbabwe-1st-t20i",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
+          "drmScheme": "ODVlOTVhNGZhZTIyZTAyNDU5MjUyYTAzZmFhZjMxNjY6MjkzMzRmYTVlMWQ1NzA4ZWQ5OTRmOGJmNzQ2ODc5MzM=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
+          "drmScheme": "ODVlOTVhNGZhZTIyZTAyNDU5MjUyYTAzZmFhZjMxNjY6MjkzMzRmYTVlMWQ1NzA4ZWQ5OTRmOGJmNzQ2ODc5MzM=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "T SPORTS HD",
+          "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 1090550786,
@@ -8222,50 +8266,6 @@
       "Team2Name": "East Bengal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/71044/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/40655/image"
-    },
-    {
-      "EntityId": 1886,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "Afghanistan vs Zimbabwe – 1st T20I",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-27 20:30:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — Afghanistan vs Zimbabwe – 1st T20I. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9084,
-      "UrlSlug": "afghanistan-vs-zimbabwe-1st-t20i",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
-          "drmScheme": "ODVlOTVhNGZhZTIyZTAyNDU5MjUyYTAzZmFhZjMxNjY6MjkzMzRmYTVlMWQ1NzA4ZWQ5OTRmOGJmNzQ2ODc5MzM=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
-          "drmScheme": "ODVlOTVhNGZhZTIyZTAyNDU5MjUyYTAzZmFhZjMxNjY6MjkzMzRmYTVlMWQ1NzA4ZWQ5OTRmOGJmNzQ2ODc5MzM=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "T SPORTS HD",
-          "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     }
   ]
 }
