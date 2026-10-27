@@ -1,15 +1,413 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:34 AM 28-10-2026",
+    "LastUpdate": "01:35 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 392
+    "LiveCount": 18,
+    "UpcomingCount": 380
   },
   "Matches": [
+    {
+      "EntityId": 1898,
+      "VideoName": "Bradford vs Peterborough",
+      "CategoryName": "EFL Cup",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Bradford vs Peterborough — EFL Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9024,
+      "UrlSlug": "efl-cup",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "sources": [
+        {
+          "label": "CBS SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "headers": {
+            "Referer": "https://amazon.com",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=a044da7b880926f1eda923ae904f6d7b&wsABSTime=1793168639",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bradford",
+      "Team2Name": "Peterborough",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/22/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/54/image"
+    },
+    {
+      "EntityId": 1900,
+      "VideoName": "Sheffield Wed vs Cambridge",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Sheffield Wed vs Cambridge — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/12/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.59/hls/ajjjaaaa.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjjaaaa.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sheffield Wed",
+      "Team2Name": "Cambridge",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/12/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/63/image"
+    },
+    {
+      "EntityId": 1901,
+      "VideoName": "Oxford Utd vs Stockport",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Oxford Utd vs Stockport — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/95/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.59/hls/ajjjaaa.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjjaaa.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Oxford Utd",
+      "Team2Name": "Stockport",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/95/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/10/image"
+    },
+    {
+      "EntityId": 1902,
+      "VideoName": "Luton vs Doncaster",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Luton vs Doncaster — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/72/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.59/hls/ajjja.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjja.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Luton",
+      "Team2Name": "Doncaster",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/72/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/84/image"
+    },
+    {
+      "EntityId": 1903,
+      "VideoName": "MK Dons vs Bromley",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch MK Dons vs Bromley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.59/hls/ajjjaa.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjjaa.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "MK Dons",
+      "Team2Name": "Bromley",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/180/image"
+    },
+    {
+      "EntityId": 1904,
+      "VideoName": "Leicester City vs Wigan",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Leicester City vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/31/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.59/hls/ajjj.m3u8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "http://193.47.62.59/hls/ajjj.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Leicester City",
+      "Team2Name": "Wigan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/31/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
+    },
+    {
+      "EntityId": 1905,
+      "VideoName": "Köln vs Union Berlin",
+      "CategoryName": "DFB-Pokal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Köln vs Union Berlin — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9336,
+      "UrlSlug": "dfb-pokal",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793076073-0-0-61f628fe3ab7afdb324aaed432b745e8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793076073-0-0-61f628fe3ab7afdb324aaed432b745e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793125546-0-0-16e7c7c0d45f0cbb8d1d522f96b3c8ca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "http://193.47.62.59/hls/J777AAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Köln",
+      "Team2Name": "Union Berlin",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2547/image"
+    },
+    {
+      "EntityId": 1906,
+      "VideoName": "Gladbach vs Karlsruher",
+      "CategoryName": "DFB-Pokal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Gladbach vs Karlsruher — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2527/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9336,
+      "UrlSlug": "dfb-pokal",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793075695-0-0-3a25699110fdeeb78cdbbcd09f2d0c03",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793075695-0-0-3a25699110fdeeb78cdbbcd09f2d0c03",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793125399-0-0-535b1a25de1a57e39690804cda1dafb4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "http://193.47.62.59/hls/J777.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Gladbach",
+      "Team2Name": "Karlsruher",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2553/image"
+    },
+    {
+      "EntityId": 1907,
+      "VideoName": "Dortmund vs SV Werder Bremen",
+      "CategoryName": "DFB-Pokal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Dortmund vs SV Werder Bremen — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2673/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9336,
+      "UrlSlug": "dfb-pokal",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793075602-0-0-bf51850be939185806751aa296f908b9",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793075602-0-0-bf51850be939185806751aa296f908b9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1793116926-0-0-ac731e07eea508e86807dfb9e5819722",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793125532-0-0-89de1bc8a266edf18f0655442e3b8fc4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "http://193.47.62.59/hls/J777A.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Dortmund",
+      "Team2Name": "SV Werder Bremen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2673/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2534/image"
+    },
+    {
+      "EntityId": 1908,
+      "VideoName": "Elversberg vs SV Darmstadt 98",
+      "CategoryName": "DFB-Pokal",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Elversberg vs SV Darmstadt 98 — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2598/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9336,
+      "UrlSlug": "dfb-pokal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Elversberg",
+      "Team2Name": "SV Darmstadt 98",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2598/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2576/image"
+    },
+    {
+      "EntityId": 1913,
+      "VideoName": "Torino vs Como",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch Torino vs Como — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2696/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Torino",
+      "Team2Name": "Como",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2696/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
+    },
+    {
+      "EntityId": 1914,
+      "VideoName": "AS Roma vs Cagliari",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 01:45:00",
+      "Description": "Watch AS Roma vs Cagliari — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2702/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "AS Roma",
+      "Team2Name": "Cagliari",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2702/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2719/image"
+    },
     {
       "EntityId": 18793,
       "VideoName": "Al Shamal SC (QAT) vs Al-Hilal SFC (KSA)",
@@ -7840,404 +8238,6 @@
       "Team2Name": "Arsenal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/23959/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
-    },
-    {
-      "EntityId": 1898,
-      "VideoName": "Bradford vs Peterborough",
-      "CategoryName": "EFL Cup",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Bradford vs Peterborough — EFL Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9024,
-      "UrlSlug": "efl-cup",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "sources": [
-        {
-          "label": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "Referer": "https://amazon.com",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=a044da7b880926f1eda923ae904f6d7b&wsABSTime=1793168639",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bradford",
-      "Team2Name": "Peterborough",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/22/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/54/image"
-    },
-    {
-      "EntityId": 1900,
-      "VideoName": "Sheffield Wed vs Cambridge",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Sheffield Wed vs Cambridge — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/12/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.59/hls/ajjjaaaa.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.59/hls/ajjjaaaa.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sheffield Wed",
-      "Team2Name": "Cambridge",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/12/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/63/image"
-    },
-    {
-      "EntityId": 1901,
-      "VideoName": "Oxford Utd vs Stockport",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Oxford Utd vs Stockport — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/95/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.59/hls/ajjjaaa.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.59/hls/ajjjaaa.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Oxford Utd",
-      "Team2Name": "Stockport",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/95/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/10/image"
-    },
-    {
-      "EntityId": 1902,
-      "VideoName": "Luton vs Doncaster",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Luton vs Doncaster — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/72/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.59/hls/ajjja.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.59/hls/ajjja.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Luton",
-      "Team2Name": "Doncaster",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/72/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/84/image"
-    },
-    {
-      "EntityId": 1903,
-      "VideoName": "MK Dons vs Bromley",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch MK Dons vs Bromley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.59/hls/ajjjaa.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.59/hls/ajjjaa.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "MK Dons",
-      "Team2Name": "Bromley",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/180/image"
-    },
-    {
-      "EntityId": 1904,
-      "VideoName": "Leicester City vs Wigan",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Leicester City vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/31/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.59/hls/ajjj.m3u8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "http://193.47.62.59/hls/ajjj.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Leicester City",
-      "Team2Name": "Wigan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/31/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
-    },
-    {
-      "EntityId": 1905,
-      "VideoName": "Köln vs Union Berlin",
-      "CategoryName": "DFB-Pokal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Köln vs Union Berlin — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9336,
-      "UrlSlug": "dfb-pokal",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793076073-0-0-61f628fe3ab7afdb324aaed432b745e8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793076073-0-0-61f628fe3ab7afdb324aaed432b745e8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793125546-0-0-16e7c7c0d45f0cbb8d1d522f96b3c8ca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "http://193.47.62.59/hls/J777AAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Köln",
-      "Team2Name": "Union Berlin",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2547/image"
-    },
-    {
-      "EntityId": 1906,
-      "VideoName": "Gladbach vs Karlsruher",
-      "CategoryName": "DFB-Pokal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Gladbach vs Karlsruher — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2527/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9336,
-      "UrlSlug": "dfb-pokal",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793075695-0-0-3a25699110fdeeb78cdbbcd09f2d0c03",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793075695-0-0-3a25699110fdeeb78cdbbcd09f2d0c03",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793125399-0-0-535b1a25de1a57e39690804cda1dafb4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "http://193.47.62.59/hls/J777.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Gladbach",
-      "Team2Name": "Karlsruher",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2553/image"
-    },
-    {
-      "EntityId": 1907,
-      "VideoName": "Dortmund vs SV Werder Bremen",
-      "CategoryName": "DFB-Pokal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Dortmund vs SV Werder Bremen — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2673/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9336,
-      "UrlSlug": "dfb-pokal",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793075602-0-0-bf51850be939185806751aa296f908b9",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793075602-0-0-bf51850be939185806751aa296f908b9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1793116926-0-0-ac731e07eea508e86807dfb9e5819722",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793125532-0-0-89de1bc8a266edf18f0655442e3b8fc4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "http://193.47.62.59/hls/J777A.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Dortmund",
-      "Team2Name": "SV Werder Bremen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2673/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2534/image"
-    },
-    {
-      "EntityId": 1908,
-      "VideoName": "Elversberg vs SV Darmstadt 98",
-      "CategoryName": "DFB-Pokal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Elversberg vs SV Darmstadt 98 — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2598/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9336,
-      "UrlSlug": "dfb-pokal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Elversberg",
-      "Team2Name": "SV Darmstadt 98",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2598/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2576/image"
-    },
-    {
-      "EntityId": 1913,
-      "VideoName": "Torino vs Como",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch Torino vs Como — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2696/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Torino",
-      "Team2Name": "Como",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2696/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
-    },
-    {
-      "EntityId": 1914,
-      "VideoName": "AS Roma vs Cagliari",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 01:45:00",
-      "Description": "Watch AS Roma vs Cagliari — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2702/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "AS Roma",
-      "Team2Name": "Cagliari",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2702/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2719/image"
     }
   ]
 }
