@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:04 AM 28-10-2026",
+    "LastUpdate": "12:05 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 385
+    "LiveCount": 11,
+    "UpcomingCount": 383
   },
   "Matches": [
+    {
+      "EntityId": 1888,
+      "VideoName": "Al Shamal vs Al-Hilal",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 00:15:00",
+      "Description": "Watch Al Shamal vs Al-Hilal — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/170366/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Shamal",
+      "Team2Name": "Al-Hilal",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/170366/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/21895/image"
+    },
+    {
+      "EntityId": 1891,
+      "VideoName": "Al Shorta Baghdad vs Al Hussein",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 00:15:00",
+      "Description": "Watch Al Shorta Baghdad vs Al Hussein — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/61532/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Shorta Baghdad",
+      "Team2Name": "Al Hussein",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/61532/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/117204/image"
+    },
     {
       "EntityId": 1876,
       "VideoName": "Sassuolo vs Lazio",
@@ -8173,46 +8213,6 @@
       "Team2Name": "Cagliari",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2702/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2719/image"
-    },
-    {
-      "EntityId": 1888,
-      "VideoName": "Al Shamal vs Al-Hilal",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 00:15:00",
-      "Description": "Watch Al Shamal vs Al-Hilal — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/170366/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Shamal",
-      "Team2Name": "Al-Hilal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/170366/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/21895/image"
-    },
-    {
-      "EntityId": 1891,
-      "VideoName": "Al Shorta Baghdad vs Al Hussein",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 00:15:00",
-      "Description": "Watch Al Shorta Baghdad vs Al Hussein — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/61532/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Shorta Baghdad",
-      "Team2Name": "Al Hussein",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/61532/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/117204/image"
     }
   ]
 }
