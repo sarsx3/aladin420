@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:10 PM 27-10-2026",
+    "LastUpdate": "04:11 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -107,8 +107,23 @@
       "Status": "Live",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793093015-0-0-14bf6e41a000c87ff2fce1182301788d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Daejeon Citizen",
       "Team2Name": "Vissel Kobe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/7645/image",
@@ -162,8 +177,23 @@
       "Status": "Live",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793093150-0-0-03dac91745bcd0bfb7bdb4e33ece4542",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Johor Darul Ta’zim",
       "Team2Name": "Thai Port FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3327/image",
@@ -182,8 +212,23 @@
       "Status": "Live",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=34d5824b8555919523246a18b22c12d0&wsABSTime=1793136617",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=34d5824b8555919523246a18b22c12d0&wsABSTime=1793136617",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793093423-0-0-c21c551ffa79bd17f976bacee578433c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Shanghai Port",
       "Team2Name": "Công An Hà Nội",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/41537/image",
