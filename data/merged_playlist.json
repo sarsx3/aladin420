@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:15 AM 28-10-2026",
+    "LastUpdate": "03:16 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 13,
     "UpcomingCount": 379
   },
   "Matches": [
@@ -84,6 +84,13 @@
         {
           "label": "hd quality",
           "url": "https://www.rtmpcdn.com/live/00322d73-6436-46aa-84c6-d48e0723d82b.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/breeqxluro/out/v1/2288f027b7e04791938fd3f72a0104be/cenc.mpd?aws_sessionId=9cdd2e61-9da4-4d66-8df5-61fcafa2d224?|drmScheme=clearkey&drmLicense=89e180f3a77c5faa64a36a412942d1ba:deb699210c75c34a0537526fedcd0e51",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -716,48 +723,6 @@
       "Team2Name": "Cagliari",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2702/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2719/image"
-    },
-    {
-      "EntityId": 18793,
-      "VideoName": "Al Shamal SC (QAT) vs Al-Hilal SFC (KSA)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-28 00:15:00",
-      "Description": "Watch Al Shamal SC vs Al-Hilal SFC live online on tapmad. The AFC Champions League Elite Al Shamal SC vs Al-Hilal SFC match is scheduled to take place on 28-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792568540540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792568540540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Al Shamal SC vs Al-Hilal SFC",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 18543,
-      "VideoName": "Al Shorta (IRQ) vs Al Hussein (JOR)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-28 00:15:00",
-      "Description": "Watch Al Shorta vs Al Hussein live online on tapmad. The AFC Champions League Two Al Shorta vs Al Hussein match is scheduled to take place on 28-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792654940540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792654941540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2261,
