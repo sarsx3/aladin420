@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:09 AM 28-10-2026",
+    "LastUpdate": "12:10 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -23,8 +23,44 @@
       "Status": "Live",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793075416-0-0-b3a9fdcf03ffc81a6f7efc75dec46d72",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793075416-0-0-b3a9fdcf03ffc81a6f7efc75dec46d72",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793098687-0-0-49b3055633d84bff0752a731c038ee30",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1793098807-0-0-4213792bbbc98ee80529b39b64852043",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793121948-0-0-2d8d241f5550a8b72efe2395ef007f86",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al Shamal",
       "Team2Name": "Al-Hilal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/170366/image",
@@ -43,8 +79,23 @@
       "Status": "Live",
       "CategoryId": 9305,
       "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793121949-0-0-b0b2fe935c8090a8a1e486a64be53b64",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al Shorta Baghdad",
       "Team2Name": "Al Hussein",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/61532/image",
