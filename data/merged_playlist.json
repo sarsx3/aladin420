@@ -1,15 +1,40 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:14 PM 27-10-2026",
+    "LastUpdate": "08:15 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 10,
     "UpcomingCount": 394
   },
   "Matches": [
+    {
+      "EntityId": 19111,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "Afghanistan vs Zimbabwe 2026",
+      "StageName": "1st T20I",
+      "EventStartDate": "2026-10-27 20:30:00",
+      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 27-Oct-2026 at 08:30 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792753999540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792753999540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1245,
+      "UrlSlug": "afg-vs-zim-1st-t20i-live",
+      "stream_url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1090550786,
       "VideoName": "Delhi Leaders vs Haryana Lions - Semi Final 1",
@@ -7083,6 +7108,20 @@
       "UrlSlug": "afc-champions-league-two"
     },
     {
+      "EntityId": 18573,
+      "VideoName": "Al Faisaly (JOR) vs Al Taawoun FC (KSA)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-29 00:15:00",
+      "Description": "Watch Al Faisaly vs Al Taawoun FC live online on tapmad. The AFC Champions League Two Al Faisaly vs Al Taawoun FC match is scheduled to take place on 29-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792659586540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792659586540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two"
+    },
+    {
       "EntityId": 1921,
       "VideoName": "Al Faisaly vs Al Taawoun",
       "CategoryName": "AFC Champions League Two",
@@ -8183,20 +8222,6 @@
       "Team2Name": "East Bengal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/71044/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/40655/image"
-    },
-    {
-      "EntityId": 19111,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "Afghanistan vs Zimbabwe 2026",
-      "StageName": "1st T20I",
-      "EventStartDate": "2026-10-27 20:30:00",
-      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 27-Oct-2026 at 08:30 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792753999540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792753999540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1245,
-      "UrlSlug": "afg-vs-zim-1st-t20i-live"
     },
     {
       "EntityId": 1886,
