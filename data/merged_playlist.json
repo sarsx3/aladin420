@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:59 AM 27-10-2026",
+    "LastUpdate": "09:00 AM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 406
   },
   "Matches": [
@@ -149,11 +149,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793109146~acl=/*~id=62814651903181700789253573403101~hmac=8eb61c0739aa5e1896677e5eb6f0624acc395a5716d2e738e86f2188b19f8341",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793112782~acl=/*~id=82452836156319015866152409055942~hmac=0d6a470a15c2f0f463bb8b4ac7357a12e8d9c5efba3bc485b70cfd8911cf9c21",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793109146~acl=/*~id=62814651903181700789253573403101~hmac=8eb61c0739aa5e1896677e5eb6f0624acc395a5716d2e738e86f2188b19f8341"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793112782~acl=/*~id=82452836156319015866152409055942~hmac=0d6a470a15c2f0f463bb8b4ac7357a12e8d9c5efba3bc485b70cfd8911cf9c21"
         }
       ],
       "Provider": "SonyLiv",
@@ -201,84 +201,6 @@
       "Team2Name": "Estudiantes",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3204/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3206/image"
-    },
-    {
-      "EntityId": 1,
-      "VideoName": "Ballon dOR vs Ballon dOR",
-      "CategoryName": "Ballon Dor Show",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-26 23:00:00",
-      "Description": "Watch Ballon dOR vs Ballon dOR — Ballon Dor Show. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://majedulofficial.xyz/sportshype/ballon.jpg",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9241,
-      "UrlSlug": "ballon-dor-show",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "sources": [
-        {
-          "label": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.55/hls/AFFF.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Ballon d'Or + HD",
-          "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Ballon d'Or (ENG)",
-          "url": "https://tedesco.formaturamaxi.com.br/balon.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Ballon d'Or (ES)",
-          "url": "https://admin2.formaturamaxi.com.br/dazn.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Ballon d'Or (FR)",
-          "url": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASf_uK7kF_g7Ljl2LwiQpfz01nA_zkX0t73uaJoUF0QGtw/_nc_ohc-LQQu1dDMkzAQ7kNvwEhq_QU/live-dash/dash-abr-ibr-audio/122119943091323743.mpd?_nc_eui2=AeFmFmef221hnkR5WX0Eg4NcfXcuWLwYM_19dy5YvBgz_STMy3q1bHL6tJBeQtULT5HJHSACHitRK5-7KNPayF7x&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQPgnuNDKxCKvVup4Oq_Ko9yR-2LzxLeUTpaCjnNpteMrw&oe=6AE1797A",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793046194-0-0-016563cbb853695f94e24f65d11e2be6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Ballon dOR",
-      "Team2Name": "Ballon dOR",
-      "Team1Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg",
-      "Team2Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg"
     },
     {
       "EntityId": 2261,
@@ -8309,6 +8231,84 @@
       "Status": "Upcoming",
       "CategoryId": 1246,
       "UrlSlug": "West-Indies-Tour-of-Bangladesh-2026-Trophy-Reveal"
+    },
+    {
+      "EntityId": 1,
+      "VideoName": "Ballon dOR vs Ballon dOR",
+      "CategoryName": "Ballon Dor Show",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-26 23:00:00",
+      "Description": "Watch Ballon dOR vs Ballon dOR — Ballon Dor Show. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://majedulofficial.xyz/sportshype/ballon.jpg",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Ended",
+      "CategoryId": 9241,
+      "UrlSlug": "ballon-dor-show",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "sources": [
+        {
+          "label": "CBS SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.55/hls/AFFF.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Ballon d'Or + HD",
+          "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Ballon d'Or (ENG)",
+          "url": "https://tedesco.formaturamaxi.com.br/balon.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Ballon d'Or (ES)",
+          "url": "https://admin2.formaturamaxi.com.br/dazn.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Ballon d'Or (FR)",
+          "url": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASf_uK7kF_g7Ljl2LwiQpfz01nA_zkX0t73uaJoUF0QGtw/_nc_ohc-LQQu1dDMkzAQ7kNvwEhq_QU/live-dash/dash-abr-ibr-audio/122119943091323743.mpd?_nc_eui2=AeFmFmef221hnkR5WX0Eg4NcfXcuWLwYM_19dy5YvBgz_STMy3q1bHL6tJBeQtULT5HJHSACHitRK5-7KNPayF7x&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQPgnuNDKxCKvVup4Oq_Ko9yR-2LzxLeUTpaCjnNpteMrw&oe=6AE1797A",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793046194-0-0-016563cbb853695f94e24f65d11e2be6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Ballon dOR",
+      "Team2Name": "Ballon dOR",
+      "Team1Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg",
+      "Team2Logo": "https://majedulofficial.xyz/sportshype/ballon.jpg"
     }
   ]
 }
