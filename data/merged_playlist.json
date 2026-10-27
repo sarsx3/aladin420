@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:28 PM 27-10-2026",
+    "LastUpdate": "09:29 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 393
   },
   "Matches": [
@@ -116,63 +116,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793107581
-    },
-    {
-      "EntityId": 2243,
-      "VideoName": "Karnali Yaks vs Janakpur Bolts",
-      "CategoryName": "NPL 2026 - 3rd T20",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-27 17:15:00",
-      "Description": "Watch Karnali Yaks vs Janakpur Bolts — NPL 2026 - 3rd T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9963,
-      "UrlSlug": "npl-2026-3rd-t20",
-      "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
-      "sources": [
-        {
-          "label": "STAR SPORTS HD",
-          "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FANCODE (IND)",
-          "url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
-          "headers": {
-            "Referer": "https://fancode.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-pnb-prn/_nc_cat-1/_nc_sr_t-4/v/rASeq5GoXlKwARHD6XBl_ju8QForCUf_x5P14d46hZac-9Q/_nc_ohc-ZrGyr_bhPY8Q7kNvwEwr55h/live-dash/dash-abr-ibr-audio/122129657108884101.mpd?_nc_eui2=AeEKKVb1v7UPsSKIumlEzkc7UQ6ycwQaCstRDrJzBBoKy8Qn0OgMzXQ9XxLDocb7PjN1n3Pe5c0fTKSVNlm4-Vlk&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQOQCQZapzOAlr0LX4j1ikdr0-VKmqFimiLsKzGxNJ-e8g&oe=6AE27A40",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-cco-prn/_nc_cat-1/_nc_sr_t-4/v/rAScxushF1-_jxY4YE8ck2-0aDXj5aDVhy6sx-NuUK14ixQ/_nc_ohc-r4CcCLWoQjAQ7kNvwGfrska/live-dash/dash-abr-ibr-audio/122144638052778559.mpd?_nc_eui2=AeEBWOPetRPVv8K1iihYPdBDBLADXpmWBvIEsANemZYG8olQB2LNcgWDkdDCOGXw9w6D5EptYD0qFtvhr4fGEb40&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQP86wOkOYJnUFIZQy3dNsKBE9-K9c8NfRmB1UdJoVPDfQ&oe=6AE280BC",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Karnali Yaks",
-      "Team2Name": "Janakpur Bolts",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
     },
     {
       "EntityId": 17702,
@@ -8012,8 +7955,44 @@
       "Status": "Upcoming",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793073914-0-0-ec6ab4e9b5f7ca44b6bc41220e7958f5",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793073914-0-0-ec6ab4e9b5f7ca44b6bc41220e7958f5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793097486-0-0-b19f0392be091af29790e76249aec997",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=fd16c936b3c69260a6688892b6bd7689&txTime=6ae0c59a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793111415-0-0-979dc40c0baecbb3494c4aaa943fd81e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Shabab Al Ahly",
       "Team2Name": "Esteghlal FC Tehran",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/264111/image",
@@ -8032,8 +8011,23 @@
       "Status": "Upcoming",
       "CategoryId": 9305,
       "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793110834-0-0-96a4cc027928318d06d4a9359044a9e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al Seeb SC",
       "Team2Name": "East Bengal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/71044/image",
