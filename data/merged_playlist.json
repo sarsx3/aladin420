@@ -1,15 +1,50 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:01 PM 27-10-2026",
+    "LastUpdate": "01:02 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 404
   },
   "Matches": [
+    {
+      "EntityId": 1090550767,
+      "VideoName": "3rd T20I",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 13:02:20",
+      "Description": "Watch 3rd T20I live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793084540
+    },
     {
       "EntityId": 19057,
       "VideoName": "New Zealand vs India",
@@ -185,11 +220,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793123713~acl=/*~id=44022112409620229976917230288855~hmac=d128f40d70012d95ca991004c76be850a623760a6e1280c4f0deee741ad176c7",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793123713~acl=/*~id=44022112409620229976917230288855~hmac=d128f40d70012d95ca991004c76be850a623760a6e1280c4f0deee741ad176c7"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3"
         }
       ],
       "Provider": "SonyLiv",
