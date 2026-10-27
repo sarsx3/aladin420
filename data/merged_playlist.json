@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:03 PM 27-10-2026",
+    "LastUpdate": "03:04 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -182,13 +182,6 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "PTV SPORTS -aq",
-          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Pakistan",
@@ -209,23 +202,27 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793134766~acl=/*~id=94465518809345208597772885619462~hmac=cfb278e6830c596c99abc9ec6cca3f4884951d83f328289e7c3ff21f5e02bfa2",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793131081~acl=/*~id=86879004685848816031674896287234~hmac=1dfc2320f2da3c0009a30f9a2d8bf1f3f4fb8cb642ec782a9a98d062f22a00c3",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793134766~acl=/*~id=94465518809345208597772885619462~hmac=cfb278e6830c596c99abc9ec6cca3f4884951d83f328289e7c3ff21f5e02bfa2"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793131081~acl=/*~id=86879004685848816031674896287234~hmac=1dfc2320f2da3c0009a30f9a2d8bf1f3f4fb8cb642ec782a9a98d062f22a00c3"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793134766~acl=/*~id=94465518809345208597772885619462~hmac=cfb278e6830c596c99abc9ec6cca3f4884951d83f328289e7c3ff21f5e02bfa2"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793131081~acl=/*~id=86879004685848816031674896287234~hmac=1dfc2320f2da3c0009a30f9a2d8bf1f3f4fb8cb642ec782a9a98d062f22a00c3"
         },
         {
           "label": "Tamil",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793134766~acl=/*~id=94465518809345208597772885619462~hmac=cfb278e6830c596c99abc9ec6cca3f4884951d83f328289e7c3ff21f5e02bfa2"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793131081~acl=/*~id=86879004685848816031674896287234~hmac=1dfc2320f2da3c0009a30f9a2d8bf1f3f4fb8cb642ec782a9a98d062f22a00c3"
         },
         {
           "label": "Telugu",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793134766~acl=/*~id=94465518809345208597772885619462~hmac=cfb278e6830c596c99abc9ec6cca3f4884951d83f328289e7c3ff21f5e02bfa2"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793131081~acl=/*~id=86879004685848816031674896287234~hmac=1dfc2320f2da3c0009a30f9a2d8bf1f3f4fb8cb642ec782a9a98d062f22a00c3"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793131081~acl=/*~id=86879004685848816031674896287234~hmac=1dfc2320f2da3c0009a30f9a2d8bf1f3f4fb8cb642ec782a9a98d062f22a00c3"
         }
       ],
       "Provider": "SonyLiv",
