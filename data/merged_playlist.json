@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:37 AM 28-10-2026",
+    "LastUpdate": "01:38 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
+    "LiveCount": 16,
     "UpcomingCount": 380
   },
   "Matches": [
@@ -361,8 +361,52 @@
       "Status": "Live",
       "CategoryId": 9336,
       "UrlSlug": "dfb-pokal",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001793075785-0-0-dbb202acda12f96db54524140f5c35ee",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001793075785-0-0-dbb202acda12f96db54524140f5c35ee",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0c4057eccac438d5fd05fb010437cb11&txTime=6ae0f7fe",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793113446-0-0-2b869a73cdb1919787cefe0476b77614",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793125898-0-0-e100360f6a582ab5c377d80663997656",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "http://193.47.62.59/hls/J777AA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Elversberg",
       "Team2Name": "SV Darmstadt 98",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2598/image",
@@ -381,8 +425,44 @@
       "Status": "Live",
       "CategoryId": 9359,
       "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793074708-0-0-e1db56ca178186f1e95d3d286891add0",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793074708-0-0-e1db56ca178186f1e95d3d286891add0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1793107386-0-0-04b4af5f33919799bbfec932833cd39a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=2ade4296997ddec002680d90da683af8&txTime=6ae1037a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793125933-0-0-30d4e6d16b8abd80ab5d57597fa95d18",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Torino",
       "Team2Name": "Como",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2696/image",
@@ -579,150 +659,6 @@
       "Team2Name": "Al Hussein",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/61532/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/117204/image"
-    },
-    {
-      "EntityId": 1876,
-      "VideoName": "Sassuolo vs Lazio",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-27 23:30:00",
-      "Description": "Watch Sassuolo vs Lazio — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2793/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "sources": [
-        {
-          "label": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793074416-0-0-951552857a80ec819b237b5206494d8d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1793098026-0-0-8ea2b24f99bdd0401ca72ef2a9abc404",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793118481-0-0-1a3048f19739b322bbb69c6a4d78930c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdafezj5nn/out/v1/b0d6db796b544f988172f7ca8d9480f6/cenc.mpd?aws_sessionId=a9cce8e5-1747-4e8d-870d-44488ca5cb31?|drmScheme=clearkey&drmLicense=50e443948a57fe66c159348eae554b3b:8eda6b0e00eb21bd6de20c8e705062cc",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ HD",
-          "url": "https://chatgpt.hereisman.net/playlist/58737/load-playlist-multi?.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/4FFFAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://www.rtmpcdn.com/live/1f98e519-b6fd-4d8c-a58b-39b9b7b9f835.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sassuolo",
-      "Team2Name": "Lazio",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2793/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2699/image"
-    },
-    {
-      "EntityId": 1880,
-      "VideoName": "Cd Cuarte Industrial vs Girona FC",
-      "CategoryName": "Copa del Rey",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-27 23:30:00",
-      "Description": "Watch Cd Cuarte Industrial vs Girona FC — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/327186/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9095,
-      "UrlSlug": "copa-del-rey",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001793118094-0-0-bf88afd5b80e0d10ac995db06aa221fe",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://www.rtmpcdn.com/live/1c6f58b0-8cf8-46a9-825b-f7177d2263ce.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "http://193.47.62.44/hls/vrvrvr.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Cd Cuarte Industrial",
-      "Team2Name": "Girona FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/327186/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/24264/image"
     },
     {
       "EntityId": 2261,
