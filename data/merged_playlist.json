@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:32 AM 28-10-2026",
+    "LastUpdate": "01:33 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -8035,8 +8035,38 @@
       "Status": "Upcoming",
       "CategoryId": 9336,
       "UrlSlug": "dfb-pokal",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793076073-0-0-61f628fe3ab7afdb324aaed432b745e8",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793076073-0-0-61f628fe3ab7afdb324aaed432b745e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793125546-0-0-16e7c7c0d45f0cbb8d1d522f96b3c8ca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "http://193.47.62.59/hls/J777AAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Köln",
       "Team2Name": "Union Berlin",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
@@ -8055,8 +8085,38 @@
       "Status": "Upcoming",
       "CategoryId": 9336,
       "UrlSlug": "dfb-pokal",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793075695-0-0-3a25699110fdeeb78cdbbcd09f2d0c03",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793075695-0-0-3a25699110fdeeb78cdbbcd09f2d0c03",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793125399-0-0-535b1a25de1a57e39690804cda1dafb4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "http://193.47.62.59/hls/J777.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Gladbach",
       "Team2Name": "Karlsruher",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
