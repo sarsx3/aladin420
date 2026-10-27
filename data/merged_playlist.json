@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:25 PM 27-10-2026",
+    "LastUpdate": "07:26 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 394
   },
   "Matches": [
+    {
+      "EntityId": 1090550786,
+      "VideoName": "Delhi Leaders vs Haryana Lions - Semi Final 1",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 19:26:21",
+      "Description": "Watch Delhi Leaders vs Haryana Lions - Semi Final 1 live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793150607~acl=/*~id=29066710377906771915083223675723~hmac=c2204c5374ccf8e383ee06e43333ce5238ca5115b4bd14983fe887cd48349ad4",
+      "sources": [
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793150607~acl=/*~id=29066710377906771915083223675723~hmac=c2204c5374ccf8e383ee06e43333ce5238ca5115b4bd14983fe887cd48349ad4"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793107581
+    },
     {
       "EntityId": 1878,
       "VideoName": "Abha Club vs Al Faysaly",
