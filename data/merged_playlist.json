@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:26 PM 27-10-2026",
+    "LastUpdate": "09:27 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -8012,8 +8012,44 @@
       "Status": "Upcoming",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793073914-0-0-ec6ab4e9b5f7ca44b6bc41220e7958f5",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793073914-0-0-ec6ab4e9b5f7ca44b6bc41220e7958f5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793097486-0-0-b19f0392be091af29790e76249aec997",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=fd16c936b3c69260a6688892b6bd7689&txTime=6ae0c59a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793111415-0-0-979dc40c0baecbb3494c4aaa943fd81e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Shabab Al Ahly",
       "Team2Name": "Esteghlal FC Tehran",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/264111/image",
