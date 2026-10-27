@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:17 PM 27-10-2026",
+    "LastUpdate": "07:18 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 394
   },
   "Matches": [
@@ -386,37 +386,19 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "fancode (ind)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793173775~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c4e_watcho_586cba68-53ee-46~Signature=ATFKiJvsjuNKmS39CEGJCbz7ufSXXXjr0NZqjqmaVkTXvB6FG0GniHiyTAobbPIg-DSZad66dtIgRGNswqK1vLHSBo4D",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "South Africa",
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 18884,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "Pakistan ODI Tri-Series 2026",
-      "StageName": "5th ODI",
-      "EventStartDate": "2026-10-27 14:00:00",
-      "Description": "Watch Pakistan ODI Tri-Series 2026 live on tapmad. The PAK vs SL brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 5th ODI is scheduled to be played on 27-Oct-2026 at 01:00 PM . Fans can watch Pakistan ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792577649540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792577649540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1160,
-      "UrlSlug": "pak-vs-sl-5th-odi-live",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2261,
