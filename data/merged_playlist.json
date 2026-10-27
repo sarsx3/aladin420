@@ -1,15 +1,143 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:04 PM 27-10-2026",
+    "LastUpdate": "06:05 PM 27-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 397
+    "LiveCount": 15,
+    "UpcomingCount": 395
   },
   "Matches": [
+    {
+      "EntityId": 1866,
+      "VideoName": "Ratchaburi FC vs Kashiwa Reysol",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 18:15:00",
+      "Description": "Watch Ratchaburi FC vs Kashiwa Reysol — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/85743/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793074035-0-0-ca77d9b54b59c3c1c7d3253ddd33bfa0",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793074035-0-0-ca77d9b54b59c3c1c7d3253ddd33bfa0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793097246-0-0-e40fade029e2994901e6139d3de33236",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793097366-0-0-f825afe529722cb03408db37798d10b1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793100493-0-0-4844b766b70f28e47e52c02b48756f3e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "http://193.47.62.50/hls/JYYYA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Ratchaburi FC",
+      "Team2Name": "Kashiwa Reysol",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/85743/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3140/image"
+    },
+    {
+      "EntityId": 1867,
+      "VideoName": "Beijing Guoan vs Jeonbuk Hyundai Motors",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-27 18:15:00",
+      "Description": "Watch Beijing Guoan vs Jeonbuk Hyundai Motors — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3376/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fd0de6cdab5e8ef09aa1b5206d29dce6&wsABSTime=1793116949",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fd0de6cdab5e8ef09aa1b5206d29dce6&wsABSTime=1793116949",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e8491993d1f2b6faf80bd2eff0339fe9&txTime=6ae0c3f6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0033294e46b3e4a378989610efdf7ef7&txTime=6ae0c432",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793100076-0-0-09ce39919b71ed9e2903337d464dae23",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "http://193.47.62.50/hls/JYYY.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Beijing Guoan",
+      "Team2Name": "Jeonbuk Hyundai Motors",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3376/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/6908/image"
+    },
     {
       "EntityId": 2243,
       "VideoName": "Karnali Yaks vs Janakpur Bolts",
@@ -8480,134 +8608,6 @@
       "Status": "Upcoming",
       "CategoryId": 828,
       "UrlSlug": "afc-champions-league-elite-Ratchaburi FC vs Kashiwa Reysol"
-    },
-    {
-      "EntityId": 1866,
-      "VideoName": "Ratchaburi FC vs Kashiwa Reysol",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-27 18:15:00",
-      "Description": "Watch Ratchaburi FC vs Kashiwa Reysol — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/85743/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793074035-0-0-ca77d9b54b59c3c1c7d3253ddd33bfa0",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793074035-0-0-ca77d9b54b59c3c1c7d3253ddd33bfa0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793097246-0-0-e40fade029e2994901e6139d3de33236",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793097366-0-0-f825afe529722cb03408db37798d10b1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793100493-0-0-4844b766b70f28e47e52c02b48756f3e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-6",
-          "url": "http://193.47.62.50/hls/JYYYA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Ratchaburi FC",
-      "Team2Name": "Kashiwa Reysol",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/85743/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3140/image"
-    },
-    {
-      "EntityId": 1867,
-      "VideoName": "Beijing Guoan vs Jeonbuk Hyundai Motors",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-27 18:15:00",
-      "Description": "Watch Beijing Guoan vs Jeonbuk Hyundai Motors — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3376/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fd0de6cdab5e8ef09aa1b5206d29dce6&wsABSTime=1793116949",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fd0de6cdab5e8ef09aa1b5206d29dce6&wsABSTime=1793116949",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e8491993d1f2b6faf80bd2eff0339fe9&txTime=6ae0c3f6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0033294e46b3e4a378989610efdf7ef7&txTime=6ae0c432",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793100076-0-0-09ce39919b71ed9e2903337d464dae23",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-6",
-          "url": "http://193.47.62.50/hls/JYYY.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Beijing Guoan",
-      "Team2Name": "Jeonbuk Hyundai Motors",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3376/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/6908/image"
     }
   ]
 }
