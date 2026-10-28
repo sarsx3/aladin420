@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:16 PM 28-10-2026",
+    "LastUpdate": "08:17 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
+    "LiveCount": 12,
     "UpcomingCount": 367
   },
   "Matches": [
@@ -290,125 +290,6 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 1892,
-      "VideoName": "Viettel vs FC Seoul",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 18:15:00",
-      "Description": "Watch Viettel vs FC Seoul — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/231270/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793156632-0-0-394c90d13794330e4099c4a164bad3bc",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793156632-0-0-394c90d13794330e4099c4a164bad3bc",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793186406-0-0-2288f22299c5643bfddf7a41678a50b2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793187067-0-0-fe700bf309e9f2b409a3c0b08a0a94db",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=3f4ad4ad000313fdfc161d4b821b649f&wsABSTime=1793230268",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-6",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793187069-0-0-8054ab45a426a67290f7c4d6babb4245",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Viettel",
-      "Team2Name": "FC Seoul",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/231270/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7646/image"
-    },
-    {
-      "EntityId": 1893,
-      "VideoName": "Persib Bandung vs Melbourne Victory",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 18:15:00",
-      "Description": "Watch Persib Bandung vs Melbourne Victory — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/64289/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793156689-0-0-e9e21be3c75fdff924b397ddef0d9c82",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793156689-0-0-e9e21be3c75fdff924b397ddef0d9c82",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1793186466-0-0-e6cb8783dfa806780ded8cda1408ccb9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1793186526-0-0-729e1c660677dda256cdbc2a7d054ff2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793186925-0-0-914232a446d58c8d46de3261cf275d5e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Persib Bandung",
-      "Team2Name": "Melbourne Victory",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/64289/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5970/image"
     },
     {
       "EntityId": 2244,
