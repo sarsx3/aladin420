@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:09 AM 29-10-2026",
+    "LastUpdate": "01:10 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 7,
     "UpcomingCount": 356
   },
   "Matches": [
@@ -465,132 +465,6 @@
       "Team2Name": "Bologna",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2685/image"
-    },
-    {
-      "EntityId": 1910,
-      "VideoName": "SSV Jeddeloh vs Hertha BSC",
-      "CategoryName": "DFB-Pokal",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 23:00:00",
-      "Description": "Watch SSV Jeddeloh vs Hertha BSC — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/75853/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9336,
-      "UrlSlug": "dfb-pokal",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793204804-0-0-de969cddc961f5741541a44af7105e96",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "SSV Jeddeloh",
-      "Team2Name": "Hertha BSC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/75853/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2528/image"
-    },
-    {
-      "EntityId": 1911,
-      "VideoName": "Dresden vs FC Schalke 04",
-      "CategoryName": "DFB-Pokal",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 23:00:00",
-      "Description": "Watch Dresden vs FC Schalke 04 — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2595/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9336,
-      "UrlSlug": "dfb-pokal",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793157729-0-0-e5aacc54d04b41870dcd42a8ad8a35c8",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793157729-0-0-e5aacc54d04b41870dcd42a8ad8a35c8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793204470-0-0-114e2c130a5fae0d848f9145e2336e04",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Dresden",
-      "Team2Name": "FC Schalke 04",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2595/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2530/image"
-    },
-    {
-      "EntityId": 1912,
-      "VideoName": "Freiburg vs VfL Wolfsburg",
-      "CategoryName": "DFB-Pokal",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 23:00:00",
-      "Description": "Watch Freiburg vs VfL Wolfsburg — DFB-Pokal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2538/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9336,
-      "UrlSlug": "dfb-pokal",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793157503-0-0-8693325851730768f83d8a2fba1ce0fa",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793157503-0-0-8693325851730768f83d8a2fba1ce0fa",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1793187006-0-0-05582370dff3503fec82d696295088d6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1793196426-0-0-26fff64febf1498cc0f4243a316e3388",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Freiburg",
-      "Team2Name": "VfL Wolfsburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2538/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2524/image"
     },
     {
       "EntityId": 2261,
@@ -7496,8 +7370,37 @@
       "Status": "Upcoming",
       "CategoryId": 9024,
       "UrlSlug": "efl-cup",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793159297-0-0-d2e754fe4a2494621b6cba59d56ac7d9",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793159297-0-0-d2e754fe4a2494621b6cba59d56ac7d9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1793206026-0-0-f13d14f73c39dd310c281b91fca258f8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793211746-0-0-d64518c0958033c9801538f8e045cdc1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Fulham",
       "Team2Name": "Crystal Palace",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/43/image",
