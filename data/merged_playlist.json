@@ -1,15 +1,71 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 AM 29-10-2026",
+    "LastUpdate": "05:20 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 342
+    "LiveCount": 4,
+    "UpcomingCount": 341
   },
   "Matches": [
+    {
+      "EntityId": 1947,
+      "VideoName": "Inter Miami vs FC Cincinnati",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 05:30:00",
+      "Description": "Watch Inter Miami vs FC Cincinnati 🔥 — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/337602/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793226226-0-0-1c3440f48f581975a0b5c8ec2a69d4d1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SportsHype cdn-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793159696-0-0-19cd91a2077cab19ff53841c07a55155",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SportsHype cdn-2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793206086-0-0-59a7e9a3a1c9a96f41cc81c7345fd876",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SportsHype cdn-3",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1793206086-0-0-e707611f39d12139194d6469eb1d7f81",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Inter Miami",
+      "Team2Name": "FC Cincinnati",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/215167/image"
+    },
     {
       "EntityId": 1929,
       "VideoName": "Bragantino vs Chapecoense",
@@ -6884,62 +6940,6 @@
       "Team2Name": "São Paulo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1955/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1981/image"
-    },
-    {
-      "EntityId": 1947,
-      "VideoName": "Inter Miami vs FC Cincinnati",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 05:30:00",
-      "Description": "Watch Inter Miami vs FC Cincinnati 🔥 — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/337602/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793226226-0-0-1c3440f48f581975a0b5c8ec2a69d4d1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SportsHype cdn-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793159696-0-0-19cd91a2077cab19ff53841c07a55155",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SportsHype cdn-2",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793206086-0-0-59a7e9a3a1c9a96f41cc81c7345fd876",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SportsHype cdn-3",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1793206086-0-0-e707611f39d12139194d6469eb1d7f81",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Inter Miami",
-      "Team2Name": "FC Cincinnati",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/215167/image"
     }
   ]
 }
