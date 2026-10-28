@@ -1,15 +1,58 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:32 AM 28-10-2026",
+    "LastUpdate": "08:33 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 0,
+    "LiveCount": 1,
     "UpcomingCount": 378
   },
   "Matches": [
+    {
+      "EntityId": 1887,
+      "VideoName": "Argentinos Juniors vs Independiente Rivadavia",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 04:00:00",
+      "Description": "Watch Argentinos Juniors vs Independiente Rivadavia — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3216/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793132377-0-0-65bc4d2c0b4121327c30cd02565f0615",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "http://193.47.62.41/hls/GGGG.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Argentinos Juniors",
+      "Team2Name": "Independiente Rivadavia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3216/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/36842/image"
+    },
     {
       "EntityId": 2261,
       "VideoName": "Bangladesh vs Sri Lanka",
