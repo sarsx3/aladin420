@@ -1,15 +1,57 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:45 PM 28-10-2026",
+    "LastUpdate": "11:46 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 14,
     "UpcomingCount": 358
   },
   "Matches": [
+    {
+      "EntityId": 18578,
+      "VideoName": "Al Khaldiya SC (BHR) vs Al Wahda FC (UAE)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-29 00:15:00",
+      "Description": "Watch Al Khaldiya SC vs Al Wahda FC live online on tapmad. The AFC Champions League Two Al Khaldiya SC vs Al Wahda FC match is scheduled to take place on 29-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792736478540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792736479540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 18573,
+      "VideoName": "Al Faisaly (JOR) vs Al Taawoun FC (KSA)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-29 00:15:00",
+      "Description": "Watch Al Faisaly vs Al Taawoun FC live online on tapmad. The AFC Champions League Two Al Faisaly vs Al Taawoun FC match is scheduled to take place on 29-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792659586540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792659586540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1915,
       "VideoName": "Venezia vs Inter",
@@ -7618,8 +7660,23 @@
       "Status": "Upcoming",
       "CategoryId": 9305,
       "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793207987-0-0-9670f38da77061975cc6560535d64512",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al Faisaly",
       "Team2Name": "Al Taawoun",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/47482/image",
@@ -7638,8 +7695,16 @@
       "Status": "Upcoming",
       "CategoryId": 9305,
       "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel90.flv?wsSecret=693abdb45e706fb37b244eb21632cf0d&wsABSTime=1793251182",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel90.flv?wsSecret=693abdb45e706fb37b244eb21632cf0d&wsABSTime=1793251182",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al Khalidiyah",
       "Team2Name": "Wahda Abu Dhabi",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/371631/image",
