@@ -1,15 +1,42 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:59 PM 28-10-2026",
+    "LastUpdate": "08:00 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 14,
     "UpcomingCount": 367
   },
   "Matches": [
+    {
+      "EntityId": 1090551075,
+      "VideoName": "FC Goa vs Sporting Club Delhi",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 20:00:58",
+      "Description": "Watch FC Goa vs Sporting Club Delhi live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793196058
+    },
     {
       "EntityId": 2233,
       "VideoName": "Goa vs SC Delhi",
@@ -212,11 +239,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235390~acl=/*~id=41666514827267134236339708322469~hmac=c860c10e45540a5ed51399639f77c04d9c50b72956a48bed56c262881655c6e2",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f",
       "sources": [
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235390~acl=/*~id=41666514827267134236339708322469~hmac=c860c10e45540a5ed51399639f77c04d9c50b72956a48bed56c262881655c6e2"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f"
         }
       ],
       "Provider": "SonyLiv",
