@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:49 AM 28-10-2026",
+    "LastUpdate": "08:50 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 378
+    "LiveCount": 1,
+    "UpcomingCount": 377
   },
   "Matches": [
+    {
+      "EntityId": 4,
+      "VideoName": "India Women vs Zimbabwe Women",
+      "CategoryName": "ICC Women's Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 09:00:00",
+      "Description": "Watch India Women vs Zimbabwe Women — ICC Women's Championship. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213119/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9532,
+      "UrlSlug": "icc-women-s-championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "India Women",
+      "Team2Name": "Zimbabwe Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/213119/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/417062/image"
+    },
     {
       "EntityId": 2261,
       "VideoName": "Bangladesh vs Sri Lanka",
@@ -7464,26 +7484,6 @@
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
-    },
-    {
-      "EntityId": 4,
-      "VideoName": "India Women vs Zimbabwe Women",
-      "CategoryName": "ICC Women's Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 09:00:00",
-      "Description": "Watch India Women vs Zimbabwe Women — ICC Women's Championship. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213119/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9532,
-      "UrlSlug": "icc-women-s-championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "India Women",
-      "Team2Name": "Zimbabwe Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213119/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/417062/image"
     }
   ]
 }
