@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:11 AM 29-10-2026",
+    "LastUpdate": "02:12 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -615,6 +615,28 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
           "headers": {
             "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gyuzn4p42i/out/v1/ff10618fdd9849c58d08bcdd29273b25/cenc.mpd?aws_sessionId=fb16b1ea-9fe8-4713-9738-8bb5c99363cc?|drmScheme=clearkey&drmLicense=4414b2e099fbd62ca6547b0e34418928:1558e2881dbdd2838c78a85ad8d85c05",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uautlxohcw/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd?aws_sessionId=f3907a10-7893-441b-9deb-da9cefbcff41?|drmScheme=clearkey&drmLicense=34bfd93263d0ad79234d40c9ecacc343:535cca7ca0b77defee15bf8561c522c0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "HD QUALITY",
+          "url": "https://chatgpt.hereisman.net/playlist/58777/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
