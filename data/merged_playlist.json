@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:35 AM 28-10-2026",
+    "LastUpdate": "09:36 AM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -48,8 +48,16 @@
       "Status": "Live",
       "CategoryId": 9737,
       "UrlSlug": "west-indies-tour-of-bangladesh-2026-1st-test-day-1",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf",
+      "sources": [
+        {
+          "label": "t sports hd",
+          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Bangladesh",
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
