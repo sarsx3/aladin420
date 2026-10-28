@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:54 PM 28-10-2026",
+    "LastUpdate": "05:55 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -44,29 +44,32 @@
       "Status": "Live",
       "CategoryId": 9664,
       "UrlSlug": "npl-2026-4th-t20",
-      "stream_url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
+      "stream_url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-dkl-atn/_nc_cat-1/_nc_sr_t-4/v/rASdm__UM09E_CXbey_DEB9SJlURv15e7PD_j-aZhSmCDxQ/_nc_ohc-89cLCSS86JwQ7kNvwHNnwUN/live-dash/dash-abr-ibr-audio/122208124400829836.mpd?_nc_eui2=AeHFja1yCsqGtOj8rKMmavLxc5DZvR7fB4JzkNm9Ht8HggPe5iwdANnHqKV40wrJCccjQKXPEJEhl4pkSQlcaTsM&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQT4Mro1iSQygvaAcQd4YzgE_nssBPlhyYr51SoIupSAcQ&oe=6AE3D578",
       "sources": [
         {
-          "label": "Server 1",
-          "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
+          "label": "Server-4",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-dkl-atn/_nc_cat-1/_nc_sr_t-4/v/rASdm__UM09E_CXbey_DEB9SJlURv15e7PD_j-aZhSmCDxQ/_nc_ohc-89cLCSS86JwQ7kNvwHNnwUN/live-dash/dash-abr-ibr-audio/122208124400829836.mpd?_nc_eui2=AeHFja1yCsqGtOj8rKMmavLxc5DZvR7fB4JzkNm9Ht8HggPe5iwdANnHqKV40wrJCccjQKXPEJEhl4pkSQlcaTsM&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQT4Mro1iSQygvaAcQd4YzgE_nssBPlhyYr51SoIupSAcQ&oe=6AE3D578",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         },
         {
-          "label": "Server-1",
-          "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
+          "label": "Server 2",
+          "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
           "label": "Server-2",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "Server-1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-dkl-atn/_nc_cat-1/_nc_sr_t-4/v/rASdm__UM09E_CXbey_DEB9SJlURv15e7PD_j-aZhSmCDxQ/_nc_ohc-89cLCSS86JwQ7kNvwHNnwUN/live-dash/dash-abr-ibr-audio/122208124400829836.mpd?_nc_eui2=AeHFja1yCsqGtOj8rKMmavLxc5DZvR7fB4JzkNm9Ht8HggPe5iwdANnHqKV40wrJCccjQKXPEJEhl4pkSQlcaTsM&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQT4Mro1iSQygvaAcQd4YzgE_nssBPlhyYr51SoIupSAcQ&oe=6AE3D578",
+          "label": "Server-4",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
