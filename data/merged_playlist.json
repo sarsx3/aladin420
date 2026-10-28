@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:04 AM 29-10-2026",
+    "LastUpdate": "12:05 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 358
+    "LiveCount": 15,
+    "UpcomingCount": 356
   },
   "Matches": [
     {
@@ -51,6 +51,69 @@
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1921,
+      "VideoName": "Al Faisaly vs Al Taawoun",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 00:15:00",
+      "Description": "Watch Al Faisaly vs Al Taawoun — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47482/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793207987-0-0-9670f38da77061975cc6560535d64512",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Faisaly",
+      "Team2Name": "Al Taawoun",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/47482/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/56021/image"
+    },
+    {
+      "EntityId": 1922,
+      "VideoName": "Al Khalidiyah vs Wahda Abu Dhabi",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 00:15:00",
+      "Description": "Watch Al Khalidiyah vs Wahda Abu Dhabi — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/371631/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel90.flv?wsSecret=693abdb45e706fb37b244eb21632cf0d&wsABSTime=1793251182",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel90.flv?wsSecret=693abdb45e706fb37b244eb21632cf0d&wsABSTime=1793251182",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Khalidiyah",
+      "Team2Name": "Wahda Abu Dhabi",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/371631/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/264115/image"
     },
     {
       "EntityId": 1915,
@@ -7623,69 +7686,6 @@
       "Team2Name": "Brighton",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/30/image"
-    },
-    {
-      "EntityId": 1921,
-      "VideoName": "Al Faisaly vs Al Taawoun",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 00:15:00",
-      "Description": "Watch Al Faisaly vs Al Taawoun — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47482/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793207987-0-0-9670f38da77061975cc6560535d64512",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Faisaly",
-      "Team2Name": "Al Taawoun",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/47482/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/56021/image"
-    },
-    {
-      "EntityId": 1922,
-      "VideoName": "Al Khalidiyah vs Wahda Abu Dhabi",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 00:15:00",
-      "Description": "Watch Al Khalidiyah vs Wahda Abu Dhabi — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/371631/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel90.flv?wsSecret=693abdb45e706fb37b244eb21632cf0d&wsABSTime=1793251182",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live1.quickscoreboardz.com/live/channel90.flv?wsSecret=693abdb45e706fb37b244eb21632cf0d&wsABSTime=1793251182",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Khalidiyah",
-      "Team2Name": "Wahda Abu Dhabi",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/371631/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/264115/image"
     }
   ]
 }
