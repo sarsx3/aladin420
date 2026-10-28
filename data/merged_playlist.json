@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:59 PM 28-10-2026",
+    "LastUpdate": "10:01 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,48 @@
     "UpcomingCount": 365
   },
   "Matches": [
+    {
+      "EntityId": 18568,
+      "VideoName": "Al Nahda Club (OMA) vs Al Rayyan SC (QAT)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-28 22:00:00",
+      "Description": "Watch Al Nahda Club vs Al Rayyan SC live online on tapmad. The AFC Champions League Two Al Nahda Club vs Al Rayyan SC match is scheduled to take place on 28-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792659286540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792659286540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 18563,
+      "VideoName": "Al Jazira Club (UAE) vs Al Muharraq SC (BHR)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-10-28 22:00:00",
+      "Description": "Watch Al Jazira Club vs Al Muharraq SC live online on tapmad. The AFC Champions League Two Al Jazira Club vs Al Muharraq SC match is scheduled to take place on 28-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792658973540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792658973540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1896,
       "VideoName": "Al Nahda vs Al Rayyan",
@@ -79,8 +121,44 @@
       "Status": "Live",
       "CategoryId": 9305,
       "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793157139-0-0-442f5d70de1625bf9a9e179de074a7ba",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793157139-0-0-442f5d70de1625bf9a9e179de074a7ba",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1793196066-0-0-42382fde4a2b3b6bf3989c8769652cc8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1793196066-0-0-dbf3ed3dc46bdf2523ca6d3f62904229",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793200844-0-0-95bd7a066aa450e350f772d9b97db79a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Al-Jazira",
       "Team2Name": "Muharraq SC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/8090/image",
@@ -99,15 +177,15 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793246308~acl=/*~id=99954652133227424275186636837100~hmac=5dee5fb88a6b881383144d4f3f9b65e96317d1136fbc69dfb9da8b1cd82f34da",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793246308~acl=/*~id=99954652133227424275186636837100~hmac=5dee5fb88a6b881383144d4f3f9b65e96317d1136fbc69dfb9da8b1cd82f34da"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39"
+          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246308~acl=/*~id=99954652133227424275186636837100~hmac=5dee5fb88a6b881383144d4f3f9b65e96317d1136fbc69dfb9da8b1cd82f34da"
         }
       ],
       "Provider": "SonyLiv",
@@ -205,111 +283,6 @@
       ]
     },
     {
-      "EntityId": 1894,
-      "VideoName": "Gol Gohar vs Arkadag",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 19:45:00",
-      "Description": "Watch Gol Gohar vs Arkadag — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/275525/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9fhttps://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9fhttps://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793190170-0-0-d9f208f0951ad13be424c303de9a4ee6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Gol Gohar",
-      "Team2Name": "Arkadag",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/275525/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/469420/image"
-    },
-    {
-      "EntityId": 1895,
-      "VideoName": "Nasaf vs Kuwait SC",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 19:45:00",
-      "Description": "Watch Nasaf vs Kuwait SC — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34017/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793156936-0-0-a1735cfa4c355ea2899cc5b2f4c3f3d7",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793156936-0-0-a1735cfa4c355ea2899cc5b2f4c3f3d7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793186706-0-0-471f4a3d6f93297499cbca92ea2f3d6f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=bb7363bc2c9f151fd5cc9fae9ad566a2&txTime=6ae22296",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793190336-0-0-e67b01c7b0400d6bc297ddb25849b951",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Nasaf",
-      "Team2Name": "Kuwait SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34017/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/32525/image"
-    },
-    {
       "EntityId": 1090551064,
       "VideoName": "Haryana Lions vs UP Dhurandhar - Final",
       "CategoryName": "Cricket",
@@ -322,11 +295,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246308~acl=/*~id=99954652133227424275186636837100~hmac=5dee5fb88a6b881383144d4f3f9b65e96317d1136fbc69dfb9da8b1cd82f34da",
       "sources": [
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246308~acl=/*~id=99954652133227424275186636837100~hmac=5dee5fb88a6b881383144d4f3f9b65e96317d1136fbc69dfb9da8b1cd82f34da"
         }
       ],
       "Provider": "SonyLiv",
