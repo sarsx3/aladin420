@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:31 PM 28-10-2026",
+    "LastUpdate": "05:32 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 372
   },
   "Matches": [
@@ -381,31 +381,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 19120,
-      "VideoName": "Bangladesh vs West Indies",
-      "CategoryName": "West indies Tour of Bangladesh 2026",
-      "StageName": "1st Test",
-      "EventStartDate": "2026-10-28 10:00:00",
-      "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1246,
-      "UrlSlug": "ban-vs-wi-1st-test-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 17702,
@@ -6996,6 +6971,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274883/image"
     },
     {
+      "EntityId": 19120,
+      "VideoName": "Bangladesh vs West Indies",
+      "CategoryName": "West indies Tour of Bangladesh 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-10-29 10:00:00",
+      "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1246,
+      "UrlSlug": "ban-vs-wi-1st-test-live"
+    },
+    {
       "EntityId": 1948,
       "VideoName": "Bangladesh vs West Indies",
       "CategoryName": "West Indies tour of Bangladesh, 2026 - 1st Test, Day 2",
@@ -7772,20 +7761,6 @@
       "Team2Name": "Melbourne Victory",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/64289/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/5970/image"
-    },
-    {
-      "EntityId": 18583,
-      "VideoName": "Persib Bandung (IDN) vs Melbourne Victory FC (AUS)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-10-28 17:15:00",
-      "Description": "Watch Persib Bandung vs Melbourne Victory FC live online on tapmad. The AFC Champions League Two Persib Bandung vs Melbourne Victory FC match is scheduled to take place on 28-Oct,  at 05:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792655348540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792655349540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two"
     }
   ]
 }
