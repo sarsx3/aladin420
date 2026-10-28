@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:01 PM 28-10-2026",
+    "LastUpdate": "07:02 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 370
   },
   "Matches": [
+    {
+      "EntityId": 1090551064,
+      "VideoName": "Haryana Lions vs UP Dhurandhar - Final",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 19:02:21",
+      "Description": "Watch Haryana Lions vs UP Dhurandhar - Final live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235390~acl=/*~id=41666514827267134236339708322469~hmac=c860c10e45540a5ed51399639f77c04d9c50b72956a48bed56c262881655c6e2",
+      "sources": [
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235390~acl=/*~id=41666514827267134236339708322469~hmac=c860c10e45540a5ed51399639f77c04d9c50b72956a48bed56c262881655c6e2"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793192541
+    },
     {
       "EntityId": 18583,
       "VideoName": "Persib Bandung (IDN) vs Melbourne Victory FC (AUS)",
