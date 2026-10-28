@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:34 PM 28-10-2026",
+    "LastUpdate": "07:35 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 370
+    "LiveCount": 12,
+    "UpcomingCount": 368
   },
   "Matches": [
     {
@@ -51,6 +51,104 @@
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1894,
+      "VideoName": "Gol Gohar vs Arkadag",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 19:45:00",
+      "Description": "Watch Gol Gohar vs Arkadag — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/275525/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9fhttps://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9fhttps://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793190170-0-0-d9f208f0951ad13be424c303de9a4ee6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Gol Gohar",
+      "Team2Name": "Arkadag",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/275525/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/469420/image"
+    },
+    {
+      "EntityId": 1895,
+      "VideoName": "Nasaf vs Kuwait SC",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 19:45:00",
+      "Description": "Watch Nasaf vs Kuwait SC — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34017/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793156936-0-0-a1735cfa4c355ea2899cc5b2f4c3f3d7",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793156936-0-0-a1735cfa4c355ea2899cc5b2f4c3f3d7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793186706-0-0-471f4a3d6f93297499cbca92ea2f3d6f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=bb7363bc2c9f151fd5cc9fae9ad566a2&txTime=6ae22296",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793190336-0-0-e67b01c7b0400d6bc297ddb25849b951",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Nasaf",
+      "Team2Name": "Kuwait SC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34017/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/32525/image"
     },
     {
       "EntityId": 1090551064,
@@ -7693,104 +7791,6 @@
       "Team2Name": "SC Delhi",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/174594/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/331840/image"
-    },
-    {
-      "EntityId": 1894,
-      "VideoName": "Gol Gohar vs Arkadag",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 19:45:00",
-      "Description": "Watch Gol Gohar vs Arkadag — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/275525/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9fhttps://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9fhttps://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793190170-0-0-d9f208f0951ad13be424c303de9a4ee6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Gol Gohar",
-      "Team2Name": "Arkadag",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/275525/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/469420/image"
-    },
-    {
-      "EntityId": 1895,
-      "VideoName": "Nasaf vs Kuwait SC",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 19:45:00",
-      "Description": "Watch Nasaf vs Kuwait SC — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34017/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793156936-0-0-a1735cfa4c355ea2899cc5b2f4c3f3d7",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793156936-0-0-a1735cfa4c355ea2899cc5b2f4c3f3d7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793186706-0-0-471f4a3d6f93297499cbca92ea2f3d6f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=bb7363bc2c9f151fd5cc9fae9ad566a2&txTime=6ae22296",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793190336-0-0-e67b01c7b0400d6bc297ddb25849b951",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Nasaf",
-      "Team2Name": "Kuwait SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34017/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/32525/image"
     }
   ]
 }
