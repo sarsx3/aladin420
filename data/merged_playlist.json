@@ -1,15 +1,207 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:19 PM 28-10-2026",
+    "LastUpdate": "11:20 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 361
+    "LiveCount": 12,
+    "UpcomingCount": 358
   },
   "Matches": [
+    {
+      "EntityId": 1915,
+      "VideoName": "Venezia vs Inter",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 23:30:00",
+      "Description": "Watch Venezia vs Inter — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2688/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "sources": [
+        {
+          "label": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793157889-0-0-6b7e9ee0457f243d26713486fe611838",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1793205786-0-0-9107425fa221bff7ceec85cb89befa73",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793205786-0-0-78fe2e6813f97841cf45af4634a3e73a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793204850-0-0-14cf202697cde829dfd7868c27212c19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Venezia",
+      "Team2Name": "Inter",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2688/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2697/image"
+    },
+    {
+      "EntityId": 1916,
+      "VideoName": "Parma vs Udinese",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 23:30:00",
+      "Description": "Watch Parma vs Udinese — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2690/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793158716-0-0-3b229eb52ba6219587a06797405c779a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b8074e190dd75694b77934458a4aa97b&txTime=6ae26e0e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793204724-0-0-b534f988b6a1247e33f7602779f8a413",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Parma",
+      "Team2Name": "Udinese",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2690/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2695/image"
+    },
+    {
+      "EntityId": 1917,
+      "VideoName": "AC Milan vs Bologna",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 23:30:00",
+      "Description": "Watch AC Milan vs Bologna — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2692/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+      "sources": [
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793157984-0-0-9868d8e497b5ccba9658862b1ed9c106",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=63f20f9812db6364782b8106420c8f41&txTime=6ae26c6a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793205786-0-0-f69b701dedce60b42ada29c9837bc39f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793204335-0-0-00f1a436365ff1831f38112d4491b9c1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "AC Milan",
+      "Team2Name": "Bologna",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2685/image"
+    },
     {
       "EntityId": 1909,
       "VideoName": "SC Paderborn vs VfB Stuttgart",
@@ -7429,198 +7621,6 @@
       "Team2Name": "Wahda Abu Dhabi",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/371631/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/264115/image"
-    },
-    {
-      "EntityId": 1915,
-      "VideoName": "Venezia vs Inter",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 23:30:00",
-      "Description": "Watch Venezia vs Inter — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2688/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "sources": [
-        {
-          "label": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793157889-0-0-6b7e9ee0457f243d26713486fe611838",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1793205786-0-0-9107425fa221bff7ceec85cb89befa73",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793205786-0-0-78fe2e6813f97841cf45af4634a3e73a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793204850-0-0-14cf202697cde829dfd7868c27212c19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Venezia",
-      "Team2Name": "Inter",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2688/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2697/image"
-    },
-    {
-      "EntityId": 1916,
-      "VideoName": "Parma vs Udinese",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 23:30:00",
-      "Description": "Watch Parma vs Udinese — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2690/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793158716-0-0-3b229eb52ba6219587a06797405c779a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b8074e190dd75694b77934458a4aa97b&txTime=6ae26e0e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793204724-0-0-b534f988b6a1247e33f7602779f8a413",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Parma",
-      "Team2Name": "Udinese",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2690/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2695/image"
-    },
-    {
-      "EntityId": 1917,
-      "VideoName": "AC Milan vs Bologna",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-28 23:30:00",
-      "Description": "Watch AC Milan vs Bologna — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2692/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793157984-0-0-9868d8e497b5ccba9658862b1ed9c106",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=63f20f9812db6364782b8106420c8f41&txTime=6ae26c6a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793205786-0-0-f69b701dedce60b42ada29c9837bc39f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793204335-0-0-00f1a436365ff1831f38112d4491b9c1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "AC Milan",
-      "Team2Name": "Bologna",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2685/image"
     }
   ]
 }
