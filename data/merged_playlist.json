@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:01 PM 28-10-2026",
+    "LastUpdate": "06:02 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 7,
     "UpcomingCount": 372
   },
   "Matches": [
@@ -54,21 +54,21 @@
           }
         },
         {
-          "label": "Server 2",
+          "label": "PrioFy -2",
           "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "Server-2",
+          "label": "Server-1",
           "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
         {
-          "label": "Server-4",
+          "label": "Server-2",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
@@ -121,148 +121,6 @@
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 1889,
-      "VideoName": "Gamba Osaka vs Buriram United",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 16:00:00",
-      "Description": "Watch Gamba Osaka vs Buriram United — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3138/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793155733-0-0-54293e02700bf76c3bf03e67c245d4f5",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793155733-0-0-54293e02700bf76c3bf03e67c245d4f5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1793183407-0-0-45bd4c518ccecf0a3bf3e87a0134d316",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=220df2d2604f62317fd88f243c313fed&txTime=6ae2153a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793179351-0-0-31f40548b1e70ac6a080d6a0b7ffccf7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-6",
-          "url": "https://www.rtmpcdn.com/live/8c1d041c-494e-47a5-841a-630651bc0bef.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-7",
-          "url": "http://193.47.62.55/hls/AQQQAAAAQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Gamba Osaka",
-      "Team2Name": "Buriram United",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3138/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34218/image"
-    },
-    {
-      "EntityId": 1890,
-      "VideoName": "Kashima Antlers vs Pohang Steelers",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-28 16:00:00",
-      "Description": "Watch Kashima Antlers vs Pohang Steelers — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3134/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793155507-0-0-7cd7356218ee4d8161bbfa7b45b6b244",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793155507-0-0-7cd7356218ee4d8161bbfa7b45b6b244",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793183286-0-0-38ddd0f685ed5d8e9e8fcf6700d8f624",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4ec9485c117bafcf1d7929ec79e564ce&txTime=6ae214c2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793179442-0-0-049ae7baef413909da2d79998ed29b04",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-6",
-          "url": "https://www.rtmpcdn.com/live/def63eec-1143-4057-bdd8-24b88a714aa7.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-7",
-          "url": "http://193.47.62.55/hls/AQQQAAAAQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Kashima Antlers",
-      "Team2Name": "Pohang Steelers",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3134/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7650/image"
     },
     {
       "EntityId": 4,
@@ -521,6 +379,66 @@
       "Team2Name": "Pakistan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6911/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6081/image"
+    },
+    {
+      "EntityId": 2188,
+      "VideoName": "Lillestrom vs Viktoria Plzen",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Lillestrom vs Viktoria Plzen — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/664/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lillestrom",
+      "Team2Name": "Viktoria Plzen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/664/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4502/image"
+    },
+    {
+      "EntityId": 2189,
+      "VideoName": "Sparta Praha vs Bournemouth",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Sparta Praha vs Bournemouth — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2218/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sparta Praha",
+      "Team2Name": "Bournemouth",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2218/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
+    },
+    {
+      "EntityId": 2190,
+      "VideoName": "Levski Sofia vs Jagiellonia",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Levski Sofia vs Jagiellonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3273/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Levski Sofia",
+      "Team2Name": "Jagiellonia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3273/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7691/image"
     },
     {
       "EntityId": 2191,
@@ -821,66 +739,6 @@
       "Team2Name": "Hoffenheim",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/7/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2569/image"
-    },
-    {
-      "EntityId": 2188,
-      "VideoName": "Lillestrom vs Viktoria Plzen",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Lillestrom vs Viktoria Plzen — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/664/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lillestrom",
-      "Team2Name": "Viktoria Plzen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/664/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4502/image"
-    },
-    {
-      "EntityId": 2189,
-      "VideoName": "Sparta Praha vs Bournemouth",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Sparta Praha vs Bournemouth — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2218/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sparta Praha",
-      "Team2Name": "Bournemouth",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2218/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
-    },
-    {
-      "EntityId": 2190,
-      "VideoName": "Levski Sofia vs Jagiellonia",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Levski Sofia vs Jagiellonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3273/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Levski Sofia",
-      "Team2Name": "Jagiellonia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3273/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7691/image"
     },
     {
       "EntityId": 2219,
@@ -7770,8 +7628,51 @@
       "Status": "Upcoming",
       "CategoryId": 9305,
       "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793156632-0-0-394c90d13794330e4099c4a164bad3bc",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793156632-0-0-394c90d13794330e4099c4a164bad3bc",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793186406-0-0-2288f22299c5643bfddf7a41678a50b2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793187067-0-0-fe700bf309e9f2b409a3c0b08a0a94db",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=3f4ad4ad000313fdfc161d4b821b649f&wsABSTime=1793230268",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793187069-0-0-8054ab45a426a67290f7c4d6babb4245",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Viettel",
       "Team2Name": "FC Seoul",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/231270/image",
