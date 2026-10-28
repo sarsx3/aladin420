@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:08 AM 29-10-2026",
+    "LastUpdate": "02:09 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -113,6 +113,29 @@
           "label": "Server-11",
           "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=f2160167ef4e6e73bff1d0042f7b1ffd&wsABSTime=1793255049",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/62adhhyr2r/out/v1/574b872158c7428885910984c4cc8427/cenc.mpd?aws_sessionId=3b385222-0996-4bcb-95dc-3cc1b369075c?|drmScheme=clearkey&drmLicense=6a57061e16aa29ee12e7611ef9e7964f:351bfaf902667534c409fb615e7185ef",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FASTER TV",
+          "url": "https://live.vivo155.com/live/sd-1-4646877.m3u8?txSecret=4cb2bfe8cfe446024b96e23a76e2dc0b&txTime=6AE26234",
+          "headers": {
+            "Referer": "https://player.on8on8.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "HD QUALITY",
+          "url": "https://chatgpt.hereisman.net/playlist/58781/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
