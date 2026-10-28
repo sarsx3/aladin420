@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:00 PM 28-10-2026",
+    "LastUpdate": "03:01 PM 28-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 375
   },
   "Matches": [
+    {
+      "EntityId": 1090550845,
+      "VideoName": "Gujarat Royals vs UP Dhurandhar - Semi Final 2",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-28 15:01:17",
+      "Description": "Watch Gujarat Royals vs UP Dhurandhar - Semi Final 2 live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027580/1793171987464723_STCL26_SF_Gujarat_Royals_vs_UP_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027580/1793171987464723_STCL26_SF_Gujarat_Royals_vs_UP_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793217219~acl=/*~id=31996430401124653388940099064679~hmac=9c02334bfdd75e54bd96aa284f9e2d90991f65b26bd244d1beb16a0ff641d28f",
+      "sources": [
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793217219~acl=/*~id=31996430401124653388940099064679~hmac=9c02334bfdd75e54bd96aa284f9e2d90991f65b26bd244d1beb16a0ff641d28f"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793178077
+    },
     {
       "EntityId": 4,
       "VideoName": "India Women vs Zimbabwe Women",
