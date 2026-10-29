@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:25 AM 30-10-2026",
+    "LastUpdate": "12:26 AM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -248,6 +248,13 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
           "headers": {
             "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ipvhzym9z1/out/v1/7bc4633a25864c2b99d73c106d07852e/cenc.mpd?aws_sessionId=dfe567c6-e185-4ea0-9139-01671fbdd1a0?|drmScheme=clearkey&drmLicense=59b4ca07afd69d7a160946198f38d5fb:b77d9b5f5967f9b2dbb6ef6cc0003554",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
