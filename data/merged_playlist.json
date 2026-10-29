@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:49 PM 29-10-2026",
+    "LastUpdate": "01:50 PM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 335
+    "LiveCount": 9,
+    "UpcomingCount": 334
   },
   "Matches": [
     {
@@ -34,6 +34,26 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1951,
+      "VideoName": "Sri Lanka vs England",
+      "CategoryName": "Pakistan ODI Tri-Series, 2026 - 6th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 14:00:00",
+      "Description": "Watch Sri Lanka vs England — Pakistan ODI Tri-Series, 2026 - 6th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187756/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9735,
+      "UrlSlug": "pakistan-odi-tri-series-2026-6th-match",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sri Lanka",
+      "Team2Name": "England",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187756/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     },
     {
       "EntityId": 18588,
@@ -6836,26 +6856,6 @@
       "Team2Name": "Hobart Hurricanes Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274886/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274885/image"
-    },
-    {
-      "EntityId": 1951,
-      "VideoName": "Sri Lanka vs England",
-      "CategoryName": "Pakistan ODI Tri-Series, 2026 - 6th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 14:00:00",
-      "Description": "Watch Sri Lanka vs England — Pakistan ODI Tri-Series, 2026 - 6th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187756/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9735,
-      "UrlSlug": "pakistan-odi-tri-series-2026-6th-match",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sri Lanka",
-      "Team2Name": "England",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187756/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     }
   ]
 }
