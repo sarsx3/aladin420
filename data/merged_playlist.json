@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 AM 29-10-2026",
+    "LastUpdate": "09:20 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 339
+    "LiveCount": 4,
+    "UpcomingCount": 338
   },
   "Matches": [
+    {
+      "EntityId": 1948,
+      "VideoName": "Bangladesh vs West Indies",
+      "CategoryName": "West Indies tour of Bangladesh, 2026 - 1st Test, Day 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 09:30:00",
+      "Description": "Watch Bangladesh vs West Indies — West Indies tour of Bangladesh, 2026 - 1st Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9895,
+      "UrlSlug": "west-indies-tour-of-bangladesh-2026-1st-test-day-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "West Indies",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    },
     {
       "EntityId": 1932,
       "VideoName": "Remo vs Botafogo",
@@ -6839,26 +6859,6 @@
       "Status": "Upcoming",
       "CategoryId": 1246,
       "UrlSlug": "ban-vs-wi-1st-test-live"
-    },
-    {
-      "EntityId": 1948,
-      "VideoName": "Bangladesh vs West Indies",
-      "CategoryName": "West Indies tour of Bangladesh, 2026 - 1st Test, Day 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 09:30:00",
-      "Description": "Watch Bangladesh vs West Indies — West Indies tour of Bangladesh, 2026 - 1st Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9895,
-      "UrlSlug": "west-indies-tour-of-bangladesh-2026-1st-test-day-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Bangladesh",
-      "Team2Name": "West Indies",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
     }
   ]
 }
