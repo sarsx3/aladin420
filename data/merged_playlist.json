@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 PM 29-10-2026",
+    "LastUpdate": "12:35 PM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 337
+    "LiveCount": 5,
+    "UpcomingCount": 336
   },
   "Matches": [
+    {
+      "EntityId": 2245,
+      "VideoName": "Janakpur Bolts vs Kathmandu Gorkhas",
+      "CategoryName": "NPL 2026 - 5th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 12:45:00",
+      "Description": "Watch Janakpur Bolts vs Kathmandu Gorkhas — NPL 2026 - 5th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9418,
+      "UrlSlug": "npl-2026-5th-t20",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Janakpur Bolts",
+      "Team2Name": "Kathmandu Gorkhas",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PT.png"
+    },
     {
       "EntityId": 19178,
       "VideoName": "Melbourne Renegades vs Sydney Thunder",
@@ -6767,26 +6787,6 @@
       "Team2Name": "Lion City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2946/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3041/image"
-    },
-    {
-      "EntityId": 2245,
-      "VideoName": "Janakpur Bolts vs Kathmandu Gorkhas",
-      "CategoryName": "NPL 2026 - 5th T20",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 12:45:00",
-      "Description": "Watch Janakpur Bolts vs Kathmandu Gorkhas — NPL 2026 - 5th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9418,
-      "UrlSlug": "npl-2026-5th-t20",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Janakpur Bolts",
-      "Team2Name": "Kathmandu Gorkhas",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PT.png"
     }
   ]
 }
