@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:41 AM 30-10-2026",
+    "LastUpdate": "01:42 AM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 319
   },
   "Matches": [
@@ -170,6 +170,14 @@
           "label": "Server-7",
           "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793298156-0-0-4b89687e8d5e86df0da1e423a217ecf2",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -339,99 +347,6 @@
       "Team2Name": "Al-Kholood",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/23400/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/269199/image"
-    },
-    {
-      "EntityId": 1945,
-      "VideoName": "Frosinone vs Lecce",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-29 23:30:00",
-      "Description": "Watch Frosinone vs Lecce — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2801/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-      "sources": [
-        {
-          "label": "FUBO SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drmScheme": "NDJmNzJjMDI1ZGQ1MzAzOTI0NGFkYzEzYjdlMzFkYWQ6YTdiZDk0MWExOWY2ZGQxNGYzMDA0YTYyM2E2YWQzYTE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORT 1 CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793241396-0-0-f23ba6c60df403494a6cd0a199c53db9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793292306-0-0-334b414b3b879a1196288c60e92161c5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793291070-0-0-a68b4df8254fe38ae1bdc8f029e3bcbd",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=d415b97c215184f33eebd876f68c3048&wsABSTime=1793334270",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-6",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793291071-0-0-6b1f0266f26303cbeb5befb4b616dc3f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ipvhzym9z1/out/v1/7bc4633a25864c2b99d73c106d07852e/cenc.mpd?aws_sessionId=dfe567c6-e185-4ea0-9139-01671fbdd1a0?|drmScheme=clearkey&drmLicense=59b4ca07afd69d7a160946198f38d5fb:b77d9b5f5967f9b2dbb6ef6cc0003554",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Frosinone",
-      "Team2Name": "Lecce",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2801/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2689/image"
     },
     {
       "EntityId": 19112,
