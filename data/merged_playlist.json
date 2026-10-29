@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:19 AM 29-10-2026",
+    "LastUpdate": "06:20 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 341
+    "LiveCount": 6,
+    "UpcomingCount": 339
   },
   "Matches": [
+    {
+      "EntityId": 1932,
+      "VideoName": "Remo vs Botafogo",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 06:30:00",
+      "Description": "Watch Remo vs Botafogo — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2012/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Remo",
+      "Team2Name": "Botafogo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1958/image"
+    },
+    {
+      "EntityId": 1933,
+      "VideoName": "Bahia vs São Paulo",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-29 06:30:00",
+      "Description": "Watch Bahia vs São Paulo — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1955/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bahia",
+      "Team2Name": "São Paulo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1955/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1981/image"
+    },
     {
       "EntityId": 1947,
       "VideoName": "Inter Miami vs FC Cincinnati",
@@ -6929,46 +6969,6 @@
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
-    },
-    {
-      "EntityId": 1932,
-      "VideoName": "Remo vs Botafogo",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 06:30:00",
-      "Description": "Watch Remo vs Botafogo — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2012/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Remo",
-      "Team2Name": "Botafogo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1958/image"
-    },
-    {
-      "EntityId": 1933,
-      "VideoName": "Bahia vs São Paulo",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-29 06:30:00",
-      "Description": "Watch Bahia vs São Paulo — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1955/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Bahia",
-      "Team2Name": "São Paulo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1955/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1981/image"
     }
   ]
 }
