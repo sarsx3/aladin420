@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:59 PM 30-10-2026",
+    "LastUpdate": "02:00 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 442
+    "LiveCount": 7,
+    "UpcomingCount": 441
   },
   "Matches": [
+    {
+      "EntityId": 1969,
+      "VideoName": "Brisbane Heat Women vs Sydney Sixers Women",
+      "CategoryName": "Womens Big Bash League 2026 - 3rd Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 14:10:00",
+      "Description": "Watch Brisbane Heat Women vs Sydney Sixers Women — Womens Big Bash League 2026 - 3rd Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274884/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9197,
+      "UrlSlug": "womens-big-bash-league-2026-3rd-match",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Brisbane Heat Women",
+      "Team2Name": "Sydney Sixers Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274884/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274883/image"
+    },
     {
       "EntityId": 19058,
       "VideoName": "New Zealand vs India",
@@ -8983,26 +9003,6 @@
       "Team2Name": "Australia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    {
-      "EntityId": 1969,
-      "VideoName": "Brisbane Heat Women vs Sydney Sixers Women",
-      "CategoryName": "Womens Big Bash League 2026 - 3rd Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-30 14:10:00",
-      "Description": "Watch Brisbane Heat Women vs Sydney Sixers Women — Womens Big Bash League 2026 - 3rd Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274884/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9197,
-      "UrlSlug": "womens-big-bash-league-2026-3rd-match",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Brisbane Heat Women",
-      "Team2Name": "Sydney Sixers Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274884/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274883/image"
     }
   ]
 }
