@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:54 AM 31-10-2026",
+    "LastUpdate": "01:55 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 426
+    "LiveCount": 11,
+    "UpcomingCount": 425
   },
   "Matches": [
     {
@@ -30,6 +30,77 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2007,
+      "VideoName": "Lille vs Lens",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 02:05:00",
+      "Description": "Watch Lille vs Lens — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1643/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "CazéTV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793328376-0-0-fcb48c1556ddc4a7f45e7fe2a8e268b3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=7e03331119e59ed46b6d3bd2bf3f82cf&txTime=6ae511c2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=36742988569a7587b0c275bf91b74651&txTime=6ae511c2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793388223-0-0-267908220acac495c3353b751532ea9e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Lille",
+      "Team2Name": "Lens",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1643/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1648/image"
     },
     {
       "EntityId": 19447,
@@ -8891,77 +8962,6 @@
       "Team2Name": "Sporting",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/36365/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3001/image"
-    },
-    {
-      "EntityId": 2007,
-      "VideoName": "Lille vs Lens",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 02:05:00",
-      "Description": "Watch Lille vs Lens — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1643/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CazéTV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793328376-0-0-fcb48c1556ddc4a7f45e7fe2a8e268b3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=7e03331119e59ed46b6d3bd2bf3f82cf&txTime=6ae511c2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=36742988569a7587b0c275bf91b74651&txTime=6ae511c2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793388223-0-0-267908220acac495c3353b751532ea9e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lille",
-      "Team2Name": "Lens",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1643/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1648/image"
     },
     {
       "EntityId": 1970,
