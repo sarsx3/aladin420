@@ -1,15 +1,54 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:01 PM 30-10-2026",
+    "LastUpdate": "12:02 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 443
   },
   "Matches": [
+    {
+      "EntityId": 1090551124,
+      "VideoName": "4th T20I",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 12:02:20",
+      "Description": "Watch 4th T20I live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/master.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/master.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/master.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793340140
+    },
     {
       "EntityId": 1966,
       "VideoName": "Bangladesh vs West Indies",
