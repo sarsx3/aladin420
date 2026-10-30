@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:29 AM 31-10-2026",
+    "LastUpdate": "12:30 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 430
   },
   "Matches": [
@@ -233,65 +233,6 @@
       "Team2Name": "Galatasaray",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3085/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3061/image"
-    },
-    {
-      "EntityId": 1970,
-      "VideoName": "South Africa vs Australia",
-      "CategoryName": "South Africa vs Australia – 3rd Test, Day 4",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-30 14:30:00",
-      "Description": "Watch South Africa vs Australia — South Africa vs Australia – 3rd Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9378,
-      "UrlSlug": "south-africa-vs-australia-3rd-test-day-4",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
-          "drmScheme": "YTBlYTIyMTE5Y2E4NTFlNDQxYzU2ZGY2N2UzM2Y2ZmQ6MTc5YmJjNWQxYmVjODI1ZWFhMWI3MTI4NzJmMTJlZGE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
-          "drmScheme": "YTBlYTIyMTE5Y2E4NTFlNDQxYzU2ZGY2N2UzM2Y2ZmQ6MTc5YmJjNWQxYmVjODI1ZWFhMWI3MTI4NzJmMTJlZGE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FANCODE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SKY CRICKET FHD",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "South Africa",
-      "Team2Name": "Australia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     },
     {
       "EntityId": 2261,
@@ -8807,6 +8748,65 @@
       "Team2Name": "Mainz",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2598/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2556/image"
+    },
+    {
+      "EntityId": 1970,
+      "VideoName": "South Africa vs Australia",
+      "CategoryName": "South Africa vs Australia – 3rd Test, Day 4",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-30 14:30:00",
+      "Description": "Watch South Africa vs Australia — South Africa vs Australia – 3rd Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Ended",
+      "CategoryId": 9378,
+      "UrlSlug": "south-africa-vs-australia-3rd-test-day-4",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
+          "drmScheme": "YTBlYTIyMTE5Y2E4NTFlNDQxYzU2ZGY2N2UzM2Y2ZmQ6MTc5YmJjNWQxYmVjODI1ZWFhMWI3MTI4NzJmMTJlZGE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
+          "drmScheme": "YTBlYTIyMTE5Y2E4NTFlNDQxYzU2ZGY2N2UzM2Y2ZmQ6MTc5YmJjNWQxYmVjODI1ZWFhMWI3MTI4NzJmMTJlZGE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FANCODE FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SKY CRICKET FHD",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "South Africa",
+      "Team2Name": "Australia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     },
     {
       "EntityId": 1966,
