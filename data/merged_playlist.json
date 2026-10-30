@@ -1,15 +1,71 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:39 PM 30-10-2026",
+    "LastUpdate": "08:40 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 437
+    "LiveCount": 6,
+    "UpcomingCount": 436
   },
   "Matches": [
+    {
+      "EntityId": 1965,
+      "VideoName": "Diriyah vs NEOM SC",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 20:50:00",
+      "Description": "Watch Diriyah vs NEOM SC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/853574/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793326888-0-0-594bb051bdca8a88e8150ed605bb31ca",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793326888-0-0-594bb051bdca8a88e8150ed605bb31ca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=9244c8611af374f019e999ccbe5fbac5&txTime=6ae4d7a2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-3",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793371446-0-0-18047edcc5b30bc300b816961ccba0a5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793370158-0-0-143b9209c16a4009a527c8a8dd857156",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Diriyah",
+      "Team2Name": "NEOM SC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/853574/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
+    },
     {
       "EntityId": 1090551180,
       "VideoName": "NorthEast United FC vs Bengaluru FC",
@@ -8833,62 +8889,6 @@
       "Team2Name": "Galatasaray",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3085/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3061/image"
-    },
-    {
-      "EntityId": 1965,
-      "VideoName": "Diriyah vs NEOM SC",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-30 20:50:00",
-      "Description": "Watch Diriyah vs NEOM SC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/853574/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793326888-0-0-594bb051bdca8a88e8150ed605bb31ca",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793326888-0-0-594bb051bdca8a88e8150ed605bb31ca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=9244c8611af374f019e999ccbe5fbac5&txTime=6ae4d7a2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-3",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793371446-0-0-18047edcc5b30bc300b816961ccba0a5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793370158-0-0-143b9209c16a4009a527c8a8dd857156",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Diriyah",
-      "Team2Name": "NEOM SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/853574/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
     },
     {
       "EntityId": 1966,
