@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:47 AM 30-10-2026",
+    "LastUpdate": "06:48 AM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 314
   },
   "Matches": [
+    {
+      "EntityId": 19336,
+      "VideoName": "Hong Kong Sixes - Day 1",
+      "CategoryName": "Hong Kong International Sixes 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-10-30 06:45:00",
+      "Description": "Watch Hong Kong International Sixes 2026/27 live on tapmad. The Hong Kong Sixes - Day 1 brings a competitive cricket sides together for an exciting international tournament. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 30-Oct-2026 at 12:00 AM . Fans can watch Hong Kong International Sixes 2026/27live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793264414540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793264414540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1289,
+      "UrlSlug": "hong-kong-sixes---day-1-vs--1st-t20i-live",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1957,
       "VideoName": "Gremio vs Athletico Paranaense",
@@ -3961,6 +3982,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4937/image"
     },
     {
+      "EntityId": 19312,
+      "VideoName": "Moicano vs Nolan",
+      "CategoryName": "UFC 2026",
+      "StageName": "Fight Night",
+      "EventStartDate": "2026-11-01 06:00:00",
+      "Description": "UFC Fight Night Live: Watch Moicano vs Nolan live online on tapmad. Enjoy watching Moicano vs Nolan live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 01-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793016577540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793016577540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 265,
+      "UrlSlug": "ufc fight night-moicano vs nolan-live"
+    },
+    {
       "EntityId": 2042,
       "VideoName": "Velez Sarsfield vs San Lorenzo",
       "CategoryName": "Liga Profesional",
@@ -6330,20 +6365,6 @@
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
-    },
-    {
-      "EntityId": 19336,
-      "VideoName": "Hong Kong Sixes - Day 1",
-      "CategoryName": "Hong Kong International Sixes 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-10-30 06:45:00",
-      "Description": "Watch Hong Kong International Sixes 2026/27 live on tapmad. The Hong Kong Sixes - Day 1 brings a competitive cricket sides together for an exciting international tournament. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 30-Oct-2026 at 12:00 AM . Fans can watch Hong Kong International Sixes 2026/27live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793264414540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793264414540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1289,
-      "UrlSlug": "hong-kong-sixes---day-1-vs--1st-t20i-live"
     }
   ]
 }
