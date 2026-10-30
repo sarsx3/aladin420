@@ -1,15 +1,40 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:44 PM 30-10-2026",
+    "LastUpdate": "12:45 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 443
   },
   "Matches": [
+    {
+      "EntityId": 19058,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "India Tour of New Zealand 2026",
+      "StageName": "4th T20I",
+      "EventStartDate": "2026-10-30 13:00:00",
+      "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th T20I is scheduled to be played on 30-Oct-2026 at 1:00 PM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792569898540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792569898540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1214,
+      "UrlSlug": "nz-vs-ind-4th-t20i-live",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1090551124,
       "VideoName": "4th T20I",
@@ -6160,6 +6185,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274885/image"
     },
     {
+      "EntityId": 19059,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "India Tour of New Zealand 2026",
+      "StageName": "5th T20I",
+      "EventStartDate": "2026-11-01 13:00:00",
+      "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 5th T20I is scheduled to be played on 01-Nov-2026 at 12:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792574116540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792574116540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1214,
+      "UrlSlug": "nz-vs-ind-5th-t20i-live"
+    },
+    {
       "EntityId": 2092,
       "VideoName": "New Zealand vs India",
       "CategoryName": "New Zealand vs India – 5th T20I",
@@ -8876,20 +8915,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274883/image"
     },
     {
-      "EntityId": 19058,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "India Tour of New Zealand 2026",
-      "StageName": "4th T20I",
-      "EventStartDate": "2026-10-30 13:00:00",
-      "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th T20I is scheduled to be played on 30-Oct-2026 at 1:00 PM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792569898540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792569898540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1214,
-      "UrlSlug": "nz-vs-ind-4th-t20i-live"
-    },
-    {
       "EntityId": 1967,
       "VideoName": "New Zealand vs India",
       "CategoryName": "New Zealand vs India – 4th T20I",
@@ -8902,8 +8927,39 @@
       "Status": "Upcoming",
       "CategoryId": 9625,
       "UrlSlug": "new-zealand-vs-india-4th-t20i",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+          "drmScheme": "N2EzZjkwYTU3Njk4MDIwMzZjMThkZTgyMTczNWI1OTQ6MTQxMmNkODg1NDBhZjczYjI3ZTQ1Yzk5ODJiYzljNzg=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+          "drmScheme": "N2EzZjkwYTU3Njk4MDIwMzZjMThkZTgyMTczNWI1OTQ6MTQxMmNkODg1NDBhZjczYjI3ZTQ1Yzk5ODJiYzljNzg=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TNT1 SPORTS-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TNT2 SPORTS-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "New Zealand",
       "Team2Name": "India",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
