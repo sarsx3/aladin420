@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:21 AM 30-10-2026",
+    "LastUpdate": "09:22 AM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 448
   },
   "Matches": [
@@ -78,8 +78,13 @@
       "Status": "Live",
       "CategoryId": 9782,
       "UrlSlug": "hong-kong-sixes-2026-3rd-t10",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?",
+      "sources": [
+        {
+          "label": "PrioFy TV",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?"
+        }
+      ],
       "Team1Name": "Pakistan",
       "Team2Name": "United Arab Emirates",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
@@ -142,43 +147,6 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2280,
-      "VideoName": "Australia vs Hong Kong",
-      "CategoryName": "Hong Kong Sixes 2026 - 1st T10",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-30 06:45:00",
-      "Description": "Watch Australia vs Hong Kong — Hong Kong Sixes 2026 - 1st T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187746/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9480,
-      "UrlSlug": "hong-kong-sixes-2026-1st-t10",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
-          "drmScheme": "ZjcyNGNmMTNkMTM1YmVlNzVlMzU3NzgwZDE2MTAwNjA6N2NlOWQ0YzZkZjU2MzhiYmNiMTg5MjZiZjJhNmJiNGY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
-          "drmScheme": "ZjcyNGNmMTNkMTM1YmVlNzVlMzU3NzgwZDE2MTAwNjA6N2NlOWQ0YzZkZjU2MzhiYmNiMTg5MjZiZjJhNmJiNGY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Australia",
-      "Team2Name": "Hong Kong",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4765/image"
     },
     {
       "EntityId": 2261,
