@@ -1,15 +1,70 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 AM 30-10-2026",
+    "LastUpdate": "09:20 AM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 450
+    "LiveCount": 6,
+    "UpcomingCount": 448
   },
   "Matches": [
+    {
+      "EntityId": 1966,
+      "VideoName": "Bangladesh vs West Indies",
+      "CategoryName": "West Indies tour of Bangladesh, 2026 - 1st Test, Day 3",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 09:30:00",
+      "Description": "Watch Bangladesh vs West Indies — West Indies tour of Bangladesh, 2026 - 1st Test, Day 3. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9690,
+      "UrlSlug": "west-indies-tour-of-bangladesh-2026-1st-test-day-3",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+      "sources": [
+        {
+          "label": "fancode - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports hd",
+          "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "West Indies",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    },
+    {
+      "EntityId": 2283,
+      "VideoName": "South Africa vs Oman",
+      "CategoryName": "Hong Kong Sixes 2026 - 4th T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 09:30:00",
+      "Description": "Watch South Africa vs Oman — Hong Kong Sixes 2026 - 4th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9508,
+      "UrlSlug": "hong-kong-sixes-2026-4th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "South Africa",
+      "Team2Name": "Oman",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4787/image"
+    },
     {
       "EntityId": 2282,
       "VideoName": "Pakistan vs United Arab Emirates",
@@ -8999,61 +9054,6 @@
       "Status": "Upcoming",
       "CategoryId": 1246,
       "UrlSlug": "ban-vs-wi-1st-test-live"
-    },
-    {
-      "EntityId": 1966,
-      "VideoName": "Bangladesh vs West Indies",
-      "CategoryName": "West Indies tour of Bangladesh, 2026 - 1st Test, Day 3",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-30 09:30:00",
-      "Description": "Watch Bangladesh vs West Indies — West Indies tour of Bangladesh, 2026 - 1st Test, Day 3. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9690,
-      "UrlSlug": "west-indies-tour-of-bangladesh-2026-1st-test-day-3",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-      "sources": [
-        {
-          "label": "fancode - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports hd",
-          "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh",
-      "Team2Name": "West Indies",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
-    },
-    {
-      "EntityId": 2283,
-      "VideoName": "South Africa vs Oman",
-      "CategoryName": "Hong Kong Sixes 2026 - 4th T10",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-30 09:30:00",
-      "Description": "Watch South Africa vs Oman — Hong Kong Sixes 2026 - 4th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9508,
-      "UrlSlug": "hong-kong-sixes-2026-4th-t10",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "South Africa",
-      "Team2Name": "Oman",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4787/image"
     }
   ]
 }
