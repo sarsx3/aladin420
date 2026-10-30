@@ -1,15 +1,85 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:49 AM 31-10-2026",
+    "LastUpdate": "03:50 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 424
+    "LiveCount": 11,
+    "UpcomingCount": 422
   },
   "Matches": [
+    {
+      "EntityId": 1971,
+      "VideoName": "Huracan vs Tigre",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 04:00:00",
+      "Description": "Watch Huracan vs Tigre — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7629/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793388004-0-0-afe22243d2af232d7badc34ac0f9405a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Huracan",
+      "Team2Name": "Tigre",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/7629/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7628/image"
+    },
+    {
+      "EntityId": 1972,
+      "VideoName": "Estudiantes Río Cuarto vs Gimnasia La Plata",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 04:00:00",
+      "Description": "Watch Estudiantes Río Cuarto vs Gimnasia La Plata — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/266694/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793388079-0-0-840e570c6c89b81f99c1361d983b72fc",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Estudiantes Río Cuarto",
+      "Team2Name": "Gimnasia La Plata",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/266694/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3205/image"
+    },
     {
       "EntityId": 2024,
       "VideoName": "Casa Pia vs Sporting",
@@ -8903,76 +8973,6 @@
       "Team2Name": "Mirassol",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1957/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/21982/image"
-    },
-    {
-      "EntityId": 1971,
-      "VideoName": "Huracan vs Tigre",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 04:00:00",
-      "Description": "Watch Huracan vs Tigre — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7629/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793388004-0-0-afe22243d2af232d7badc34ac0f9405a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Huracan",
-      "Team2Name": "Tigre",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/7629/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7628/image"
-    },
-    {
-      "EntityId": 1972,
-      "VideoName": "Estudiantes Río Cuarto vs Gimnasia La Plata",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 04:00:00",
-      "Description": "Watch Estudiantes Río Cuarto vs Gimnasia La Plata — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/266694/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793388079-0-0-840e570c6c89b81f99c1361d983b72fc",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Estudiantes Río Cuarto",
-      "Team2Name": "Gimnasia La Plata",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/266694/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3205/image"
     },
     {
       "EntityId": 1970,
