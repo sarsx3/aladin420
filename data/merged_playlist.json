@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:57 AM 30-10-2026",
+    "LastUpdate": "09:58 AM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 443
+    "LiveCount": 6,
+    "UpcomingCount": 448
   },
   "Matches": [
     {
@@ -38,20 +38,110 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Bangladesh",
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    },
+    {
+      "EntityId": 2283,
+      "VideoName": "South Africa vs Oman",
+      "CategoryName": "Hong Kong Sixes 2026 - 4th T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 09:30:00",
+      "Description": "Watch South Africa vs Oman — Hong Kong Sixes 2026 - 4th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9508,
+      "UrlSlug": "hong-kong-sixes-2026-4th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "South Africa",
+      "Team2Name": "Oman",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4787/image"
+    },
+    {
+      "EntityId": 2282,
+      "VideoName": "Pakistan vs United Arab Emirates",
+      "CategoryName": "Hong Kong Sixes 2026 - 3rd T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 08:35:00",
+      "Description": "Watch Pakistan vs United Arab Emirates — Hong Kong Sixes 2026 - 3rd T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9782,
+      "UrlSlug": "hong-kong-sixes-2026-3rd-t10",
+      "stream_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?",
+      "sources": [
+        {
+          "label": "PrioFy TV",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?"
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
+          "drmScheme": "ZmJmYWIyYWU0ZjRlOGExNzA1YjRjZGM3ODAyZTkzMDQ6MjlkYjdhYTI1ODVmZGJjMWQ1ODkyZGI2ZDA0ZmUzNTE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
+          "drmScheme": "ZmJmYWIyYWU0ZjRlOGExNzA1YjRjZGM3ODAyZTkzMDQ6MjlkYjdhYTI1ODVmZGJjMWQ1ODkyZGI2ZDA0ZmUzNTE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakistan",
+      "Team2Name": "United Arab Emirates",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4727/image"
+    },
+    {
+      "EntityId": 2281,
+      "VideoName": "Bangladesh vs Scotland",
+      "CategoryName": "Hong Kong Sixes 2026 - 2nd T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-30 07:40:00",
+      "Description": "Watch Bangladesh vs Scotland — Hong Kong Sixes 2026 - 2nd T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9825,
+      "UrlSlug": "hong-kong-sixes-2026-2nd-t10",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd",
+          "drmScheme": "ZDgxYWZkMmNiYTk5NDgxMWI4NTIxYjBiMDJiMjZmYWU6ZDM5ZGY3M2M4OWIyMWFmMjliMjIyNGQyNmQ0NmI5YzA=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd",
+          "drmScheme": "ZDgxYWZkMmNiYTk5NDgxMWI4NTIxYjBiMDJiMjZmYWU6ZDM5ZGY3M2M4OWIyMWFmMjliMjIyNGQyNmQ0NmI5YzA=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "Scotland",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4695/image"
     },
     {
       "EntityId": 19336,
@@ -8837,6 +8927,46 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274883/image"
     },
     {
+      "EntityId": 2288,
+      "VideoName": "England vs Australia",
+      "CategoryName": "Hong Kong Sixes 2026 - 9th T10",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-30 14:05:00",
+      "Description": "Watch England vs Australia — Hong Kong Sixes 2026 - 9th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187757/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9592,
+      "UrlSlug": "hong-kong-sixes-2026-9th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "England",
+      "Team2Name": "Australia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187757/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
+    },
+    {
+      "EntityId": 2287,
+      "VideoName": "South Africa vs Afghanistan",
+      "CategoryName": "Hong Kong Sixes 2026 - 8th T10",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-30 13:10:00",
+      "Description": "Watch South Africa vs Afghanistan — Hong Kong Sixes 2026 - 8th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9604,
+      "UrlSlug": "hong-kong-sixes-2026-8th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "South Africa",
+      "Team2Name": "Afghanistan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187575/image"
+    },
+    {
       "EntityId": 19058,
       "VideoName": "New Zealand vs India",
       "CategoryName": "India Tour of New Zealand 2026",
@@ -8869,6 +8999,66 @@
       "Team2Name": "India",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    },
+    {
+      "EntityId": 2286,
+      "VideoName": "India vs Pakistan",
+      "CategoryName": "Hong Kong Sixes 2026 - 7th T10",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-30 12:15:00",
+      "Description": "Watch India vs Pakistan — Hong Kong Sixes 2026 - 7th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187765/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9704,
+      "UrlSlug": "hong-kong-sixes-2026-7th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "India",
+      "Team2Name": "Pakistan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187754/image"
+    },
+    {
+      "EntityId": 2285,
+      "VideoName": "Bangladesh vs Sri Lanka",
+      "CategoryName": "Hong Kong Sixes 2026 - 6th T10",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-30 11:20:00",
+      "Description": "Watch Bangladesh vs Sri Lanka — Hong Kong Sixes 2026 - 6th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9786,
+      "UrlSlug": "hong-kong-sixes-2026-6th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "Sri Lanka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
+    },
+    {
+      "EntityId": 2284,
+      "VideoName": "Hong Kong vs England",
+      "CategoryName": "Hong Kong Sixes 2026 - 5th T10",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-10-30 10:25:00",
+      "Description": "Watch Hong Kong vs England — Hong Kong Sixes 2026 - 5th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4765/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9784,
+      "UrlSlug": "hong-kong-sixes-2026-5th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Hong Kong",
+      "Team2Name": "England",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4765/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     }
   ]
 }
