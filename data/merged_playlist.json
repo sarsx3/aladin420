@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:41 PM 31-10-2026",
+    "LastUpdate": "11:42 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 10,
     "UpcomingCount": 348
   },
   "Matches": [
@@ -447,69 +447,6 @@
       "Team2Name": "AS Roma",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2702/image"
-    },
-    {
-      "EntityId": 2021,
-      "VideoName": "Feyenoord vs Fortuna Sittard",
-      "CategoryName": "Eredivisie",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 21:30:00",
-      "Description": "Watch Feyenoord vs Fortuna Sittard — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2959/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001793456532-0-0-a64e630921f96c59375a24f4d02c1aaf",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Feyenoord",
-      "Team2Name": "Fortuna Sittard",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2959/image",
-      "Team2Logo": ""
-    },
-    {
-      "EntityId": 2025,
-      "VideoName": "Moreirense vs Amadora",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 21:30:00",
-      "Description": "Watch Moreirense vs Amadora — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3014/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=3a5343d7af7df25a17d56548ad07ec5b&wsABSTime=1793499902",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=3a5343d7af7df25a17d56548ad07ec5b&wsABSTime=1793499902",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Moreirense",
-      "Team2Name": "Amadora",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3014/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3035/image"
     },
     {
       "EntityId": 1793439627489,
