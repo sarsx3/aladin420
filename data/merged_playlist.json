@@ -1,15 +1,92 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:49 PM 31-10-2026",
+    "LastUpdate": "07:50 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 21,
-    "UpcomingCount": 389
+    "LiveCount": 23,
+    "UpcomingCount": 387
   },
   "Matches": [
+    {
+      "EntityId": 2019,
+      "VideoName": "Bologna vs Monza",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 20:00:00",
+      "Description": "Watch Bologna vs Monza — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2685/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "sources": [
+        {
+          "label": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001793411100-0-0-3e85e7e018c30a6f44bb610c334ffec8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793449209-0-0-4ba8b069cb3efad91eb3fc5f2522aeca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bologna",
+      "Team2Name": "Monza",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2685/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2729/image"
+    },
+    {
+      "EntityId": 2235,
+      "VideoName": "Mohun Bagan vs Punjab",
+      "CategoryName": "Indian Super League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 20:00:00",
+      "Description": "Watch Mohun Bagan vs Punjab — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/370834/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9199,
+      "UrlSlug": "indian-super-league",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Mohun Bagan",
+      "Team2Name": "Punjab",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/370834/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/230661/image"
+    },
     {
       "EntityId": 2027,
       "VideoName": "Al-Taawon vs Al Ettifaq",
@@ -8792,83 +8869,6 @@
       "Team2Name": "Stuttgart",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2681/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
-    },
-    {
-      "EntityId": 2019,
-      "VideoName": "Bologna vs Monza",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 20:00:00",
-      "Description": "Watch Bologna vs Monza — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2685/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "sources": [
-        {
-          "label": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001793411100-0-0-3e85e7e018c30a6f44bb610c334ffec8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793449209-0-0-4ba8b069cb3efad91eb3fc5f2522aeca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bologna",
-      "Team2Name": "Monza",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2685/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2729/image"
-    },
-    {
-      "EntityId": 2235,
-      "VideoName": "Mohun Bagan vs Punjab",
-      "CategoryName": "Indian Super League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 20:00:00",
-      "Description": "Watch Mohun Bagan vs Punjab — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/370834/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Mohun Bagan",
-      "Team2Name": "Punjab",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/370834/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/230661/image"
     },
     {
       "EntityId": 1970,
