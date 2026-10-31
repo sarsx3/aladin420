@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:54 PM 31-10-2026",
+    "LastUpdate": "08:55 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -93,8 +93,44 @@
       "Status": "Live",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793413487-0-0-784ea408ef039dd7ba1d0a1307dacae2",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793413487-0-0-784ea408ef039dd7ba1d0a1307dacae2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793456594-0-0-ab372777ae608d7cca18f9dc4f70a095",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=9c8c4308678fa440ec71def459258a1d&wsABSTime=1793499794",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793456595-0-0-d86edf417a3586c5bfca5f879d9e8bb9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hull City",
       "Team2Name": "Ipswich",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/96/image",
