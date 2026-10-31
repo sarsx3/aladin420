@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:50 AM 01-11-2026",
+    "LastUpdate": "12:51 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -23,23 +23,8 @@
       "Status": "Live",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793471040-0-0-c314bba323bc8f740b82e7fc254d125f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Sporting KC",
       "Team2Name": "FC Dallas",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2509/image",
@@ -58,16 +43,8 @@
       "Status": "Live",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel51.flv?wsSecret=fe96a429107a036cad2e54d5e44edf07&wsABSTime=1793514240",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel51.flv?wsSecret=fe96a429107a036cad2e54d5e44edf07&wsABSTime=1793514240",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "St. Louis City",
       "Team2Name": "San Diego",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/407803/image",
