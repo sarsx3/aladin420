@@ -1,15 +1,293 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 31-10-2026",
+    "LastUpdate": "08:20 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
-    "UpcomingCount": 387
+    "LiveCount": 24,
+    "UpcomingCount": 382
   },
   "Matches": [
+    {
+      "EntityId": 2010,
+      "VideoName": "Schalke 04 vs RB Leipzig",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 20:30:00",
+      "Description": "Watch Schalke 04 vs RB Leipzig — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2530/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001793411521-0-0-12b019b1f21a17bee0ab1bec4ac01265",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001793411521-0-0-12b019b1f21a17bee0ab1bec4ac01265",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793453213-0-0-6c8f9a86a3f5590f394dd11b1263a0cc",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Schalke 04",
+      "Team2Name": "RB Leipzig",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2530/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/36360/image"
+    },
+    {
+      "EntityId": 2011,
+      "VideoName": "Werder Bremen vs Hoffenheim",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 20:30:00",
+      "Description": "Watch Werder Bremen vs Hoffenheim — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2534/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793411930-0-0-bf282a9e16a20cffb4839a35e18918ac",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793411930-0-0-bf282a9e16a20cffb4839a35e18918ac",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793453312-0-0-cb0f909fe66f96acf684bb64a69160a0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Werder Bremen",
+      "Team2Name": "Hoffenheim",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2534/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2569/image"
+    },
+    {
+      "EntityId": 2012,
+      "VideoName": "Gladbach vs SC Paderborn",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 20:30:00",
+      "Description": "Watch Gladbach vs SC Paderborn — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2527/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001793411823-0-0-1d57c893fd5e55887badc13ffe3deffd",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001793411823-0-0-1d57c893fd5e55887badc13ffe3deffd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1793446566-0-0-ec6f35f96cdb3dde0f8a50e51435d0b3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001793452783-0-0-de0b292007a338c4b8f9232cc1c71daf",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Gladbach",
+      "Team2Name": "SC Paderborn",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2561/image"
+    },
+    {
+      "EntityId": 2013,
+      "VideoName": "Augsburg vs Freiburg",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 20:30:00",
+      "Description": "Watch Augsburg vs Freiburg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2600/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793411402-0-0-8c45edb3f1eb4cc6d8b564d6c025ae39",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793411402-0-0-8c45edb3f1eb4cc6d8b564d6c025ae39",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793446386-0-0-76661d56166829117601254ca41351b1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793452780-0-0-dc88026c7398056033d960facf8f32b0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Augsburg",
+      "Team2Name": "Freiburg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2600/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2538/image"
+    },
+    {
+      "EntityId": 2014,
+      "VideoName": "Leverkusen vs Stuttgart",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 20:30:00",
+      "Description": "Watch Leverkusen vs Stuttgart — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2681/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793411624-0-0-77008e811e102babd1aa2578ab911644",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793411624-0-0-77008e811e102babd1aa2578ab911644",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793446446-0-0-a3b4825686bf9684422968f369ffb512",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793446506-0-0-1b66419b2d3dc768d95625500aa5d584",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793452787-0-0-49e28866289e4079a1f97dddb29d4a8f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Leverkusen",
+      "Team2Name": "Stuttgart",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2681/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
+    },
     {
       "EntityId": 1090551190,
       "VideoName": "Mohun Bagan Super Giant vs Punjab FC",
@@ -89,21 +367,6 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
           "headers": {
             "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fubo sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS NETWORK HD",
-          "url": "https://chatgpt.hereisman.net/playlist/58911/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -8532,284 +8795,6 @@
       "Team2Name": "Al Faysaly",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/168094/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/56035/image"
-    },
-    {
-      "EntityId": 2010,
-      "VideoName": "Schalke 04 vs RB Leipzig",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 20:30:00",
-      "Description": "Watch Schalke 04 vs RB Leipzig — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2530/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001793411521-0-0-12b019b1f21a17bee0ab1bec4ac01265",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001793411521-0-0-12b019b1f21a17bee0ab1bec4ac01265",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793453213-0-0-6c8f9a86a3f5590f394dd11b1263a0cc",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Schalke 04",
-      "Team2Name": "RB Leipzig",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2530/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/36360/image"
-    },
-    {
-      "EntityId": 2011,
-      "VideoName": "Werder Bremen vs Hoffenheim",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 20:30:00",
-      "Description": "Watch Werder Bremen vs Hoffenheim — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2534/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793411930-0-0-bf282a9e16a20cffb4839a35e18918ac",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793411930-0-0-bf282a9e16a20cffb4839a35e18918ac",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793453312-0-0-cb0f909fe66f96acf684bb64a69160a0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Werder Bremen",
-      "Team2Name": "Hoffenheim",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2534/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2569/image"
-    },
-    {
-      "EntityId": 2012,
-      "VideoName": "Gladbach vs SC Paderborn",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 20:30:00",
-      "Description": "Watch Gladbach vs SC Paderborn — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2527/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001793411823-0-0-1d57c893fd5e55887badc13ffe3deffd",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001793411823-0-0-1d57c893fd5e55887badc13ffe3deffd",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1793446566-0-0-ec6f35f96cdb3dde0f8a50e51435d0b3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001793452783-0-0-de0b292007a338c4b8f9232cc1c71daf",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Gladbach",
-      "Team2Name": "SC Paderborn",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2561/image"
-    },
-    {
-      "EntityId": 2013,
-      "VideoName": "Augsburg vs Freiburg",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 20:30:00",
-      "Description": "Watch Augsburg vs Freiburg — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2600/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793411402-0-0-8c45edb3f1eb4cc6d8b564d6c025ae39",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793411402-0-0-8c45edb3f1eb4cc6d8b564d6c025ae39",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793446386-0-0-76661d56166829117601254ca41351b1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793452780-0-0-dc88026c7398056033d960facf8f32b0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Augsburg",
-      "Team2Name": "Freiburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2600/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2538/image"
-    },
-    {
-      "EntityId": 2014,
-      "VideoName": "Leverkusen vs Stuttgart",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 20:30:00",
-      "Description": "Watch Leverkusen vs Stuttgart — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2681/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793411624-0-0-77008e811e102babd1aa2578ab911644",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793411624-0-0-77008e811e102babd1aa2578ab911644",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793446446-0-0-a3b4825686bf9684422968f369ffb512",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793446506-0-0-1b66419b2d3dc768d95625500aa5d584",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793452787-0-0-49e28866289e4079a1f97dddb29d4a8f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Leverkusen",
-      "Team2Name": "Stuttgart",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2681/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
     },
     {
       "EntityId": 1970,
