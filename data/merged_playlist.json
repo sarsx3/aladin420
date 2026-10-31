@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:44 AM 31-10-2026",
+    "LastUpdate": "10:45 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 413
+    "LiveCount": 8,
+    "UpcomingCount": 414
   },
   "Matches": [
+    {
+      "EntityId": 19181,
+      "VideoName": "Adelaide Strikers vs Melbourne Stars",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-10-31 10:40:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The ADS vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th T20I is scheduled to be played on 31-Oct-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793088183540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793088183540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1247,
+      "UrlSlug": "ads-vs-sta-4th-t20i-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2037,
       "VideoName": "Adelaide Strikers Women vs Melbourne Stars Women",
@@ -6834,6 +6855,26 @@
       "Team2Name": "Team 2 (TBC)",
       "Team1Logo": "",
       "Team2Logo": ""
+    },
+    {
+      "EntityId": 1954,
+      "VideoName": "Coritiba vs Vitoria",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-01 01:00:00",
+      "Description": "Watch Coritiba vs Vitoria — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1982/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Coritiba",
+      "Team2Name": "Vitoria",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1982/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1962/image"
     },
     {
       "EntityId": 2084,
