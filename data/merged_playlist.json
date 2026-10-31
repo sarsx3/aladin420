@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:10 AM 31-10-2026",
+    "LastUpdate": "11:11 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -64,8 +64,25 @@
       "Status": "Live",
       "CategoryId": 9074,
       "UrlSlug": "womens-big-bash-league-2026-4th-match",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+          "drmScheme": "MzQ0NGFmMGRkMjY0YTFlMjgwZTdhYzEyNDEwOTgyZTU6YWZhMjBkMTE4Nzc2MjMxYmE4MGZjNWMyYjQzNzA5MDk=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+          "drmScheme": "MzQ0NGFmMGRkMjY0YTFlMjgwZTdhYzEyNDEwOTgyZTU6YWZhMjBkMTE4Nzc2MjMxYmE4MGZjNWMyYjQzNzA5MDk=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Adelaide Strikers Women",
       "Team2Name": "Melbourne Stars Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274888/image",
@@ -112,6 +129,22 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd",
+          "drmScheme": "MTUzMzM5MzMzMDQxNTRmOTdjMjBlYzdmZTg5MjE1MTc6YjAzZjhjNDJjYmRjN2NlM2ZmNGZmZTg4MmJjMmQ0N2Q=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd",
+          "drmScheme": "MTUzMzM5MzMzMDQxNTRmOTdjMjBlYzdmZTg5MjE1MTc6YjAzZjhjNDJjYmRjN2NlM2ZmNGZmZTg4MmJjMmQ0N2Q=",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
