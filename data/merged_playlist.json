@@ -1,15 +1,48 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:47 PM 31-10-2026",
+    "LastUpdate": "03:48 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
+    "LiveCount": 12,
     "UpcomingCount": 407
   },
   "Matches": [
+    {
+      "EntityId": 1793439627489,
+      "VideoName": "South Africa vs Australia",
+      "CategoryName": "ICC World Test Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 14:20:00",
+      "Description": "Watch South Africa vs Australia — ICC World Test Championship. Live streaming from  event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9504,
+      "UrlSlug": "icc-world-test-championship",
+      "stream_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+      "sources": [
+        {
+          "label": "A SPORTS HD",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9"
+        },
+        {
+          "label": "Sky Sports",
+          "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "South Africa",
+      "Team2Name": "Australia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
+    },
     {
       "EntityId": 19182,
       "VideoName": "Perth Scorchers vs Melbourne Renegades",
@@ -2205,26 +2238,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2971/image"
     },
     {
-      "EntityId": 2328,
-      "VideoName": "Al Ittihad vs NEOM SC",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-06 23:30:00",
-      "Description": "Watch Al Ittihad vs NEOM SC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34315/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ittihad",
-      "Team2Name": "NEOM SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34315/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
-    },
-    {
       "EntityId": 2324,
       "VideoName": "Braunschweig vs Energie Cottbus",
       "CategoryName": "Bundesliga 2",
@@ -2263,6 +2276,26 @@
       "Team2Name": "Greuther Fürth",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2595/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2551/image"
+    },
+    {
+      "EntityId": 2328,
+      "VideoName": "Al Ittihad vs NEOM SC",
+      "CategoryName": "Saudi League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-06 23:30:00",
+      "Description": "Watch Al Ittihad vs NEOM SC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34315/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Ittihad",
+      "Team2Name": "NEOM SC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34315/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
     },
     {
       "EntityId": 2331,
