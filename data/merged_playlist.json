@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 AM 31-10-2026",
+    "LastUpdate": "09:20 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 416
+    "LiveCount": 6,
+    "UpcomingCount": 415
   },
   "Matches": [
+    {
+      "EntityId": 2292,
+      "VideoName": "3rd in Group B vs 3rd in Group D",
+      "CategoryName": "Hong Kong Sixes 2026 - 13th T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 09:30:00",
+      "Description": "Watch 3rd in Group B vs 3rd in Group D — Hong Kong Sixes 2026 - 13th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9082,
+      "UrlSlug": "hong-kong-sixes-2026-13th-t10",
+      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "3rd in Group B",
+      "Team2Name": "3rd in Group D",
+      "Team1Logo": "",
+      "Team2Logo": ""
+    },
     {
       "EntityId": 2291,
       "VideoName": "United Arab Emirates vs India",
@@ -8392,35 +8421,6 @@
       "Status": "Upcoming",
       "CategoryId": 1246,
       "UrlSlug": "ban-vs-wi-1st-test-live"
-    },
-    {
-      "EntityId": 2292,
-      "VideoName": "3rd in Group B vs 3rd in Group D",
-      "CategoryName": "Hong Kong Sixes 2026 - 13th T10",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 09:30:00",
-      "Description": "Watch 3rd in Group B vs 3rd in Group D — Hong Kong Sixes 2026 - 13th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9082,
-      "UrlSlug": "hong-kong-sixes-2026-13th-t10",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "3rd in Group B",
-      "Team2Name": "3rd in Group D",
-      "Team1Logo": "",
-      "Team2Logo": ""
     },
     {
       "EntityId": 1970,
