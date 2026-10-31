@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:00 PM 31-10-2026",
+    "LastUpdate": "08:01 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -11,35 +11,39 @@
   },
   "Matches": [
     {
-      "EntityId": 1090551190,
-      "VideoName": "Mohun Bagan Super Giant vs Punjab FC",
+      "EntityId": 1090551185,
+      "VideoName": "Chennaiyin FC vs Kerala Blasters FC",
       "CategoryName": "Football",
       "StageName": "Live",
-      "EventStartDate": "2026-10-31 20:00:54",
-      "Description": "Watch Mohun Bagan Super Giant vs Punjab FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+      "EventStartDate": "2026-10-31 20:01:17",
+      "Description": "Watch Chennaiyin FC vs Kerala Blasters FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
         },
         {
-          "label": "Bengali",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+          "label": "Tamil",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
+        },
+        {
+          "label": "Malayalam",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
         }
       ],
       "Provider": "SonyLiv",
-      "FirstSeenTs": 1793455254
+      "FirstSeenTs": 1793455277
     },
     {
       "EntityId": 2019,
@@ -8776,6 +8780,14 @@
           "label": "Server - 4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001793452783-0-0-de0b292007a338c4b8f9232cc1c71daf",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
