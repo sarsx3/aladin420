@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:59 PM 31-10-2026",
+    "LastUpdate": "01:00 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 411
+    "LiveCount": 10,
+    "UpcomingCount": 410
   },
   "Matches": [
+    {
+      "EntityId": 2296,
+      "VideoName": "1st in Group A vs 1st in Group C",
+      "CategoryName": "Hong Kong Sixes 2026 - 17th T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 13:10:00",
+      "Description": "Watch 1st in Group A vs 1st in Group C — Hong Kong Sixes 2026 - 17th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9559,
+      "UrlSlug": "hong-kong-sixes-2026-17th-t10",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+      "sources": [
+        {
+          "label": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "1st in Group A",
+      "Team2Name": "1st in Group C",
+      "Team1Logo": "",
+      "Team2Logo": ""
+    },
     {
       "EntityId": 2247,
       "VideoName": "Lumbini Lions vs Chitwan Rhinos",
@@ -8430,35 +8459,6 @@
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://www.dynomark.af/uploads/images/flags/01KTNV1RZSWACSSE6763NMCM6H.png",
       "Team2Logo": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Zimbabwe_-_Circle-1024.png"
-    },
-    {
-      "EntityId": 2296,
-      "VideoName": "1st in Group A vs 1st in Group C",
-      "CategoryName": "Hong Kong Sixes 2026 - 17th T10",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 13:10:00",
-      "Description": "Watch 1st in Group A vs 1st in Group C — Hong Kong Sixes 2026 - 17th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9559,
-      "UrlSlug": "hong-kong-sixes-2026-17th-t10",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "1st in Group A",
-      "Team2Name": "1st in Group C",
-      "Team1Logo": "",
-      "Team2Logo": ""
     },
     {
       "EntityId": 1970,
