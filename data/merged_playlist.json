@@ -1,15 +1,40 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:35 AM 01-11-2026",
+    "LastUpdate": "05:36 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 16,
     "UpcomingCount": 321
   },
   "Matches": [
+    {
+      "EntityId": 19312,
+      "VideoName": "Moicano vs Nolan",
+      "CategoryName": "UFC 2026",
+      "StageName": "Fight Night",
+      "EventStartDate": "2026-11-01 06:00:00",
+      "Description": "UFC Fight Night Live: Watch Moicano vs Nolan live online on tapmad. Enjoy watching Moicano vs Nolan live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 01-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793016577540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793016577540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 265,
+      "UrlSlug": "ufc fight night-moicano vs nolan-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2042,
       "VideoName": "Velez Sarsfield vs San Lorenzo",
@@ -6244,6 +6269,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2676/image"
     },
     {
+      "EntityId": 18447,
+      "VideoName": "Paris FC vs Monaco",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 9",
+      "EventStartDate": "2026-11-01 22:15:00",
+      "Description": "Watch Paris FC vs Monaco live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Paris FC vs Monaco match will take place on 01-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793168895540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793168895540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "paris fc-vs-monaco-ligue-one-live-match"
+    },
+    {
       "EntityId": 2052,
       "VideoName": "Paris FC vs Monaco",
       "CategoryName": "Ligue 1",
@@ -7113,20 +7152,6 @@
       "Team2Name": "Instituto",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3206/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4937/image"
-    },
-    {
-      "EntityId": 19312,
-      "VideoName": "Moicano vs Nolan",
-      "CategoryName": "UFC 2026",
-      "StageName": "Fight Night",
-      "EventStartDate": "2026-11-01 06:00:00",
-      "Description": "UFC Fight Night Live: Watch Moicano vs Nolan live online on tapmad. Enjoy watching Moicano vs Nolan live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 01-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793016577540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793016577540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 265,
-      "UrlSlug": "ufc fight night-moicano vs nolan-live"
     },
     {
       "EntityId": 1793439627489,
