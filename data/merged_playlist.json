@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:19 AM 01-11-2026",
+    "LastUpdate": "12:20 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
     "LiveCount": 14,
-    "UpcomingCount": 344
+    "UpcomingCount": 343
   },
   "Matches": [
+    {
+      "EntityId": 2298,
+      "VideoName": "Team 1 (TBC) vs Team 2 (TBC)",
+      "CategoryName": "Hong Kong Sixes 2026 - 23rd T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 00:30:00",
+      "Description": "Watch Team 1 (TBC) vs Team 2 (TBC) — Hong Kong Sixes 2026 - 23rd T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9802,
+      "UrlSlug": "hong-kong-sixes-2026-23rd-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Team 1 (TBC)",
+      "Team2Name": "Team 2 (TBC)",
+      "Team1Logo": "",
+      "Team2Logo": ""
+    },
     {
       "EntityId": 17111,
       "VideoName": "Al Hilal vs Al Fateh",
@@ -613,39 +633,6 @@
       "Team2Name": "AS Roma",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2695/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2702/image"
-    },
-    {
-      "EntityId": 1793439627489,
-      "VideoName": "South Africa vs Australia",
-      "CategoryName": "ICC World Test Championship",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 14:20:00",
-      "Description": "Watch South Africa vs Australia — ICC World Test Championship. Live streaming from  event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9504,
-      "UrlSlug": "icc-world-test-championship",
-      "stream_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
-      "sources": [
-        {
-          "label": "A SPORTS HD",
-          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9"
-        },
-        {
-          "label": "Sky Sports",
-          "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "South Africa",
-      "Team2Name": "Australia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     },
     {
       "EntityId": 2261,
@@ -7423,24 +7410,37 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1043961/image"
     },
     {
-      "EntityId": 2298,
-      "VideoName": "Team 1 (TBC) vs Team 2 (TBC)",
-      "CategoryName": "Hong Kong Sixes 2026 - 23rd T10",
+      "EntityId": 1793439627489,
+      "VideoName": "South Africa vs Australia",
+      "CategoryName": "ICC World Test Championship",
       "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 00:30:00",
-      "Description": "Watch Team 1 (TBC) vs Team 2 (TBC) — Hong Kong Sixes 2026 - 23rd T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
+      "EventStartDate": "2026-10-31 14:20:00",
+      "Description": "Watch South Africa vs Australia — ICC World Test Championship. Live streaming from  event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
       "ThumbnailTV": "",
       "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9802,
-      "UrlSlug": "hong-kong-sixes-2026-23rd-t10",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Team 1 (TBC)",
-      "Team2Name": "Team 2 (TBC)",
-      "Team1Logo": "",
-      "Team2Logo": ""
+      "Status": "Ended",
+      "CategoryId": 9504,
+      "UrlSlug": "icc-world-test-championship",
+      "stream_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+      "sources": [
+        {
+          "label": "A SPORTS HD",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9"
+        },
+        {
+          "label": "Sky Sports",
+          "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "South Africa",
+      "Team2Name": "Australia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     }
   ]
 }
