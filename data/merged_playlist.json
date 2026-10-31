@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 PM 31-10-2026",
+    "LastUpdate": "04:20 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 407
+    "LiveCount": 9,
+    "UpcomingCount": 406
   },
   "Matches": [
+    {
+      "EntityId": 2263,
+      "VideoName": "Erzurumspor FK vs Corum Belediyespor",
+      "CategoryName": "Super Lig",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 16:30:00",
+      "Description": "Watch Erzurumspor FK vs Corum Belediyespor — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/55603/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9721,
+      "UrlSlug": "super-lig",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Erzurumspor FK",
+      "Team2Name": "Corum Belediyespor",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/55603/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/77629/image"
+    },
     {
       "EntityId": 1793439627489,
       "VideoName": "South Africa vs Australia",
@@ -8354,26 +8374,6 @@
       "Team2Name": "Biratnagar Kings",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PU.png"
-    },
-    {
-      "EntityId": 2263,
-      "VideoName": "Erzurumspor FK vs Corum Belediyespor",
-      "CategoryName": "Super Lig",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 16:30:00",
-      "Description": "Watch Erzurumspor FK vs Corum Belediyespor — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/55603/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Erzurumspor FK",
-      "Team2Name": "Corum Belediyespor",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/55603/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/77629/image"
     },
     {
       "EntityId": 1970,
