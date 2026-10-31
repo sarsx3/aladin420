@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:14 AM 31-10-2026",
+    "LastUpdate": "08:15 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 417
   },
   "Matches": [
@@ -38,6 +38,14 @@
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bhvsklfjf2/out/v1/cecb823f77a845a0a5d61ac33bcc627e/cenc.mpd",
           "drmScheme": "YTI0N2ViMjNkMzUyMGY1NDkyYmRiOGZmMWQ3YWQ3ZWY6NDllODBiODMzYjFhZWZiYWQyMTUzNmUyMzkwZWM5YjY=",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -92,51 +100,6 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2289,
-      "VideoName": "Oman vs Afghanistan",
-      "CategoryName": "Hong Kong Sixes 2026 - 10th T10",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 06:45:00",
-      "Description": "Watch Oman vs Afghanistan — Hong Kong Sixes 2026 - 10th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4787/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9399,
-      "UrlSlug": "hong-kong-sixes-2026-10th-t10",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hkj62jerda/out/v1/ec4275b678ec49428139e26b40fa84e5/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hkj62jerda/out/v1/ec4275b678ec49428139e26b40fa84e5/cenc.mpd",
-          "drmScheme": "YWVhNTI5NzFkMGFkM2QxZTZjY2Q4MjJjNDY1OWQ1ZTE6ZmVkYjJlMGU0N2JmOTczYjU4MzNiODMzOWY4YWE5NDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hkj62jerda/out/v1/ec4275b678ec49428139e26b40fa84e5/cenc.mpd",
-          "drmScheme": "YWVhNTI5NzFkMGFkM2QxZTZjY2Q4MjJjNDY1OWQ1ZTE6ZmVkYjJlMGU0N2JmOTczYjU4MzNiODMzOWY4YWE5NDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Oman",
-      "Team2Name": "Afghanistan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4787/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187575/image"
     },
     {
       "EntityId": 1973,
