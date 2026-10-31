@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:11 AM 31-10-2026",
+    "LastUpdate": "11:12 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 413
   },
   "Matches": [
@@ -151,51 +151,6 @@
       ],
       "Team1Name": "3rd in Group A",
       "Team2Name": "3rd in Group C",
-      "Team1Logo": "",
-      "Team2Logo": ""
-    },
-    {
-      "EntityId": 2292,
-      "VideoName": "3rd in Group B vs 3rd in Group D",
-      "CategoryName": "Hong Kong Sixes 2026 - 13th T10",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 09:30:00",
-      "Description": "Watch 3rd in Group B vs 3rd in Group D — Hong Kong Sixes 2026 - 13th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9082,
-      "UrlSlug": "hong-kong-sixes-2026-13th-t10",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/47j8dswule/out/v1/43a8e5f76a144fde9a2567cd12b321de/cenc.mpd",
-          "drmScheme": "NTNiZmQ4N2ZmOTg1OGIzMWQ1Zjk0YmQ4NDUxYWUwYTQ6NmE5YTExZDE2MzUzYjU4YTliNTE2MGM2MGQ3YzgyMmI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/47j8dswule/out/v1/43a8e5f76a144fde9a2567cd12b321de/cenc.mpd",
-          "drmScheme": "NTNiZmQ4N2ZmOTg1OGIzMWQ1Zjk0YmQ4NDUxYWUwYTQ6NmE5YTExZDE2MzUzYjU4YTliNTE2MGM2MGQ3YzgyMmI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "3rd in Group B",
-      "Team2Name": "3rd in Group D",
       "Team1Logo": "",
       "Team2Logo": ""
     },
