@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:58 PM 31-10-2026",
+    "LastUpdate": "07:59 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -50,6 +50,14 @@
           "label": "Server - 3",
           "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793449209-0-0-4ba8b069cb3efad91eb3fc5f2522aeca",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
