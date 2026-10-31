@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:34 PM 31-10-2026",
+    "LastUpdate": "11:35 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 350
+    "LiveCount": 12,
+    "UpcomingCount": 348
   },
   "Matches": [
     {
@@ -30,6 +30,46 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2022,
+      "VideoName": "Heerenveen vs N.E.C.",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 23:45:00",
+      "Description": "Watch Heerenveen vs N.E.C. — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2964/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Heerenveen",
+      "Team2Name": "N.E.C.",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2964/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2962/image"
+    },
+    {
+      "EntityId": 2023,
+      "VideoName": "PSV vs Willem II",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 23:45:00",
+      "Description": "Watch PSV vs Willem II — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2952/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "PSV",
+      "Team2Name": "Willem II",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2952/image",
+      "Team2Logo": ""
     },
     {
       "EntityId": 19450,
@@ -7348,46 +7388,6 @@
       "Team2Name": "Philadelphia Union",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/215167/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/39833/image"
-    },
-    {
-      "EntityId": 2022,
-      "VideoName": "Heerenveen vs N.E.C.",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 23:45:00",
-      "Description": "Watch Heerenveen vs N.E.C. — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2964/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Heerenveen",
-      "Team2Name": "N.E.C.",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2964/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2962/image"
-    },
-    {
-      "EntityId": 2023,
-      "VideoName": "PSV vs Willem II",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 23:45:00",
-      "Description": "Watch PSV vs Willem II — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2952/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "PSV",
-      "Team2Name": "Willem II",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2952/image",
-      "Team2Logo": ""
     }
   ]
 }
