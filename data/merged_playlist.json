@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:58 PM 31-10-2026",
+    "LastUpdate": "10:59 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 31,
+    "LiveCount": 29,
     "UpcomingCount": 354
   },
   "Matches": [
@@ -257,150 +257,6 @@
       "Team2Name": "Almeria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2839/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2858/image"
-    },
-    {
-      "EntityId": 1977,
-      "VideoName": "Man City vs Brighton",
-      "CategoryName": "Premier League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 21:00:00",
-      "Description": "Watch Man City vs Brighton — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/17/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793456681-0-0-967e9276a28c749ecacbd63962b760b9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=fbcd7aa84354f768ff7c4030ec5732f9&wsABSTime=1793499882",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793456682-0-0-53062636a3644b4e1f7c1ca81b7ad289",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 6",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793456684-0-0-083a9f6951196128f44f193c1e0bc114",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 7",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793413565-0-0-21859342a1a3adef33cf41b32b2aac51",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO6/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fubo sports - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uoemmv0upd/out/v1/b59284953fcd4c93a6977856612840ae/cenc.mpd?aws_sessionId=47bf560e-cee6-4ada-a4f8-d148ebb4aab9?|drmScheme=clearkey&drmLicense=f1d7426b1be3cb85a1d2932b21ffd263:f14833238fdbca625200e6e96f86b6c4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FASTER QUALITY",
-          "url": "https://live.vivo155.com/live/hd-en-1-4558684.m3u8?txSecret=0a4f679486ca6f2cf8782f6504a0e3c3&txTime=6AE61536",
-          "headers": {
-            "Referer": "https://player.on8on8.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PEACOCK TV HD",
-          "url": "https://chatgpt.hereisman.net/playlist/58917/load-playlist-multi?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PREMIER LEAGUE HD",
-          "url": "https://chatgpt.hereisman.net/playlist/58917/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793461807-0-0-915a3106edf883dcecda104c7e5e7eb6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.fmp.live/live/live_60408_lud.m3u8?auth_key=1793470019-0-0-093b32dfc84c0c6c4a4e96ec07c3d6eb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3aa034ba7c5c0f9f54aaa83b8e49566f&txTime=6ae6547f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793461807-0-0-026e175d0d711e93b9249e8dfc4c6095",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Man City",
-      "Team2Name": "Brighton",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/30/image"
     },
     {
       "EntityId": 1978,
@@ -1348,41 +1204,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793455396
-    },
-    {
-      "EntityId": 2248,
-      "VideoName": "Sudurpaschim Royals vs Biratnagar Kings",
-      "CategoryName": "NPL 2026 - 8th T20",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 17:15:00",
-      "Description": "Watch Sudurpaschim Royals vs Biratnagar Kings — NPL 2026 - 8th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9912,
-      "UrlSlug": "npl-2026-8th-t20",
-      "stream_url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=45949209",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sudurpaschim Royals",
-      "Team2Name": "Biratnagar Kings",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PU.png"
     },
     {
       "EntityId": 1793439627489,
@@ -3823,186 +3644,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/37057/image"
     },
     {
-      "EntityId": 2210,
-      "VideoName": "Trabzonspor vs Freiburg",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Trabzonspor vs Freiburg — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3051/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Trabzonspor",
-      "Team2Name": "Freiburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3051/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2538/image"
-    },
-    {
-      "EntityId": 2211,
-      "VideoName": "Mjällby AIF vs Borac Banjaluka",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Mjällby AIF vs Borac Banjaluka — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1783/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Mjällby AIF",
-      "Team2Name": "Borac Banjaluka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1783/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5235/image"
-    },
-    {
-      "EntityId": 2212,
-      "VideoName": "Lincoln Red Imps vs Hajduk Split",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Lincoln Red Imps vs Hajduk Split — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/126304/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lincoln Red Imps",
-      "Team2Name": "Hajduk Split",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/126304/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2036/image"
-    },
-    {
-      "EntityId": 2213,
-      "VideoName": "KuPS vs Gent",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch KuPS vs Gent — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2244/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "KuPS",
-      "Team2Name": "Gent",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2244/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2903/image"
-    },
-    {
-      "EntityId": 2214,
-      "VideoName": "Red Star Belgrade vs Inter Escaldes",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Red Star Belgrade vs Inter Escaldes — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5149/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Red Star Belgrade",
-      "Team2Name": "Inter Escaldes",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/5149/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/37946/image"
-    },
-    {
-      "EntityId": 2215,
-      "VideoName": "FC Thun vs Hearts",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch FC Thun vs Hearts — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2454/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "FC Thun",
-      "Team2Name": "Hearts",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2454/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2353/image"
-    },
-    {
-      "EntityId": 2216,
-      "VideoName": "FC Midtjylland vs Ajax",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch FC Midtjylland vs Ajax — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1289/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "FC Midtjylland",
-      "Team2Name": "Ajax",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1289/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
-    },
-    {
-      "EntityId": 2217,
-      "VideoName": "Atalanta vs Kairat Almaty",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Atalanta vs Kairat Almaty — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2686/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Atalanta",
-      "Team2Name": "Kairat Almaty",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2686/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5172/image"
-    },
-    {
-      "EntityId": 2218,
-      "VideoName": "Aarhus vs Braga",
-      "CategoryName": "UEFA Conference League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Aarhus vs Braga — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1291/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9947,
-      "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Aarhus",
-      "Team2Name": "Braga",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1291/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2999/image"
-    },
-    {
       "EntityId": 2185,
       "VideoName": "N.E.C. vs Omonia",
       "CategoryName": "UEFA Europa League",
@@ -4181,6 +3822,186 @@
       "Team2Name": "Olympiacos",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3245/image"
+    },
+    {
+      "EntityId": 2210,
+      "VideoName": "Trabzonspor vs Freiburg",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Trabzonspor vs Freiburg — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3051/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Trabzonspor",
+      "Team2Name": "Freiburg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3051/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2538/image"
+    },
+    {
+      "EntityId": 2211,
+      "VideoName": "Mjällby AIF vs Borac Banjaluka",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Mjällby AIF vs Borac Banjaluka — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1783/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Mjällby AIF",
+      "Team2Name": "Borac Banjaluka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1783/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5235/image"
+    },
+    {
+      "EntityId": 2212,
+      "VideoName": "Lincoln Red Imps vs Hajduk Split",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Lincoln Red Imps vs Hajduk Split — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/126304/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lincoln Red Imps",
+      "Team2Name": "Hajduk Split",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/126304/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2036/image"
+    },
+    {
+      "EntityId": 2213,
+      "VideoName": "KuPS vs Gent",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch KuPS vs Gent — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2244/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "KuPS",
+      "Team2Name": "Gent",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2244/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2903/image"
+    },
+    {
+      "EntityId": 2214,
+      "VideoName": "Red Star Belgrade vs Inter Escaldes",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Red Star Belgrade vs Inter Escaldes — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5149/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Red Star Belgrade",
+      "Team2Name": "Inter Escaldes",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/5149/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/37946/image"
+    },
+    {
+      "EntityId": 2215,
+      "VideoName": "FC Thun vs Hearts",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch FC Thun vs Hearts — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2454/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "FC Thun",
+      "Team2Name": "Hearts",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2454/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2353/image"
+    },
+    {
+      "EntityId": 2216,
+      "VideoName": "FC Midtjylland vs Ajax",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch FC Midtjylland vs Ajax — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1289/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "FC Midtjylland",
+      "Team2Name": "Ajax",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1289/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    },
+    {
+      "EntityId": 2217,
+      "VideoName": "Atalanta vs Kairat Almaty",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Atalanta vs Kairat Almaty — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2686/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Atalanta",
+      "Team2Name": "Kairat Almaty",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2686/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5172/image"
+    },
+    {
+      "EntityId": 2218,
+      "VideoName": "Aarhus vs Braga",
+      "CategoryName": "UEFA Conference League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Aarhus vs Braga — UEFA Conference League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1291/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9947,
+      "UrlSlug": "uefa-conference-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Aarhus",
+      "Team2Name": "Braga",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1291/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2999/image"
     },
     {
       "EntityId": 2219,
@@ -4763,26 +4584,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
     },
     {
-      "EntityId": 2208,
-      "VideoName": "Bristol City vs Wolves",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Bristol City vs Wolves — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/58/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Bristol City",
-      "Team2Name": "Wolves",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/58/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3/image"
-    },
-    {
       "EntityId": 2178,
       "VideoName": "Porto vs Napoli",
       "CategoryName": "UEFA Champions League",
@@ -4921,6 +4722,26 @@
       "Team2Name": "Man City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/36360/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/17/image"
+    },
+    {
+      "EntityId": 2208,
+      "VideoName": "Bristol City vs Wolves",
+      "CategoryName": "Championship",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Bristol City vs Wolves — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/58/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bristol City",
+      "Team2Name": "Wolves",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/58/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3/image"
     },
     {
       "EntityId": 2206,
@@ -7096,26 +6917,6 @@
       "UrlSlug": "strasbourg-vs-auxerre-ligue-one-live-match"
     },
     {
-      "EntityId": 2237,
-      "VideoName": "Inter Kashi FC vs Goa",
-      "CategoryName": "Indian Super League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 20:00:00",
-      "Description": "Watch Inter Kashi FC vs Goa — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/494686/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Inter Kashi FC",
-      "Team2Name": "Goa",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/494686/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/174594/image"
-    },
-    {
       "EntityId": 2047,
       "VideoName": "Sheffield Wed vs Blackpool",
       "CategoryName": "League One",
@@ -7194,6 +6995,26 @@
       "Team2Name": "Torino",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2801/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2696/image"
+    },
+    {
+      "EntityId": 2237,
+      "VideoName": "Inter Kashi FC vs Goa",
+      "CategoryName": "Indian Super League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-01 20:00:00",
+      "Description": "Watch Inter Kashi FC vs Goa — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/494686/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9199,
+      "UrlSlug": "indian-super-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Inter Kashi FC",
+      "Team2Name": "Goa",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/494686/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/174594/image"
     },
     {
       "EntityId": 2067,
@@ -7404,26 +7225,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2523/image"
     },
     {
-      "EntityId": 2236,
-      "VideoName": "Mumbai City vs SC Delhi",
-      "CategoryName": "Indian Super League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 17:30:00",
-      "Description": "Watch Mumbai City vs SC Delhi — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/174600/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Mumbai City",
-      "Team2Name": "SC Delhi",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/174600/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/331840/image"
-    },
-    {
       "EntityId": 2060,
       "VideoName": "Como vs Venezia",
       "CategoryName": "Serie A",
@@ -7442,6 +7243,26 @@
       "Team2Name": "Venezia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2704/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2688/image"
+    },
+    {
+      "EntityId": 2236,
+      "VideoName": "Mumbai City vs SC Delhi",
+      "CategoryName": "Indian Super League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-01 17:30:00",
+      "Description": "Watch Mumbai City vs SC Delhi — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/174600/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9199,
+      "UrlSlug": "indian-super-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Mumbai City",
+      "Team2Name": "SC Delhi",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/174600/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/331840/image"
     },
     {
       "EntityId": 2066,
