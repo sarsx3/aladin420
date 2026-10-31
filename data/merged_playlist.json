@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:04 PM 31-10-2026",
+    "LastUpdate": "09:05 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 37,
-    "UpcomingCount": 360
+    "LiveCount": 39,
+    "UpcomingCount": 358
   },
   "Matches": [
+    {
+      "EntityId": 2031,
+      "VideoName": "Rayo vs RC Celta",
+      "CategoryName": "LaLiga",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 21:15:00",
+      "Description": "Watch Rayo vs RC Celta — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2818/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9723,
+      "UrlSlug": "laliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Rayo",
+      "Team2Name": "RC Celta",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2821/image"
+    },
+    {
+      "EntityId": 2034,
+      "VideoName": "Eibar vs Almeria",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 21:15:00",
+      "Description": "Watch Eibar vs Almeria — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2839/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Eibar",
+      "Team2Name": "Almeria",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2839/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2858/image"
+    },
     {
       "EntityId": 1977,
       "VideoName": "Man City vs Brighton",
@@ -465,8 +505,24 @@
       "Status": "Live",
       "CategoryId": 9096,
       "UrlSlug": "championship",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=d23e9724b379d4da3b35324bb6a55262&wsABSTime=1793499891",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=d23e9724b379d4da3b35324bb6a55262&wsABSTime=1793499891",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.59/hls/GLLLAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Millwall",
       "Team2Name": "Derby",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/25/image",
@@ -8554,46 +8610,6 @@
       "Status": "Upcoming",
       "CategoryId": 827,
       "UrlSlug": "laliga--rayo-vallecano-vs-celta-live"
-    },
-    {
-      "EntityId": 2031,
-      "VideoName": "Rayo vs RC Celta",
-      "CategoryName": "LaLiga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 21:15:00",
-      "Description": "Watch Rayo vs RC Celta — LaLiga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2818/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9723,
-      "UrlSlug": "laliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Rayo",
-      "Team2Name": "RC Celta",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2821/image"
-    },
-    {
-      "EntityId": 2034,
-      "VideoName": "Eibar vs Almeria",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 21:15:00",
-      "Description": "Watch Eibar vs Almeria — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2839/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Eibar",
-      "Team2Name": "Almeria",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2839/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2858/image"
     },
     {
       "EntityId": 1970,
