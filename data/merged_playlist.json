@@ -1,15 +1,46 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:00 PM 31-10-2026",
+    "LastUpdate": "11:01 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 28,
+    "LiveCount": 29,
     "UpcomingCount": 354
   },
   "Matches": [
+    {
+      "EntityId": 1090551190,
+      "VideoName": "Mohun Bagan Super Giant vs Punjab FC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 23:01:16",
+      "Description": "Watch Mohun Bagan Super Giant vs Punjab FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793505239~acl=/*~id=42184481197912710517080287146997~hmac=a5398c94838a0932bef06d04aa32e13b05bd23318ef467bce1e06940bf9e2277",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793505239~acl=/*~id=42184481197912710517080287146997~hmac=a5398c94838a0932bef06d04aa32e13b05bd23318ef467bce1e06940bf9e2277"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793505239~acl=/*~id=42184481197912710517080287146997~hmac=a5398c94838a0932bef06d04aa32e13b05bd23318ef467bce1e06940bf9e2277"
+        },
+        {
+          "label": "Bengali",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793505239~acl=/*~id=42184481197912710517080287146997~hmac=a5398c94838a0932bef06d04aa32e13b05bd23318ef467bce1e06940bf9e2277"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793466076
+    },
     {
       "EntityId": 2020,
       "VideoName": "Udinese vs AS Roma",
@@ -6832,6 +6863,20 @@
       "UrlSlug": "longines-fei-jumping-world-cup-2026"
     },
     {
+      "EntityId": 19249,
+      "VideoName": "Melbourne City FC (AUS) vs PFC Nasaf (UZB)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 1",
+      "EventStartDate": "2026-11-01 20:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793095638540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793095638540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-Melbourne City FC (AUS)-vs-PFC Nasaf (UZB)"
+    },
+    {
       "EntityId": 2053,
       "VideoName": "Union Berlin vs Köln",
       "CategoryName": "Bundesliga",
@@ -8132,20 +8177,6 @@
       "Team2Name": "Willem II",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2952/image",
       "Team2Logo": ""
-    },
-    {
-      "EntityId": 19450,
-      "VideoName": "Betis vs Malaga",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 11",
-      "EventStartDate": "2026-10-31 23:30:00",
-      "Description": "The 91st match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Malaga live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793344933540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793344933540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--betis-vs-malaga-live"
     },
     {
       "EntityId": 1982,
