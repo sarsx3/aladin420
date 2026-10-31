@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:04 AM 31-10-2026",
+    "LastUpdate": "06:05 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 421
+    "LiveCount": 7,
+    "UpcomingCount": 419
   },
   "Matches": [
     {
@@ -34,6 +34,76 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 1973,
+      "VideoName": "Sarmiento Junin vs Rosario Central",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 06:15:00",
+      "Description": "Watch Sarmiento Junin vs Rosario Central — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42338/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793388406-0-0-3d960a5ce37505bda91f48a74edab8c0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sarmiento Junin",
+      "Team2Name": "Rosario Central",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/42338/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3217/image"
+    },
+    {
+      "EntityId": 1974,
+      "VideoName": "Racing Club vs Aldosivi",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 06:15:00",
+      "Description": "Watch Racing Club vs Aldosivi — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3215/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+      "sources": [
+        {
+          "label": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793388377-0-0-df21e4700c7e36c4feb22dd8a36fec90",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Racing Club",
+      "Team2Name": "Aldosivi",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3215/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/36836/image"
     },
     {
       "EntityId": 1975,
@@ -8471,76 +8541,6 @@
       "Team2Name": "Afghanistan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4787/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187575/image"
-    },
-    {
-      "EntityId": 1973,
-      "VideoName": "Sarmiento Junin vs Rosario Central",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 06:15:00",
-      "Description": "Watch Sarmiento Junin vs Rosario Central — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42338/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793388406-0-0-3d960a5ce37505bda91f48a74edab8c0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sarmiento Junin",
-      "Team2Name": "Rosario Central",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/42338/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3217/image"
-    },
-    {
-      "EntityId": 1974,
-      "VideoName": "Racing Club vs Aldosivi",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 06:15:00",
-      "Description": "Watch Racing Club vs Aldosivi — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3215/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-      "sources": [
-        {
-          "label": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793388377-0-0-df21e4700c7e36c4feb22dd8a36fec90",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Racing Club",
-      "Team2Name": "Aldosivi",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3215/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/36836/image"
     },
     {
       "EntityId": 1970,
