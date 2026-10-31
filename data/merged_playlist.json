@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:58 PM 31-10-2026",
+    "LastUpdate": "03:59 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 9,
     "UpcomingCount": 407
   },
   "Matches": [
@@ -124,51 +124,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
     },
     {
-      "EntityId": 2297,
-      "VideoName": "1st in Group B vs 1st in Group D",
-      "CategoryName": "Hong Kong Sixes 2026 - 18th T10",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 14:05:00",
-      "Description": "Watch 1st in Group B vs 1st in Group D — Hong Kong Sixes 2026 - 18th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9512,
-      "UrlSlug": "hong-kong-sixes-2026-18th-t10",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd",
-          "drmScheme": "OWQxMDQ0MWZhYmYzNWEzMTBkNmNjZjE3MTU4Y2Y2ZTU6MTA0NTJjMDYyYzE5OTA3ODhhN2Y4M2EyZGM2YjdlMDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd",
-          "drmScheme": "OWQxMDQ0MWZhYmYzNWEzMTBkNmNjZjE3MTU4Y2Y2ZTU6MTA0NTJjMDYyYzE5OTA3ODhhN2Y4M2EyZGM2YjdlMDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "1st in Group B",
-      "Team2Name": "1st in Group D",
-      "Team1Logo": "",
-      "Team2Logo": ""
-    },
-    {
       "EntityId": 18886,
       "VideoName": "Pakistan vs Sri Lanka",
       "CategoryName": "Pakistan ODI Tri-Series 2026",
@@ -279,93 +234,6 @@
       "Team2Name": "Sri Lankan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
-    },
-    {
-      "EntityId": 2296,
-      "VideoName": "1st in Group A vs 1st in Group C",
-      "CategoryName": "Hong Kong Sixes 2026 - 17th T10",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 13:10:00",
-      "Description": "Watch 1st in Group A vs 1st in Group C — Hong Kong Sixes 2026 - 17th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9559,
-      "UrlSlug": "hong-kong-sixes-2026-17th-t10",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd",
-          "drmScheme": "ZTBhYjM1NTJjYTcwMWViMjkwNjlmNGU3MzE4ZmYxNDE6OWI5OTVkNjViYmRjY2Q3ZTdiZTllNjA0MzU3MzE2YmE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd",
-          "drmScheme": "ZTBhYjM1NTJjYTcwMWViMjkwNjlmNGU3MzE4ZmYxNDE6OWI5OTVkNjViYmRjY2Q3ZTdiZTllNjA0MzU3MzE2YmE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SportsHype - aq",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-vll-ldc/_nc_cat-1/_nc_sr_t-4/v/rASe6rImn5Fh41SdhhyuJzfndOjHnUpD5RNsQCkZs7cs1Mw/_nc_ohc-a1vBZEN-vwAQ7kNvwHzbHKO/live-dash/dash-abr-ibr-audio/122376482234224342.mpd?_nc_eui2=AeH0_XeW1V7NDwp4n_OFPBm4YsSTsBDH6MRixJOwEMfoxPp_IIEHGnynkSSAGZI5-F5-c9siZCgM1iN6uRiPL_OK&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQS61tT2NoxnWZRPEzyw8I2SHOlt3dvdxNeVQKrdpRyMKQ&oe=6AE77730",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "1st in Group A",
-      "Team2Name": "1st in Group C",
-      "Team1Logo": "",
-      "Team2Logo": ""
-    },
-    {
-      "EntityId": 2247,
-      "VideoName": "Lumbini Lions vs Chitwan Rhinos",
-      "CategoryName": "NPL 2026 - 7th T20",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 12:45:00",
-      "Description": "Watch Lumbini Lions vs Chitwan Rhinos — NPL 2026 - 7th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9115,
-      "UrlSlug": "npl-2026-7th-t20",
-      "stream_url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
-      "sources": [
-        {
-          "label": "ntv sports hd",
-          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd 2",
-          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=45834266",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lumbini Lions",
-      "Team2Name": "Chitwan Rhinos",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
     },
     {
       "EntityId": 1793426210274,
