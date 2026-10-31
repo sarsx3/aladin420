@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 PM 31-10-2026",
+    "LastUpdate": "05:20 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 405
+    "LiveCount": 10,
+    "UpcomingCount": 404
   },
   "Matches": [
+    {
+      "EntityId": 2234,
+      "VideoName": "Chennaiyin vs Kerala",
+      "CategoryName": "Indian Super League",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 17:30:00",
+      "Description": "Watch Chennaiyin vs Kerala — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/174590/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9199,
+      "UrlSlug": "indian-super-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Chennaiyin",
+      "Team2Name": "Kerala",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/174590/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/174598/image"
+    },
     {
       "EntityId": 2248,
       "VideoName": "Sudurpaschim Royals vs Biratnagar Kings",
@@ -8367,26 +8387,6 @@
       "Team2Name": "Osnabrück",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2581/image"
-    },
-    {
-      "EntityId": 2234,
-      "VideoName": "Chennaiyin vs Kerala",
-      "CategoryName": "Indian Super League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 17:30:00",
-      "Description": "Watch Chennaiyin vs Kerala — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/174590/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Chennaiyin",
-      "Team2Name": "Kerala",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/174590/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/174598/image"
     },
     {
       "EntityId": 1970,
