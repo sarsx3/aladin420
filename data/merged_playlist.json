@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:59 PM 31-10-2026",
+    "LastUpdate": "09:00 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 39,
+    "LiveCount": 37,
     "UpcomingCount": 360
   },
   "Matches": [
@@ -93,8 +93,44 @@
       "Status": "Live",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793413487-0-0-784ea408ef039dd7ba1d0a1307dacae2",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793413487-0-0-784ea408ef039dd7ba1d0a1307dacae2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793456594-0-0-ab372777ae608d7cca18f9dc4f70a095",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=9c8c4308678fa440ec71def459258a1d&wsABSTime=1793499794",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793456595-0-0-d86edf417a3586c5bfca5f879d9e8bb9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hull City",
       "Team2Name": "Ipswich",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/96/image",
@@ -113,8 +149,44 @@
       "Status": "Live",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793413296-0-0-642ae516f5b55157851bfa0857e5ac3f",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793413296-0-0-642ae516f5b55157851bfa0857e5ac3f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001793456486-0-0-a7b71ba593a62579ca46814e9251ab97",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=3a33979207c814e292d7968854a999be&wsABSTime=1793499687",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793456488-0-0-51d525f5add6da9893883eb7802e31a2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Coventry",
       "Team2Name": "Sunderland",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/11/image",
@@ -133,8 +205,51 @@
       "Status": "Live",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1793461687-0-0-834d6f1ca65a72606051a442b9e66614",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1793461687-0-0-834d6f1ca65a72606051a442b9e66614",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=5fbaa93b955fe7becbe3b58e1506e13b&txTime=6ae649b7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=78434beda565f642bd195c45b0f50422&txTime=6ae64a2e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=f2f95426a35da98c3dfa69a0067e99c7&wsABSTime=1793499626",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793456433-0-0-fcda949750d23344c4dad6b1e6443414",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Brentford",
       "Team2Name": "Nottingham Forest",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/50/image",
@@ -153,8 +268,58 @@
       "Status": "Live",
       "CategoryId": 9568,
       "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1793461687-0-0-8c8ccd26e5c02984720a049a15d040e2",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1793461687-0-0-8c8ccd26e5c02984720a049a15d040e2",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793446626-0-0-7ce32efb1ebb5433f5112598c8ebbf3e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=795c060c32e8f9cbaf51ba62bd7f80fd&txTime=6ae6493f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=465913b42922e80ddfc4826b6986c972&wsABSTime=1793499553",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793456360-0-0-9ddcbdba0688c51b92e2b0d9a4185268",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793456361-0-0-c3e4cafac03aa71ed952844de35ed5f6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Bournemouth",
       "Team2Name": "Leeds",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/60/image",
@@ -799,19 +964,19 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793501600~acl=/*~id=78071542443961448194232615677498~hmac=58e381a847c50763f50e2a9539205e48a25a4fb7bae930d36d8834bb4e4841ef",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793501600~acl=/*~id=78071542443961448194232615677498~hmac=58e381a847c50763f50e2a9539205e48a25a4fb7bae930d36d8834bb4e4841ef"
         },
         {
           "label": "Hindi",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793501600~acl=/*~id=78071542443961448194232615677498~hmac=58e381a847c50763f50e2a9539205e48a25a4fb7bae930d36d8834bb4e4841ef"
         },
         {
           "label": "Bengali",
-          "url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+          "url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793501600~acl=/*~id=78071542443961448194232615677498~hmac=58e381a847c50763f50e2a9539205e48a25a4fb7bae930d36d8834bb4e4841ef"
         }
       ],
       "Provider": "SonyLiv",
@@ -1087,85 +1252,6 @@
       "Team2Name": "Atl. Madrid",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2849/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2836/image"
-    },
-    {
-      "EntityId": 2033,
-      "VideoName": "Real Sociedad B vs Girona",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 19:00:00",
-      "Description": "Watch Real Sociedad B vs Girona — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24360/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793449591-0-0-a5415174b1751f47bea262cf55b40ef8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.44/hls/VUUUAAAAQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Real Sociedad B",
-      "Team2Name": "Girona",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/24360/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/324871/image"
-    },
-    {
-      "EntityId": 2264,
-      "VideoName": "Kocaelispor vs Caykur Rizespor",
-      "CategoryName": "Super Lig",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 19:00:00",
-      "Description": "Watch Kocaelispor vs Caykur Rizespor — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3065/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=0c05ba5e57d7684cf1c3a44f9ad5f0a1&wsABSTime=1793492606",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=0c05ba5e57d7684cf1c3a44f9ad5f0a1&wsABSTime=1793492606",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.44/hls/BDDDAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Kocaelispor",
-      "Team2Name": "Caykur Rizespor",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3065/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3064/image"
     },
     {
       "EntityId": 2248,
@@ -3728,26 +3814,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/37057/image"
     },
     {
-      "EntityId": 2190,
-      "VideoName": "Levski Sofia vs Jagiellonia",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Levski Sofia vs Jagiellonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3273/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Levski Sofia",
-      "Team2Name": "Jagiellonia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3273/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7691/image"
-    },
-    {
       "EntityId": 2191,
       "VideoName": "Real Sociedad vs Lyon",
       "CategoryName": "UEFA Europa League",
@@ -4086,6 +4152,26 @@
       "Team2Name": "Bournemouth",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2218/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
+    },
+    {
+      "EntityId": 2190,
+      "VideoName": "Levski Sofia vs Jagiellonia",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Levski Sofia vs Jagiellonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3273/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Levski Sofia",
+      "Team2Name": "Jagiellonia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3273/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7691/image"
     },
     {
       "EntityId": 2219,
@@ -7295,26 +7381,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2523/image"
     },
     {
-      "EntityId": 2060,
-      "VideoName": "Como vs Venezia",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 17:30:00",
-      "Description": "Watch Como vs Venezia — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2704/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Como",
-      "Team2Name": "Venezia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2704/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2688/image"
-    },
-    {
       "EntityId": 2236,
       "VideoName": "Mumbai City vs SC Delhi",
       "CategoryName": "Indian Super League",
@@ -7333,6 +7399,26 @@
       "Team2Name": "SC Delhi",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/174600/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/331840/image"
+    },
+    {
+      "EntityId": 2060,
+      "VideoName": "Como vs Venezia",
+      "CategoryName": "Serie A",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-01 17:30:00",
+      "Description": "Watch Como vs Venezia — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2704/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Como",
+      "Team2Name": "Venezia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2704/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2688/image"
     },
     {
       "EntityId": 2066,
