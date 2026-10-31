@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:06 AM 01-11-2026",
+    "LastUpdate": "02:07 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -508,6 +508,35 @@
           "label": "Server - 4",
           "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mr9nvpnlnt/out/v1/d7f4f63d6d22400abc3e83956523a283/cenc.mpd?aws_sessionId=0d38cff8-a52b-40f8-82f7-c3e38d4707e7?|drmScheme=clearkey&drmLicense=fa9f124c42c3a3027f6503d75200d920:786effbbba3028a34074ecfe73f2c33d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rzve3vnoqx/out/v1/ad3af4afccef4f8badb6197b1251946f/cenc.mpd?aws_sessionId=69a5a625-bd9b-453c-a7e4-f71bee9157cd?|drmScheme=clearkey&drmLicense=1bc15cebdb8bbe98ef47749f14c6b0aa:2ed5134c3546a495a8a3216d2c3fb294",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PEACOCK FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ydwc6xkfsq/out/v1/d625df59f7f748a0a033bda0763d34d1/cenc.mpd?aws_sessionId=80bc2f57-ee7f-4035-875b-15e287e3e000?|drmScheme=clearkey&drmLicense=1bc15cebdb8bbe98ef47749f14c6b0aa:2ed5134c3546a495a8a3216d2c3fb294",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FASTER QUALITY",
+          "url": "https://live.vivo155.com/live/hd-en-1-4549139.m3u8?txSecret=0c13e3e79608398e94ce1e9b1399e5a6&txTime=6AE65863",
+          "headers": {
+            "Referer": "https://player.on8on8.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
