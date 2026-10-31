@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:43 AM 31-10-2026",
+    "LastUpdate": "11:44 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 413
   },
   "Matches": [
@@ -30,6 +30,22 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
           "headers": {
             "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd",
+          "drmScheme": "NjQzYTY4ODEwNjkyNGI1NWU4NWExZGE4ZWI5ZWIyNGQ6MjliOGMxNDlkNTgzMTIyNTcwMDJhNjQ2MmJhMTg4MmE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow-alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd",
+          "drmScheme": "NjQzYTY4ODEwNjkyNGI1NWU4NWExZGE4ZWI5ZWIyNGQ6MjliOGMxNDlkNTgzMTIyNTcwMDJhNjQ2MmJhMTg4MmE=",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -125,51 +141,6 @@
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2293,
-      "VideoName": "3rd in Group A vs 3rd in Group C",
-      "CategoryName": "Hong Kong Sixes 2026 - 14th T10",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 10:25:00",
-      "Description": "Watch 3rd in Group A vs 3rd in Group C — Hong Kong Sixes 2026 - 14th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9687,
-      "UrlSlug": "hong-kong-sixes-2026-14th-t10",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-      "sources": [
-        {
-          "label": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd",
-          "drmScheme": "MTUzMzM5MzMzMDQxNTRmOTdjMjBlYzdmZTg5MjE1MTc6YjAzZjhjNDJjYmRjN2NlM2ZmNGZmZTg4MmJjMmQ0N2Q=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-aq",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd",
-          "drmScheme": "MTUzMzM5MzMzMDQxNTRmOTdjMjBlYzdmZTg5MjE1MTc6YjAzZjhjNDJjYmRjN2NlM2ZmNGZmZTg4MmJjMmQ0N2Q=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "3rd in Group A",
-      "Team2Name": "3rd in Group C",
-      "Team1Logo": "",
-      "Team2Logo": ""
     },
     {
       "EntityId": 19337,
