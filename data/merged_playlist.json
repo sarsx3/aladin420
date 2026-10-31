@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:46 PM 31-10-2026",
+    "LastUpdate": "11:47 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -7354,8 +7354,16 @@
       "Status": "Upcoming",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=690ee9edbdb85ee2eab052cb1d01af77&wsABSTime=1793510511",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=690ee9edbdb85ee2eab052cb1d01af77&wsABSTime=1793510511",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "New York City",
       "Team2Name": "CF Montréal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187643/image",
