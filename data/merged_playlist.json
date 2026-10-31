@@ -1,35 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:07 PM 31-10-2026",
+    "LastUpdate": "10:08 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 40,
+    "LiveCount": 37,
     "UpcomingCount": 355
   },
   "Matches": [
-    {
-      "EntityId": 2265,
-      "VideoName": "Fenerbahçe vs Goztepe SK",
-      "CategoryName": "Super Lig",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 22:00:00",
-      "Description": "Watch Fenerbahçe vs Goztepe SK — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3052/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Fenerbahçe",
-      "Team2Name": "Goztepe SK",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3052/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3054/image"
-    },
     {
       "EntityId": 2021,
       "VideoName": "Feyenoord vs Fortuna Sittard",
@@ -1568,114 +1548,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793455396
-    },
-    {
-      "EntityId": 2019,
-      "VideoName": "Bologna vs Monza",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 20:00:00",
-      "Description": "Watch Bologna vs Monza — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2685/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "sources": [
-        {
-          "label": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001793411100-0-0-3e85e7e018c30a6f44bb610c334ffec8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793449209-0-0-4ba8b069cb3efad91eb3fc5f2522aeca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fubo sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS NETWORK HD",
-          "url": "https://chatgpt.hereisman.net/playlist/58911/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bologna",
-      "Team2Name": "Monza",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2685/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2729/image"
-    },
-    {
-      "EntityId": 2235,
-      "VideoName": "Mohun Bagan vs Punjab",
-      "CategoryName": "Indian Super League",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 20:00:00",
-      "Description": "Watch Mohun Bagan vs Punjab — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/370834/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.44/hls/QHHHQQQQAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Mohun Bagan",
-      "Team2Name": "Punjab",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/370834/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/230661/image"
     },
     {
       "EntityId": 2248,
@@ -4238,6 +4110,66 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/37057/image"
     },
     {
+      "EntityId": 2190,
+      "VideoName": "Levski Sofia vs Jagiellonia",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Levski Sofia vs Jagiellonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3273/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Levski Sofia",
+      "Team2Name": "Jagiellonia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3273/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7691/image"
+    },
+    {
+      "EntityId": 2191,
+      "VideoName": "Real Sociedad vs Lyon",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Real Sociedad vs Lyon — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2824/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Real Sociedad",
+      "Team2Name": "Lyon",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2824/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
+    },
+    {
+      "EntityId": 2192,
+      "VideoName": "Anderlecht vs Salzburg",
+      "CategoryName": "UEFA Europa League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-05 23:45:00",
+      "Description": "Watch Anderlecht vs Salzburg — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2900/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9386,
+      "UrlSlug": "uefa-europa-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Anderlecht",
+      "Team2Name": "Salzburg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2900/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2046/image"
+    },
+    {
       "EntityId": 2193,
       "VideoName": "Rennes vs Olympiacos",
       "CategoryName": "UEFA Europa League",
@@ -4536,66 +4468,6 @@
       "Team2Name": "Bournemouth",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2218/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
-    },
-    {
-      "EntityId": 2190,
-      "VideoName": "Levski Sofia vs Jagiellonia",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Levski Sofia vs Jagiellonia — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3273/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Levski Sofia",
-      "Team2Name": "Jagiellonia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3273/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7691/image"
-    },
-    {
-      "EntityId": 2191,
-      "VideoName": "Real Sociedad vs Lyon",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Real Sociedad vs Lyon — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2824/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Real Sociedad",
-      "Team2Name": "Lyon",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2824/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
-    },
-    {
-      "EntityId": 2192,
-      "VideoName": "Anderlecht vs Salzburg",
-      "CategoryName": "UEFA Europa League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:45:00",
-      "Description": "Watch Anderlecht vs Salzburg — UEFA Europa League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2900/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9386,
-      "UrlSlug": "uefa-europa-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Anderlecht",
-      "Team2Name": "Salzburg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2900/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2046/image"
     },
     {
       "EntityId": 2219,
@@ -7819,26 +7691,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2523/image"
     },
     {
-      "EntityId": 2236,
-      "VideoName": "Mumbai City vs SC Delhi",
-      "CategoryName": "Indian Super League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 17:30:00",
-      "Description": "Watch Mumbai City vs SC Delhi — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/174600/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Mumbai City",
-      "Team2Name": "SC Delhi",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/174600/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/331840/image"
-    },
-    {
       "EntityId": 2060,
       "VideoName": "Como vs Venezia",
       "CategoryName": "Serie A",
@@ -7857,6 +7709,26 @@
       "Team2Name": "Venezia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2704/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2688/image"
+    },
+    {
+      "EntityId": 2236,
+      "VideoName": "Mumbai City vs SC Delhi",
+      "CategoryName": "Indian Super League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-01 17:30:00",
+      "Description": "Watch Mumbai City vs SC Delhi — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/174600/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9199,
+      "UrlSlug": "indian-super-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Mumbai City",
+      "Team2Name": "SC Delhi",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/174600/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/331840/image"
     },
     {
       "EntityId": 2066,
