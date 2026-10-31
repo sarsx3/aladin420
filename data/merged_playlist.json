@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:51 PM 31-10-2026",
+    "LastUpdate": "01:52 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 409
   },
   "Matches": [
@@ -58,6 +58,20 @@
         {
           "label": "willow hd",
           "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ptv sports - aq",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "ptv sports hd",
+          "url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -154,26 +168,6 @@
       "Team2Name": "Chitwan Rhinos",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
-    },
-    {
-      "EntityId": 2295,
-      "VideoName": "2nd in Group A vs 2nd in Group C",
-      "CategoryName": "Hong Kong Sixes 2026 - 16th T10",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 12:15:00",
-      "Description": "Watch 2nd in Group A vs 2nd in Group C — Hong Kong Sixes 2026 - 16th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9540,
-      "UrlSlug": "hong-kong-sixes-2026-16th-t10",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "2nd in Group A",
-      "Team2Name": "2nd in Group C",
-      "Team1Logo": "",
-      "Team2Logo": ""
     },
     {
       "EntityId": 19181,
