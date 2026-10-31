@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:59 PM 31-10-2026",
+    "LastUpdate": "02:00 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
     "LiveCount": 9,
-    "UpcomingCount": 408
+    "UpcomingCount": 407
   },
   "Matches": [
+    {
+      "EntityId": 2038,
+      "VideoName": "Perth Scorchers Women vs Melbourne Renegades Women",
+      "CategoryName": "Womens Big Bash League 2026 - 5th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 14:10:00",
+      "Description": "Watch Perth Scorchers Women vs Melbourne Renegades Women — Womens Big Bash League 2026 - 5th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274890/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9172,
+      "UrlSlug": "womens-big-bash-league-2026-5th-match",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Perth Scorchers Women",
+      "Team2Name": "Melbourne Renegades Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274890/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
+    },
     {
       "EntityId": 2297,
       "VideoName": "1st in Group B vs 1st in Group D",
@@ -218,72 +238,6 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2037,
-      "VideoName": "Adelaide Strikers Women vs Melbourne Stars Women",
-      "CategoryName": "Womens Big Bash League 2026 - 4th Match",
-      "StageName": "Live",
-      "EventStartDate": "2026-10-31 10:40:00",
-      "Description": "Watch Adelaide Strikers Women vs Melbourne Stars Women — Womens Big Bash League 2026 - 4th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274888/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9074,
-      "UrlSlug": "womens-big-bash-league-2026-4th-match",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-          "drmScheme": "MzQ0NGFmMGRkMjY0YTFlMjgwZTdhYzEyNDEwOTgyZTU6YWZhMjBkMTE4Nzc2MjMxYmE4MGZjNWMyYjQzNzA5MDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-          "drmScheme": "MzQ0NGFmMGRkMjY0YTFlMjgwZTdhYzEyNDEwOTgyZTU6YWZhMjBkMTE4Nzc2MjMxYmE4MGZjNWMyYjQzNzA5MDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-aq",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sky cricket - aq",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "EURO SPORTS - aq",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Adelaide Strikers Women",
-      "Team2Name": "Melbourne Stars Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274888/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274886/image"
     },
     {
       "EntityId": 1793426210274,
@@ -2135,6 +2089,26 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2971/image"
     },
     {
+      "EntityId": 2328,
+      "VideoName": "Al Ittihad vs NEOM SC",
+      "CategoryName": "Saudi League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-06 23:30:00",
+      "Description": "Watch Al Ittihad vs NEOM SC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34315/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Ittihad",
+      "Team2Name": "NEOM SC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34315/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
+    },
+    {
       "EntityId": 2324,
       "VideoName": "Braunschweig vs Energie Cottbus",
       "CategoryName": "Bundesliga 2",
@@ -2173,26 +2147,6 @@
       "Team2Name": "Greuther Fürth",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2595/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2551/image"
-    },
-    {
-      "EntityId": 2328,
-      "VideoName": "Al Ittihad vs NEOM SC",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-06 23:30:00",
-      "Description": "Watch Al Ittihad vs NEOM SC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34315/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ittihad",
-      "Team2Name": "NEOM SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34315/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
     },
     {
       "EntityId": 2331,
@@ -8414,26 +8368,6 @@
       "Status": "Upcoming",
       "CategoryId": 1247,
       "UrlSlug": "per-vs-mr-5th-t20i-live"
-    },
-    {
-      "EntityId": 2038,
-      "VideoName": "Perth Scorchers Women vs Melbourne Renegades Women",
-      "CategoryName": "Womens Big Bash League 2026 - 5th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 14:10:00",
-      "Description": "Watch Perth Scorchers Women vs Melbourne Renegades Women — Womens Big Bash League 2026 - 5th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274890/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9172,
-      "UrlSlug": "womens-big-bash-league-2026-5th-match",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Perth Scorchers Women",
-      "Team2Name": "Melbourne Renegades Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274890/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
     },
     {
       "EntityId": 18886,
