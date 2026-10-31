@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 31-10-2026",
+    "LastUpdate": "11:50 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 348
+    "LiveCount": 14,
+    "UpcomingCount": 344
   },
   "Matches": [
     {
@@ -30,6 +30,134 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2072,
+      "VideoName": "Al-Hilal vs Al Fateh",
+      "CategoryName": "Saudi League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 00:00:00",
+      "Description": "Watch Al-Hilal vs Al Fateh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9404,
+      "UrlSlug": "saudi-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793467144-0-0-03afef1b8ca52e2d594c491f7499713d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al-Hilal",
+      "Team2Name": "Al Fateh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/56023/image"
+    },
+    {
+      "EntityId": 2081,
+      "VideoName": "New York City vs CF Montréal",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 00:00:00",
+      "Description": "Watch New York City vs CF Montréal — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187643/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=690ee9edbdb85ee2eab052cb1d01af77&wsABSTime=1793510511",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=690ee9edbdb85ee2eab052cb1d01af77&wsABSTime=1793510511",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "New York City",
+      "Team2Name": "CF Montréal",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187643/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/22006/image"
+    },
+    {
+      "EntityId": 2082,
+      "VideoName": "Columbus Crew vs DC United",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 00:00:00",
+      "Description": "Watch Columbus Crew vs DC United — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2504/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Columbus Crew",
+      "Team2Name": "DC United",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2504/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2502/image"
+    },
+    {
+      "EntityId": 2083,
+      "VideoName": "Cincinnati vs Philadelphia Union",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 00:00:00",
+      "Description": "Watch Cincinnati vs Philadelphia Union — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/215167/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel86.flv?wsSecret=d93eff9d2f9b9219c8f5fc9dd6bf4fcc&wsABSTime=1793510405",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel86.flv?wsSecret=d93eff9d2f9b9219c8f5fc9dd6bf4fcc&wsABSTime=1793510405",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Cincinnati",
+      "Team2Name": "Philadelphia Union",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/215167/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/39833/image"
     },
     {
       "EntityId": 2022,
@@ -340,6 +468,14 @@
           "label": "Server - 3",
           "url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1793463967-0-0-81aeb67447a1308146422b1785f7c455",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -7305,101 +7441,6 @@
       "Team2Name": "Team 2 (TBC)",
       "Team1Logo": "",
       "Team2Logo": ""
-    },
-    {
-      "EntityId": 2072,
-      "VideoName": "Al-Hilal vs Al Fateh",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 00:00:00",
-      "Description": "Watch Al-Hilal vs Al Fateh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793467144-0-0-03afef1b8ca52e2d594c491f7499713d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al-Hilal",
-      "Team2Name": "Al Fateh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/56023/image"
-    },
-    {
-      "EntityId": 2081,
-      "VideoName": "New York City vs CF Montréal",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 00:00:00",
-      "Description": "Watch New York City vs CF Montréal — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187643/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "New York City",
-      "Team2Name": "CF Montréal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187643/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/22006/image"
-    },
-    {
-      "EntityId": 2082,
-      "VideoName": "Columbus Crew vs DC United",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 00:00:00",
-      "Description": "Watch Columbus Crew vs DC United — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2504/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Columbus Crew",
-      "Team2Name": "DC United",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2504/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2502/image"
-    },
-    {
-      "EntityId": 2083,
-      "VideoName": "Cincinnati vs Philadelphia Union",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 00:00:00",
-      "Description": "Watch Cincinnati vs Philadelphia Union — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/215167/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Cincinnati",
-      "Team2Name": "Philadelphia Union",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/215167/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/39833/image"
     }
   ]
 }
