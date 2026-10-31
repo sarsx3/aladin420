@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:09 AM 31-10-2026",
+    "LastUpdate": "11:10 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 414
+    "LiveCount": 9,
+    "UpcomingCount": 413
   },
   "Matches": [
+    {
+      "EntityId": 2294,
+      "VideoName": "2nd in Group B vs 2nd in Group D",
+      "CategoryName": "Hong Kong Sixes 2026 - 15th T10",
+      "StageName": "Live",
+      "EventStartDate": "2026-10-31 11:20:00",
+      "Description": "Watch 2nd in Group B vs 2nd in Group D — Hong Kong Sixes 2026 - 15th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9035,
+      "UrlSlug": "hong-kong-sixes-2026-15th-t10",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "2nd in Group B",
+      "Team2Name": "2nd in Group D",
+      "Team1Logo": "",
+      "Team2Logo": ""
+    },
     {
       "EntityId": 19181,
       "VideoName": "Adelaide Strikers vs Melbourne Stars",
@@ -44,25 +64,8 @@
       "Status": "Live",
       "CategoryId": 9074,
       "UrlSlug": "womens-big-bash-league-2026-4th-match",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-          "drmScheme": "MzQ0NGFmMGRkMjY0YTFlMjgwZTdhYzEyNDEwOTgyZTU6YWZhMjBkMTE4Nzc2MjMxYmE4MGZjNWMyYjQzNzA5MDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-          "drmScheme": "MzQ0NGFmMGRkMjY0YTFlMjgwZTdhYzEyNDEwOTgyZTU6YWZhMjBkMTE4Nzc2MjMxYmE4MGZjNWMyYjQzNzA5MDk=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Adelaide Strikers Women",
       "Team2Name": "Melbourne Stars Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274888/image",
@@ -8408,26 +8411,6 @@
       "sources": [],
       "Team1Name": "2nd in Group A",
       "Team2Name": "2nd in Group C",
-      "Team1Logo": "",
-      "Team2Logo": ""
-    },
-    {
-      "EntityId": 2294,
-      "VideoName": "2nd in Group B vs 2nd in Group D",
-      "CategoryName": "Hong Kong Sixes 2026 - 15th T10",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 11:20:00",
-      "Description": "Watch 2nd in Group B vs 2nd in Group D — Hong Kong Sixes 2026 - 15th T10. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9035,
-      "UrlSlug": "hong-kong-sixes-2026-15th-t10",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "2nd in Group B",
-      "Team2Name": "2nd in Group D",
       "Team1Logo": "",
       "Team2Logo": ""
     },
