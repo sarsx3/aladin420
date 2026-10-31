@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:03 AM 31-10-2026",
+    "LastUpdate": "10:04 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 415
   },
   "Matches": [
+    {
+      "EntityId": 19477,
+      "VideoName": "GTWC Asia - Race 1 - Shanghai, China",
+      "CategoryName": "GT World Challenge EU & Asia 2026",
+      "StageName": "Race 1",
+      "EventStartDate": "2026-10-31 10:25:00",
+      "Description": "The  GTWC Asia - Race 1 - Shanghai, China match is scheduled to take place on 31-Oct, at 10:25 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793364146540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793364146540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 371,
+      "UrlSlug": "gtwc-asia---race-1---shanghai,-china-live",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2292,
       "VideoName": "3rd in Group B vs 3rd in Group D",
@@ -54,27 +75,6 @@
       "Team2Name": "3rd in Group D",
       "Team1Logo": "",
       "Team2Logo": ""
-    },
-    {
-      "EntityId": 19471,
-      "VideoName": "GTWC Asia - Qualifiers - Shanghai, China",
-      "CategoryName": "GT World Challenge EU & Asia 2026",
-      "StageName": "Qualifying Race",
-      "EventStartDate": "2026-10-31 07:30:00",
-      "Description": "The  GTWC Asia - Qualifiers - Shanghai, China match is scheduled to take place on 31-Oct, at 07:30 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793363632540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793363632540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 371,
-      "UrlSlug": "gtwc-asia---qualifiers---shanghai,-china-live",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 19337,
@@ -123,6 +123,31 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793397655
+    },
+    {
+      "EntityId": 19120,
+      "VideoName": "Bangladesh vs West Indies",
+      "CategoryName": "West indies Tour of Bangladesh 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-10-28 10:00:00",
+      "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1246,
+      "UrlSlug": "ban-vs-wi-1st-test-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 2261,
@@ -6130,6 +6155,34 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/7040/image"
     },
     {
+      "EntityId": 19229,
+      "VideoName": "Hwacheon KSPO WFC (KOR) vs 4.25 Sports Club (PRK)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 1",
+      "EventStartDate": "2026-11-01 14:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093984540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093984540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-Hwacheon KSPO WFC (KOR)-vs-4.25 Sports Club (PRK)"
+    },
+    {
+      "EntityId": 19224,
+      "VideoName": "INAC Kobe Leonessa (JPN) vs Bam Khatoon FC (IRN)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 1",
+      "EventStartDate": "2026-11-01 14:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093650540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093650540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-INAC Kobe Leonessa (JPN)-vs-Bam Khatoon FC (IRN)"
+    },
+    {
       "EntityId": 2091,
       "VideoName": "Sydney Sixers Women vs Hobart Hurricanes Women",
       "CategoryName": "Womens Big Bash League",
@@ -6148,6 +6201,20 @@
       "Team2Name": "Hobart Hurricanes Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274883/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274885/image"
+    },
+    {
+      "EntityId": 19059,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "India Tour of New Zealand 2026",
+      "StageName": "5th T20I",
+      "EventStartDate": "2026-11-01 13:00:00",
+      "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 5th T20I is scheduled to be played on 01-Nov-2026 at 12:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792574116540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792574116540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1214,
+      "UrlSlug": "nz-vs-ind-5th-t20i-live"
     },
     {
       "EntityId": 2092,
@@ -8258,20 +8325,6 @@
       "Team2Logo": ""
     },
     {
-      "EntityId": 19181,
-      "VideoName": "Adelaide Strikers vs Melbourne Stars",
-      "CategoryName": "Women's Big Bash League 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-10-31 10:40:00",
-      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The ADS vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th T20I is scheduled to be played on 31-Oct-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793088183540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793088183540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1247,
-      "UrlSlug": "ads-vs-sta-4th-t20i-live"
-    },
-    {
       "EntityId": 2037,
       "VideoName": "Adelaide Strikers Women vs Melbourne Stars Women",
       "CategoryName": "Womens Big Bash League 2026 - 4th Match",
@@ -8290,20 +8343,6 @@
       "Team2Name": "Melbourne Stars Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274888/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274886/image"
-    },
-    {
-      "EntityId": 19477,
-      "VideoName": "GTWC Asia - Race 1 - Shanghai, China",
-      "CategoryName": "GT World Challenge EU & Asia 2026",
-      "StageName": "Race 1",
-      "EventStartDate": "2026-10-31 10:25:00",
-      "Description": "The  GTWC Asia - Race 1 - Shanghai, China match is scheduled to take place on 31-Oct, at 10:25 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793364146540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793364146540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 371,
-      "UrlSlug": "gtwc-asia---race-1---shanghai,-china-live"
     },
     {
       "EntityId": 2293,
@@ -8333,20 +8372,6 @@
       "Team2Name": "3rd in Group C",
       "Team1Logo": "",
       "Team2Logo": ""
-    },
-    {
-      "EntityId": 19120,
-      "VideoName": "Bangladesh vs West Indies",
-      "CategoryName": "West indies Tour of Bangladesh 2026",
-      "StageName": "1st Test",
-      "EventStartDate": "2026-10-31 10:00:00",
-      "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1246,
-      "UrlSlug": "ban-vs-wi-1st-test-live"
     },
     {
       "EntityId": 1970,
