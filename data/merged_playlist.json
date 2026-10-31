@@ -1,39 +1,138 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:34 AM 01-11-2026",
+    "LastUpdate": "01:35 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
-    "UpcomingCount": 335
+    "LiveCount": 19,
+    "UpcomingCount": 331
   },
   "Matches": [
     {
-      "EntityId": 18445,
+      "EntityId": 2048,
       "VideoName": "Troyes vs Le Mans",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 9",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
       "EventStartDate": "2026-11-01 01:45:00",
-      "Description": "Watch Troyes vs Le Mans live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Troyes vs Le Mans match will take place on 01-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793168592540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793168592540x302.jpg",
+      "Description": "Watch Troyes vs Le Mans — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1652/image",
+      "ThumbnailTV": "",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 1115,
-      "UrlSlug": "troyes-vs-le mans-ligue-one-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793463847-0-0-458745a38b84d7fca5c37a90c3541bb7",
       "sources": [
         {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+          "label": "Server - 1",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793463847-0-0-458745a38b84d7fca5c37a90c3541bb7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         },
         {
-          "label": "Server 2",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793471059-0-0-399385f358b9e9c27d542898a7076e11",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
-      ]
+      ],
+      "Team1Name": "Troyes",
+      "Team2Name": "Le Mans",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1652/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1672/image"
+    },
+    {
+      "EntityId": 2049,
+      "VideoName": "Lyon vs Angers",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 01:45:00",
+      "Description": "Watch Lyon vs Angers — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1649/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lyon",
+      "Team2Name": "Angers",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1649/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1684/image"
+    },
+    {
+      "EntityId": 2050,
+      "VideoName": "Lorient vs Brest",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 01:45:00",
+      "Description": "Watch Lorient vs Brest — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1656/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lorient",
+      "Team2Name": "Brest",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1656/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1715/image"
+    },
+    {
+      "EntityId": 2059,
+      "VideoName": "AC Milan vs Inter",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 01:45:00",
+      "Description": "Watch AC Milan vs Inter — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2692/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "sources": [
+        {
+          "label": "BeIN2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "CBS SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "AC Milan",
+      "Team2Name": "Inter",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2697/image"
     },
     {
       "EntityId": 2055,
@@ -6271,20 +6370,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3013/image"
     },
     {
-      "EntityId": 19453,
-      "VideoName": "Racing Santander vs Real Madrid",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 11",
-      "EventStartDate": "2026-11-01 21:15:00",
-      "Description": "The 94th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Real Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793345923540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793345923540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--racing-santander-vs-real-madrid-live"
-    },
-    {
       "EntityId": 2075,
       "VideoName": "Racing Santander vs Real Madrid",
       "CategoryName": "LaLiga",
@@ -6365,20 +6450,6 @@
       "Status": "Upcoming",
       "CategoryId": 953,
       "UrlSlug": "AFC Women's Champions League-Ho Chi Minh City Women's FC (VIE)-vs-East Bengal FC (IND)"
-    },
-    {
-      "EntityId": 19113,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "Afghanistan vs Zimbabwe 2026",
-      "StageName": "3rd T20I",
-      "EventStartDate": "2026-11-01 20:30:00",
-      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd T20I is scheduled to be played on 01-Nov-2026 at 08:30 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793091804540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793091804540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1245,
-      "UrlSlug": "afg-vs-zim-3rd-t20i-live"
     },
     {
       "EntityId": 2053,
@@ -7141,6 +7212,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4500/image"
     },
     {
+      "EntityId": 19451,
+      "VideoName": "Barcelona vs Alaves",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 11",
+      "EventStartDate": "2026-11-01 02:00:00",
+      "Description": "The 92nd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona vs Alaves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793345745540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793345745540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--barcelona-vs-alaves-live"
+    },
+    {
       "EntityId": 2041,
       "VideoName": "Riestra vs Talleres",
       "CategoryName": "Liga Profesional",
@@ -7261,128 +7346,18 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/24335/image"
     },
     {
-      "EntityId": 2048,
+      "EntityId": 18445,
       "VideoName": "Troyes vs Le Mans",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 9",
       "EventStartDate": "2026-11-01 01:45:00",
-      "Description": "Watch Troyes vs Le Mans — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1652/image",
-      "ThumbnailTV": "",
+      "Description": "Watch Troyes vs Le Mans live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Troyes vs Le Mans match will take place on 01-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793168592540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793168592540x302.jpg",
       "IsFreeToWatch": false,
       "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793463847-0-0-458745a38b84d7fca5c37a90c3541bb7",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793463847-0-0-458745a38b84d7fca5c37a90c3541bb7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793471059-0-0-399385f358b9e9c27d542898a7076e11",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Troyes",
-      "Team2Name": "Le Mans",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1652/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1672/image"
-    },
-    {
-      "EntityId": 2049,
-      "VideoName": "Lyon vs Angers",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 01:45:00",
-      "Description": "Watch Lyon vs Angers — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1649/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lyon",
-      "Team2Name": "Angers",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1649/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1684/image"
-    },
-    {
-      "EntityId": 2050,
-      "VideoName": "Lorient vs Brest",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 01:45:00",
-      "Description": "Watch Lorient vs Brest — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1656/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lorient",
-      "Team2Name": "Brest",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1656/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1715/image"
-    },
-    {
-      "EntityId": 2059,
-      "VideoName": "AC Milan vs Inter",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 01:45:00",
-      "Description": "Watch AC Milan vs Inter — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2692/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "sources": [
-        {
-          "label": "BeIN2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "AC Milan",
-      "Team2Name": "Inter",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2692/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2697/image"
+      "CategoryId": 1115,
+      "UrlSlug": "troyes-vs-le mans-ligue-one-live-match"
     },
     {
       "EntityId": 1793439627489,
