@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:26 PM 31-10-2026",
+    "LastUpdate": "07:27 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
     "LiveCount": 22,
-    "UpcomingCount": 389
+    "UpcomingCount": 390
   },
   "Matches": [
     {
@@ -7240,6 +7240,26 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274884/image"
     },
     {
+      "EntityId": 2089,
+      "VideoName": "Bangladesh vs West Indies",
+      "CategoryName": "West Indies tour of Bangladesh, 2026 - 1st Test, Day 5",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-01 09:30:00",
+      "Description": "Watch Bangladesh vs West Indies — West Indies tour of Bangladesh, 2026 - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9962,
+      "UrlSlug": "west-indies-tour-of-bangladesh-2026-1st-test-day-5",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "West Indies",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    },
+    {
       "EntityId": 2302,
       "VideoName": "Team 1 (TBC) vs Team 2 (TBC)",
       "CategoryName": "Hong Kong Sixes 2026 - 21st T10",
@@ -8759,16 +8779,8 @@
       "Status": "Upcoming",
       "CategoryId": 9199,
       "UrlSlug": "indian-super-league",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Mohun Bagan",
       "Team2Name": "Punjab",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/370834/image",
