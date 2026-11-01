@@ -1,15 +1,64 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:59 PM 01-11-2026",
+    "LastUpdate": "02:00 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 316
+    "LiveCount": 8,
+    "UpcomingCount": 315
   },
   "Matches": [
+    {
+      "EntityId": 19184,
+      "VideoName": "Sydney Sixers vs Hobart Hurricanes",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-11-01 14:10:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SYS vs HH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 7th T20I is scheduled to be played on 01-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793489400540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793489400540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1247,
+      "UrlSlug": "sys-vs-hh-7th-t20i-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 2091,
+      "VideoName": "Sydney Sixers Women vs Hobart Hurricanes Women",
+      "CategoryName": "Womens Big Bash League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 14:10:00",
+      "Description": "Watch Sydney Sixers Women vs Hobart Hurricanes Women — Womens Big Bash League. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274883/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9705,
+      "UrlSlug": "womens-big-bash-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "sources": [
+        {
+          "label": "WILLOW SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sydney Sixers Women",
+      "Team2Name": "Hobart Hurricanes Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274883/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274885/image"
+    },
     {
       "EntityId": 19059,
       "VideoName": "New Zealand vs India",
@@ -6516,26 +6565,6 @@
       "Status": "Upcoming",
       "CategoryId": 953,
       "UrlSlug": "AFC Women's Champions League-INAC Kobe Leonessa (JPN)-vs-Bam Khatoon FC (IRN)"
-    },
-    {
-      "EntityId": 2091,
-      "VideoName": "Sydney Sixers Women vs Hobart Hurricanes Women",
-      "CategoryName": "Womens Big Bash League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 14:10:00",
-      "Description": "Watch Sydney Sixers Women vs Hobart Hurricanes Women — Womens Big Bash League. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274883/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9705,
-      "UrlSlug": "womens-big-bash-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sydney Sixers Women",
-      "Team2Name": "Hobart Hurricanes Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274883/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274885/image"
     }
   ]
 }
