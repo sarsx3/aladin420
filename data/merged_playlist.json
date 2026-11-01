@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:19 PM 01-11-2026",
+    "LastUpdate": "07:20 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 303
+    "LiveCount": 15,
+    "UpcomingCount": 301
   },
   "Matches": [
+    {
+      "EntityId": 2067,
+      "VideoName": "Telstar vs Utrecht",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 19:30:00",
+      "Description": "Watch Telstar vs Utrecht — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2972/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Telstar",
+      "Team2Name": "Utrecht",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2972/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2948/image"
+    },
+    {
+      "EntityId": 2068,
+      "VideoName": "Excelsior vs Twente",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 19:30:00",
+      "Description": "Watch Excelsior vs Twente — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2967/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Excelsior",
+      "Team2Name": "Twente",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2967/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2955/image"
+    },
     {
       "EntityId": 19452,
       "VideoName": "Getafe vs Sevilla",
@@ -6504,46 +6544,6 @@
       "Team2Name": "Goa",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/494686/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/174594/image"
-    },
-    {
-      "EntityId": 2067,
-      "VideoName": "Telstar vs Utrecht",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 19:30:00",
-      "Description": "Watch Telstar vs Utrecht — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2972/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Telstar",
-      "Team2Name": "Utrecht",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2972/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2948/image"
-    },
-    {
-      "EntityId": 2068,
-      "VideoName": "Excelsior vs Twente",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 19:30:00",
-      "Description": "Watch Excelsior vs Twente — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2967/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Excelsior",
-      "Team2Name": "Twente",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2967/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2955/image"
     }
   ]
 }
