@@ -1,15 +1,54 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:00 AM 01-11-2026",
+    "LastUpdate": "06:01 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
+    "LiveCount": 17,
     "UpcomingCount": 321
   },
   "Matches": [
+    {
+      "EntityId": 1090551580,
+      "VideoName": "UFC Fight Night - Moicano vs Nolan",
+      "CategoryName": "Fight Sports",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 06:01:20",
+      "Description": "Watch UFC Fight Night - Moicano vs Nolan live from Fight Sports. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Fight Sports online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9992,
+      "UrlSlug": "fight-sports-live",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFCF3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonydaime.akamaized.net/hls/live/2094588/UFC_UFCF3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonydaime.akamaized.net/hls/live/2120301/UFC_UFCF3110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonydaime.akamaized.net/hls/live/2005444/UFC_UFCF3110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793491280
+    },
     {
       "EntityId": 19312,
       "VideoName": "Moicano vs Nolan",
@@ -104,11 +143,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793530068~acl=/*~id=71340813110295068100061912620579~hmac=3b5b91fefbe3ecd25d39867f3c8d094b9eb7bf885f3b21f3b10f44c9e3eaa982",
+      "stream_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793530068~acl=/*~id=71340813110295068100061912620579~hmac=3b5b91fefbe3ecd25d39867f3c8d094b9eb7bf885f3b21f3b10f44c9e3eaa982"
+          "url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
         }
       ],
       "Provider": "SonyLiv",
