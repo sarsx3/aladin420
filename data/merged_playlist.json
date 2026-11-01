@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 01-11-2026",
+    "LastUpdate": "09:50 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 20,
-    "UpcomingCount": 290
+    "LiveCount": 21,
+    "UpcomingCount": 289
   },
   "Matches": [
     {
@@ -51,6 +51,26 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2269,
+      "VideoName": "Kasimpasa vs Besiktas",
+      "CategoryName": "Super Lig",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 22:00:00",
+      "Description": "Watch Kasimpasa vs Besiktas — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6063/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9721,
+      "UrlSlug": "super-lig",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Kasimpasa",
+      "Team2Name": "Besiktas",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6063/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3050/image"
     },
     {
       "EntityId": 2069,
@@ -6566,26 +6586,6 @@
       "Team2Name": "Monaco",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6070/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1653/image"
-    },
-    {
-      "EntityId": 2269,
-      "VideoName": "Kasimpasa vs Besiktas",
-      "CategoryName": "Super Lig",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 22:00:00",
-      "Description": "Watch Kasimpasa vs Besiktas — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6063/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Kasimpasa",
-      "Team2Name": "Besiktas",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6063/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3050/image"
     }
   ]
 }
