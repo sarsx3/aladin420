@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:49 AM 02-11-2026",
+    "LastUpdate": "05:50 AM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 267
+    "LiveCount": 8,
+    "UpcomingCount": 266
   },
   "Matches": [
+    {
+      "EntityId": 2117,
+      "VideoName": "Revolution vs Inter Miami",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 06:00:00",
+      "Description": "Watch Revolution vs Inter Miami — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2511/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Revolution",
+      "Team2Name": "Inter Miami",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2511/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/337602/image"
+    },
     {
       "EntityId": 2097,
       "VideoName": "Lanus vs Gimnasia Mendoza",
@@ -5515,26 +5535,6 @@
       "Team2Name": "Orlando City Soccer Club",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274650/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/52237/image"
-    },
-    {
-      "EntityId": 2117,
-      "VideoName": "Revolution vs Inter Miami",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-02 06:00:00",
-      "Description": "Watch Revolution vs Inter Miami — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2511/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Revolution",
-      "Team2Name": "Inter Miami",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2511/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/337602/image"
     }
   ]
 }
