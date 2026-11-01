@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:05 PM 01-11-2026",
+    "LastUpdate": "07:06 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
+    "LiveCount": 15,
     "UpcomingCount": 303
   },
   "Matches": [
@@ -654,49 +654,6 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2266,
-      "VideoName": "Amed SK vs Eyupspor",
-      "CategoryName": "Super Lig",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 16:30:00",
-      "Description": "Watch Amed SK vs Eyupspor — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/207011/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793524761-0-0-7aad2c757c0ded87232500ad34e13017",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.50/hls/TOOOAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Amed SK",
-      "Team2Name": "Eyupspor",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/207011/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7040/image"
     },
     {
       "EntityId": 2261,
