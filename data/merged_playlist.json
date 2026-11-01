@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:34 PM 01-11-2026",
+    "LastUpdate": "08:35 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 17,
+    "LiveCount": 20,
     "UpcomingCount": 294
   },
   "Matches": [
@@ -779,6 +779,107 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2056,
+      "VideoName": "Furth vs Holstein Kiel",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 18:30:00",
+      "Description": "Watch Furth vs Holstein Kiel — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2551/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "http://193.47.62.55/hls/JIII.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/JIII.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Furth",
+      "Team2Name": "Holstein Kiel",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2551/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2573/image"
+    },
+    {
+      "EntityId": 2057,
+      "VideoName": "Hannover vs Dresden",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 18:30:00",
+      "Description": "Watch Hannover vs Dresden — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793532270-0-0-0be880c7c864b9acaecefcd52703e2d7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.55/hls/JIIIA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Hannover",
+      "Team2Name": "Dresden",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2595/image"
+    },
+    {
+      "EntityId": 2058,
+      "VideoName": "St. Pauli vs Nurnberg",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 18:30:00",
+      "Description": "Watch St. Pauli vs Nurnberg — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2526/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "http://193.47.62.55/hls/JIIIAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.55/hls/JIIIAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "St. Pauli",
+      "Team2Name": "Nurnberg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2526/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2523/image"
     },
     {
       "EntityId": 2261,
