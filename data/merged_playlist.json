@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:19 AM 01-11-2026",
+    "LastUpdate": "07:20 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
-    "UpcomingCount": 320
+    "LiveCount": 19,
+    "UpcomingCount": 319
   },
   "Matches": [
+    {
+      "EntityId": 2088,
+      "VideoName": "Colorado Rapids vs Chicago Fire",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 07:30:00",
+      "Description": "Watch Colorado Rapids vs Chicago Fire — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2510/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Colorado Rapids",
+      "Team2Name": "Chicago Fire",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2510/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2505/image"
+    },
     {
       "EntityId": 2043,
       "VideoName": "Estudiantes vs Instituto",
@@ -7171,26 +7191,6 @@
       "Status": "Upcoming",
       "CategoryId": 1289,
       "UrlSlug": "hong-kong-sixes---day-3-vs--3rd-t20i-live"
-    },
-    {
-      "EntityId": 2088,
-      "VideoName": "Colorado Rapids vs Chicago Fire",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 07:30:00",
-      "Description": "Watch Colorado Rapids vs Chicago Fire — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2510/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Colorado Rapids",
-      "Team2Name": "Chicago Fire",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2510/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2505/image"
     },
     {
       "EntityId": 1793439627489,
