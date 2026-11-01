@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:40 AM 02-11-2026",
+    "LastUpdate": "04:41 AM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 8,
     "UpcomingCount": 268
   },
   "Matches": [
@@ -219,49 +219,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/7080/image"
     },
     {
-      "EntityId": 2115,
-      "VideoName": "Whitecaps vs Seattle Sounders",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-02 03:30:00",
-      "Description": "Watch Whitecaps vs Seattle Sounders — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22010/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001793565179-0-0-bb3444e6dc222511b7d9c036c30bf3fd",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/sasasaA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Whitecaps",
-      "Team2Name": "Seattle Sounders",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/22010/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/22009/image"
-    },
-    {
       "EntityId": 2116,
       "VideoName": "Nashville SC vs New York Red Bulls",
       "CategoryName": "MLS",
@@ -303,49 +260,6 @@
       "Team2Name": "New York Red Bulls",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/337612/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2506/image"
-    },
-    {
-      "EntityId": 2109,
-      "VideoName": "Braga vs Famalicão",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-02 02:30:00",
-      "Description": "Watch Braga vs Famalicão — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2999/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793561533-0-0-9e4d0ecd7c0535038d03c0d2fdc622a7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/sasasa.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Braga",
-      "Team2Name": "Famalicão",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2999/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/49531/image"
     },
     {
       "EntityId": 19455,
