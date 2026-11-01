@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:20 PM 01-11-2026",
+    "LastUpdate": "10:21 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 24,
+    "LiveCount": 19,
     "UpcomingCount": 286
   },
   "Matches": [
@@ -35,6 +35,63 @@
         {
           "label": "SKY SPORTS ACTION - FHD",
           "url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO9/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793547187-0-0-68f68186d023c721e54e06e0c1d7fe9c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793547187-0-0-682b0614ce8a5f1cb706001db5c1ced4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=17115581290f13ed328d45e42278a7a6&txTime=6ae7a23f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -155,6 +212,14 @@
           "label": "Server - 3",
           "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1793539807-0-0-784f9cd97c7a76bf302b714ae94c9df9",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -699,340 +764,6 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2047,
-      "VideoName": "Sheffield Wed vs Blackpool",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 20:00:00",
-      "Description": "Watch Sheffield Wed vs Blackpool — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/12/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.41/hls/QHHHAAAAAAQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.41/hls/QHHHAAAAAAQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sheffield Wed",
-      "Team2Name": "Blackpool",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/12/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/67/image"
-    },
-    {
-      "EntityId": 2051,
-      "VideoName": "Strasbourg vs Auxerre",
-      "CategoryName": "Ligue 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 20:00:00",
-      "Description": "Watch Strasbourg vs Auxerre — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1659/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-      "sources": [
-        {
-          "label": "CazéTV - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1793537887-0-0-83b9cc0533a9bdcbe67b88f2bcce48b9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7234cfa56afda02d577e22ba581715d4&txTime=6ae77e63",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793540002-0-0-1351a89706c9ceeb3bf9f091330083e3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "beIN SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?aws_sessionId=61680024-9246-43b6-8499-8369b0070330?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/5d87ae4d-6e2a-44dd-a23b-adf35afb3c32.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Strasbourg",
-      "Team2Name": "Auxerre",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1659/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1646/image"
-    },
-    {
-      "EntityId": 2061,
-      "VideoName": "Lazio vs Cagliari",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 20:00:00",
-      "Description": "Watch Lazio vs Cagliari — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2699/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd??|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "sources": [
-        {
-          "label": "beIN ENGLISH FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd??|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORT 1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793537527-0-0-b8eb74c048d9ed1dce3c305038abb3e0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793537587-0-0-4568a2930fc64c708530ea952d9b0a56",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793539610-0-0-934ca2004eb3f35d784bb4aed19d9ab2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sg26hcq4jb/out/v1/cbefa7d3aa044a42b3fbb2d9f0ed8771/cenc.mpd?aws_sessionId=6f72bd41-cc05-4448-bdc8-0110b089a955?|drmScheme=clearkey&drmLicense=65bf781cc51efe95158616c012821dee:1fdadf8f65dc2dee9de4bd299a219263",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FUBO SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fm0tdlxrfq/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd?aws_sessionId=e9687835-fab1-4436-a8d9-38800aa116ef?|drmScheme=clearkey&drmLicense=4d6c44925ac7c05add19ac2365681e5b:09602294e18cd9c2aa9843fe0fdbc160",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS NETWORK FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skya9pomml/out/v1/87d1db196d8b4b2eb491cd402196f999/cenc.mpd?|drmScheme=clearkey&drmLicense=65bf781cc51efe95158616c012821dee:1fdadf8f65dc2dee9de4bd299a219263",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lazio",
-      "Team2Name": "Cagliari",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2699/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2719/image"
-    },
-    {
-      "EntityId": 2062,
-      "VideoName": "Frosinone vs Torino",
-      "CategoryName": "Serie A",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 20:00:00",
-      "Description": "Watch Frosinone vs Torino — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2801/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
-      "sources": [
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793539403-0-0-60c6b4dea6a752650dccd14623a7307c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z7k5coaglr/out/v1/f798f09d4b6b44de82700e47ff0207f6/cenc.mpd?aws_sessionId=d30fa58d-89fd-47ee-9f14-3bb210aa2b9e?|drmScheme=clearkey&drmLicense=f905d936f4562b52ee955d3ff3dcd06c:65f555c4104074c2f2d2fe7a9f685ed5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "FUBO SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=882cb45b-b0fd-4d57-999a-97cbc604a9b0?|drmScheme=clearkey&drmLicense=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "CBS NETWORK FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z7k5coaglr/out/v1/f798f09d4b6b44de82700e47ff0207f6/cenc.mpd?|drmScheme=clearkey&drmLicense=f905d936f4562b52ee955d3ff3dcd06c:65f555c4104074c2f2d2fe7a9f685ed5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Frosinone",
-      "Team2Name": "Torino",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2801/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2696/image"
-    },
-    {
-      "EntityId": 2237,
-      "VideoName": "Inter Kashi FC vs Goa",
-      "CategoryName": "Indian Super League",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 20:00:00",
-      "Description": "Watch Inter Kashi FC vs Goa — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/494686/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9199,
-      "UrlSlug": "indian-super-league",
-      "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb1cbprod-PlaybackConfig/2018458/footlive0111/ENG/master.m3u8?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246",
-      "sources": [
-        {
-          "label": "sonyliv-english",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb1cbprod-PlaybackConfig/2018458/footlive0111/ENG/master.m3u8?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv-hindi",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb1cbprod-PlaybackConfig/2022316/footlive0111/HIN/master.m3u8?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=4a72731c5c455283b6ca05f97faaa451&wsABSTime=1793582737",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.41/hls/QHHHAAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Inter Kashi FC",
-      "Team2Name": "Goa",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/494686/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/174594/image"
     },
     {
       "EntityId": 2261,
