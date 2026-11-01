@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:04 PM 01-11-2026",
+    "LastUpdate": "10:05 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 21,
-    "UpcomingCount": 289
+    "LiveCount": 22,
+    "UpcomingCount": 288
   },
   "Matches": [
     {
@@ -51,6 +51,48 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2052,
+      "VideoName": "Paris FC vs Monaco",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 22:15:00",
+      "Description": "Watch Paris FC vs Monaco — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6070/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793539747-0-0-a27e6a901aad9c7d08bd7bdee970e3b6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1793539807-0-0-784f9cd97c7a76bf302b714ae94c9df9",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Paris FC",
+      "Team2Name": "Monaco",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6070/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1653/image"
     },
     {
       "EntityId": 2269,
@@ -6611,48 +6653,6 @@
       "Team2Name": "Hamburger SV",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2674/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2676/image"
-    },
-    {
-      "EntityId": 2052,
-      "VideoName": "Paris FC vs Monaco",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 22:15:00",
-      "Description": "Watch Paris FC vs Monaco — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6070/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793539747-0-0-a27e6a901aad9c7d08bd7bdee970e3b6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1793539807-0-0-784f9cd97c7a76bf302b714ae94c9df9",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Paris FC",
-      "Team2Name": "Monaco",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6070/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1653/image"
     }
   ]
 }
