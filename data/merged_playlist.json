@@ -1,15 +1,57 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:45 PM 01-11-2026",
+    "LastUpdate": "02:46 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 315
   },
   "Matches": [
+    {
+      "EntityId": 19229,
+      "VideoName": "Hwacheon KSPO WFC (KOR) vs 4.25 Sports Club (PRK)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 1",
+      "EventStartDate": "2026-11-01 14:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093984540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093984540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-Hwacheon KSPO WFC (KOR)-vs-4.25 Sports Club (PRK)",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 19224,
+      "VideoName": "INAC Kobe Leonessa (JPN) vs Bam Khatoon FC (IRN)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 1",
+      "EventStartDate": "2026-11-01 14:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093650540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093650540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-INAC Kobe Leonessa (JPN)-vs-Bam Khatoon FC (IRN)",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 19184,
       "VideoName": "Sydney Sixers vs Hobart Hurricanes",
@@ -50,6 +92,30 @@
           "label": "WILLOW SPORTS - aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd",
+          "drmScheme": "YTU5ZjI4YjI1NDMxYTVhYjEwOTE3MDdjMTRlNmU1YjU6MGUyYjQ0MzAwYTM4YmQ0N2ZiYjAyZTljNjg3YWEyYzg=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd",
+          "drmScheme": "YTU5ZjI4YjI1NDMxYTVhYjEwOTE3MDdjMTRlNmU1YjU6MGUyYjQ0MzAwYTM4YmQ0N2ZiYjAyZTljNjg3YWEyYzg=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -196,27 +262,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793512878
-    },
-    {
-      "EntityId": 19183,
-      "VideoName": "Sydney Thunder vs Brisbane Heat",
-      "CategoryName": "Women's Big Bash League 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-11-01 10:40:00",
-      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 6th T20I is scheduled to be played on 01-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793489150540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793489150540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1247,
-      "UrlSlug": "sct-vs-brh-6th-t20i-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 19338,
@@ -4593,6 +4638,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/264111/image"
     },
     {
+      "EntityId": 19375,
+      "VideoName": "Shakhtar Donetsk vs Sporting CP",
+      "CategoryName": "UEFA Champions League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-11-03 23:45:00",
+      "Description": "Watch Shakhtar Donetsk vs Sporting CP live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Shakhtar Donetsk vs Sporting CP match will take place on 03-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793254746540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793254746540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 826,
+      "UrlSlug": "shakhtar donetsk-vs-sporting cp-ucl-live-match"
+    },
+    {
       "EntityId": 2121,
       "VideoName": "Shakhtar vs Sporting Lisbon",
       "CategoryName": "UEFA Champions League",
@@ -5051,6 +5110,20 @@
       "Team2Name": "Cadiz CF",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2826/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4488/image"
+    },
+    {
+      "EntityId": 18444,
+      "VideoName": "Lorient vs Brest",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 9",
+      "EventStartDate": "2026-11-03 01:45:00",
+      "Description": "Watch Lorient vs Brest live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Brest match will take place on 03-Nov, Tuesday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793169167540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793169167540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "lorient-vs-brest-ligue-one-live-match"
     },
     {
       "EntityId": 2140,
@@ -6533,34 +6606,6 @@
       "Team2Name": "Eyupspor",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/207011/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/7040/image"
-    },
-    {
-      "EntityId": 19229,
-      "VideoName": "Hwacheon KSPO WFC (KOR) vs 4.25 Sports Club (PRK)",
-      "CategoryName": "AFC Women's Champions League 2026/27",
-      "StageName": "MATCHDAY 1",
-      "EventStartDate": "2026-11-01 14:30:00",
-      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093984540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093984540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 953,
-      "UrlSlug": "AFC Women's Champions League-Hwacheon KSPO WFC (KOR)-vs-4.25 Sports Club (PRK)"
-    },
-    {
-      "EntityId": 19224,
-      "VideoName": "INAC Kobe Leonessa (JPN) vs Bam Khatoon FC (IRN)",
-      "CategoryName": "AFC Women's Champions League 2026/27",
-      "StageName": "MATCHDAY 1",
-      "EventStartDate": "2026-11-01 14:30:00",
-      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093650540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093650540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 953,
-      "UrlSlug": "AFC Women's Champions League-INAC Kobe Leonessa (JPN)-vs-Bam Khatoon FC (IRN)"
     }
   ]
 }
