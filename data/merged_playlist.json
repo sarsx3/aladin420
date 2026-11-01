@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:45 AM 01-11-2026",
+    "LastUpdate": "07:46 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -6462,8 +6462,25 @@
       "Status": "Upcoming",
       "CategoryId": 9307,
       "UrlSlug": "hong-kong-sixes-2026-22nd-t10",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd",
+          "drmScheme": "OGE0NWFhOWY1ZmFjNGIxM2U5NDlhZDEwYjZlYzMyY2I6ZWQyYTM4ZWE5OTY1NzU1ODBhMDAzNjY0ZjRjOTk1Y2U=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd",
+          "drmScheme": "OGE0NWFhOWY1ZmFjNGIxM2U5NDlhZDEwYjZlYzMyY2I6ZWQyYTM4ZWE5OTY1NzU1ODBhMDAzNjY0ZjRjOTk1Y2U=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Team 1 (TBC)",
       "Team2Name": "Team 2 (TBC)",
       "Team1Logo": "",
