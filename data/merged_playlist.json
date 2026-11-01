@@ -1,15 +1,70 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:04 PM 01-11-2026",
+    "LastUpdate": "05:05 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 314
+    "LiveCount": 12,
+    "UpcomingCount": 312
   },
   "Matches": [
+    {
+      "EntityId": 2066,
+      "VideoName": "PEC Zwolle vs ADO Den Haag",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 17:15:00",
+      "Description": "Watch PEC Zwolle vs ADO Den Haag — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2971/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793529092-0-0-a5bd2cee82960814af90f6e1015b6e9c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "PEC Zwolle",
+      "Team2Name": "ADO Den Haag",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2971/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2966/image"
+    },
+    {
+      "EntityId": 2249,
+      "VideoName": "Janakpur Bolts vs Pokhara Avengers",
+      "CategoryName": "NPL 2026 - 9th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-01 17:15:00",
+      "Description": "Watch Janakpur Bolts vs Pokhara Avengers — NPL 2026 - 9th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9907,
+      "UrlSlug": "npl-2026-9th-t20",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Janakpur Bolts",
+      "Team2Name": "Pokhara Avengers",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
+    },
     {
       "EntityId": 1090551626,
       "VideoName": "Mumbai City FC vs Sporting Club Delhi",
@@ -6531,61 +6586,6 @@
       "Team2Name": "SC Delhi",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/174600/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/331840/image"
-    },
-    {
-      "EntityId": 2066,
-      "VideoName": "PEC Zwolle vs ADO Den Haag",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 17:15:00",
-      "Description": "Watch PEC Zwolle vs ADO Den Haag — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2971/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793529092-0-0-a5bd2cee82960814af90f6e1015b6e9c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "PEC Zwolle",
-      "Team2Name": "ADO Den Haag",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2971/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2966/image"
-    },
-    {
-      "EntityId": 2249,
-      "VideoName": "Janakpur Bolts vs Pokhara Avengers",
-      "CategoryName": "NPL 2026 - 9th T20",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-01 17:15:00",
-      "Description": "Watch Janakpur Bolts vs Pokhara Avengers — NPL 2026 - 9th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9907,
-      "UrlSlug": "npl-2026-9th-t20",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Janakpur Bolts",
-      "Team2Name": "Pokhara Avengers",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
     }
   ]
 }
