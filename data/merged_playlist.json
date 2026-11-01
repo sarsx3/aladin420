@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:53 AM 01-11-2026",
+    "LastUpdate": "09:54 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 5,
     "UpcomingCount": 318
   },
   "Matches": [
@@ -30,35 +30,6 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2088,
-      "VideoName": "Colorado Rapids vs Chicago Fire",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 07:30:00",
-      "Description": "Watch Colorado Rapids vs Chicago Fire — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2510/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "http://193.47.62.55/hls/JJJJAAAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.55/hls/JJJJAAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Colorado Rapids",
-      "Team2Name": "Chicago Fire",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2510/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2505/image"
     },
     {
       "EntityId": 2303,
@@ -113,47 +84,28 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd",
+          "drmScheme": "MjMyNTMwYTgyZTY3YmJiZmI1N2U5MWU0N2FjYWQyNDY6Zjc5ZmExZWZiZGY2NDk3NWE2ZTEyNjNjNWMwMDc1MGI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd",
+          "drmScheme": "MjMyNTMwYTgyZTY3YmJiZmI1N2U5MWU0N2FjYWQyNDY6Zjc5ZmExZWZiZGY2NDk3NWE2ZTEyNjNjNWMwMDc1MGI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Hong kong Sixes",
       "Team2Name": "Hong kong Sixes",
       "Team1Logo": "",
       "Team2Logo": ""
-    },
-    {
-      "EntityId": 2043,
-      "VideoName": "Estudiantes vs Instituto",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 06:30:00",
-      "Description": "Watch Estudiantes vs Instituto — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3206/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001793478167-0-0-292a513ec2355c4e84e87bbf9aaf9fa5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Estudiantes",
-      "Team2Name": "Instituto",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3206/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4937/image"
     },
     {
       "EntityId": 1090551580,
