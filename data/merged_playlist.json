@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:14 AM 02-11-2026",
+    "LastUpdate": "03:15 AM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5710,14 +5710,6 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/sasasaAAAAQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Belgrano",
@@ -5751,14 +5743,6 @@
           "label": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793564896-0-0-6bf3aa5f33298e0e6ea6b641772a59a2",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/sasasaAAAAQQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -5907,23 +5891,8 @@
       "Status": "Upcoming",
       "CategoryId": 9252,
       "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793564875-0-0-2bc280c754d74589994e91294ed95082",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Nashville SC",
       "Team2Name": "New York Red Bulls",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/337612/image",
