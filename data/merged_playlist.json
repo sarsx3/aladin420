@@ -1,15 +1,129 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 01-11-2026",
+    "LastUpdate": "11:50 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
-    "UpcomingCount": 283
+    "LiveCount": 14,
+    "UpcomingCount": 280
   },
   "Matches": [
+    {
+      "EntityId": 2094,
+      "VideoName": "Boca Jrs. vs River Plate arg",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 00:00:00",
+      "Description": "Watch Boca Jrs. vs River Plate arg — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3202/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+      "sources": [
+        {
+          "label": "FOX DEPORTES FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PREMIER1 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SportDigital FussBall",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=de66d523d858b2f82bac95203b29ae01&wsABSTime=1793596804",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Boca Jrs.",
+      "Team2Name": "River Plate arg",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3202/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3211/image"
+    },
+    {
+      "EntityId": 2107,
+      "VideoName": "Viseu vs Rio Ave",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 00:00:00",
+      "Description": "Watch Viseu vs Rio Ave — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3022/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Viseu",
+      "Team2Name": "Rio Ave",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3022/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3036/image"
+    },
+    {
+      "EntityId": 2108,
+      "VideoName": "Maritimo vs Santa Clara",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 00:00:00",
+      "Description": "Watch Maritimo vs Santa Clara — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3007/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Maritimo",
+      "Team2Name": "Santa Clara",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3007/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3011/image"
+    },
+    {
+      "EntityId": 19454,
+      "VideoName": "Elche vs Valencia",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 11",
+      "EventStartDate": "2026-11-01 23:30:00",
+      "Description": "The 95th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Elche vs Valencia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793345995540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793345995540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--elche-vs-valencia-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2076,
       "VideoName": "Elche vs Valencia",
@@ -557,129 +671,6 @@
       "Team2Name": "Besiktas",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6063/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3050/image"
-    },
-    {
-      "EntityId": 2069,
-      "VideoName": "Groningen vs Sparta",
-      "CategoryName": "Eredivisie",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 21:45:00",
-      "Description": "Watch Groningen vs Sparta — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2951/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793546609-0-0-3c8434c74b516efb5a0d7a66fa963922",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Groningen",
-      "Team2Name": "Sparta",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2951/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2218/image"
-    },
-    {
-      "EntityId": 19453,
-      "VideoName": "Racing Santander vs Real Madrid",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 11",
-      "EventStartDate": "2026-11-01 21:15:00",
-      "Description": "The 94th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Real Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793345923540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793345923540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--racing-santander-vs-real-madrid-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19332,
-      "VideoName": "Leg 2 - Lyon (FRA)",
-      "CategoryName": "Longines FEI Jumping World Cup 2026",
-      "StageName": "Race",
-      "EventStartDate": "2026-11-01 20:30:00",
-      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793098788540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793098788540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 368,
-      "UrlSlug": "longines-fei-jumping-world-cup-2026",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19249,
-      "VideoName": "Melbourne City FC (AUS) vs PFC Nasaf (UZB)",
-      "CategoryName": "AFC Women's Champions League 2026/27",
-      "StageName": "MATCHDAY 1",
-      "EventStartDate": "2026-11-01 20:30:00",
-      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793095638540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793095638540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 953,
-      "UrlSlug": "AFC Women's Champions League-Melbourne City FC (AUS)-vs-PFC Nasaf (UZB)",
-      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19244,
-      "VideoName": "Ho Chi Minh City Women's FC (VIE) vs East Bengal FC (IND)",
-      "CategoryName": "AFC Women's Champions League 2026/27",
-      "StageName": "MATCHDAY 1",
-      "EventStartDate": "2026-11-01 20:30:00",
-      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793095331540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793095331540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 953,
-      "UrlSlug": "AFC Women's Champions League-Ho Chi Minh City Women's FC (VIE)-vs-East Bengal FC (IND)",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 19113,
@@ -4055,6 +4046,20 @@
       "UrlSlug": "slavia praha-vs-arsenal-ucl-live-match"
     },
     {
+      "EntityId": 19390,
+      "VideoName": "Lens vs Como",
+      "CategoryName": "UEFA Champions League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Lens vs Como live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Lens vs Como match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793257150540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793257150540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 826,
+      "UrlSlug": "lens-vs-como-ucl-live-match"
+    },
+    {
       "EntityId": 2178,
       "VideoName": "Porto vs Napoli",
       "CategoryName": "UEFA Champions League",
@@ -6206,80 +6211,6 @@
       "Team2Name": "Vasco da Gama",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1963/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1974/image"
-    },
-    {
-      "EntityId": 2094,
-      "VideoName": "Boca Jrs. vs River Plate arg",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-02 00:00:00",
-      "Description": "Watch Boca Jrs. vs River Plate arg — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3202/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Boca Jrs.",
-      "Team2Name": "River Plate arg",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3202/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3211/image"
-    },
-    {
-      "EntityId": 2107,
-      "VideoName": "Viseu vs Rio Ave",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-02 00:00:00",
-      "Description": "Watch Viseu vs Rio Ave — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3022/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Viseu",
-      "Team2Name": "Rio Ave",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3022/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3036/image"
-    },
-    {
-      "EntityId": 2108,
-      "VideoName": "Maritimo vs Santa Clara",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-02 00:00:00",
-      "Description": "Watch Maritimo vs Santa Clara — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3007/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Maritimo",
-      "Team2Name": "Santa Clara",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3007/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3011/image"
-    },
-    {
-      "EntityId": 19454,
-      "VideoName": "Elche vs Valencia",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 11",
-      "EventStartDate": "2026-11-01 23:30:00",
-      "Description": "The 95th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Elche vs Valencia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793345995540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793345995540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--elche-vs-valencia-live"
     }
   ]
 }
