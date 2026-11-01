@@ -1,15 +1,50 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:19 AM 02-11-2026",
+    "LastUpdate": "02:20 AM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 275
+    "LiveCount": 9,
+    "UpcomingCount": 274
   },
   "Matches": [
+    {
+      "EntityId": 2109,
+      "VideoName": "Braga vs Famalicão",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 02:30:00",
+      "Description": "Watch Braga vs Famalicão — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2999/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793561533-0-0-9e4d0ecd7c0535038d03c0d2fdc622a7",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Braga",
+      "Team2Name": "Famalicão",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2999/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/49531/image"
+    },
     {
       "EntityId": 19455,
       "VideoName": "Athletic vs Real Sociedad",
@@ -5847,41 +5882,6 @@
       "Team2Name": "New York Red Bulls",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/337612/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2506/image"
-    },
-    {
-      "EntityId": 2109,
-      "VideoName": "Braga vs Famalicão",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-02 02:30:00",
-      "Description": "Watch Braga vs Famalicão — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2999/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793561533-0-0-9e4d0ecd7c0535038d03c0d2fdc622a7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Braga",
-      "Team2Name": "Famalicão",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2999/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/49531/image"
     }
   ]
 }
