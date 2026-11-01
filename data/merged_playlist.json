@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:34 PM 01-11-2026",
+    "LastUpdate": "10:35 PM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
+    "LiveCount": 18,
     "UpcomingCount": 286
   },
   "Matches": [
@@ -596,70 +596,6 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2053,
-      "VideoName": "Union Berlin vs Köln",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 20:30:00",
-      "Description": "Watch Union Berlin vs Köln — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2547/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-      "sources": [
-        {
-          "label": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=7590ba1208345548461f78dbade700a2&txTime=6ae77edb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4b6b33fcf86867639166ea6e35384ddb&txTime=6ae77f53",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "DAZN SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xl00zoj5d6/out/v1/61e522c484fc4c4c91edfc3079455477/cenc.mpd?|drmScheme=clearkey&drmLicense=9442939e77cef9646b9598b373ebffe4:1dc1b4dc6f97f9b5fefef1dee17a7cb2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/7f25ea19-5ab7-4e0f-977d-c420c02b2000.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Union Berlin",
-      "Team2Name": "Köln",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2547/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2671/image"
     },
     {
       "EntityId": 2093,
