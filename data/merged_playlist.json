@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:43 AM 01-11-2026",
+    "LastUpdate": "08:44 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 6,
     "UpcomingCount": 319
   },
   "Matches": [
@@ -181,46 +181,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793484053
-    },
-    {
-      "EntityId": 2049,
-      "VideoName": "Lyon vs Angers",
-      "CategoryName": "Ligue 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 01:45:00",
-      "Description": "Watch Lyon vs Angers — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1649/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lyon",
-      "Team2Name": "Angers",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1649/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1684/image"
-    },
-    {
-      "EntityId": 2050,
-      "VideoName": "Lorient vs Brest",
-      "CategoryName": "Ligue 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-01 01:45:00",
-      "Description": "Watch Lorient vs Brest — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1656/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lorient",
-      "Team2Name": "Brest",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1656/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1715/image"
     },
     {
       "EntityId": 2261,
@@ -6548,39 +6508,6 @@
       "Team2Name": "Brisbane Heat Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274889/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274884/image"
-    },
-    {
-      "EntityId": 1793439627489,
-      "VideoName": "South Africa vs Australia",
-      "CategoryName": "ICC World Test Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-10-31 14:20:00",
-      "Description": "Watch South Africa vs Australia — ICC World Test Championship. Live streaming from  event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187747/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Ended",
-      "CategoryId": 9504,
-      "UrlSlug": "icc-world-test-championship",
-      "stream_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
-      "sources": [
-        {
-          "label": "A SPORTS HD",
-          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9"
-        },
-        {
-          "label": "Sky Sports",
-          "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "South Africa",
-      "Team2Name": "Australia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187746/image"
     }
   ]
 }
