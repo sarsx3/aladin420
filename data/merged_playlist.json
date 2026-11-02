@@ -1,15 +1,40 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:59 AM 03-11-2026",
+    "LastUpdate": "02:01 AM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 10,
     "UpcomingCount": 247
   },
   "Matches": [
+    {
+      "EntityId": 19456,
+      "VideoName": "Deportivo vs Osasuna",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 11",
+      "EventStartDate": "2026-11-03 02:00:00",
+      "Description": "The 97th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Osasuna live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/17936079831020x576.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/17936079831020x576.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--deportivo-vs-osasuna-live",
+      "stream_url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2139,
       "VideoName": "Newcastle Utd vs Everton FC",
@@ -235,6 +260,27 @@
       "Team2Name": "Cadiz CF",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2826/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4488/image"
+    },
+    {
+      "EntityId": 18444,
+      "VideoName": "Lorient vs Brest",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 9",
+      "EventStartDate": "2026-11-03 01:45:00",
+      "Description": "Watch Lorient vs Brest live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Brest match will take place on 03-Nov, Tuesday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793169167540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793169167540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1115,
+      "UrlSlug": "lorient-vs-brest-ligue-one-live-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 2140,
@@ -4096,34 +4142,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/8090/image"
     },
     {
-      "EntityId": 19385,
-      "VideoName": "Fenerbahce vs Liverpool",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 23:45:00",
-      "Description": "Watch Fenerbahce vs Liverpool live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Fenerbahce vs Liverpool match will take place on 04-Nov, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256122540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793256122540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "fenerbahce-vs-liverpool-ucl-live-match"
-    },
-    {
-      "EntityId": 19384,
-      "VideoName": "AEK Athens vs Real Madrid",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 23:45:00",
-      "Description": "Watch AEK Athens vs Real Madrid live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The AEK Athens vs Real Madrid match will take place on 04-Nov, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256007540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793256007540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "aek athens-vs-real madrid-ucl-live-match"
-    },
-    {
       "EntityId": 2152,
       "VideoName": "Fenerbahce vs Liverpool",
       "CategoryName": "UEFA Champions League",
@@ -4344,20 +4362,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/64289/image"
     },
     {
-      "EntityId": 19060,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "India Tour of New Zealand 2026",
-      "StageName": "1st ODI",
-      "EventStartDate": "2026-11-04 08:00:00",
-      "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st ODI is scheduled to be played on 04-Nov-2026 at 08:00 AM . Fans can watch Inida Tour of New Zealand 2026l ive on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793612525540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793612525540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1214,
-      "UrlSlug": "nz-vs-ind-1st-odi-live"
-    },
-    {
       "EntityId": 2176,
       "VideoName": "New Zealand vs India",
       "CategoryName": "New Zealand vs India – 1st ODI",
@@ -4477,48 +4481,6 @@
       "Status": "Upcoming",
       "CategoryId": 826,
       "UrlSlug": "bodo/glimt-vs-lille-ucl-live-match"
-    },
-    {
-      "EntityId": 19379,
-      "VideoName": "Feyenoord vs Inter",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 02:00:00",
-      "Description": "Watch Feyenoord vs Inter live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Feyenoord vs Inter match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255296540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255296540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "feyenoord-vs-inter-ucl-live-match"
-    },
-    {
-      "EntityId": 19378,
-      "VideoName": "Barcelona vs Aston Villa",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 02:00:00",
-      "Description": "Watch Barcelona vs Aston Villa live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Barcelona vs Aston Villa match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255163540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255163540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "barcelona-vs-aston villa-ucl-live-match"
-    },
-    {
-      "EntityId": 19377,
-      "VideoName": "Atletico Madrid vs Bayern Munchen",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 02:00:00",
-      "Description": "Watch Atletico Madrid vs Bayern Munchen live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Atletico Madrid vs Bayern Munchen match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255037540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255037540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "atletico madrid-vs-bayern munchen-ucl-live-match"
     },
     {
       "EntityId": 2145,
@@ -4881,6 +4843,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/72/image"
     },
     {
+      "EntityId": 19713,
+      "VideoName": "Al Hilal SFC (KSA) vs Shabab Al Ahli (UAE)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 00:15:00",
+      "Description": "Watch Al Hilal SFC vs Shabab Al Ahli live online on tapmad. The AFC Champions League Elite Al Hilal SFC vs Shabab Al Ahli match is scheduled to take place on 04-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648028540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648028540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Al Hilal SFC vs Shabab Al Ahli"
+    },
+    {
       "EntityId": 2154,
       "VideoName": "Al-Hilal vs Shabab Al Ahly",
       "CategoryName": "AFC Champions League Elite",
@@ -4953,6 +4929,20 @@
       "Team2Name": "VfB Stuttgart",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3061/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
+    },
+    {
+      "EntityId": 19708,
+      "VideoName": "Esteghlal FC (IRN) vs Al Shamal SC (QAT)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 22:00:00",
+      "Description": "Watch Esteghlal FC vs Al Shamal SC live online on tapmad. The AFC Champions League Elite Esteghlal FC vs Al Shamal SC match is scheduled to take place on 03-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648082540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648082540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Esteghlal FC vs Al Shamal SC"
     },
     {
       "EntityId": 19493,
@@ -5043,6 +5033,34 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/71044/image"
     },
     {
+      "EntityId": 19703,
+      "VideoName": "Cong An Ha Noi FC (VIE) vs Kyoto Sanga F.C.(JPN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 18:15:00",
+      "Description": "Watch Cong An Ha Noi  FC vs Kyoto Sanga F.C. live online on tapmad. The AFC Champions League Elite Cong An Ha Noi  FC vs Kyoto Sanga F.C. match is scheduled to take place on 03-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793647131540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793647131540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Cong An Ha Noi  FC vs Kyoto Sanga F.C."
+    },
+    {
+      "EntityId": 19698,
+      "VideoName": "Port FC (THA) vs Beijing FC (CHN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 18:15:00",
+      "Description": "Watch Port FC vs Beijing FC live online on tapmad. The AFC Champions League Elite Port FC vs Beijing FC match is scheduled to take place on 03-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793647568540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793647568540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Port FC vs Beijing FC"
+    },
+    {
       "EntityId": 2133,
       "VideoName": "Port FC vs Beijing Guoan",
       "CategoryName": "AFC Champions League Elite",
@@ -5103,6 +5121,48 @@
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
     },
     {
+      "EntityId": 19693,
+      "VideoName": "Kashiwa Reysol (JPN) vs Daejeon Hana Citizen FC(KOR)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Kashiwa Reysol vs Daejeon Hana Citizen FC live online on tapmad. The AFC Champions League Elite Kashiwa Reysol vs Daejeon Hana Citizen FC match is scheduled to take place on 03-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793646540540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793646540540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Kashiwa Reysol vs Daejeon Hana Citizen FC"
+    },
+    {
+      "EntityId": 19688,
+      "VideoName": "Vissel Kobe (JPN) vs Ratchaburi FC (THA)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Vissel Kobe vs Ratchaburi FC live online on tapmad. The AFC Champions League Elite Vissel Kobe vs Ratchaburi FC match is scheduled to take place on 03-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793647029540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793647029540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Vissel Kobe vs Ratchaburi FC"
+    },
+    {
+      "EntityId": 19683,
+      "VideoName": "Jeonbuk Hyundai Motors FC (KOR) vs Johor Darul Ta'zim FC (MAS)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim FC live online on tapmad. The AFC Champions League Elite Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim FC match is scheduled to take place on 03-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793646556540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793646556540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim FC"
+    },
+    {
       "EntityId": 2130,
       "VideoName": "Kashiwa Reysol vs Daejeon Hana Citizen",
       "CategoryName": "AFC Champions League Elite",
@@ -5161,6 +5221,20 @@
       "Team2Name": "Johor Darul Ta’zim",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6908/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3327/image"
+    },
+    {
+      "EntityId": 19678,
+      "VideoName": "Newcastle Jets FC (AUS) vs Shanghai Port FC (CHN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 13:45:00",
+      "Description": "Watch Newcastle Jets FC vs Shanghai Port FC live online on tapmad. The AFC Champions League Elite Newcastle Jets FC vs Shanghai Port FC match is scheduled to take place on 03-Nov,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793646053540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793646053540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Shanghai Port FC"
     },
     {
       "EntityId": 2129,
@@ -5453,34 +5527,6 @@
       "Team2Name": "Alverca",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3006/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/190328/image"
-    },
-    {
-      "EntityId": 19456,
-      "VideoName": "Deportivo vs Osasuna",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 11",
-      "EventStartDate": "2026-11-03 02:00:00",
-      "Description": "The 97th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Osasuna live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/17936079831020x576.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/17936079831020x576.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--deportivo-vs-osasuna-live"
-    },
-    {
-      "EntityId": 18444,
-      "VideoName": "Lorient vs Brest",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 9",
-      "EventStartDate": "2026-11-03 01:45:00",
-      "Description": "Watch Lorient vs Brest live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Brest match will take place on 03-Nov, Tuesday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793169167540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793169167540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1115,
-      "UrlSlug": "lorient-vs-brest-ligue-one-live-match"
     }
   ]
 }
