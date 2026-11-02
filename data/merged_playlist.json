@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:05 AM 03-11-2026",
+    "LastUpdate": "01:06 AM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 251
   },
   "Matches": [
@@ -310,42 +310,6 @@
       "Team2Name": "Leganés",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2831/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2845/image"
-    },
-    {
-      "EntityId": 2270,
-      "VideoName": "Genclerbirligi vs Alanyaspor",
-      "CategoryName": "Super Lig",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-02 23:00:00",
-      "Description": "Watch Genclerbirligi vs Alanyaspor — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7802/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.44/hls/2JJJAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Genclerbirligi",
-      "Team2Name": "Alanyaspor",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/7802/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/6362/image"
     },
     {
       "EntityId": 2261,
