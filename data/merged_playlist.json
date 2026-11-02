@@ -1,15 +1,64 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:34 PM 02-11-2026",
+    "LastUpdate": "07:35 PM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 261
+    "LiveCount": 2,
+    "UpcomingCount": 260
   },
   "Matches": [
+    {
+      "EntityId": 2098,
+      "VideoName": "Pakhtakor vs Al Nassr FC Riyadh",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 19:45:00",
+      "Description": "Watch Pakhtakor vs Al Nassr FC Riyadh — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34310/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793578305-0-0-10c5554fa0a66b8082ffeb5bc378e167",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3b4cfb391b27f0ce91152ac435a1b532&txTime=6ae8bd23",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakhtakor",
+      "Team2Name": "Al Nassr FC Riyadh",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34310/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/23400/image"
+    },
     {
       "EntityId": 2251,
       "VideoName": "Sudurpaschim Royals vs Chitwan Rhinos",
@@ -5159,55 +5208,6 @@
       "Status": "Upcoming",
       "CategoryId": 828,
       "UrlSlug": "afc-champions-league-elite-Pakhtakor vs Al Nassr Club"
-    },
-    {
-      "EntityId": 2098,
-      "VideoName": "Pakhtakor vs Al Nassr FC Riyadh",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-02 19:45:00",
-      "Description": "Watch Pakhtakor vs Al Nassr FC Riyadh — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34310/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793578305-0-0-10c5554fa0a66b8082ffeb5bc378e167",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3b4cfb391b27f0ce91152ac435a1b532&txTime=6ae8bd23",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakhtakor",
-      "Team2Name": "Al Nassr FC Riyadh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34310/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/23400/image"
     }
   ]
 }
