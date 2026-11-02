@@ -1,15 +1,85 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:49 AM 03-11-2026",
+    "LastUpdate": "03:50 AM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
-    "UpcomingCount": 245
+    "LiveCount": 11,
+    "UpcomingCount": 243
   },
   "Matches": [
+    {
+      "EntityId": 2123,
+      "VideoName": "Platense vs Central Córdoba",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 04:00:00",
+      "Description": "Watch Platense vs Central Córdoba — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36837/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793643659-0-0-0433390a144c79a10f96bf9cd4f17a35",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Platense",
+      "Team2Name": "Central Córdoba",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36837/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/65676/image"
+    },
+    {
+      "EntityId": 2124,
+      "VideoName": "Defensa Y Justicia vs Independiente",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 04:00:00",
+      "Description": "Watch Defensa Y Justicia vs Independiente — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36839/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793643706-0-0-62344f551157cb1af664a449c7ca1354",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Defensa Y Justicia",
+      "Team2Name": "Independiente",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36839/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3209/image"
+    },
     {
       "EntityId": 2141,
       "VideoName": "Gil Vicente vs Vitória Guimarães",
@@ -367,27 +437,6 @@
       "Team2Name": "Cadiz CF",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2826/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4488/image"
-    },
-    {
-      "EntityId": 18444,
-      "VideoName": "Lorient vs Brest",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 9",
-      "EventStartDate": "2026-11-03 01:45:00",
-      "Description": "Watch Lorient vs Brest live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Brest match will take place on 03-Nov, Tuesday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793169167540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793169167540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1115,
-      "UrlSlug": "lorient-vs-brest-ligue-one-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2140,
@@ -5415,76 +5464,6 @@
       "Team2Name": "Santos",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1999/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1968/image"
-    },
-    {
-      "EntityId": 2123,
-      "VideoName": "Platense vs Central Córdoba",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 04:00:00",
-      "Description": "Watch Platense vs Central Córdoba — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36837/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793643659-0-0-0433390a144c79a10f96bf9cd4f17a35",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Platense",
-      "Team2Name": "Central Córdoba",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36837/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/65676/image"
-    },
-    {
-      "EntityId": 2124,
-      "VideoName": "Defensa Y Justicia vs Independiente",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 04:00:00",
-      "Description": "Watch Defensa Y Justicia vs Independiente — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36839/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793643706-0-0-62344f551157cb1af664a449c7ca1354",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Defensa Y Justicia",
-      "Team2Name": "Independiente",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36839/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3209/image"
     }
   ]
 }
