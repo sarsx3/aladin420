@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:26 PM 02-11-2026",
+    "LastUpdate": "09:27 PM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 259
   },
   "Matches": [
@@ -137,6 +137,41 @@
       "Team2Name": "Al Nassr FC Riyadh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34310/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/23400/image"
+    },
+    {
+      "EntityId": 2251,
+      "VideoName": "Sudurpaschim Royals vs Chitwan Rhinos",
+      "CategoryName": "NPL 2026 - 11th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 17:15:00",
+      "Description": "Watch Sudurpaschim Royals vs Chitwan Rhinos — NPL 2026 - 11th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9823,
+      "UrlSlug": "npl-2026-11th-t20",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+      "sources": [
+        {
+          "label": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FANCODE - SD",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sudurpaschim Royals",
+      "Team2Name": "Chitwan Rhinos",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
     },
     {
       "EntityId": 2261,
