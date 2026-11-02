@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:04 PM 02-11-2026",
+    "LastUpdate": "05:05 PM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 262
+    "LiveCount": 4,
+    "UpcomingCount": 261
   },
   "Matches": [
+    {
+      "EntityId": 2251,
+      "VideoName": "Sudurpaschim Royals vs Chitwan Rhinos",
+      "CategoryName": "NPL 2026 - 11th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-02 17:15:00",
+      "Description": "Watch Sudurpaschim Royals vs Chitwan Rhinos — NPL 2026 - 11th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9823,
+      "UrlSlug": "npl-2026-11th-t20",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sudurpaschim Royals",
+      "Team2Name": "Chitwan Rhinos",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
+    },
     {
       "EntityId": 19185,
       "VideoName": "Melbourne Stars vs Perth Scorchers",
@@ -5265,26 +5285,6 @@
       "Team2Name": "Al Nassr FC Riyadh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34310/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/23400/image"
-    },
-    {
-      "EntityId": 2251,
-      "VideoName": "Sudurpaschim Royals vs Chitwan Rhinos",
-      "CategoryName": "NPL 2026 - 11th T20",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-02 17:15:00",
-      "Description": "Watch Sudurpaschim Royals vs Chitwan Rhinos — NPL 2026 - 11th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9823,
-      "UrlSlug": "npl-2026-11th-t20",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sudurpaschim Royals",
-      "Team2Name": "Chitwan Rhinos",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
     }
   ]
 }
