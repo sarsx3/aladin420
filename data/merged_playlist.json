@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:10 PM 02-11-2026",
+    "LastUpdate": "12:11 PM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5198,8 +5198,30 @@
       "Status": "Upcoming",
       "CategoryId": 9814,
       "UrlSlug": "npl-2026-10th-t20",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
+      "sources": [
+        {
+          "label": "Himalaya sports hd",
+          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "net tv sports hd",
+          "url": "https://ott-int-nlive.nettvstreamz.com/npl/live_match6/playlist.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=47289050",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Kathmandu Gorkhas",
       "Team2Name": "Karnali Yaks",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
