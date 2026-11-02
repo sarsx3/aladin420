@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:44 PM 02-11-2026",
+    "LastUpdate": "07:45 PM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 260
   },
   "Matches": [
+    {
+      "EntityId": 19648,
+      "VideoName": "Pakhtakor (UZB) vs Al Nassr Club (KSA)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-02 19:45:00",
+      "Description": "Watch Pakhtakor vs Al Nassr Club live online on tapmad. The AFC Champions League Elite Pakhtakor vs Al Nassr Club match is scheduled to take place on 02-Nov,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793598585540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793598585540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Pakhtakor vs Al Nassr Club",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2098,
       "VideoName": "Pakhtakor vs Al Nassr FC Riyadh",
@@ -4016,6 +4037,20 @@
       "UrlSlug": "bodo/glimt-vs-lille-ucl-live-match"
     },
     {
+      "EntityId": 19379,
+      "VideoName": "Feyenoord vs Inter",
+      "CategoryName": "UEFA Champions League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-11-04 02:00:00",
+      "Description": "Watch Feyenoord vs Inter live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Feyenoord vs Inter match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255296540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255296540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 826,
+      "UrlSlug": "feyenoord-vs-inter-ucl-live-match"
+    },
+    {
       "EntityId": 2145,
       "VideoName": "Feyenoord vs Inter Milan",
       "CategoryName": "UEFA Champions League",
@@ -5194,20 +5229,6 @@
       "Team2Name": "Las Palmas",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2851/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6577/image"
-    },
-    {
-      "EntityId": 19648,
-      "VideoName": "Pakhtakor (UZB) vs Al Nassr Club (KSA)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-02 19:45:00",
-      "Description": "Watch Pakhtakor vs Al Nassr Club live online on tapmad. The AFC Champions League Elite Pakhtakor vs Al Nassr Club match is scheduled to take place on 02-Nov,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793598585540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793598585540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Pakhtakor vs Al Nassr Club"
     }
   ]
 }
