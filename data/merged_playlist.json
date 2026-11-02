@@ -1,35 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:09 AM 02-11-2026",
+    "LastUpdate": "09:10 AM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 2,
     "UpcomingCount": 264
   },
   "Matches": [
-    {
-      "EntityId": 2119,
-      "VideoName": "Minnesota United vs Portland Timbers",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-02 08:45:00",
-      "Description": "Watch Minnesota United vs Portland Timbers — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/41618/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Minnesota United",
-      "Team2Name": "Portland Timbers",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/41618/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/22007/image"
-    },
     {
       "EntityId": 2118,
       "VideoName": "Los Angeles FC vs Orlando City Soccer Club",
@@ -57,49 +37,6 @@
       "Team2Name": "Orlando City Soccer Club",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274650/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/52237/image"
-    },
-    {
-      "EntityId": 2117,
-      "VideoName": "Revolution vs Inter Miami",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-02 06:00:00",
-      "Description": "Watch Revolution vs Inter Miami — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2511/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://www.rtmpcdn.com/live/97097ee6-d144-4ea2-b904-4f79069e3d57.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/ROOOA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Revolution",
-      "Team2Name": "Inter Miami",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2511/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/337602/image"
     },
     {
       "EntityId": 1090551673,
