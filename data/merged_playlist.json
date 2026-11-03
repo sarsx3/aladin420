@@ -1,36 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:02 AM 04-11-2026",
+    "LastUpdate": "12:03 AM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
+    "LiveCount": 7,
     "UpcomingCount": 227
   },
   "Matches": [
-    {
-      "EntityId": 19713,
-      "VideoName": "Al Hilal SFC (KSA) vs Shabab Al Ahli (UAE)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-04 00:15:00",
-      "Description": "Watch Al Hilal SFC vs Shabab Al Ahli live online on tapmad. The AFC Champions League Elite Al Hilal SFC vs Shabab Al Ahli match is scheduled to take place on 04-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648028540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648028540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Al Hilal SFC vs Shabab Al Ahli",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
-        }
-      ]
-    },
     {
       "EntityId": 1090551744,
       "VideoName": "Shakhtar Donetsk vs Sporting CP - MD 4",
@@ -76,27 +55,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793728946
-    },
-    {
-      "EntityId": 19376,
-      "VideoName": "Galatasaray vs Stuttgart",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-03 23:45:00",
-      "Description": "Watch Galatasaray vs Stuttgart live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Galatasaray vs Stuttgart match will take place on 03-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793725372540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793725372540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 826,
-      "UrlSlug": "galatasaray-vs-stuttgart-ucl-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 19375,
@@ -315,114 +273,6 @@
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2135,
-      "VideoName": "Esteghlal FC Tehran vs Al Shamal",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-03 22:00:00",
-      "Description": "Watch Esteghlal FC Tehran vs Al Shamal — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34316/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793718847-0-0-62427d500c626c884ca94a787bb5c03a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "http://193.47.62.41/hls/LOOOAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Esteghlal FC Tehran",
-      "Team2Name": "Al Shamal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34316/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/170366/image"
-    },
-    {
-      "EntityId": 2137,
-      "VideoName": "Al Hussein vs Al Shorta Baghdad",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-03 22:00:00",
-      "Description": "Watch Al Hussein vs Al Shorta Baghdad — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/117204/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/LOOOAA.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Hussein",
-      "Team2Name": "Al Shorta Baghdad",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/117204/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/61532/image"
     },
     {
       "EntityId": 2261,
@@ -4005,20 +3855,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/8090/image"
     },
     {
-      "EntityId": 19385,
-      "VideoName": "Fenerbahce vs Liverpool",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 23:45:00",
-      "Description": "Watch Fenerbahce vs Liverpool live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Fenerbahce vs Liverpool match will take place on 04-Nov, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256122540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793256122540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "fenerbahce-vs-liverpool-ucl-live-match"
-    },
-    {
       "EntityId": 2152,
       "VideoName": "Fenerbahce vs Liverpool",
       "CategoryName": "UEFA Champions League",
@@ -4861,6 +4697,20 @@
       "Team2Name": "Luton",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/59/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/72/image"
+    },
+    {
+      "EntityId": 19713,
+      "VideoName": "Al Hilal SFC (KSA) vs Shabab Al Ahli (UAE)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 00:15:00",
+      "Description": "Watch Al Hilal SFC vs Shabab Al Ahli live online on tapmad. The AFC Champions League Elite Al Hilal SFC vs Shabab Al Ahli match is scheduled to take place on 04-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648028540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648028540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Al Hilal SFC vs Shabab Al Ahli"
     },
     {
       "EntityId": 2154,
