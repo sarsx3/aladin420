@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:01 PM 03-11-2026",
+    "LastUpdate": "07:02 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 6,
     "UpcomingCount": 232
   },
   "Matches": [
+    {
+      "EntityId": 1090551681,
+      "VideoName": "Manchester United vs AS Roma - MD 4",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 19:02:22",
+      "Description": "Watch Manchester United vs AS Roma - MD 4 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792889747184359_UYL26_MD4_Man_United_vs_AS_Roma_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792889747184359_UYL26_MD4_Man_United_vs_AS_Roma_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793753746~acl=/*~id=72573463304530893001409316402139~hmac=1dfb8f26eb1dfd5ac52efa45fbd360b5a5b8c5900ad328258d61011b310dffd6",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793753746~acl=/*~id=72573463304530893001409316402139~hmac=1dfb8f26eb1dfd5ac52efa45fbd360b5a5b8c5900ad328258d61011b310dffd6"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793710942
+    },
     {
       "EntityId": 19703,
       "VideoName": "Cong An Ha Noi FC (VIE) vs Kyoto Sanga F.C.(JPN)",
@@ -194,69 +217,6 @@
       "Team2Name": "Pokhara Avengers",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
-    },
-    {
-      "EntityId": 19693,
-      "VideoName": "Kashiwa Reysol (JPN) vs Daejeon Hana Citizen FC(KOR)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 16:00:00",
-      "Description": "Watch Kashiwa Reysol vs Daejeon Hana Citizen FC live online on tapmad. The AFC Champions League Elite Kashiwa Reysol vs Daejeon Hana Citizen FC match is scheduled to take place on 03-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793646540540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793646540540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Kashiwa Reysol vs Daejeon Hana Citizen FC",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19688,
-      "VideoName": "Vissel Kobe (JPN) vs Ratchaburi FC (THA)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 16:00:00",
-      "Description": "Watch Vissel Kobe vs Ratchaburi FC live online on tapmad. The AFC Champions League Elite Vissel Kobe vs Ratchaburi FC match is scheduled to take place on 03-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793647029540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793647029540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Vissel Kobe vs Ratchaburi FC",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19683,
-      "VideoName": "Jeonbuk Hyundai Motors FC (KOR) vs Johor Darul Ta'zim FC (MAS)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 16:00:00",
-      "Description": "Watch Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim FC live online on tapmad. The AFC Champions League Elite Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim FC match is scheduled to take place on 03-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793646556540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793646556540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim FC",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2261,
@@ -3939,6 +3899,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/371631/image"
     },
     {
+      "EntityId": 19508,
+      "VideoName": "FC Arkadag (TKM) vs Golgohar Sirjan SC (IRN)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 19:45:00",
+      "Description": "Watch FC Arkadag vs Golgohar Sirjan SC live online on tapmad. The AFC Champions League Two FC Arkadag vs Golgohar Sirjan SC match is scheduled to take place on 04-Nov,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793649699540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793649699540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two"
+    },
+    {
       "EntityId": 2159,
       "VideoName": "Arkadag vs Gol Gohar",
       "CategoryName": "AFC Champions League Two",
@@ -4778,20 +4752,6 @@
       "Team2Name": "Al Shorta Baghdad",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/117204/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/61532/image"
-    },
-    {
-      "EntityId": 19488,
-      "VideoName": "East Bengal FC (IND) vs Al Seeb Club (OMA)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 19:45:00",
-      "Description": "Watch East Bengal FC vs Al Seeb Club live online on tapmad. The AFC Champions League Two East Bengal FC vs Al Seeb Club match is scheduled to take place on 03-Nov,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793610675540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793610675540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two"
     },
     {
       "EntityId": 2136,
