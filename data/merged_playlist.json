@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:34 PM 03-11-2026",
+    "LastUpdate": "01:35 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 239
+    "LiveCount": 3,
+    "UpcomingCount": 238
   },
   "Matches": [
     {
@@ -30,6 +30,48 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2129,
+      "VideoName": "Newcastle Jets vs Shanghai Port FC",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 13:45:00",
+      "Description": "Watch Newcastle Jets vs Shanghai Port FC — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2934/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793687403-0-0-7b130868915d3c88d0c7a5ea1b306ae3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Newcastle Jets",
+      "Team2Name": "Shanghai Port FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2934/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/41537/image"
     },
     {
       "EntityId": 2252,
@@ -4740,48 +4782,6 @@
       "Team2Name": "Johor Darul Ta’zim",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6908/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3327/image"
-    },
-    {
-      "EntityId": 2129,
-      "VideoName": "Newcastle Jets vs Shanghai Port FC",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 13:45:00",
-      "Description": "Watch Newcastle Jets vs Shanghai Port FC — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2934/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793687403-0-0-7b130868915d3c88d0c7a5ea1b306ae3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Newcastle Jets",
-      "Team2Name": "Shanghai Port FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2934/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/41537/image"
     }
   ]
 }
