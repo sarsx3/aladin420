@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:20 AM 04-11-2026",
+    "LastUpdate": "02:21 AM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 27,
+    "LiveCount": 26,
     "UpcomingCount": 208
   },
   "Matches": [
@@ -332,6 +332,43 @@
           "label": "sonyliv-aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793777439~acl=/*~id=91957571851180794847193414095428~hmac=42e9c995f41f541ce203ed7396252700512885333de2210cb695f70be703f9bd",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd?|drmScheme=clearkey&drmLicense=36e4c42e68010f7a3e5f543d18e48242:014543c3e28193bbe08cf7e3f729715e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxlovii2bb/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd?|drmScheme=clearkey&drmLicense=d504a4144684bf40c4ad12a9cf7c3faa:f81e60e7f3c75a3453b3dd605d2b01dd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "DAZN DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jtyvkcoh4v/out/v1/075533792ddb4a178c7b77a2c582bcaa/cenc.mpd?|drmScheme=clearkey&drmLicense=746772ee03bdc6b4c4d26384bff0e499:3d88f15c96f473fbfae335e7f1b6b200",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/HCCCaaaa.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -1208,57 +1245,6 @@
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2154,
-      "VideoName": "Al-Hilal vs Shabab Al Ahly",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-04 00:15:00",
-      "Description": "Watch Al-Hilal vs Shabab Al Ahly — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21895/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.41/hls/AA111AA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://www.rtmpcdn.com/live/57bf7f9b-c8df-4f21-8345-60a7a424fcc5.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al-Hilal",
-      "Team2Name": "Shabab Al Ahly",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/264111/image"
     },
     {
       "EntityId": 2261,
