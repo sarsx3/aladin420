@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:07 PM 03-11-2026",
+    "LastUpdate": "06:08 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -93,8 +93,31 @@
       "Status": "Live",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1793697967-0-0-dbedfbdf488ebbc96c834c77002e8518",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1793697967-0-0-dbedfbdf488ebbc96c834c77002e8518",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1793698027-0-0-6d14f55c24169f83a0d7308eae4e64f6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.41/hls/ELLLAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Công An Hà N���i",
       "Team2Name": "Kyoto",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
