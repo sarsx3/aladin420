@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:04 PM 03-11-2026",
+    "LastUpdate": "06:05 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 234
+    "LiveCount": 7,
+    "UpcomingCount": 232
   },
   "Matches": [
     {
@@ -30,6 +30,75 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2133,
+      "VideoName": "Port FC vs Beijing Guoan",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 18:15:00",
+      "Description": "Watch Port FC vs Beijing Guoan — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40661/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=b057f79accaef2470a5ba31e24218b63&txTime=6aea1bc3",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=b057f79accaef2470a5ba31e24218b63&txTime=6aea1bc3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793709487-0-0-1bc028f71c9e74db95fe1af688c70402",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793705090-0-0-f36f9477b9ba8545e943dc6cbf50b95f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Port FC",
+      "Team2Name": "Beijing Guoan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/40661/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3376/image"
+    },
+    {
+      "EntityId": 2134,
+      "VideoName": "Công An Hà N���i vs Kyoto",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 18:15:00",
+      "Description": "Watch Công An Hà N���i vs Kyoto — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/193616/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Công An Hà N���i",
+      "Team2Name": "Kyoto",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3149/image"
     },
     {
       "EntityId": 2253,
@@ -4683,75 +4752,6 @@
       "Team2Name": "Al Seeb SC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/40655/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/71044/image"
-    },
-    {
-      "EntityId": 2133,
-      "VideoName": "Port FC vs Beijing Guoan",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 18:15:00",
-      "Description": "Watch Port FC vs Beijing Guoan — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40661/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=b057f79accaef2470a5ba31e24218b63&txTime=6aea1bc3",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=b057f79accaef2470a5ba31e24218b63&txTime=6aea1bc3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793709487-0-0-1bc028f71c9e74db95fe1af688c70402",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793705090-0-0-f36f9477b9ba8545e943dc6cbf50b95f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Port FC",
-      "Team2Name": "Beijing Guoan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/40661/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3376/image"
-    },
-    {
-      "EntityId": 2134,
-      "VideoName": "Công An Hà N���i vs Kyoto",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 18:15:00",
-      "Description": "Watch Công An Hà N���i vs Kyoto — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/193616/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Công An Hà N���i",
-      "Team2Name": "Kyoto",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3149/image"
     }
   ]
 }
