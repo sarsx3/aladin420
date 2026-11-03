@@ -1,37 +1,56 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:02 PM 03-11-2026",
+    "LastUpdate": "10:03 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 229
   },
   "Matches": [
     {
-      "EntityId": 1090551681,
-      "VideoName": "Manchester United vs AS Roma - MD 4",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-03 22:02:24",
-      "Description": "Watch Manchester United vs AS Roma - MD 4 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792889747184359_UYL26_MD4_Man_United_vs_AS_Roma_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792889747184359_UYL26_MD4_Man_United_vs_AS_Roma_landscape_thumb.jpg",
+      "EntityId": 19708,
+      "VideoName": "Esteghlal FC (IRN) vs Al Shamal SC (QAT)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 22:00:00",
+      "Description": "Watch Esteghlal FC vs Al Shamal SC live online on tapmad. The AFC Champions League Elite Esteghlal FC vs Al Shamal SC match is scheduled to take place on 03-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648082540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648082540x302.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Esteghlal FC vs Al Shamal SC",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
       "sources": [
         {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da"
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
         }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793721744
+      ]
+    },
+    {
+      "EntityId": 19493,
+      "VideoName": "Al Hussein (JOR) vs Al Shorta (IRQ)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 22:00:00",
+      "Description": "Watch Al Hussein vs Al Shorta live online on tapmad. The AFC Champions League Two Al Hussein vs Al Shorta match is scheduled to take place on 03-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611060540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793611060540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 2135,
@@ -138,80 +157,15 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793764697~acl=/*~id=28199771479396370989494124273995~hmac=731840fc376db66306f9737928c6236e24364f104ed35facc6942f6c6656e0e9",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793764697~acl=/*~id=28199771479396370989494124273995~hmac=731840fc376db66306f9737928c6236e24364f104ed35facc6942f6c6656e0e9"
         }
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793718058
-    },
-    {
-      "EntityId": 19488,
-      "VideoName": "East Bengal FC (IND) vs Al Seeb Club (OMA)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 19:45:00",
-      "Description": "Watch East Bengal FC vs Al Seeb Club live online on tapmad. The AFC Champions League Two East Bengal FC vs Al Seeb Club match is scheduled to take place on 03-Nov,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793610675540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793610675540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 2136,
-      "VideoName": "East Bengal vs Al Seeb SC",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-03 19:45:00",
-      "Description": "Watch East Bengal vs Al Seeb SC — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40655/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.41/hls/DAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - bd",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "East Bengal",
-      "Team2Name": "Al Seeb SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/40655/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/71044/image"
     },
     {
       "EntityId": 2261,
@@ -3834,6 +3788,34 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2829/image"
     },
     {
+      "EntityId": 19523,
+      "VideoName": "Al Rayyan SC (QAT) vs Al Nahda Club (OMA)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 22:00:00",
+      "Description": "Watch Al Rayyan SC vs Al Nahda Club live online on tapmad. The AFC Champions League Two Al Rayyan SC vs Al Nahda Club match is scheduled to take place on 04-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793651061540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793651061540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two"
+    },
+    {
+      "EntityId": 19518,
+      "VideoName": "Kuwait SC (KUW) vs PFC Nasaf (UZB)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 22:00:00",
+      "Description": "Watch Kuwait SC vs PFC Nasaf live online on tapmad. The AFC Champions League Two Kuwait SC vs PFC Nasaf match is scheduled to take place on 04-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793650708540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793650708540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two"
+    },
+    {
       "EntityId": 2160,
       "VideoName": "Al Rayyan vs Al Nahda",
       "CategoryName": "AFC Champions League Two",
@@ -4674,34 +4656,6 @@
       "Team2Name": "VfB Stuttgart",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3061/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2677/image"
-    },
-    {
-      "EntityId": 19708,
-      "VideoName": "Esteghlal FC (IRN) vs Al Shamal SC (QAT)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 22:00:00",
-      "Description": "Watch Esteghlal FC vs Al Shamal SC live online on tapmad. The AFC Champions League Elite Esteghlal FC vs Al Shamal SC match is scheduled to take place on 03-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648082540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648082540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Esteghlal FC vs Al Shamal SC"
-    },
-    {
-      "EntityId": 19493,
-      "VideoName": "Al Hussein (JOR) vs Al Shorta (IRQ)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 22:00:00",
-      "Description": "Watch Al Hussein vs Al Shorta live online on tapmad. The AFC Champions League Two Al Hussein vs Al Shorta match is scheduled to take place on 03-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611060540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793611060540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two"
     }
   ]
 }
