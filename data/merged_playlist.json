@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 PM 03-11-2026",
+    "LastUpdate": "12:35 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 240
+    "LiveCount": 6,
+    "UpcomingCount": 239
   },
   "Matches": [
+    {
+      "EntityId": 2252,
+      "VideoName": "Biratnagar Kings vs Janakpur Bolts",
+      "CategoryName": "NPL 2026 - 12th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 12:45:00",
+      "Description": "Watch Biratnagar Kings vs Janakpur Bolts — NPL 2026 - 12th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PU.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9728,
+      "UrlSlug": "npl-2026-12th-t20",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Biratnagar Kings",
+      "Team2Name": "Janakpur Bolts",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
+    },
     {
       "EntityId": 2125,
       "VideoName": "Independiente Riv. vs Banfield",
@@ -4879,26 +4899,6 @@
       "Team2Name": "Shanghai Port FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2934/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/41537/image"
-    },
-    {
-      "EntityId": 2252,
-      "VideoName": "Biratnagar Kings vs Janakpur Bolts",
-      "CategoryName": "NPL 2026 - 12th T20",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 12:45:00",
-      "Description": "Watch Biratnagar Kings vs Janakpur Bolts — NPL 2026 - 12th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9728,
-      "UrlSlug": "npl-2026-12th-t20",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Biratnagar Kings",
-      "Team2Name": "Janakpur Bolts",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
     }
   ]
 }
