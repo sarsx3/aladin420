@@ -1,36 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:02 PM 03-11-2026",
+    "LastUpdate": "06:03 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 7,
     "UpcomingCount": 234
   },
   "Matches": [
-    {
-      "EntityId": 19703,
-      "VideoName": "Cong An Ha Noi FC (VIE) vs Kyoto Sanga F.C.(JPN)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-03 18:15:00",
-      "Description": "Watch Cong An Ha Noi  FC vs Kyoto Sanga F.C. live online on tapmad. The AFC Champions League Elite Cong An Ha Noi  FC vs Kyoto Sanga F.C. match is scheduled to take place on 03-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793647131540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793647131540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Cong An Ha Noi  FC vs Kyoto Sanga F.C.",
-      "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        }
-      ]
-    },
     {
       "EntityId": 2253,
       "VideoName": "Lumbini Lions vs Pokhara Avengers",
@@ -128,6 +107,184 @@
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2130,
+      "VideoName": "Kashiwa Reysol vs Daejeon Hana Citizen",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Kashiwa Reysol vs Daejeon Hana Citizen — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3140/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793673142-0-0-19c2ab35813f74f7c9ee647a62459c69",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793694411-0-0-e3cffaf29f85a6fa5db75b3cbb9926e6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Kashiwa Reysol",
+      "Team2Name": "Daejeon Hana Citizen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3140/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7645/image"
+    },
+    {
+      "EntityId": 2131,
+      "VideoName": "Vissel Kobe vs Ratchaburi FC",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Vissel Kobe vs Ratchaburi FC — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3146/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793673001-0-0-17706e0e2572339b459148c2cb57f1eb",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793673001-0-0-17706e0e2572339b459148c2cb57f1eb",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793697247-0-0-1b479013d8d5351a4c84e155ae2b4fd5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793695071-0-0-a9eca03d90186552ccc55bc65e4035e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode -aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Vissel Kobe",
+      "Team2Name": "Ratchaburi FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3146/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/85743/image"
+    },
+    {
+      "EntityId": 2132,
+      "VideoName": "Jeonbuk Hyundai Motors vs Johor Darul Ta’zim",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Jeonbuk Hyundai Motors vs Johor Darul Ta’zim — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6908/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793697187-0-0-3a8a4ac21bc91be1064d04bf1d2e3f4a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793694378-0-0-26ea75afd569436309280369e076904d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Jeonbuk Hyundai Motors",
+      "Team2Name": "Johor Darul Ta’zim",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6908/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3327/image"
     },
     {
       "EntityId": 2261,
@@ -3850,20 +4007,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3134/image"
     },
     {
-      "EntityId": 19503,
-      "VideoName": "FC Seoul (KOR) vs The Cong - Viettel FC (VIE)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-04 16:00:00",
-      "Description": "Watch FC Seoul vs The Cong - Viettel FC live online on tapmad. The AFC Champions League Two FC Seoul vs The Cong - Viettel FC match is scheduled to take place on 04-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793649295540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793649295540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two"
-    },
-    {
       "EntityId": 2155,
       "VideoName": "Pohang Steelers vs Gamba Osaka",
       "CategoryName": "AFC Champions League Elite",
@@ -3922,20 +4065,6 @@
       "Team2Name": "Melbourne Renegades Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
-    },
-    {
-      "EntityId": 19498,
-      "VideoName": "Melbourne Victory FC (AUS) vs Persib Bandung (IDN)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-04 13:45:00",
-      "Description": "Watch Melbourne Victory FC vs Persib Bandung live online on tapmad. The AFC Champions League Two Melbourne Victory FC vs Persib Bandung match is scheduled to take place on 04-Nov,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648832540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648832540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two"
     },
     {
       "EntityId": 2157,
@@ -4683,6 +4812,34 @@
       "Team2Name": "Al Seeb SC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/40655/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/71044/image"
+    },
+    {
+      "EntityId": 19703,
+      "VideoName": "Cong An Ha Noi FC (VIE) vs Kyoto Sanga F.C.(JPN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 18:15:00",
+      "Description": "Watch Cong An Ha Noi  FC vs Kyoto Sanga F.C. live online on tapmad. The AFC Champions League Elite Cong An Ha Noi  FC vs Kyoto Sanga F.C. match is scheduled to take place on 03-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793647131540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793647131540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Cong An Ha Noi  FC vs Kyoto Sanga F.C."
+    },
+    {
+      "EntityId": 19698,
+      "VideoName": "Port FC (THA) vs Beijing FC (CHN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-03 18:15:00",
+      "Description": "Watch Port FC vs Beijing FC live online on tapmad. The AFC Champions League Elite Port FC vs Beijing FC match is scheduled to take place on 03-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793647568540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793647568540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Port FC vs Beijing FC"
     },
     {
       "EntityId": 2133,
