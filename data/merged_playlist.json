@@ -1,15 +1,85 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:04 AM 03-11-2026",
+    "LastUpdate": "06:05 AM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 242
+    "LiveCount": 6,
+    "UpcomingCount": 240
   },
   "Matches": [
+    {
+      "EntityId": 2125,
+      "VideoName": "Independiente Riv. vs Banfield",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 06:15:00",
+      "Description": "Watch Independiente Riv. vs Banfield — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36842/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793647472-0-0-f35db7c31648404a628aa9362a76da77",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Independiente Riv.",
+      "Team2Name": "Banfield",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36842/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3219/image"
+    },
+    {
+      "EntityId": 2126,
+      "VideoName": "Atletico Tucuman vs AA Argentinos Juniors",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 06:15:00",
+      "Description": "Watch Atletico Tucuman vs AA Argentinos Juniors — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36833/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793647203-0-0-ecbd30778d0876f86ff22b44e180752c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Atletico Tucuman",
+      "Team2Name": "AA Argentinos Juniors",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36833/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3216/image"
+    },
     {
       "EntityId": 2138,
       "VideoName": "Bragantino vs Santos",
@@ -4852,76 +4922,6 @@
       "Team2Name": "Janakpur Bolts",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
-    },
-    {
-      "EntityId": 2125,
-      "VideoName": "Independiente Riv. vs Banfield",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 06:15:00",
-      "Description": "Watch Independiente Riv. vs Banfield — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36842/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793647472-0-0-f35db7c31648404a628aa9362a76da77",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Independiente Riv.",
-      "Team2Name": "Banfield",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36842/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3219/image"
-    },
-    {
-      "EntityId": 2126,
-      "VideoName": "Atletico Tucuman vs AA Argentinos Juniors",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 06:15:00",
-      "Description": "Watch Atletico Tucuman vs AA Argentinos Juniors — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36833/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793647203-0-0-ecbd30778d0876f86ff22b44e180752c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Atletico Tucuman",
-      "Team2Name": "AA Argentinos Juniors",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36833/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3216/image"
     }
   ]
 }
