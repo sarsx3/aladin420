@@ -1,15 +1,107 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 03-11-2026",
+    "LastUpdate": "09:50 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 231
+    "LiveCount": 6,
+    "UpcomingCount": 229
   },
   "Matches": [
+    {
+      "EntityId": 2135,
+      "VideoName": "Esteghlal FC Tehran vs Al Shamal",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 22:00:00",
+      "Description": "Watch Esteghlal FC Tehran vs Al Shamal — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34316/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793718847-0-0-62427d500c626c884ca94a787bb5c03a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "http://193.47.62.41/hls/LOOOAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Esteghlal FC Tehran",
+      "Team2Name": "Al Shamal",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/34316/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/170366/image"
+    },
+    {
+      "EntityId": 2137,
+      "VideoName": "Al Hussein vs Al Shorta Baghdad",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 22:00:00",
+      "Description": "Watch Al Hussein vs Al Shorta Baghdad — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/117204/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.41/hls/LOOOAA.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Hussein",
+      "Team2Name": "Al Shorta Baghdad",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/117204/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/61532/image"
+    },
     {
       "EntityId": 1090551681,
       "VideoName": "Manchester United vs AS Roma - MD 4",
@@ -4610,98 +4702,6 @@
       "Status": "Upcoming",
       "CategoryId": 829,
       "UrlSlug": "afc-champions-league-two"
-    },
-    {
-      "EntityId": 2135,
-      "VideoName": "Esteghlal FC Tehran vs Al Shamal",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 22:00:00",
-      "Description": "Watch Esteghlal FC Tehran vs Al Shamal — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34316/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793718847-0-0-62427d500c626c884ca94a787bb5c03a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "http://193.47.62.41/hls/LOOOAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Esteghlal FC Tehran",
-      "Team2Name": "Al Shamal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34316/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/170366/image"
-    },
-    {
-      "EntityId": 2137,
-      "VideoName": "Al Hussein vs Al Shorta Baghdad",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 22:00:00",
-      "Description": "Watch Al Hussein vs Al Shorta Baghdad — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/117204/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/LOOOAA.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Hussein",
-      "Team2Name": "Al Shorta Baghdad",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/117204/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/61532/image"
     }
   ]
 }
