@@ -1,15 +1,162 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:49 PM 03-11-2026",
+    "LastUpdate": "03:50 PM 03-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 238
+    "LiveCount": 6,
+    "UpcomingCount": 235
   },
   "Matches": [
+    {
+      "EntityId": 2130,
+      "VideoName": "Kashiwa Reysol vs Daejeon Hana Citizen",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Kashiwa Reysol vs Daejeon Hana Citizen — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3140/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793673142-0-0-19c2ab35813f74f7c9ee647a62459c69",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793694411-0-0-e3cffaf29f85a6fa5db75b3cbb9926e6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Kashiwa Reysol",
+      "Team2Name": "Daejeon Hana Citizen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3140/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7645/image"
+    },
+    {
+      "EntityId": 2131,
+      "VideoName": "Vissel Kobe vs Ratchaburi FC",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Vissel Kobe vs Ratchaburi FC — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3146/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793673001-0-0-17706e0e2572339b459148c2cb57f1eb",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793673001-0-0-17706e0e2572339b459148c2cb57f1eb",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793697247-0-0-1b479013d8d5351a4c84e155ae2b4fd5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793695071-0-0-a9eca03d90186552ccc55bc65e4035e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Vissel Kobe",
+      "Team2Name": "Ratchaburi FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3146/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/85743/image"
+    },
+    {
+      "EntityId": 2132,
+      "VideoName": "Jeonbuk Hyundai Motors vs Johor Darul Ta’zim",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-03 16:00:00",
+      "Description": "Watch Jeonbuk Hyundai Motors vs Johor Darul Ta’zim — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6908/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793697187-0-0-3a8a4ac21bc91be1064d04bf1d2e3f4a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793694378-0-0-26ea75afd569436309280369e076904d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Jeonbuk Hyundai Motors",
+      "Team2Name": "Johor Darul Ta’zim",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6908/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3327/image"
+    },
     {
       "EntityId": 19678,
       "VideoName": "Newcastle Jets FC (AUS) vs Shanghai Port FC (CHN)",
@@ -4745,153 +4892,6 @@
       "Status": "Upcoming",
       "CategoryId": 828,
       "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim FC"
-    },
-    {
-      "EntityId": 2130,
-      "VideoName": "Kashiwa Reysol vs Daejeon Hana Citizen",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 16:00:00",
-      "Description": "Watch Kashiwa Reysol vs Daejeon Hana Citizen — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3140/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793673142-0-0-19c2ab35813f74f7c9ee647a62459c69",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793694411-0-0-e3cffaf29f85a6fa5db75b3cbb9926e6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Kashiwa Reysol",
-      "Team2Name": "Daejeon Hana Citizen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3140/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7645/image"
-    },
-    {
-      "EntityId": 2131,
-      "VideoName": "Vissel Kobe vs Ratchaburi FC",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 16:00:00",
-      "Description": "Watch Vissel Kobe vs Ratchaburi FC — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3146/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793673001-0-0-17706e0e2572339b459148c2cb57f1eb",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793673001-0-0-17706e0e2572339b459148c2cb57f1eb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793697247-0-0-1b479013d8d5351a4c84e155ae2b4fd5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793695071-0-0-a9eca03d90186552ccc55bc65e4035e8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Vissel Kobe",
-      "Team2Name": "Ratchaburi FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3146/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/85743/image"
-    },
-    {
-      "EntityId": 2132,
-      "VideoName": "Jeonbuk Hyundai Motors vs Johor Darul Ta’zim",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-03 16:00:00",
-      "Description": "Watch Jeonbuk Hyundai Motors vs Johor Darul Ta’zim — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6908/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793697187-0-0-3a8a4ac21bc91be1064d04bf1d2e3f4a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793694378-0-0-26ea75afd569436309280369e076904d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Jeonbuk Hyundai Motors",
-      "Team2Name": "Johor Darul Ta’zim",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6908/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3327/image"
     }
   ]
 }
