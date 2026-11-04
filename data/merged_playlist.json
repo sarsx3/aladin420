@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 04-11-2026",
+    "LastUpdate": "09:50 PM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 199
+    "LiveCount": 12,
+    "UpcomingCount": 196
   },
   "Matches": [
     {
@@ -72,6 +72,88 @@
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2160,
+      "VideoName": "Al Rayyan vs Al Nahda",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-04 22:00:00",
+      "Description": "Watch Al Rayyan vs Al Nahda — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40660/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=48166851b69553d95d89a1d51e3c0ef5&txTime=6aeb9557",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al Rayyan",
+      "Team2Name": "Al Nahda",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/40660/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/40648/image"
+    },
+    {
+      "EntityId": 2161,
+      "VideoName": "Kuwait SC vs Nasaf Qarshi",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-04 22:00:00",
+      "Description": "Watch Kuwait SC vs Nasaf Qarshi — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/32525/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Kuwait SC",
+      "Team2Name": "Nasaf Qarshi",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/32525/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34017/image"
+    },
+    {
+      "EntityId": 2162,
+      "VideoName": "Al-Wahda vs Al Khalidiyah",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-04 22:00:00",
+      "Description": "Watch Al-Wahda vs Al Khalidiyah — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/264115/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al-Wahda",
+      "Team2Name": "Al Khalidiyah",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/264115/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/371631/image"
     },
     {
       "EntityId": 19841,
@@ -4032,88 +4114,6 @@
       "Team2Name": "Real Madrid",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3250/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2829/image"
-    },
-    {
-      "EntityId": 2160,
-      "VideoName": "Al Rayyan vs Al Nahda",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-04 22:00:00",
-      "Description": "Watch Al Rayyan vs Al Nahda — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40660/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=48166851b69553d95d89a1d51e3c0ef5&txTime=6aeb9557",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al Rayyan",
-      "Team2Name": "Al Nahda",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/40660/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/40648/image"
-    },
-    {
-      "EntityId": 2161,
-      "VideoName": "Kuwait SC vs Nasaf Qarshi",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-04 22:00:00",
-      "Description": "Watch Kuwait SC vs Nasaf Qarshi — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/32525/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Kuwait SC",
-      "Team2Name": "Nasaf Qarshi",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/32525/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/34017/image"
-    },
-    {
-      "EntityId": 2162,
-      "VideoName": "Al-Wahda vs Al Khalidiyah",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-04 22:00:00",
-      "Description": "Watch Al-Wahda vs Al Khalidiyah — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/264115/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al-Wahda",
-      "Team2Name": "Al Khalidiyah",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/264115/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/371631/image"
     }
   ]
 }
