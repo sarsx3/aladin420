@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:18 PM 04-11-2026",
+    "LastUpdate": "04:19 PM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
+    "LiveCount": 10,
     "UpcomingCount": 201
   },
   "Matches": [
+    {
+      "EntityId": 19264,
+      "VideoName": "Kaya FC-Iliolo (PHI) vs Melbourne City FC (AUS)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 2",
+      "EventStartDate": "2026-11-04 16:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 04:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793779765540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793779765540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-Kaya FC-Iliolo (PHI)-vs-Melbourne City FC (AUS)",
+      "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 19718,
       "VideoName": "FC Pohang Steelers (KOR) vs Gamba Osaka (JPN)",
@@ -264,52 +285,6 @@
       "Team2Name": "Melbourne Renegades Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
-    },
-    {
-      "EntityId": 19498,
-      "VideoName": "Melbourne Victory FC (AUS) vs Persib Bandung (IDN)",
-      "CategoryName": "AFC Champions League Two 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-04 13:45:00",
-      "Description": "Watch Melbourne Victory FC vs Persib Bandung live online on tapmad. The AFC Champions League Two Melbourne Victory FC vs Persib Bandung match is scheduled to take place on 04-Nov,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648832540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793648832540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 829,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19060,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "India Tour of New Zealand 2026",
-      "StageName": "1st ODI",
-      "EventStartDate": "2026-11-04 08:00:00",
-      "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st ODI is scheduled to be played on 04-Nov-2026 at 08:00 AM . Fans can watch Inida Tour of New Zealand 2026l ive on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793612525540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793612525540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1214,
-      "UrlSlug": "nz-vs-ind-1st-odi-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 1090552110,
@@ -3685,6 +3660,20 @@
       "UrlSlug": "viking-vs-sabah-ucl-live-match"
     },
     {
+      "EntityId": 19391,
+      "VideoName": "Slavia Praha vs Arsenal",
+      "CategoryName": "UEFA Champions League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Slavia Praha vs Arsenal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slavia Praha vs Arsenal match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793257270540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793257270540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 826,
+      "UrlSlug": "slavia praha-vs-arsenal-ucl-live-match"
+    },
+    {
       "EntityId": 2178,
       "VideoName": "Porto vs Napoli",
       "CategoryName": "UEFA Champions League",
@@ -4265,20 +4254,6 @@
       "Team2Name": "Kashima Antlers",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34218/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3134/image"
-    },
-    {
-      "EntityId": 19264,
-      "VideoName": "Kaya FC-Iliolo (PHI) vs Melbourne City FC (AUS)",
-      "CategoryName": "AFC Women's Champions League 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-11-04 16:30:00",
-      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 04:30 PM on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793779765540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793779765540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 953,
-      "UrlSlug": "AFC Women's Champions League-Kaya FC-Iliolo (PHI)-vs-Melbourne City FC (AUS)"
     }
   ]
 }
