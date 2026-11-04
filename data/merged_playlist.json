@@ -1,15 +1,97 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:45 PM 04-11-2026",
+    "LastUpdate": "03:51 PM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 203
+    "LiveCount": 13,
+    "UpcomingCount": 201
   },
   "Matches": [
+    {
+      "EntityId": 19718,
+      "VideoName": "FC Pohang Steelers (KOR) vs Gamba Osaka (JPN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 16:00:00",
+      "Description": "Watch FC Pohang Steelers vs Gamba Osaka live online on tapmad. The AFC Champions League Elite FC Pohang Steelers vs Gamba Osaka match is scheduled to take place on 04-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793776723540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793776723540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-FC Pohang Steelers vs Gamba Osaka",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 19503,
+      "VideoName": "FC Seoul (KOR) vs The Cong - Viettel FC (VIE)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 16:00:00",
+      "Description": "Watch FC Seoul vs The Cong - Viettel FC live online on tapmad. The AFC Champions League Two FC Seoul vs The Cong - Viettel FC match is scheduled to take place on 04-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793649295540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793649295540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 2155,
+      "VideoName": "Pohang Steelers vs Gamba Osaka",
+      "CategoryName": "AFC Champions League Elite",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-04 16:00:00",
+      "Description": "Watch Pohang Steelers vs Gamba Osaka — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7650/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9441,
+      "UrlSlug": "afc-champions-league-elite",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Pohang Steelers",
+      "Team2Name": "Gamba Osaka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/7650/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3138/image"
+    },
+    {
+      "EntityId": 2158,
+      "VideoName": "FC Seoul vs Viettel",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-04 16:00:00",
+      "Description": "Watch FC Seoul vs Viettel — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7646/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "FC Seoul",
+      "Team2Name": "Viettel",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/7646/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/231270/image"
+    },
     {
       "EntityId": 19259,
       "VideoName": "4.25 Sports Club (PRK) vs Ho Chi Minh City Women's FC (VIE)",
@@ -4311,46 +4393,6 @@
       "Status": "Upcoming",
       "CategoryId": 953,
       "UrlSlug": "AFC Women's Champions League-Kaya FC-Iliolo (PHI)-vs-Melbourne City FC (AUS)"
-    },
-    {
-      "EntityId": 2155,
-      "VideoName": "Pohang Steelers vs Gamba Osaka",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-04 16:00:00",
-      "Description": "Watch Pohang Steelers vs Gamba Osaka — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7650/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Pohang Steelers",
-      "Team2Name": "Gamba Osaka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/7650/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3138/image"
-    },
-    {
-      "EntityId": 2158,
-      "VideoName": "FC Seoul vs Viettel",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-04 16:00:00",
-      "Description": "Watch FC Seoul vs Viettel — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7646/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "FC Seoul",
-      "Team2Name": "Viettel",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/7646/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/231270/image"
     }
   ]
 }
