@@ -1,57 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:17 PM 04-11-2026",
+    "LastUpdate": "06:18 PM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 200
   },
   "Matches": [
-    {
-      "EntityId": 19269,
-      "VideoName": "Ayeyawady FC - Women (MYA) vs INAC Kobe Leonessa (JPN)",
-      "CategoryName": "AFC Women's Champions League 2026/27",
-      "StageName": "MATCHDAY 2",
-      "EventStartDate": "2026-11-04 18:30:00",
-      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 06:30 PM on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793781676540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793781676540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 953,
-      "UrlSlug": "AFC Women's Champions League-Ayeyawady FC - Women (MYA)-vs-INAC Kobe Leonessa (JPN)",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19723,
-      "VideoName": "Buriram United (THA) vs Kashima Antlers (JPN)",
-      "CategoryName": "AFC Champions League Elite 2026/27",
-      "StageName": "MATCHDAY 4",
-      "EventStartDate": "2026-11-04 18:15:00",
-      "Description": "Watch Buriram United vs Kashima Antlers live online on tapmad. The AFC Champions League Elite Buriram United vs Kashima Antlers match is scheduled to take place on 04-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793777003540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793777003540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 828,
-      "UrlSlug": "afc-champions-league-elite-Buriram United vs Kashima Antlers",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-        }
-      ]
-    },
     {
       "EntityId": 2156,
       "VideoName": "Buriram United vs Kashima Antlers",
@@ -127,6 +85,69 @@
         {
           "label": "Server 1",
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 19718,
+      "VideoName": "FC Pohang Steelers (KOR) vs Gamba Osaka (JPN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 16:00:00",
+      "Description": "Watch FC Pohang Steelers vs Gamba Osaka live online on tapmad. The AFC Champions League Elite FC Pohang Steelers vs Gamba Osaka match is scheduled to take place on 04-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793776723540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793776723540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-FC Pohang Steelers vs Gamba Osaka",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 19503,
+      "VideoName": "FC Seoul (KOR) vs The Cong - Viettel FC (VIE)",
+      "CategoryName": "AFC Champions League Two 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 16:00:00",
+      "Description": "Watch FC Seoul vs The Cong - Viettel FC live online on tapmad. The AFC Champions League Two FC Seoul vs The Cong - Viettel FC match is scheduled to take place on 04-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793649295540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793649295540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 829,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 19186,
+      "VideoName": "Hobart Hurricanes vs Melbourne Renegades",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-11-04 14:10:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs MR brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 9th T20I is scheduled to be played on 04-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793774282540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793774282540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1247,
+      "UrlSlug": "hh-vs-mr-9th-t20i-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
         }
       ]
     },
@@ -3479,34 +3500,6 @@
       "UrlSlug": "slavia praha-vs-arsenal-ucl-live-match"
     },
     {
-      "EntityId": 19390,
-      "VideoName": "Lens vs Como",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Lens vs Como live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Lens vs Como match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793257150540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793257150540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "lens-vs-como-ucl-live-match"
-    },
-    {
-      "EntityId": 19389,
-      "VideoName": "RB Leipzig vs Manchester City",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch RB Leipzig vs Manchester City live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The RB Leipzig vs Manchester City match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793257028540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793257028540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 826,
-      "UrlSlug": "rb leipzig-vs-manchester city-ucl-live-match"
-    },
-    {
       "EntityId": 2178,
       "VideoName": "Porto vs Napoli",
       "CategoryName": "UEFA Champions League",
@@ -4039,6 +4032,34 @@
       "Team2Name": "Gol Gohar",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/469420/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/275525/image"
+    },
+    {
+      "EntityId": 19269,
+      "VideoName": "Ayeyawady FC - Women (MYA) vs INAC Kobe Leonessa (JPN)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 2",
+      "EventStartDate": "2026-11-04 18:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 06:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793781676540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793781676540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-Ayeyawady FC - Women (MYA)-vs-INAC Kobe Leonessa (JPN)"
+    },
+    {
+      "EntityId": 19723,
+      "VideoName": "Buriram United (THA) vs Kashima Antlers (JPN)",
+      "CategoryName": "AFC Champions League Elite 2026/27",
+      "StageName": "MATCHDAY 4",
+      "EventStartDate": "2026-11-04 18:15:00",
+      "Description": "Watch Buriram United vs Kashima Antlers live online on tapmad. The AFC Champions League Elite Buriram United vs Kashima Antlers match is scheduled to take place on 04-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793777003540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793777003540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 828,
+      "UrlSlug": "afc-champions-league-elite-Buriram United vs Kashima Antlers"
     }
   ]
 }
