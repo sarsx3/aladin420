@@ -1,15 +1,192 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:00 AM 05-11-2026",
+    "LastUpdate": "02:01 AM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 24,
+    "LiveCount": 31,
     "UpcomingCount": 301
   },
   "Matches": [
+    {
+      "EntityId": 1090551915,
+      "VideoName": "RB Leipzig vs Manchester City",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:01:18",
+      "Description": "Watch RB Leipzig vs Manchester City live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793822478
+    },
+    {
+      "EntityId": 1090551916,
+      "VideoName": "Slavia Praha vs Arsenal",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:01:18",
+      "Description": "Watch Slavia Praha vs Arsenal live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955986716242_UCL26_MD4_Slavia_Praha_vs_Arsenal_eng_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955986716242_UCL26_MD4_Slavia_Praha_vs_Arsenal_eng_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793822478
+    },
+    {
+      "EntityId": 1090551912,
+      "VideoName": "Borussia Dortmund vs Real Betis",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:01:18",
+      "Description": "Watch Borussia Dortmund vs Real Betis live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954724592378_UCL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954724592378_UCL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793822478
+    },
+    {
+      "EntityId": 1090551913,
+      "VideoName": "FC Porto vs Napoli",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:01:18",
+      "Description": "Watch FC Porto vs Napoli live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792955008635378_UCL26_MD4_Porto_vs_Napoli_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792955008635378_UCL26_MD4_Porto_vs_Napoli_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793822478
+    },
+    {
+      "EntityId": 1090551917,
+      "VideoName": "RC Lens vs Como 1907",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:01:18",
+      "Description": "Watch RC Lens vs Como 1907 live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956418897243_UCL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956418897243_UCL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793822478
+    },
+    {
+      "EntityId": 1090551914,
+      "VideoName": "PSV Eindhoven vs Club Brugge",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:01:18",
+      "Description": "Watch PSV Eindhoven vs Club Brugge live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955265419243_UCL26_MD4_PSV_vs_Brugge_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955265419243_UCL26_MD4_PSV_vs_Brugge_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793822478
+    },
+    {
+      "EntityId": 1090551918,
+      "VideoName": "Viking FK vs Sabah FC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:01:18",
+      "Description": "Watch Viking FK vs Sabah FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956660701243_UCL26_MD4_VikingFK_vs_Sabah_FC_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956660701243_UCL26_MD4_VikingFK_vs_Sabah_FC_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793822478
+    },
     {
       "EntityId": 19392,
       "VideoName": "Viking vs Sabah",
@@ -28,6 +205,27 @@
         {
           "label": "Server 1",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 19391,
+      "VideoName": "Slavia Praha vs Arsenal",
+      "CategoryName": "UEFA Champions League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Slavia Praha vs Arsenal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slavia Praha vs Arsenal match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793257270540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793257270540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 826,
+      "UrlSlug": "slavia praha-vs-arsenal-ucl-live-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
         }
       ]
     },
@@ -112,6 +310,27 @@
         {
           "label": "Server 1",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 19386,
+      "VideoName": "Borussia Dortmund vs Real Betis",
+      "CategoryName": "UEFA Champions League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Borussia Dortmund vs Real Betis live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Borussia Dortmund vs Real Betis match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256334540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793256334540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 826,
+      "UrlSlug": "borussia dortmund-vs-real betis-ucl-live-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
         }
       ]
     },
@@ -854,68 +1073,6 @@
       "Team2Name": "Al-Jazira",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/45474/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/8090/image"
-    },
-    {
-      "EntityId": 1090551911,
-      "VideoName": "AEK Athens vs Real Madrid",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-05 00:00:25",
-      "Description": "Watch AEK Athens vs Real Madrid live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
-        },
-        {
-          "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
-        },
-        {
-          "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
-        },
-        {
-          "label": "Kannada",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793815225
-    },
-    {
-      "EntityId": 1090551910,
-      "VideoName": "Fenerbahçe vs Liverpool",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-05 00:00:25",
-      "Description": "Watch Fenerbahçe vs Liverpool live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793815225
     },
     {
       "EntityId": 19385,
