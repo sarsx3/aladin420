@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:17 AM 05-11-2026",
+    "LastUpdate": "02:18 AM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 31,
+    "LiveCount": 29,
     "UpcomingCount": 301
   },
   "Matches": [
@@ -984,6 +984,13 @@
             "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "beIN ENGLISH FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Bristol City",
@@ -1205,48 +1212,6 @@
       "Team2Name": "Al-Jazira",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/45474/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/8090/image"
-    },
-    {
-      "EntityId": 19385,
-      "VideoName": "Fenerbahce vs Liverpool",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 23:45:00",
-      "Description": "Watch Fenerbahce vs Liverpool live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Fenerbahce vs Liverpool match will take place on 04-Nov, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256122540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793256122540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 826,
-      "UrlSlug": "fenerbahce-vs-liverpool-ucl-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19384,
-      "VideoName": "AEK Athens vs Real Madrid",
-      "CategoryName": "UEFA Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-04 23:45:00",
-      "Description": "Watch AEK Athens vs Real Madrid live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The AEK Athens vs Real Madrid match will take place on 04-Nov, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256007540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793256007540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 826,
-      "UrlSlug": "aek athens-vs-real madrid-ucl-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2530,
