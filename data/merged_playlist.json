@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:53 PM 04-11-2026",
+    "LastUpdate": "05:54 PM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 201
   },
   "Matches": [
@@ -191,58 +191,6 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2177,
-      "VideoName": "Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "CategoryName": "Womens Big Bash League",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-04 14:10:00",
-      "Description": "Watch Hobart Hurricanes Women vs Melbourne Renegades Women — Womens Big Bash League. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274885/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9705,
-      "UrlSlug": "womens-big-bash-league",
-      "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-      "sources": [
-        {
-          "label": "sky cricket - aq",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
-          "drmScheme": "YzNiYmViMTZjMThkODI1ZjA0YjUxYjE3YjY3YmFmNWE6Zjc0NDcyMmMwOGUzZDEzZmVjZmE1OWRlNTQzNmNjZTc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
-          "drmScheme": "YzNiYmViMTZjMThkODI1ZjA0YjUxYjE3YjY3YmFmNWE6Zjc0NDcyMmMwOGUzZDEzZmVjZmE1OWRlNTQzNmNjZTc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hobart Hurricanes Women",
-      "Team2Name": "Melbourne Renegades Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
     },
     {
       "EntityId": 2261,
