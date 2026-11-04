@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:49 AM 05-11-2026",
+    "LastUpdate": "01:50 AM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
-    "UpcomingCount": 309
+    "LiveCount": 26,
+    "UpcomingCount": 301
   },
   "Matches": [
     {
@@ -114,6 +114,483 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2178,
+      "VideoName": "Porto vs Napoli",
+      "CategoryName": "UEFA Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Porto vs Napoli — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3002/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9209,
+      "UrlSlug": "uefa-champions-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1793806387-0-0-2bda5190de863b3dffb2ae9e408769a3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=2f6e8b83d4c724acbc35e3f805416b2b&txTime=6aeba5bf",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Porto",
+      "Team2Name": "Napoli",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3002/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2714/image"
+    },
+    {
+      "EntityId": 2179,
+      "VideoName": "Viking vs Sabah",
+      "CategoryName": "UEFA Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Viking vs Sabah — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1164/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9209,
+      "UrlSlug": "uefa-champions-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793806747-0-0-3ef2e57dc8bff0792c42aa2dd14166d1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Viking",
+      "Team2Name": "Sabah",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1164/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/267828/image"
+    },
+    {
+      "EntityId": 2180,
+      "VideoName": "PSV vs Club Brugge",
+      "CategoryName": "UEFA Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch PSV vs Club Brugge — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2952/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9209,
+      "UrlSlug": "uefa-champions-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1793810167-0-0-4dbc7da883471d32d514117066b71383",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2a03f7fc28477d05e3463c33a303f5ad&txTime=6aeba547",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.zktsva.app/live/300523.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "PSV",
+      "Team2Name": "Club Brugge",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2952/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2888/image"
+    },
+    {
+      "EntityId": 2181,
+      "VideoName": "Slavia Praha vs Arsenal",
+      "CategoryName": "UEFA Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Slavia Praha vs Arsenal — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2216/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9209,
+      "UrlSlug": "uefa-champions-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "sources": [
+        {
+          "label": "TNT1 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1793806627-0-0-54b08d257b1bc39e37528adbc2ff2058",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793806627-0-0-241d1bccbf3ac93085918808efeab77d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793810227-0-0-f90900e29ffa6786e53fa311862afef6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793810287-0-0-c3e287aafac7c21f1468b38924ff8062",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Slavia Praha",
+      "Team2Name": "Arsenal",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2216/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
+    },
+    {
+      "EntityId": 2182,
+      "VideoName": "Dortmund vs Betis",
+      "CategoryName": "UEFA Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Dortmund vs Betis — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2673/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9209,
+      "UrlSlug": "uefa-champions-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+      "sources": [
+        {
+          "label": "TNT4 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1793806267-0-0-cb2b4f194264a60325ea8503f1764353",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793806327-0-0-ec1e2e79e9174c0f1103d765cbd2d1de",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Dortmund",
+      "Team2Name": "Betis",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2673/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    },
+    {
+      "EntityId": 2183,
+      "VideoName": "Lens vs Como",
+      "CategoryName": "UEFA Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Lens vs Como — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1648/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9209,
+      "UrlSlug": "uefa-champions-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1793806447-0-0-7810438eda745cdadd526676d42ddad4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=62c01a76d89c01deea5a51f27a694036&txTime=6aeb96fb",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Lens",
+      "Team2Name": "Como",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
+    },
+    {
+      "EntityId": 2184,
+      "VideoName": "RB Leipzig vs Man City",
+      "CategoryName": "UEFA Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch RB Leipzig vs Man City — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36360/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9209,
+      "UrlSlug": "uefa-champions-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+      "sources": [
+        {
+          "label": "TNT2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1793806567-0-0-cac901c0cd7670cb502d89ca3e1f726b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793810227-0-0-e74e7f4fc8f0f47fa6b2eb4ee5959c4a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "RB Leipzig",
+      "Team2Name": "Man City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/36360/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/17/image"
+    },
+    {
+      "EntityId": 2208,
+      "VideoName": "Bristol City vs Wolves",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 02:00:00",
+      "Description": "Watch Bristol City vs Wolves — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/58/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "http://193.47.62.50/hls/tiiiAAAA.m3u8",
+      "sources": [
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.50/hls/tiiiAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bristol City",
+      "Team2Name": "Wolves",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/58/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3/image"
     },
     {
       "EntityId": 2206,
@@ -6606,491 +7083,6 @@
       "Team2Name": "Gremio",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/5981/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
-    },
-    {
-      "EntityId": 2178,
-      "VideoName": "Porto vs Napoli",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Porto vs Napoli — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3002/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1793806387-0-0-2bda5190de863b3dffb2ae9e408769a3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=2f6e8b83d4c724acbc35e3f805416b2b&txTime=6aeba5bf",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.zktsva.app/live/289650.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Porto",
-      "Team2Name": "Napoli",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3002/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2714/image"
-    },
-    {
-      "EntityId": 2179,
-      "VideoName": "Viking vs Sabah",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Viking vs Sabah — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1164/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793806747-0-0-3ef2e57dc8bff0792c42aa2dd14166d1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Viking",
-      "Team2Name": "Sabah",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1164/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/267828/image"
-    },
-    {
-      "EntityId": 2180,
-      "VideoName": "PSV vs Club Brugge",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch PSV vs Club Brugge — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2952/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1793810167-0-0-4dbc7da883471d32d514117066b71383",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2a03f7fc28477d05e3463c33a303f5ad&txTime=6aeba547",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.zktsva.app/live/300523.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "PSV",
-      "Team2Name": "Club Brugge",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2952/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2888/image"
-    },
-    {
-      "EntityId": 2181,
-      "VideoName": "Slavia Praha vs Arsenal",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Slavia Praha vs Arsenal — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2216/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-      "sources": [
-        {
-          "label": "TNT1 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1793806627-0-0-54b08d257b1bc39e37528adbc2ff2058",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793806627-0-0-241d1bccbf3ac93085918808efeab77d",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793810227-0-0-f90900e29ffa6786e53fa311862afef6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793810287-0-0-c3e287aafac7c21f1468b38924ff8062",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 6",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 7",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Slavia Praha",
-      "Team2Name": "Arsenal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2216/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
-    },
-    {
-      "EntityId": 2182,
-      "VideoName": "Dortmund vs Betis",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Dortmund vs Betis — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2673/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-      "sources": [
-        {
-          "label": "TNT4 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1793806267-0-0-cb2b4f194264a60325ea8503f1764353",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793806327-0-0-ec1e2e79e9174c0f1103d765cbd2d1de",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.zktsva.app/live/303098.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Dortmund",
-      "Team2Name": "Betis",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2673/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2816/image"
-    },
-    {
-      "EntityId": 2183,
-      "VideoName": "Lens vs Como",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Lens vs Como — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1648/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1793806447-0-0-7810438eda745cdadd526676d42ddad4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=62c01a76d89c01deea5a51f27a694036&txTime=6aeb96fb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lens",
-      "Team2Name": "Como",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2704/image"
-    },
-    {
-      "EntityId": 2184,
-      "VideoName": "RB Leipzig vs Man City",
-      "CategoryName": "UEFA Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch RB Leipzig vs Man City — UEFA Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/36360/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9209,
-      "UrlSlug": "uefa-champions-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-      "sources": [
-        {
-          "label": "TNT2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1793806567-0-0-cac901c0cd7670cb502d89ca3e1f726b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793810227-0-0-e74e7f4fc8f0f47fa6b2eb4ee5959c4a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793863522~acl=/*~id=36550791102668823024618154906316~hmac=2c33df748a634a81c759bba3cbbde8d7396e5342083d74e43276a3423e9b5e7c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "RB Leipzig",
-      "Team2Name": "Man City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/36360/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/17/image"
-    },
-    {
-      "EntityId": 2208,
-      "VideoName": "Bristol City vs Wolves",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 02:00:00",
-      "Description": "Watch Bristol City vs Wolves — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/58/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "http://193.47.62.50/hls/tiiiAAAA.m3u8",
-      "sources": [
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.50/hls/tiiiAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bristol City",
-      "Team2Name": "Wolves",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/58/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3/image"
     }
   ]
 }
