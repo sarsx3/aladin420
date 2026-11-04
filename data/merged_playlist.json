@@ -1,15 +1,71 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:04 AM 05-11-2026",
+    "LastUpdate": "12:05 AM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 194
+    "LiveCount": 15,
+    "UpcomingCount": 192
   },
   "Matches": [
+    {
+      "EntityId": 2194,
+      "VideoName": "Al-Taawon vs Al Faisaly",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 00:15:00",
+      "Description": "Watch Al-Taawon vs Al Faisaly — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56021/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Al-Taawon",
+      "Team2Name": "Al Faisaly",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/56021/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/47482/image"
+    },
+    {
+      "EntityId": 2195,
+      "VideoName": "Muharraq SC vs Al-Jazira",
+      "CategoryName": "AFC Champions League Two",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 00:15:00",
+      "Description": "Watch Muharraq SC vs Al-Jazira — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/45474/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9305,
+      "UrlSlug": "afc-champions-league-two",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Muharraq SC",
+      "Team2Name": "Al-Jazira",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/45474/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/8090/image"
+    },
     {
       "EntityId": 1090551911,
       "VideoName": "AEK Athens vs Real Madrid",
@@ -4236,62 +4292,6 @@
       "Status": "Upcoming",
       "CategoryId": 829,
       "UrlSlug": "afc-champions-league-two"
-    },
-    {
-      "EntityId": 2194,
-      "VideoName": "Al-Taawon vs Al Faisaly",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 00:15:00",
-      "Description": "Watch Al-Taawon vs Al Faisaly — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56021/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Al-Taawon",
-      "Team2Name": "Al Faisaly",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56021/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/47482/image"
-    },
-    {
-      "EntityId": 2195,
-      "VideoName": "Muharraq SC vs Al-Jazira",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 00:15:00",
-      "Description": "Watch Muharraq SC vs Al-Jazira — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/45474/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Muharraq SC",
-      "Team2Name": "Al-Jazira",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/45474/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/8090/image"
     }
   ]
 }
