@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:00 PM 04-11-2026",
+    "LastUpdate": "06:01 PM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 201
   },
   "Matches": [
@@ -72,104 +72,6 @@
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2155,
-      "VideoName": "Pohang Steelers vs Gamba Osaka",
-      "CategoryName": "AFC Champions League Elite",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-04 16:00:00",
-      "Description": "Watch Pohang Steelers vs Gamba Osaka — AFC Champions League Elite. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7650/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9441,
-      "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793773567-0-0-1d7b955f44022d2f3f94f099899d7a6a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.zktsva.app/live/304565.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pohang Steelers",
-      "Team2Name": "Gamba Osaka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/7650/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3138/image"
-    },
-    {
-      "EntityId": 2158,
-      "VideoName": "FC Seoul vs Viettel",
-      "CategoryName": "AFC Champions League Two",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-04 16:00:00",
-      "Description": "Watch FC Seoul vs Viettel — AFC Champions League Two. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7646/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9305,
-      "UrlSlug": "afc-champions-league-two",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793773627-0-0-951cde9f16c915cb1e708366b340d348",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.zktsva.app/live/294335.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "FC Seoul",
-      "Team2Name": "Viettel",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/7646/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/231270/image"
     },
     {
       "EntityId": 19186,
@@ -4115,8 +4017,45 @@
       "Status": "Upcoming",
       "CategoryId": 9441,
       "UrlSlug": "afc-champions-league-elite",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793796607-0-0-6d14878f5a5029f5be1c6ad5febee976",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.zktsva.app/live/301238.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "http://193.47.62.44/hls/HHHHAAQA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Buriram United",
       "Team2Name": "Kashima Antlers",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/34218/image",
