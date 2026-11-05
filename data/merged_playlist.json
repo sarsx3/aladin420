@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:00 PM 05-11-2026",
+    "LastUpdate": "02:01 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 8,
     "UpcomingCount": 292
   },
   "Matches": [
+    {
+      "EntityId": 19188,
+      "VideoName": "Sydney Thunder vs Perth Scorchers",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-11-05 14:10:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs PER brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 11th T20I is scheduled to be played on 05-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793784315540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793784315540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1247,
+      "UrlSlug": "sct-vs-per-11th-t20i-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2230,
       "VideoName": "Sydney Thunder Women vs Perth Scorchers Women",
@@ -51,75 +72,6 @@
       "Team2Name": "Perth Scorchers Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274889/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274890/image"
-    },
-    {
-      "EntityId": 1090552565,
-      "VideoName": "Bangladesh vs Afghanistan",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-05 13:04:19",
-      "Description": "Watch Bangladesh vs Afghanistan live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904822~acl=/*~id=17050139570409228478914880144845~hmac=bed0a03301ce7501737edb9c21db0945dbeeb7f943e9d0ac697f3b4597aabb6f",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904822~acl=/*~id=17050139570409228478914880144845~hmac=bed0a03301ce7501737edb9c21db0945dbeeb7f943e9d0ac697f3b4597aabb6f"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793862259
-    },
-    {
-      "EntityId": 1090552560,
-      "VideoName": "Sri Lanka vs Malaysia",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-05 13:04:19",
-      "Description": "Watch Sri Lanka vs Malaysia live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028170/1793739045231457_ACC_MensU19_SL_vs_Malaysia_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028170/1793739045231457_ACC_MensU19_SL_vs_Malaysia_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904822~acl=/*~id=17050139570409228478914880144845~hmac=bed0a03301ce7501737edb9c21db0945dbeeb7f943e9d0ac697f3b4597aabb6f",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904822~acl=/*~id=17050139570409228478914880144845~hmac=bed0a03301ce7501737edb9c21db0945dbeeb7f943e9d0ac697f3b4597aabb6f"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793862259
-    },
-    {
-      "EntityId": 1090552580,
-      "VideoName": "Abu Dhabi HSBC Championship - Day 1",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-05 13:04:19",
-      "Description": "Watch Abu Dhabi HSBC Championship - Day 1 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904822~acl=/*~id=17050139570409228478914880144845~hmac=bed0a03301ce7501737edb9c21db0945dbeeb7f943e9d0ac697f3b4597aabb6f",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904822~acl=/*~id=17050139570409228478914880144845~hmac=bed0a03301ce7501737edb9c21db0945dbeeb7f943e9d0ac697f3b4597aabb6f"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793862259
     },
     {
       "EntityId": 2254,
