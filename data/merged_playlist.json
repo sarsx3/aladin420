@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:52 PM 05-11-2026",
+    "LastUpdate": "07:53 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 15,
     "UpcomingCount": 294
   },
   "Matches": [
@@ -293,6 +293,97 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/40662/image"
     },
     {
+      "EntityId": 2238,
+      "VideoName": "Churchill Brothers vs NorthEast Utd",
+      "CategoryName": "Indian Super League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 17:30:00",
+      "Description": "Watch Churchill Brothers vs NorthEast Utd — Indian Super League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/40078/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9199,
+      "UrlSlug": "indian-super-league",
+      "stream_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119931/cricodi_0511/ENG/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+      "sources": [
+        {
+          "label": "sonyliv - (eng)",
+          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119931/cricodi_0511/ENG/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (hin)",
+          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119921/cricodi_0511/HIN/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Hd quality",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Churchill Brothers",
+      "Team2Name": "NorthEast Utd",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/40078/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/174602/image"
+    },
+    {
+      "EntityId": 2255,
+      "VideoName": "Kathmandu Gorkhas vs Biratnagar Kings",
+      "CategoryName": "NPL 2026 - 15th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 17:15:00",
+      "Description": "Watch Kathmandu Gorkhas vs Biratnagar Kings — NPL 2026 - 15th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9748,
+      "UrlSlug": "npl-2026-15th-t20",
+      "stream_url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FANCODE SD",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Kathmandu Gorkhas",
+      "Team2Name": "Biratnagar Kings",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PU.png"
+    },
+    {
       "EntityId": 1090552590,
       "VideoName": "Churchill Brothers FC vs NorthEast United FC",
       "CategoryName": "Football",
@@ -383,6 +474,58 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2231,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM in UAE, 2026 - 1st Test, Day 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 11:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM in UAE, 2026 - 1st Test, Day 1. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9058,
+      "UrlSlug": "afg-vs-zim-in-uae-2026-1st-test-day-1",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "sources": [
+        {
+          "label": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
+          "drmScheme": "NTAyYjIyZDNjYWRhNjFlMWRkM2MyNGU0ZGMzN2IxMjg6ZWRiZWVjMTlhNjJkMDMzOTAzZmU2NDM2YWJmYjlmZDY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
+          "drmScheme": "NTAyYjIyZDNjYWRhNjFlMWRkM2MyNGU0ZGMzN2IxMjg6ZWRiZWVjMTlhNjJkMDMzOTAzZmU2NDM2YWJmYjlmZDY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 2554,
