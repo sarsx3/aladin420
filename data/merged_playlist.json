@@ -1,15 +1,46 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:02 PM 05-11-2026",
+    "LastUpdate": "11:03 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 285
   },
   "Matches": [
+    {
+      "EntityId": 1090552592,
+      "VideoName": "Mohun Bagan Super Giant vs OFC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 23:03:18",
+      "Description": "Watch Mohun Bagan Super Giant vs OFC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793937611~acl=/*~id=47233351419294916489655433333353~hmac=b41777003dc689546d5ecc1da826d61c91e905ebc9a069054ea7df95485376bd",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793937611~acl=/*~id=47233351419294916489655433333353~hmac=b41777003dc689546d5ecc1da826d61c91e905ebc9a069054ea7df95485376bd"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793937611~acl=/*~id=47233351419294916489655433333353~hmac=b41777003dc689546d5ecc1da826d61c91e905ebc9a069054ea7df95485376bd"
+        },
+        {
+          "label": "Bengali",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793937611~acl=/*~id=47233351419294916489655433333353~hmac=b41777003dc689546d5ecc1da826d61c91e905ebc9a069054ea7df95485376bd"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793898198
+    },
     {
       "EntityId": 2257,
       "VideoName": "Bhutan vs Bangladesh",
