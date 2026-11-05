@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:32 PM 05-11-2026",
+    "LastUpdate": "11:33 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5643,6 +5643,13 @@
             "Referer": "http://www.fawanews.sc/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120301/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Real Sociedad",
@@ -5935,8 +5942,38 @@
       "Status": "Upcoming",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=f9b4bac922e38c6cc37ba159e2b98196&txTime=6aecc517",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=f9b4bac922e38c6cc37ba159e2b98196&txTime=6aecc517",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=594c83fb7ae86d12bcfd2190aa0c6cc1&txTime=6aecc553",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.zktsva.app/live/796315.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "http://193.47.62.41/hls/KUUUA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Atalanta",
       "Team2Name": "Kairat Almaty",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2686/image",
@@ -5955,8 +5992,17 @@
       "Status": "Upcoming",
       "CategoryId": 9947,
       "UrlSlug": "uefa-conference-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.41/hls/KUUU.m3u8",
+      "sources": [
+        {
+          "label": "Low quality1",
+          "url": "http://193.47.62.41/hls/KUUU.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Aarhus",
       "Team2Name": "Braga",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1291/image",
