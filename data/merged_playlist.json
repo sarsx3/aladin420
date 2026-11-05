@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:26 PM 05-11-2026",
+    "LastUpdate": "08:27 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -112,6 +112,14 @@
         {
           "label": "HD SERVER",
           "url": "https://live-sg-aws.bongobd.com/hls/v2.VRH_BWSkXLF-tEqej5GunA/1793890727/bongoiptv/SAFFmatch02_hi/chunks.m3u8",
+          "headers": {
+            "Referer": "https://bongobd.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "label": "SERVER - 720P",
+          "url": "https://live-sg-aws.bongobd.com/hls/v2.VRH_BWSkXLF-tEqej5GunA/1793890727/bongoiptv/SAFFmatch02_mid/chunks.m3u8",
           "headers": {
             "Referer": "https://bongobd.com/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
