@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:57 PM 05-11-2026",
+    "LastUpdate": "04:58 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 303
+    "LiveCount": 15,
+    "UpcomingCount": 302
   },
   "Matches": [
     {
@@ -453,6 +453,50 @@
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
+    {
+      "EntityId": 2541,
+      "VideoName": "Bangladesh U19 vs Afghanistan U19",
+      "CategoryName": "U19 Asia Cup 2026 - 2nd Youth ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 10:00:00",
+      "Description": "Watch Bangladesh U19 vs Afghanistan U19 — U19 Asia Cup 2026 - 2nd Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213099/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9600,
+      "UrlSlug": "u19-asia-cup-2026-2nd-youth-odi",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
+          "drmScheme": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
+          "drmScheme": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SonyLiv PRIME FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd?|drmScheme=clearkey&drmLicense=74ea2277355a796a7b81fc5ae0850b8b:9e5fc3413f079d3624873bb524453396",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh U19",
+      "Team2Name": "Afghanistan U19",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/213099/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
     },
     {
       "EntityId": 19121,
@@ -6410,13 +6454,6 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
         }
       ],
       "Team1Name": "Kathmandu Gorkhas",
@@ -6467,50 +6504,6 @@
       "Team2Name": "Malaysia U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/505670/image"
-    },
-    {
-      "EntityId": 2541,
-      "VideoName": "Bangladesh U19 vs Afghanistan U19",
-      "CategoryName": "U19 Asia Cup 2026 - 2nd Youth ODI",
-      "StageName": "Upcoming",
-      "EventStartDate": "",
-      "Description": "Watch Bangladesh U19 vs Afghanistan U19 — U19 Asia Cup 2026 - 2nd Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213099/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9600,
-      "UrlSlug": "u19-asia-cup-2026-2nd-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
-          "drmScheme": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
-          "drmScheme": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SonyLiv PRIME FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd?|drmScheme=clearkey&drmLicense=74ea2277355a796a7b81fc5ae0850b8b:9e5fc3413f079d3624873bb524453396",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh U19",
-      "Team2Name": "Afghanistan U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213099/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
     }
   ]
 }
