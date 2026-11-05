@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:14 PM 05-11-2026",
+    "LastUpdate": "05:15 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -6488,8 +6488,30 @@
       "Status": "Upcoming",
       "CategoryId": 9199,
       "UrlSlug": "indian-super-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119931/cricodi_0511/ENG/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+      "sources": [
+        {
+          "label": "sonyliv - (eng)",
+          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119931/cricodi_0511/ENG/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "sonyliv - (hin)",
+          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119921/cricodi_0511/HIN/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Hd quality",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Churchill Brothers",
       "Team2Name": "NorthEast Utd",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/40078/image",
