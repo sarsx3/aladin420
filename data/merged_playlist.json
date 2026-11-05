@@ -1,15 +1,46 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:01 PM 05-11-2026",
+    "LastUpdate": "08:02 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 11,
     "UpcomingCount": 294
   },
   "Matches": [
+    {
+      "EntityId": 1090552592,
+      "VideoName": "Mohun Bagan Super Giant vs OFC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 20:02:19",
+      "Description": "Watch Mohun Bagan Super Giant vs OFC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793930328~acl=/*~id=33587064428619536097058701325001~hmac=f2dfc022216d4e87d7a8996fd9d8e77f1a5c9a31aa6c9e85d5d71daeecc9876a",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793930328~acl=/*~id=33587064428619536097058701325001~hmac=f2dfc022216d4e87d7a8996fd9d8e77f1a5c9a31aa6c9e85d5d71daeecc9876a"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793930328~acl=/*~id=33587064428619536097058701325001~hmac=f2dfc022216d4e87d7a8996fd9d8e77f1a5c9a31aa6c9e85d5d71daeecc9876a"
+        },
+        {
+          "label": "Bengali",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793930328~acl=/*~id=33587064428619536097058701325001~hmac=f2dfc022216d4e87d7a8996fd9d8e77f1a5c9a31aa6c9e85d5d71daeecc9876a"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1793887339
+    },
     {
       "EntityId": 2239,
       "VideoName": "Mohun Bagan vs Odisha",
@@ -299,56 +330,6 @@
       "Team2Name": "Tai Po FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/35607/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/40662/image"
-    },
-    {
-      "EntityId": 1090552590,
-      "VideoName": "Churchill Brothers FC vs NorthEast United FC",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-05 17:01:18",
-      "Description": "Watch Churchill Brothers FC vs NorthEast United FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793876478
-    },
-    {
-      "EntityId": 1090552580,
-      "VideoName": "Abu Dhabi HSBC Championship - Day 1",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-05 16:03:19",
-      "Description": "Watch Abu Dhabi HSBC Championship - Day 1 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793872999
     },
     {
       "EntityId": 19538,
