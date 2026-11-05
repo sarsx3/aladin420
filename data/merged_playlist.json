@@ -1,15 +1,64 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:19 PM 05-11-2026",
+    "LastUpdate": "03:20 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 292
+    "LiveCount": 8,
+    "UpcomingCount": 291
   },
   "Matches": [
+    {
+      "EntityId": 2256,
+      "VideoName": "Pakistan vs India",
+      "CategoryName": "SAFF Championship - Group B",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 15:30:00",
+      "Description": "Watch Pakistan vs India — SAFF Championship - Group B. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6081/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9992,
+      "UrlSlug": "saff-championship-group-b",
+      "stream_url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
+      "sources": [
+        {
+          "label": "t sports hd",
+          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://live2.zktsva.app/live/306290.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakistan",
+      "Team2Name": "India",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6081/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4828/image"
+    },
     {
       "EntityId": 19188,
       "VideoName": "Sydney Thunder vs Perth Scorchers",
@@ -6039,48 +6088,6 @@
       "Team2Name": "Adelaide United",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3041/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2946/image"
-    },
-    {
-      "EntityId": 2256,
-      "VideoName": "Pakistan vs India",
-      "CategoryName": "SAFF Championship - Group B",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 15:30:00",
-      "Description": "Watch Pakistan vs India — SAFF Championship - Group B. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6081/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9992,
-      "UrlSlug": "saff-championship-group-b",
-      "stream_url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
-      "sources": [
-        {
-          "label": "t sports hd",
-          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan",
-      "Team2Name": "India",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6081/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4828/image"
     }
   ]
 }
