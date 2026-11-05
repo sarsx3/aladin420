@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:49 AM 05-11-2026",
+    "LastUpdate": "10:50 AM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 295
+    "LiveCount": 5,
+    "UpcomingCount": 294
   },
   "Matches": [
+    {
+      "EntityId": 2231,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM in UAE, 2026 - 1st Test, Day 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 11:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM in UAE, 2026 - 1st Test, Day 1. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9058,
+      "UrlSlug": "afg-vs-zim-in-uae-2026-1st-test-day-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
     {
       "EntityId": 19187,
       "VideoName": "Adelaide Strikers vs Brisbane Heat",
@@ -5970,26 +5990,6 @@
       "Status": "Upcoming",
       "CategoryId": 1245,
       "UrlSlug": "afg-vs-zim-1st-test-live"
-    },
-    {
-      "EntityId": 2231,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM in UAE, 2026 - 1st Test, Day 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 11:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM in UAE, 2026 - 1st Test, Day 1. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9058,
-      "UrlSlug": "afg-vs-zim-in-uae-2026-1st-test-day-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     }
   ]
 }
