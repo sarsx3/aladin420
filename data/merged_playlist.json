@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 PM 05-11-2026",
+    "LastUpdate": "12:35 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 294
+    "LiveCount": 7,
+    "UpcomingCount": 293
   },
   "Matches": [
+    {
+      "EntityId": 2254,
+      "VideoName": "Lumbini Lions vs Janakpur Bolts",
+      "CategoryName": "NPL 2026 - 14th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 12:45:00",
+      "Description": "Watch Lumbini Lions vs Janakpur Bolts — NPL 2026 - 14th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9924,
+      "UrlSlug": "npl-2026-14th-t20",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lumbini Lions",
+      "Team2Name": "Janakpur Bolts",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
+    },
     {
       "EntityId": 19114,
       "VideoName": "Afghanistan vs Zimbabwe",
@@ -6023,26 +6043,6 @@
       "Team2Name": "Perth Scorchers Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274889/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274890/image"
-    },
-    {
-      "EntityId": 2254,
-      "VideoName": "Lumbini Lions vs Janakpur Bolts",
-      "CategoryName": "NPL 2026 - 14th T20",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 12:45:00",
-      "Description": "Watch Lumbini Lions vs Janakpur Bolts — NPL 2026 - 14th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9924,
-      "UrlSlug": "npl-2026-14th-t20",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lumbini Lions",
-      "Team2Name": "Janakpur Bolts",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PV.png"
     }
   ]
 }
