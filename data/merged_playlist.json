@@ -1,15 +1,50 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:04 PM 05-11-2026",
+    "LastUpdate": "05:05 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 17,
-    "UpcomingCount": 301
+    "LiveCount": 18,
+    "UpcomingCount": 300
   },
   "Matches": [
+    {
+      "EntityId": 2255,
+      "VideoName": "Kathmandu Gorkhas vs Biratnagar Kings",
+      "CategoryName": "NPL 2026 - 15th T20",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-05 17:15:00",
+      "Description": "Watch Kathmandu Gorkhas vs Biratnagar Kings — NPL 2026 - 15th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9748,
+      "UrlSlug": "npl-2026-15th-t20",
+      "stream_url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Kathmandu Gorkhas",
+      "Team2Name": "Biratnagar Kings",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PU.png"
+    },
     {
       "EntityId": 1090552590,
       "VideoName": "Churchill Brothers FC vs NorthEast United FC",
@@ -6503,41 +6538,6 @@
       "Team2Name": "NorthEast Utd",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/40078/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/174602/image"
-    },
-    {
-      "EntityId": 2255,
-      "VideoName": "Kathmandu Gorkhas vs Biratnagar Kings",
-      "CategoryName": "NPL 2026 - 15th T20",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 17:15:00",
-      "Description": "Watch Kathmandu Gorkhas vs Biratnagar Kings — NPL 2026 - 15th T20. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9748,
-      "UrlSlug": "npl-2026-15th-t20",
-      "stream_url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Kathmandu Gorkhas",
-      "Team2Name": "Biratnagar Kings",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PU.png"
     }
   ]
 }
