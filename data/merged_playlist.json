@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:30 PM 05-11-2026",
+    "LastUpdate": "10:31 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
     "LiveCount": 2,
-    "UpcomingCount": 291
+    "UpcomingCount": 285
   },
   "Matches": [
     {
@@ -146,6 +146,14 @@
           "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-4/1/master_1800.m3u8?hdntl=Expires=1793981189~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jIHMk-IBybaw6fs62MN-M5N7DfaXBkEi0jbHlJZgVfjk4iClnt86ojip3_HlTZXGOjRLoaiVgIxkqxS45h8WVAM&nocache=1793894798679",
           "headers": {
             "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "label": "Global Server - 1",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+          "headers": {
+            "Referer": "https://bongobd.com/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
           }
         }
@@ -5764,126 +5772,6 @@
       "Status": "Upcoming",
       "CategoryId": 799,
       "UrlSlug": "saudi-pro-league--al-qadsiah-vs-al-fayha-live"
-    },
-    {
-      "EntityId": 2220,
-      "VideoName": "Al Faysaly vs Diriyah",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:00:00",
-      "Description": "Watch Al Faysaly vs Diriyah — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56035/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Faysaly",
-      "Team2Name": "Diriyah",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56035/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/853574/image"
-    },
-    {
-      "EntityId": 2222,
-      "VideoName": "Al Ittihad vs NEOM SC",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:00:00",
-      "Description": "Watch Al Ittihad vs NEOM SC — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34315/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ittihad",
-      "Team2Name": "NEOM SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34315/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/530631/image"
-    },
-    {
-      "EntityId": 2223,
-      "VideoName": "Al Hazm vs Al Nassr",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:00:00",
-      "Description": "Watch Al Hazm vs Al Nassr — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/168086/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Hazm",
-      "Team2Name": "Al Nassr",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/168086/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/23400/image"
-    },
-    {
-      "EntityId": 2224,
-      "VideoName": "Al Fateh vs Al Riyadh",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:00:00",
-      "Description": "Watch Al Fateh vs Al Riyadh — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/56023/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Fateh",
-      "Team2Name": "Al Riyadh",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/56023/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/168088/image"
-    },
-    {
-      "EntityId": 2225,
-      "VideoName": "Al Ettifaq vs Al Hilal",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:00:00",
-      "Description": "Watch Al Ettifaq vs Al Hilal — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34318/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ettifaq",
-      "Team2Name": "Al Hilal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34318/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/21895/image"
-    },
-    {
-      "EntityId": 2227,
-      "VideoName": "Al Ahli vs Al Taawoun",
-      "CategoryName": "Saudi League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-05 23:00:00",
-      "Description": "Watch Al Ahli vs Al Taawoun — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/34469/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9404,
-      "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Ahli",
-      "Team2Name": "Al Taawoun",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/34469/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/56021/image"
     }
   ]
 }
