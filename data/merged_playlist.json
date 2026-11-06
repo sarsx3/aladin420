@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:43 AM 06-11-2026",
+    "LastUpdate": "11:44 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -23,8 +23,25 @@
       "Status": "Live",
       "CategoryId": 9709,
       "UrlSlug": "afg-vs-zim-1st-test-day-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+          "drmScheme": "Y2Y2MDkyZGM2NDQ0YjE4MmQ5ZWY2ZmRlNDE1MmZmN2Q6MmE4NjhkMTk0NGU1OTc5MzBkZGUzMmYxODNhMGM2YmY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+          "drmScheme": "Y2Y2MDkyZGM2NDQ0YjE4MmQ5ZWY2ZmRlNDE1MmZmN2Q6MmE4NjhkMTk0NGU1OTc5MzBkZGUzMmYxODNhMGM2YmY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Afghanistan",
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
