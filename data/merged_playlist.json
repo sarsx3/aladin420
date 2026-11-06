@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:03 AM 07-11-2026",
+    "LastUpdate": "04:04 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 11,
     "UpcomingCount": 222
   },
   "Matches": [
+    {
+      "EntityId": 1090552778,
+      "VideoName": "3rd Unofficial Test - Day 1",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 04:04:22",
+      "Description": "Watch 3rd Unofficial Test - Day 1 live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794045054~acl=/*~id=89251326224649950685010088575837~hmac=c4c7a9f63ddada4ecb1998d87bba5042626f9507544595c07323d10d45686b62",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794045054~acl=/*~id=89251326224649950685010088575837~hmac=c4c7a9f63ddada4ecb1998d87bba5042626f9507544595c07323d10d45686b62"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794002662
+    },
     {
       "EntityId": 2396,
       "VideoName": "Famalicão vs Arouca",
@@ -336,56 +359,6 @@
       "Team2Name": "Alaves",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2833/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2885/image"
-    },
-    {
-      "EntityId": 20115,
-      "VideoName": "Oxford City vs Leicester City",
-      "CategoryName": "FA Cup 2026/27",
-      "StageName": "1st Round",
-      "EventStartDate": "2026-11-07 01:45:00",
-      "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793960739540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793960739540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1329,
-      "UrlSlug": "oxford city-vs-leicester city-facup-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 19959,
-      "VideoName": "Toulouse vs Strasbourg",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 10",
-      "EventStartDate": "2026-11-07 01:45:00",
-      "Description": "Watch Toulouse vs Strasbourg live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Toulouse vs Strasbourg match will take place on 07-Nov, Saturday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793791366540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793791366540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1115,
-      "UrlSlug": "toulouse-vs-strasbourg-ligue-one-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2342,
