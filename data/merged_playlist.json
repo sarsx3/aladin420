@@ -1,15 +1,51 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 AM 07-11-2026",
+    "LastUpdate": "12:50 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 232
+    "LiveCount": 4,
+    "UpcomingCount": 231
   },
   "Matches": [
+    {
+      "EntityId": 2393,
+      "VideoName": "Willem II vs PEC Zwolle",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 01:00:00",
+      "Description": "Watch Willem II vs PEC Zwolle — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2961/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.50/hls/LSSSAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Willem II",
+      "Team2Name": "PEC Zwolle",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2961/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2971/image"
+    },
     {
       "EntityId": 2324,
       "VideoName": "Braunschweig vs Energie Cottbus",
@@ -4681,26 +4717,6 @@
       "Team2Name": "Gladbach",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2676/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2527/image"
-    },
-    {
-      "EntityId": 2393,
-      "VideoName": "Willem II vs PEC Zwolle",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-07 01:00:00",
-      "Description": "Watch Willem II vs PEC Zwolle — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2961/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Willem II",
-      "Team2Name": "PEC Zwolle",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2961/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2971/image"
     },
     {
       "EntityId": 2332,
