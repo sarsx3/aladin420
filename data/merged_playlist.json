@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:19 AM 06-11-2026",
+    "LastUpdate": "06:20 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
-    "UpcomingCount": 244
+    "LiveCount": 20,
+    "UpcomingCount": 243
   },
   "Matches": [
+    {
+      "EntityId": 2314,
+      "VideoName": "Cruzeiro vs Bahia",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-06 06:30:00",
+      "Description": "Watch Cruzeiro vs Bahia — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1954/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Cruzeiro",
+      "Team2Name": "Bahia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1954/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1955/image"
+    },
     {
       "EntityId": 2313,
       "VideoName": "Palmeiras vs Remo",
@@ -5514,34 +5542,6 @@
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
-    },
-    {
-      "EntityId": 2314,
-      "VideoName": "Cruzeiro vs Bahia",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-06 06:30:00",
-      "Description": "Watch Cruzeiro vs Bahia — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1954/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Cruzeiro",
-      "Team2Name": "Bahia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1954/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1955/image"
     }
   ]
 }
