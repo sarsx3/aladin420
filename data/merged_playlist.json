@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:10 AM 07-11-2026",
+    "LastUpdate": "01:11 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 231
   },
   "Matches": [
@@ -131,62 +131,6 @@
       "Team2Name": "Greuther Fürth",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2595/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2551/image"
-    },
-    {
-      "EntityId": 2331,
-      "VideoName": "Gaziantep FK vs Kasimpasa",
-      "CategoryName": "Super Lig",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-06 23:00:00",
-      "Description": "Watch Gaziantep FK vs Kasimpasa — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5138/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=66ec54cd969d78534c7b485d577e67d7&txTime=6aee071f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793966287-0-0-eccd76e8f764d4cff5f943089b4f76f5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793982218-0-0-a17af8bb8bbcabb7e0c9c9952ee29ccb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Gaziantep FK",
-      "Team2Name": "Kasimpasa",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/5138/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/6063/image"
     },
     {
       "EntityId": 2554,
