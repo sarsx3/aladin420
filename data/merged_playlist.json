@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:14 AM 06-11-2026",
+    "LastUpdate": "11:15 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -80,8 +80,25 @@
       "Status": "Live",
       "CategoryId": 9700,
       "UrlSlug": "u19-asia-cup-2026-4th-youth-odi",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qvpw810gz/out/v1/e4b320f9ef924fe59188752dcf9c7fbf/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qvpw810gz/out/v1/e4b320f9ef924fe59188752dcf9c7fbf/cenc.mpd",
+          "drmScheme": "NWQ1MjUyOWI2ZmYxOWVjYTIzMTUwMTMyNDQ1MTNiNjg6YmE1YzdkZmFkMjg3YWFiNTM4NDYzZDlkYTY4MTFhOGM=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qvpw810gz/out/v1/e4b320f9ef924fe59188752dcf9c7fbf/cenc.mpd",
+          "drmScheme": "NWQ1MjUyOWI2ZmYxOWVjYTIzMTUwMTMyNDQ1MTNiNjg6YmE1YzdkZmFkMjg3YWFiNTM4NDYzZDlkYTY4MTFhOGM=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "India U19",
       "Team2Name": "Nepal U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213112/image",
