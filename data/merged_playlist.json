@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:46 AM 06-11-2026",
+    "LastUpdate": "11:47 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 239
   },
   "Matches": [
@@ -163,6 +163,31 @@
       "Team2Name": "West Indies",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    },
+    {
+      "EntityId": 19114,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "Afghanistan vs Zimbabwe 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-11-05 12:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1245,
+      "UrlSlug": "afg-vs-zim-1st-test-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 19121,
@@ -2786,6 +2811,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2524/image"
     },
     {
+      "EntityId": 19960,
+      "VideoName": "Auxerre vs Paris FC",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 10",
+      "EventStartDate": "2026-11-08 00:00:00",
+      "Description": "Watch Auxerre vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Auxerre vs Paris FC match will take place on 07-Nov, Saturday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793791732540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793791732540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "auxerre-vs-paris fc-ligue-one-live-match"
+    },
+    {
       "EntityId": 2419,
       "VideoName": "Talleres vs Estudiantes",
       "CategoryName": "Liga Profesional",
@@ -4860,20 +4899,6 @@
       "Team2Name": "Sydney Sixers Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274886/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274883/image"
-    },
-    {
-      "EntityId": 19114,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "Afghanistan vs Zimbabwe 2026",
-      "StageName": "1st Test",
-      "EventStartDate": "2026-11-06 12:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1245,
-      "UrlSlug": "afg-vs-zim-1st-test-live"
     }
   ]
 }
