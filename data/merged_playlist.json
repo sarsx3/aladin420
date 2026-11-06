@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:02 PM 06-11-2026",
+    "LastUpdate": "07:03 PM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 237
   },
   "Matches": [
@@ -23,38 +23,15 @@
       "Status": "Live",
       "CategoryId": 9232,
       "UrlSlug": "golf-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794009314~acl=/*~id=73808210550813715608731333014524~hmac=06c89d8d157ba42f4105d0ad74c71258485b24cd09e03029a52d4bf8fae6f86f",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794012947~acl=/*~id=07379351577375835190115013379286~hmac=a026d7e8d5c093e85a45712341f842325f22e4f9d36efdbeb99f040b2e93b8bf",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794009314~acl=/*~id=73808210550813715608731333014524~hmac=06c89d8d157ba42f4105d0ad74c71258485b24cd09e03029a52d4bf8fae6f86f"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794012947~acl=/*~id=07379351577375835190115013379286~hmac=a026d7e8d5c093e85a45712341f842325f22e4f9d36efdbeb99f040b2e93b8bf"
         }
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1793948476
-    },
-    {
-      "EntityId": 1090552759,
-      "VideoName": "Pakistan vs UAE",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-06 12:00:47",
-      "Description": "Watch Pakistan vs UAE live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794009314~acl=/*~id=73808210550813715608731333014524~hmac=06c89d8d157ba42f4105d0ad74c71258485b24cd09e03029a52d4bf8fae6f86f",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794009314~acl=/*~id=73808210550813715608731333014524~hmac=06c89d8d157ba42f4105d0ad74c71258485b24cd09e03029a52d4bf8fae6f86f"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1793944847
     },
     {
       "EntityId": 2333,
@@ -2850,20 +2827,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2960/image"
     },
     {
-      "EntityId": 20116,
-      "VideoName": "Altrincham vs Notts County",
-      "CategoryName": "FA Cup 2026/27",
-      "StageName": "1st Round",
-      "EventStartDate": "2026-11-07 23:30:00",
-      "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793960976540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793960976540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1329,
-      "UrlSlug": "altrincham-vs-notts county-facup-live-match"
-    },
-    {
       "EntityId": 2340,
       "VideoName": "Forest vs Man City",
       "CategoryName": "Premier League",
@@ -4006,6 +3969,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/853574/image"
     },
     {
+      "EntityId": 19458,
+      "VideoName": "Malaga vs Racing Santander",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 12",
+      "EventStartDate": "2026-11-07 19:00:00",
+      "Description": "The 99th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793966488540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793966488540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--malaga-vs-racing-santander-live"
+    },
+    {
       "EntityId": 2402,
       "VideoName": "Malaga vs Racing Santander",
       "CategoryName": "LaLiga",
@@ -4498,6 +4475,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/25777/image"
     },
     {
+      "EntityId": 19457,
+      "VideoName": "Sevilla vs Alaves",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 12",
+      "EventStartDate": "2026-11-07 02:00:00",
+      "Description": "The 98th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Sevilla vs Alaves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793966400540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793966400540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--sevilla-vs-alaves-live"
+    },
+    {
       "EntityId": 2336,
       "VideoName": "Everton vs Coventry",
       "CategoryName": "Premier League",
@@ -4570,6 +4561,20 @@
       "Status": "Upcoming",
       "CategoryId": 1329,
       "UrlSlug": "oxford city-vs-leicester city-facup-live-match"
+    },
+    {
+      "EntityId": 19959,
+      "VideoName": "Toulouse vs Strasbourg",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 10",
+      "EventStartDate": "2026-11-07 01:45:00",
+      "Description": "Watch Toulouse vs Strasbourg live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Toulouse vs Strasbourg match will take place on 07-Nov, Saturday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793791366540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793791366540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "toulouse-vs-strasbourg-ligue-one-live-match"
     },
     {
       "EntityId": 2342,
@@ -4712,20 +4717,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2971/image"
     },
     {
-      "EntityId": 19929,
-      "VideoName": "Al-Ittihad vs Neom",
-      "CategoryName": "Saudi Pro League 2026/27",
-      "StageName": "MATCHDAY 13",
-      "EventStartDate": "2026-11-06 23:30:00",
-      "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ittihad vs Neom live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793789102540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793789102540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 799,
-      "UrlSlug": "saudi-pro-league--al-ittihad-vs-neom-live"
-    },
-    {
       "EntityId": 2324,
       "VideoName": "Braunschweig vs Energie Cottbus",
       "CategoryName": "Bundesliga 2",
@@ -4804,20 +4795,6 @@
       "Team2Name": "Kasimpasa",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/5138/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6063/image"
-    },
-    {
-      "EntityId": 19928,
-      "VideoName": "Al-Hazem vs Al-Nassr",
-      "CategoryName": "Saudi Pro League 2026/27",
-      "StageName": "MATCHDAY 13",
-      "EventStartDate": "2026-11-06 20:55:00",
-      "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Hazem vs Al-Nassr live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793789041540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793789041540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 799,
-      "UrlSlug": "saudi-pro-league--al-hazem-vs-al-nassr-live"
     }
   ]
 }
