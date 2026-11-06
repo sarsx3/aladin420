@@ -1,40 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:15 AM 07-11-2026",
+    "LastUpdate": "01:16 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 231
   },
   "Matches": [
-    {
-      "EntityId": 19959,
-      "VideoName": "Toulouse vs Strasbourg",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 10",
-      "EventStartDate": "2026-11-07 01:45:00",
-      "Description": "Watch Toulouse vs Strasbourg live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Toulouse vs Strasbourg match will take place on 07-Nov, Saturday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793791366540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793791366540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1115,
-      "UrlSlug": "toulouse-vs-strasbourg-ligue-one-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        }
-      ]
-    },
     {
       "EntityId": 2393,
       "VideoName": "Willem II vs PEC Zwolle",
@@ -4738,6 +4713,14 @@
           "url": "http://193.47.62.41/hls/zooo.m3u8",
           "headers": {
             "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - (bd)",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
