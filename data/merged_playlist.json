@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:12 AM 08-11-2026",
+    "LastUpdate": "12:13 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -733,6 +733,20 @@
         {
           "label": "hd quality",
           "url": "https://www.rtmpcdn.com/live/8b98fab6-6519-4c32-a814-f722da7fd8e7.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd?|drmScheme=clearkey&drmLicense=78890ec65ba32c44c950c9b2983e98e0:1c075b2f4f26c1ee85502e3caebd8830",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "DAZN ITALIA FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chgemku7j2/out/v1/01a941d9b4544c85843d4fd046193a07/cenc.mpd?|drmScheme=clearkey&drmLicense=3cab879732fb4ba028c83b3be8816638:81919805a79e04b19094931bcc7c6b18",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
