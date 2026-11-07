@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 PM 07-11-2026",
+    "LastUpdate": "09:20 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 24,
-    "UpcomingCount": 160
+    "LiveCount": 26,
+    "UpcomingCount": 158
   },
   "Matches": [
+    {
+      "EntityId": 2394,
+      "VideoName": "Sittard vs Telstar",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 21:30:00",
+      "Description": "Watch Sittard vs Telstar — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2957/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sittard",
+      "Team2Name": "Telstar",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2957/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2972/image"
+    },
+    {
+      "EntityId": 2397,
+      "VideoName": "Nacional vs Viseu",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 21:30:00",
+      "Description": "Watch Nacional vs Viseu — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3013/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Nacional",
+      "Team2Name": "Viseu",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3013/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3022/image"
+    },
     {
       "EntityId": 19459,
       "VideoName": "Espanyol vs Deportivo",
@@ -115,8 +155,16 @@
       "Status": "Live",
       "CategoryId": 9491,
       "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "sources": [
+        {
+          "label": "laliga hypermation",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Cadiz",
       "Team2Name": "Real Oviedo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4488/image",
@@ -4341,46 +4389,6 @@
       "Team2Name": "İstanbul Başakşehir",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3054/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3086/image"
-    },
-    {
-      "EntityId": 2394,
-      "VideoName": "Sittard vs Telstar",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-07 21:30:00",
-      "Description": "Watch Sittard vs Telstar — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2957/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sittard",
-      "Team2Name": "Telstar",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2957/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2972/image"
-    },
-    {
-      "EntityId": 2397,
-      "VideoName": "Nacional vs Viseu",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-07 21:30:00",
-      "Description": "Watch Nacional vs Viseu — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3013/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Nacional",
-      "Team2Name": "Viseu",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3013/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3022/image"
     },
     {
       "EntityId": 2332,
