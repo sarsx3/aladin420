@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:36 PM 07-11-2026",
+    "LastUpdate": "10:37 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 26,
+    "LiveCount": 25,
     "UpcomingCount": 155
   },
   "Matches": [
@@ -967,70 +967,6 @@
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2381,
-      "VideoName": "SC Paderborn vs Eintracht",
-      "CategoryName": "Bundesliga",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-07 20:30:00",
-      "Description": "Watch SC Paderborn vs Eintracht — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2561/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-      "sources": [
-        {
-          "label": "myco - (bd)",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001794057906-0-0-ff2d590585dc5601cad6c7779433d383",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PEACOCK ES FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqymjvhuld/out/v1/538614f3e2714dc0ad99ac7905570e97/cenc.mpd?|drmScheme=clearkey&drmLicense=b96213572690354511dd6dfd1401a8b2:4d35d3c8323c67efd107e3c11c70ed54",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SKY SPORT DE FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd?|drmScheme=clearkey&drmLicense=f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "SC Paderborn",
-      "Team2Name": "Eintracht",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2561/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2674/image"
     },
     {
       "EntityId": 2382,
