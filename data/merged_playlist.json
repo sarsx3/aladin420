@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 07-11-2026",
+    "LastUpdate": "11:50 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 147
+    "LiveCount": 17,
+    "UpcomingCount": 144
   },
   "Matches": [
     {
@@ -30,6 +30,84 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2419,
+      "VideoName": "Talleres vs Estudiantes",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 00:00:00",
+      "Description": "Watch Talleres vs Estudiantes — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3210/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=0fc169854e1b4e1828171709011cdc9a&wsABSTime=1794115576",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=0fc169854e1b4e1828171709011cdc9a&wsABSTime=1794115576",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Talleres",
+      "Team2Name": "Estudiantes",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3210/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3206/image"
+    },
+    {
+      "EntityId": 2420,
+      "VideoName": "Gimnasia Mendoza vs Independiente Riv.",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 00:00:00",
+      "Description": "Watch Gimnasia Mendoza vs Independiente Riv. — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/188441/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel36.flv?wsSecret=68a6afced187c69b7c5b9c8f73b11142&wsABSTime=1794115295",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel36.flv?wsSecret=68a6afced187c69b7c5b9c8f73b11142&wsABSTime=1794115295",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel36/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Gimnasia Mendoza",
+      "Team2Name": "Independiente Riv.",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/188441/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/36842/image"
+    },
+    {
+      "EntityId": 2456,
+      "VideoName": "Alverca vs Casa Pia",
+      "CategoryName": "Liga Portugal",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 00:00:00",
+      "Description": "Watch Alverca vs Casa Pia — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/190328/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9861,
+      "UrlSlug": "liga-portugal",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Alverca",
+      "Team2Name": "Casa Pia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/190328/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/36365/image"
     },
     {
       "EntityId": 2395,
@@ -3543,66 +3621,6 @@
       "Team2Name": "Wolfsburg",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2528/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2524/image"
-    },
-    {
-      "EntityId": 2419,
-      "VideoName": "Talleres vs Estudiantes",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 00:00:00",
-      "Description": "Watch Talleres vs Estudiantes — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3210/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Talleres",
-      "Team2Name": "Estudiantes",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3210/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3206/image"
-    },
-    {
-      "EntityId": 2420,
-      "VideoName": "Gimnasia Mendoza vs Independiente Riv.",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 00:00:00",
-      "Description": "Watch Gimnasia Mendoza vs Independiente Riv. — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/188441/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Gimnasia Mendoza",
-      "Team2Name": "Independiente Riv.",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/188441/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/36842/image"
-    },
-    {
-      "EntityId": 2456,
-      "VideoName": "Alverca vs Casa Pia",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 00:00:00",
-      "Description": "Watch Alverca vs Casa Pia — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/190328/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Alverca",
-      "Team2Name": "Casa Pia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/190328/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/36365/image"
     },
     {
       "EntityId": 2332,
