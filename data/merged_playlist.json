@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:37 PM 07-11-2026",
+    "LastUpdate": "07:38 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
+    "LiveCount": 16,
     "UpcomingCount": 202
   },
   "Matches": [
@@ -710,95 +710,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794027856
-    },
-    {
-      "EntityId": 2418,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 3",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-07 11:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 3. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9169,
-      "UrlSlug": "afg-vs-zim-1st-test-day-3",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
-          "drmScheme": "OGU5YWY2MWY0YTdmNmQ1YThmMjdjZDNiODVjYzlhMWQ6YmFmYjdiYmM2NTgyMGEwZDBhNWY3N2E5OTBkYjdiNzY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
-          "drmScheme": "OGU5YWY2MWY0YTdmNmQ1YThmMjdjZDNiODVjYzlhMWQ6YmFmYjdiYmM2NTgyMGEwZDBhNWY3N2E5OTBkYjdiNzY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
-      "EntityId": 2545,
-      "VideoName": "Sri Lanka U19 vs Bangladesh U19",
-      "CategoryName": "U19 Asia Cup 2026 - 6th Youth ODI",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-07 11:00:00",
-      "Description": "Watch Sri Lanka U19 vs Bangladesh U19 — U19 Asia Cup 2026 - 6th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213106/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9256,
-      "UrlSlug": "u19-asia-cup-2026-6th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd",
-          "drmScheme": "N2M3MDI5MmVjNWFlZWFiZmFmY2JiNDQ0MzkyNGQwYTQ6Y2M2ZjEzMWYyZGRiODdmNjQ1ZDA0NTU4NmNlMGVjYjc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd",
-          "drmScheme": "N2M3MDI5MmVjNWFlZWFiZmFmY2JiNDQ0MzkyNGQwYTQ6Y2M2ZjEzMWYyZGRiODdmNjQ1ZDA0NTU4NmNlMGVjYjc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SonyLiv PRIME FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dl1fffpemp/out/v1/1614fa801f50438792fcc1c8ca3938ef/cenc.mpd?|drmScheme=clearkey&drmLicense=ba574d2f843814a52b478ede5f2d1801:075d45773a901e56cea8f12bc4e2e7f1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sri Lanka U19",
-      "Team2Name": "Bangladesh U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/213099/image"
     },
     {
       "EntityId": 19114,
@@ -1634,6 +1545,26 @@
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
     },
     {
+      "EntityId": 2505,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-09 11:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9256,
+      "UrlSlug": "afg-vs-zim-1st-test-day-5",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
+    {
       "EntityId": 2548,
       "VideoName": "Bangladesh U19 vs Malaysia U19",
       "CategoryName": "U19 Asia Cup 2026 - 9th Youth ODI",
@@ -1672,26 +1603,6 @@
       "Team2Name": "Afghanistan U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
-    },
-    {
-      "EntityId": 2505,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9256,
-      "UrlSlug": "afg-vs-zim-1st-test-day-5",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 2504,
@@ -2796,6 +2707,26 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274886/image"
     },
     {
+      "EntityId": 2491,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM - 1st Test, Day 4",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-08 11:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9696,
+      "UrlSlug": "afg-vs-zim-1st-test-day-4",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
+    {
       "EntityId": 2546,
       "VideoName": "United Arab Emirates U19 vs Nepal U19",
       "CategoryName": "U19 Asia Cup 2026 - 7th Youth ODI",
@@ -2834,26 +2765,6 @@
       "Team2Name": "Pakistan U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213112/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/213104/image"
-    },
-    {
-      "EntityId": 2491,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 4",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 11:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9696,
-      "UrlSlug": "afg-vs-zim-1st-test-day-4",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 19121,
