@@ -1,15 +1,54 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:59 AM 07-11-2026",
+    "LastUpdate": "07:00 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 221
   },
   "Matches": [
+    {
+      "EntityId": 1090552836,
+      "VideoName": "2nd ODI",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 07:00:46",
+      "Description": "Watch 2nd ODI live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794013246
+    },
     {
       "EntityId": 2335,
       "VideoName": "Vitoria vs Fluminense",
@@ -65,11 +104,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794052320~acl=/*~id=31619079555507611833415152253001~hmac=772e559a3ff4796d8d5f2c52f24bbe85df29956ae1b477a2d0de14590239ef79",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794052320~acl=/*~id=31619079555507611833415152253001~hmac=772e559a3ff4796d8d5f2c52f24bbe85df29956ae1b477a2d0de14590239ef79"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794055963~acl=/*~id=73443355170673578808974526703268~hmac=4dcc3ee32ad6b10824a7f83dd66754e0c87766ace245f402ee93eec59c9cce3e"
         }
       ],
       "Provider": "SonyLiv",
