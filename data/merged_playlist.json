@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:37 AM 08-11-2026",
+    "LastUpdate": "04:38 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
+    "LiveCount": 10,
     "UpcomingCount": 124
   },
   "Matches": [
@@ -370,136 +370,6 @@
       "Team2Name": "Columbus Crew",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2505/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2504/image"
-    },
-    {
-      "EntityId": 2421,
-      "VideoName": "Rosario Central vs Estudiantes Río Cuarto",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 02:30:00",
-      "Description": "Watch Rosario Central vs Estudiantes Río Cuarto — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3217/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-      "sources": [
-        {
-          "label": "ESPN2 SPORTS FHD",
-          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=6e21eebe910ad32eefc43c021ae43bd9&wsABSTime=1794122384",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel35/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Rosario Central",
-      "Team2Name": "Estudiantes Río Cuarto",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3217/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/266694/image"
-    },
-    {
-      "EntityId": 2422,
-      "VideoName": "Argentinos Juniors vs Huracan",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 02:30:00",
-      "Description": "Watch Argentinos Juniors vs Huracan — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3216/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel37.flv?wsSecret=603a14a468c1df56a519001a856e818f&wsABSTime=1794122342",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel37.flv?wsSecret=603a14a468c1df56a519001a856e818f&wsABSTime=1794122342",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel37/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Argentinos Juniors",
-      "Team2Name": "Huracan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3216/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7629/image"
-    },
-    {
-      "EntityId": 2423,
-      "VideoName": "Boca Juniors vs Defensa Y Justicia",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 02:30:00",
-      "Description": "Watch Boca Juniors vs Defensa Y Justicia — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3202/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel38.flv?wsSecret=7334a736cbd8c5b6ce698334e5450ce6&wsABSTime=1794122378",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel38.flv?wsSecret=7334a736cbd8c5b6ce698334e5450ce6&wsABSTime=1794122378",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Boca Juniors",
-      "Team2Name": "Defensa Y Justicia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3202/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/36839/image"
-    },
-    {
-      "EntityId": 2457,
-      "VideoName": "Sporting vs Moreirense",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 02:30:00",
-      "Description": "Watch Sporting vs Moreirense — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3001/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794079526-0-0-0340a1cec3cd5535c0c27b8141acdfab",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sporting",
-      "Team2Name": "Moreirense",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3001/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3014/image"
     },
     {
       "EntityId": 2554,
