@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:33 PM 07-11-2026",
+    "LastUpdate": "09:34 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 26,
+    "LiveCount": 25,
     "UpcomingCount": 158
   },
   "Matches": [
@@ -23,8 +23,24 @@
       "Status": "Live",
       "CategoryId": 9553,
       "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+      "sources": [
+        {
+          "label": "Hd quality",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Low quality",
+          "url": "http://193.47.62.44/hls/HYYYAAAAAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Sittard",
       "Team2Name": "Telstar",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2957/image",
@@ -43,8 +59,24 @@
       "Status": "Live",
       "CategoryId": 9861,
       "UrlSlug": "liga-portugal",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/HYYYAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Nacional",
       "Team2Name": "Viseu",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3013/image",
@@ -414,26 +446,6 @@
       "Team2Name": "Hull City",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/42/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/96/image"
-    },
-    {
-      "EntityId": 2347,
-      "VideoName": "Bromley vs Rotherham",
-      "CategoryName": "FA Cup",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-07 21:00:00",
-      "Description": "Watch Bromley vs Rotherham — FA Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/180/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9534,
-      "UrlSlug": "fa-cup",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Bromley",
-      "Team2Name": "Rotherham",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/180/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/13/image"
     },
     {
       "EntityId": 2370,
