@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:59 PM 07-11-2026",
+    "LastUpdate": "02:00 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 216
+    "LiveCount": 14,
+    "UpcomingCount": 215
   },
   "Matches": [
+    {
+      "EntityId": 2417,
+      "VideoName": "Brisbane Heat Women vs Hobart Hurricanes Women",
+      "CategoryName": "WBBL 2026 - 14th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 14:10:00",
+      "Description": "Watch Brisbane Heat Women vs Hobart Hurricanes Women — WBBL 2026 - 14th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274884/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9063,
+      "UrlSlug": "wbbl-2026-14th-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Brisbane Heat Women",
+      "Team2Name": "Hobart Hurricanes Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274884/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274885/image"
+    },
     {
       "EntityId": 1090552844,
       "VideoName": "Abu Dhabi HSBC Championship - Day 3",
@@ -4690,35 +4719,6 @@
       "Status": "Upcoming",
       "CategoryId": 1247,
       "UrlSlug": "brh-vs-hh-14th-t20i-live"
-    },
-    {
-      "EntityId": 2417,
-      "VideoName": "Brisbane Heat Women vs Hobart Hurricanes Women",
-      "CategoryName": "WBBL 2026 - 14th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-07 14:10:00",
-      "Description": "Watch Brisbane Heat Women vs Hobart Hurricanes Women — WBBL 2026 - 14th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274884/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9063,
-      "UrlSlug": "wbbl-2026-14th-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-      "sources": [
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Brisbane Heat Women",
-      "Team2Name": "Hobart Hurricanes Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274884/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274885/image"
     },
     {
       "EntityId": 2332,
