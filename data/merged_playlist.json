@@ -1,15 +1,339 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:49 AM 08-11-2026",
+    "LastUpdate": "02:50 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 133
+    "LiveCount": 23,
+    "UpcomingCount": 124
   },
   "Matches": [
+    {
+      "EntityId": 2425,
+      "VideoName": "Atlético-MG vs Gremio",
+      "CategoryName": "Copa do Brasil",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch Atlético-MG vs Gremio — Copa do Brasil. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1977/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9627,
+      "UrlSlug": "copa-do-brasil",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=c9f299a17d5bcc9bc85d4e647d02b642&wsABSTime=1794122355",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=c9f299a17d5bcc9bc85d4e647d02b642&wsABSTime=1794122355",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Atlético-MG",
+      "Team2Name": "Gremio",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1977/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
+    },
+    {
+      "EntityId": 2473,
+      "VideoName": "Philadelphia Union vs Toronto",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch Philadelphia Union vs Toronto — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/39833/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794079481-0-0-294eadaba3f17f0611893a50e038a462",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Philadelphia Union",
+      "Team2Name": "Toronto",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/39833/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/7080/image"
+    },
+    {
+      "EntityId": 2474,
+      "VideoName": "Orlando City vs Revolution",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch Orlando City vs Revolution — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/52237/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=3a725fec3c6541f8fb7c36cc6414b23f&wsABSTime=1794122646",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=3a725fec3c6541f8fb7c36cc6414b23f&wsABSTime=1794122646",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Orlando City",
+      "Team2Name": "Revolution",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/52237/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2511/image"
+    },
+    {
+      "EntityId": 2475,
+      "VideoName": "New York Red Bulls vs Atlanta United",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch New York Red Bulls vs Atlanta United — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2506/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794079444-0-0-b85ba26ccc4cfebacf380e5f43b66c0d",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "New York Red Bulls",
+      "Team2Name": "Atlanta United",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2506/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/243211/image"
+    },
+    {
+      "EntityId": 2476,
+      "VideoName": "CF Montréal vs Whitecaps",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch CF Montréal vs Whitecaps — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22006/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794079355-0-0-99ba5d7a31cfb4d6ebebfc1a4ad490c4",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "CF Montréal",
+      "Team2Name": "Whitecaps",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/22006/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/22010/image"
+    },
+    {
+      "EntityId": 2477,
+      "VideoName": "Inter Miami vs Charlotte FC",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch Inter Miami vs Charlotte FC — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/337602/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794082882-0-0-8ad1a73e3ad29ea716c16937c2adeceb",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794082882-0-0-8ad1a73e3ad29ea716c16937c2adeceb",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.zktsva.app/live/796315.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794062827-0-0-dc8d09b7da4c535f7fbb5e572c625773",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794069487-0-0-380d328466d899560bd6368637d6c85e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Inter Miami",
+      "Team2Name": "Charlotte FC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/404108/image"
+    },
+    {
+      "EntityId": 2478,
+      "VideoName": "DC United vs New York City",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch DC United vs New York City — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2502/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=b14e04771a29ae4127921b634f247961&wsABSTime=1794122422",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=b14e04771a29ae4127921b634f247961&wsABSTime=1794122422",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel39/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "DC United",
+      "Team2Name": "New York City",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2502/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
+    },
+    {
+      "EntityId": 2479,
+      "VideoName": "FC Cincinnati vs Nashville SC",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch FC Cincinnati vs Nashville SC — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/215167/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794079253-0-0-bd1919cd580ab39286526d98f900732d",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "FC Cincinnati",
+      "Team2Name": "Nashville SC",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/215167/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/337612/image"
+    },
+    {
+      "EntityId": 2480,
+      "VideoName": "Chicago Fire vs Columbus Crew",
+      "CategoryName": "MLS",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:00",
+      "Description": "Watch Chicago Fire vs Columbus Crew — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2505/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9252,
+      "UrlSlug": "mls",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794079202-0-0-c8ee2bab61c13296e24ae9df84a27f5b",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Chicago Fire",
+      "Team2Name": "Columbus Crew",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2505/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2504/image"
+    },
     {
       "EntityId": 2421,
       "VideoName": "Rosario Central vs Estudiantes Río Cuarto",
@@ -3093,309 +3417,6 @@
       "Team2Name": "Portland",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/377973/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/22007/image"
-    },
-    {
-      "EntityId": 2425,
-      "VideoName": "Atlético-MG vs Gremio",
-      "CategoryName": "Copa do Brasil",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch Atlético-MG vs Gremio — Copa do Brasil. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1977/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9627,
-      "UrlSlug": "copa-do-brasil",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=c9f299a17d5bcc9bc85d4e647d02b642&wsABSTime=1794122355",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=c9f299a17d5bcc9bc85d4e647d02b642&wsABSTime=1794122355",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Atlético-MG",
-      "Team2Name": "Gremio",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1977/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5926/image"
-    },
-    {
-      "EntityId": 2473,
-      "VideoName": "Philadelphia Union vs Toronto",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch Philadelphia Union vs Toronto — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/39833/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794079481-0-0-294eadaba3f17f0611893a50e038a462",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Philadelphia Union",
-      "Team2Name": "Toronto",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/39833/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/7080/image"
-    },
-    {
-      "EntityId": 2474,
-      "VideoName": "Orlando City vs Revolution",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch Orlando City vs Revolution — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/52237/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=3a725fec3c6541f8fb7c36cc6414b23f&wsABSTime=1794122646",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=3a725fec3c6541f8fb7c36cc6414b23f&wsABSTime=1794122646",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Orlando City",
-      "Team2Name": "Revolution",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/52237/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2511/image"
-    },
-    {
-      "EntityId": 2475,
-      "VideoName": "New York Red Bulls vs Atlanta United",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch New York Red Bulls vs Atlanta United — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2506/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794079444-0-0-b85ba26ccc4cfebacf380e5f43b66c0d",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "New York Red Bulls",
-      "Team2Name": "Atlanta United",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2506/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/243211/image"
-    },
-    {
-      "EntityId": 2476,
-      "VideoName": "CF Montréal vs Whitecaps",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch CF Montréal vs Whitecaps — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22006/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794079355-0-0-99ba5d7a31cfb4d6ebebfc1a4ad490c4",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "CF Montréal",
-      "Team2Name": "Whitecaps",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/22006/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/22010/image"
-    },
-    {
-      "EntityId": 2477,
-      "VideoName": "Inter Miami vs Charlotte FC",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch Inter Miami vs Charlotte FC — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/337602/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794082882-0-0-8ad1a73e3ad29ea716c16937c2adeceb",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794082882-0-0-8ad1a73e3ad29ea716c16937c2adeceb",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Inter Miami",
-      "Team2Name": "Charlotte FC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/337602/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/404108/image"
-    },
-    {
-      "EntityId": 2478,
-      "VideoName": "DC United vs New York City",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch DC United vs New York City — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2502/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=b14e04771a29ae4127921b634f247961&wsABSTime=1794122422",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=b14e04771a29ae4127921b634f247961&wsABSTime=1794122422",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel39/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "DC United",
-      "Team2Name": "New York City",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2502/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187643/image"
-    },
-    {
-      "EntityId": 2479,
-      "VideoName": "FC Cincinnati vs Nashville SC",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch FC Cincinnati vs Nashville SC — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/215167/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794079253-0-0-bd1919cd580ab39286526d98f900732d",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "FC Cincinnati",
-      "Team2Name": "Nashville SC",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/215167/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/337612/image"
-    },
-    {
-      "EntityId": 2480,
-      "VideoName": "Chicago Fire vs Columbus Crew",
-      "CategoryName": "MLS",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 03:00:00",
-      "Description": "Watch Chicago Fire vs Columbus Crew — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2505/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794079202-0-0-c8ee2bab61c13296e24ae9df84a27f5b",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Chicago Fire",
-      "Team2Name": "Columbus Crew",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2505/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2504/image"
     },
     {
       "EntityId": 2332,
