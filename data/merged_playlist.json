@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:50 PM 07-11-2026",
+    "LastUpdate": "07:51 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -23,52 +23,8 @@
       "Status": "Live",
       "CategoryId": 9359,
       "UrlSlug": "serie-a",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
-      "sources": [
-        {
-          "label": "Myco - (bd)",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794056467-0-0-1d0d415cf2bba6c21c40088c3acb4f15",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794056467-0-0-9a48104d06def7601acb3600c328df13",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794058017-0-0-fe24b8d027561a61ee53b4b64da71fae",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
+      "stream_url": "",
+      "sources": [],
       "Team1Name": "Torino",
       "Team2Name": "Lecce",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2696/image",
