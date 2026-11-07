@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:59 AM 08-11-2026",
+    "LastUpdate": "03:00 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 23,
+    "LiveCount": 24,
     "UpcomingCount": 124
   },
   "Matches": [
+    {
+      "EntityId": 1090553101,
+      "VideoName": "3rd Unofficial Test - Day 2",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 03:00:47",
+      "Description": "Watch 3rd Unofficial Test - Day 2 live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794128383~acl=/*~id=07207662109756012906863171971138~hmac=275f0c94ea195d1d08b6d3e5f6bedbb6a9bf07b4f3b74df9f98096f31fc97450",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794128383~acl=/*~id=07207662109756012906863171971138~hmac=275f0c94ea195d1d08b6d3e5f6bedbb6a9bf07b4f3b74df9f98096f31fc97450"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794085247
+    },
     {
       "EntityId": 2425,
       "VideoName": "Atlético-MG vs Gremio",
