@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:15 PM 07-11-2026",
+    "LastUpdate": "06:16 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,27 @@
     "UpcomingCount": 210
   },
   "Matches": [
+    {
+      "EntityId": 19299,
+      "VideoName": "Bam Khatoon FC (IRN) vs Ayeyawady FC - Women (MYA)",
+      "CategoryName": "AFC Women's Champions League 2026/27",
+      "StageName": "MATCHDAY 3",
+      "EventStartDate": "2026-11-07 18:30:00",
+      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 06:30 PM on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793864339540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793864339540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 953,
+      "UrlSlug": "AFC Women's Champions League-Bam Khatoon FC (IRN)-vs-Ayeyawady FC - Women",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1090552850,
       "VideoName": "Inter Kashi vs Sporting Club Delhi",
@@ -243,27 +264,6 @@
       "Team2Name": "Kocaelispor",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/7040/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3065/image"
-    },
-    {
-      "EntityId": 19191,
-      "VideoName": "Brisbane Heat vs Hobart Hurricanes",
-      "CategoryName": "Women's Big Bash League 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-11-07 14:10:00",
-      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The BRH vs HH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 14th T20I is scheduled to be played on 07-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793785078540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793785078540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1247,
-      "UrlSlug": "brh-vs-hh-14th-t20i-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 1090552844,
@@ -2354,6 +2354,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6081/image"
     },
     {
+      "EntityId": 19193,
+      "VideoName": "Perth Scorchers vs Melbourne Stars",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-11-08 12:10:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The PER vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 16th T20I is scheduled to be played on 08-Nov-2026 at 12:00 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793785969540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793785969540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1247,
+      "UrlSlug": "per-vs-sta-16th-t20i-live"
+    },
+    {
       "EntityId": 2489,
       "VideoName": "Perth Scorchers Women vs Melbourne Stars Women",
       "CategoryName": "WBBL 2026 - 16th Match",
@@ -2440,6 +2454,20 @@
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
+    {
+      "EntityId": 19121,
+      "VideoName": "Bangladesh vs West Indies",
+      "CategoryName": "West indies Tour of Bangladesh 2026",
+      "StageName": "2nd Test",
+      "EventStartDate": "2026-11-08 09:30:00",
+      "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 05-Nov-2026 at 09:30 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611523540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793611523540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1246,
+      "UrlSlug": "ban-vs-wi-2nd-test-live"
     },
     {
       "EntityId": 19192,
@@ -4392,20 +4420,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/853574/image"
     },
     {
-      "EntityId": 19458,
-      "VideoName": "Malaga vs Racing Santander",
-      "CategoryName": "LaLiga 2026/27",
-      "StageName": "MATCHDAY 12",
-      "EventStartDate": "2026-11-07 19:00:00",
-      "Description": "The 99th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793966488540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793966488540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 827,
-      "UrlSlug": "laliga--malaga-vs-racing-santander-live"
-    },
-    {
       "EntityId": 2402,
       "VideoName": "Malaga vs Racing Santander",
       "CategoryName": "LaLiga",
@@ -4466,20 +4480,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3085/image"
     },
     {
-      "EntityId": 19299,
-      "VideoName": "Bam Khatoon FC (IRN) vs Ayeyawady FC - Women (MYA)",
-      "CategoryName": "AFC Women's Champions League 2026/27",
-      "StageName": "MATCHDAY 3",
-      "EventStartDate": "2026-11-07 18:30:00",
-      "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 06:30 PM on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793864339540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793864339540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 953,
-      "UrlSlug": "AFC Women's Champions League-Bam Khatoon FC (IRN)-vs-Ayeyawady FC - Women"
-    },
-    {
       "EntityId": 2337,
       "VideoName": "Leeds vs Tottenham",
       "CategoryName": "Premier League",
@@ -4525,6 +4525,56 @@
         {
           "label": "NBC SPORTS FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco - (bd)",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794046567-0-0-f95866dc4c8e6e9de199a29611d8e51a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794046627-0-0-0e75dbfd6e1ac5fc310cb20d862418dc",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1794046627-0-0-4ad1e4946d18eacebf130beae469d48a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
