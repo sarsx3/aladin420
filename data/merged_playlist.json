@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:49 AM 07-11-2026",
+    "LastUpdate": "07:50 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 221
+    "LiveCount": 5,
+    "UpcomingCount": 220
   },
   "Matches": [
+    {
+      "EntityId": 2414,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "NZ vs IND - 2nd ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 08:00:00",
+      "Description": "Watch New Zealand vs India — NZ vs IND - 2nd ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9899,
+      "UrlSlug": "nz-vs-ind-2nd-odi",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "New Zealand",
+      "Team2Name": "India",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    },
     {
       "EntityId": 1090552836,
       "VideoName": "2nd ODI",
@@ -4473,26 +4493,6 @@
       "Status": "Upcoming",
       "CategoryId": 1214,
       "UrlSlug": "nz-vs-ind-2nd-odi-live"
-    },
-    {
-      "EntityId": 2414,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "NZ vs IND - 2nd ODI",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-07 08:00:00",
-      "Description": "Watch New Zealand vs India — NZ vs IND - 2nd ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9899,
-      "UrlSlug": "nz-vs-ind-2nd-odi",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "New Zealand",
-      "Team2Name": "India",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
     },
     {
       "EntityId": 2332,
