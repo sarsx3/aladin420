@@ -1,15 +1,85 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 07-11-2026",
+    "LastUpdate": "09:50 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 25,
-    "UpcomingCount": 158
+    "LiveCount": 27,
+    "UpcomingCount": 156
   },
   "Matches": [
+    {
+      "EntityId": 2412,
+      "VideoName": "Galatasaray vs Amed SK",
+      "CategoryName": "Super Lig",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 22:00:00",
+      "Description": "Watch Galatasaray vs Amed SK — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3061/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9721,
+      "UrlSlug": "super-lig",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794056707-0-0-c6882c97aee4c0bbc1f081d9769193f3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel27.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Galatasaray",
+      "Team2Name": "Amed SK",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3061/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/207011/image"
+    },
+    {
+      "EntityId": 2413,
+      "VideoName": "Goztepe vs İstanbul Başakşehir",
+      "CategoryName": "Super Lig",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-07 22:00:00",
+      "Description": "Watch Goztepe vs İstanbul Başakşehir — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3054/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9721,
+      "UrlSlug": "super-lig",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Goztepe",
+      "Team2Name": "İstanbul Başakşehir",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3054/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3086/image"
+    },
     {
       "EntityId": 2394,
       "VideoName": "Sittard vs Telstar",
@@ -4447,76 +4517,6 @@
       "Team2Name": "Paris FC",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1646/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6070/image"
-    },
-    {
-      "EntityId": 2412,
-      "VideoName": "Galatasaray vs Amed SK",
-      "CategoryName": "Super Lig",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-07 22:00:00",
-      "Description": "Watch Galatasaray vs Amed SK — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3061/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794056707-0-0-c6882c97aee4c0bbc1f081d9769193f3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel27.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Galatasaray",
-      "Team2Name": "Amed SK",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3061/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/207011/image"
-    },
-    {
-      "EntityId": 2413,
-      "VideoName": "Goztepe vs İstanbul Başakşehir",
-      "CategoryName": "Super Lig",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-07 22:00:00",
-      "Description": "Watch Goztepe vs İstanbul Başakşehir — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3054/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Goztepe",
-      "Team2Name": "İstanbul Başakşehir",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3054/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3086/image"
     },
     {
       "EntityId": 2332,
