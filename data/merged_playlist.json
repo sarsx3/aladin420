@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:59 AM 07-11-2026",
+    "LastUpdate": "08:00 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 3,
     "UpcomingCount": 220
   },
   "Matches": [
@@ -78,48 +78,6 @@
       "FirstSeenTs": 1794013458
     },
     {
-      "EntityId": 2335,
-      "VideoName": "Vitoria vs Fluminense",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-07 05:00:00",
-      "Description": "Watch Vitoria vs Fluminense — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1962/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "sources": [
-        {
-          "label": "PREMIERER1 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SPORT TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://live2.zktsva.app/live/307240.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Vitoria",
-      "Team2Name": "Fluminense",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1962/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1961/image"
-    },
-    {
       "EntityId": 1090552778,
       "VideoName": "3rd Unofficial Test - Day 1",
       "CategoryName": "Cricket",
@@ -141,56 +99,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794002662
-    },
-    {
-      "EntityId": 2396,
-      "VideoName": "Famalicão vs Arouca",
-      "CategoryName": "Liga Portugal",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-07 02:45:00",
-      "Description": "Watch Famalicão vs Arouca — Liga Portugal. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/49531/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9861,
-      "UrlSlug": "liga-portugal",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001793992953-0-0-a797e8212e93243a2f279a5b7c42c9c2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.zktsva.app/live/741294.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "http://193.47.62.59/hls/BGBGBGAAAAQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Famalicão",
-      "Team2Name": "Arouca",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/49531/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/25777/image"
     },
     {
       "EntityId": 2554,
@@ -993,26 +901,6 @@
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
     },
     {
-      "EntityId": 2505,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9256,
-      "UrlSlug": "afg-vs-zim-1st-test-day-5",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
       "EntityId": 2548,
       "VideoName": "Bangladesh U19 vs Malaysia U19",
       "CategoryName": "U19 Asia Cup 2026 - 9th Youth ODI",
@@ -1051,6 +939,26 @@
       "Team2Name": "Afghanistan U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
+    },
+    {
+      "EntityId": 2505,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-09 11:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9256,
+      "UrlSlug": "afg-vs-zim-1st-test-day-5",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 2504,
@@ -2133,26 +2041,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274886/image"
     },
     {
-      "EntityId": 2491,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 4",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 11:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9696,
-      "UrlSlug": "afg-vs-zim-1st-test-day-4",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
       "EntityId": 2546,
       "VideoName": "United Arab Emirates U19 vs Nepal U19",
       "CategoryName": "U19 Asia Cup 2026 - 7th Youth ODI",
@@ -2191,6 +2079,26 @@
       "Team2Name": "Pakistan U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213112/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/213104/image"
+    },
+    {
+      "EntityId": 2491,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM - 1st Test, Day 4",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-08 11:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9696,
+      "UrlSlug": "afg-vs-zim-1st-test-day-4",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     },
     {
       "EntityId": 2490,
