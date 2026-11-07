@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:08 PM 07-11-2026",
+    "LastUpdate": "09:09 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -262,6 +262,22 @@
           "label": "Server - 9",
           "url": "https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=c1beff24a91c978e4d68ceba3ee276c8&wsABSTime=1794104356",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "HD QUALITY FAST",
+          "url": "https://live.vivo155.com/live/hd-en-1-4558696.m3u8?txSecret=d6e1cbf8be4e0c68ee66881bc53d5fda&txTime=6AEF4F31",
+          "headers": {
+            "Referer": "https://player.on8on8.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "HD QUALITY+ EPL",
+          "url": "https://chatgpt.hereisman.net/playlist/59444/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
