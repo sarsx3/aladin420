@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:38 PM 08-11-2026",
+    "LastUpdate": "08:39 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 24,
+    "LiveCount": 21,
     "UpcomingCount": 230
   },
   "Matches": [
@@ -852,138 +852,6 @@
       "Team2Name": "Fenerbahce",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/77629/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3052/image"
-    },
-    {
-      "EntityId": 2443,
-      "VideoName": "Magdeburg vs Bochum",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 18:30:00",
-      "Description": "Watch Magdeburg vs Bochum — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2591/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "http://193.47.62.44/hls/YOOO.m3u8",
-      "sources": [
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/YOOO.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794140858-0-0-3dab3d8cf5daf5900be2203e97dc28b2",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Magdeburg",
-      "Team2Name": "Bochum",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2591/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2542/image"
-    },
-    {
-      "EntityId": 2444,
-      "VideoName": "Karlsruher vs Heidenheim",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 18:30:00",
-      "Description": "Watch Karlsruher vs Heidenheim — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2553/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "http://193.47.62.44/hls/YOOOAA.m3u8",
-      "sources": [
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/YOOOAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794140538-0-0-b7f765d127073833dc4b43180807e9b2",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Karlsruher",
-      "Team2Name": "Heidenheim",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2553/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5885/image"
-    },
-    {
-      "EntityId": 2445,
-      "VideoName": "Hannover vs St. Pauli",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 18:30:00",
-      "Description": "Watch Hannover vs St. Pauli — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "http://193.47.62.44/hls/YOOOAA.m3u8",
-      "sources": [
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/YOOOAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794140466-0-0-89cc7cc74c5a91a2dc41e5e8e57dfe03",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hannover",
-      "Team2Name": "St. Pauli",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2526/image"
     },
     {
       "EntityId": 20118,
@@ -3791,26 +3659,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
-      "EntityId": 2562,
-      "VideoName": "Juventus (W) vs Olympique Lyonnais (W)",
-      "CategoryName": "UEFA Women's Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-12 02:00:00",
-      "Description": "Watch Juventus (W) vs Olympique Lyonnais (W) — UEFA Women's Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2687/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9466,
-      "UrlSlug": "uefa-women-s-champions-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Juventus (W)",
-      "Team2Name": "Olympique Lyonnais (W)",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2687/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
-    },
-    {
       "EntityId": 2561,
       "VideoName": "Benfica (W) vs Austria Wien (W)",
       "CategoryName": "UEFA Women's Champions League",
@@ -3829,6 +3677,26 @@
       "Team2Name": "Austria Wien (W)",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3006/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2203/image"
+    },
+    {
+      "EntityId": 2562,
+      "VideoName": "Juventus (W) vs Olympique Lyonnais (W)",
+      "CategoryName": "UEFA Women's Champions League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-12 02:00:00",
+      "Description": "Watch Juventus (W) vs Olympique Lyonnais (W) — UEFA Women's Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2687/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9466,
+      "UrlSlug": "uefa-women-s-champions-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Juventus (W)",
+      "Team2Name": "Olympique Lyonnais (W)",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2687/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
     },
     {
       "EntityId": 2530,
