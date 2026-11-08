@@ -1,15 +1,54 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:59 AM 08-11-2026",
+    "LastUpdate": "07:00 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
+    "LiveCount": 20,
     "UpcomingCount": 116
   },
   "Matches": [
+    {
+      "EntityId": 1090553103,
+      "VideoName": "UFC Fight Night - Cortes Acosta vs Walker",
+      "CategoryName": "Fight Sports",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 07:00:51",
+      "Description": "Watch UFC Fight Night - Cortes Acosta vs Walker live from Fight Sports. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Fight Sports online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9992,
+      "UrlSlug": "fight-sports-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794099651
+    },
     {
       "EntityId": 19314,
       "VideoName": "Cortes Acosta vs Walker",
@@ -208,11 +247,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794138675~acl=/*~id=86452223968917096894492732146573~hmac=d040590921293d14488e3067f5db232b9e50b2fc4cca6497836034848aeb12a0",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794138675~acl=/*~id=86452223968917096894492732146573~hmac=d040590921293d14488e3067f5db232b9e50b2fc4cca6497836034848aeb12a0"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23"
         }
       ],
       "Provider": "SonyLiv",
