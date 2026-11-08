@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:20 PM 08-11-2026",
+    "LastUpdate": "06:21 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
+    "LiveCount": 15,
     "UpcomingCount": 244
   },
   "Matches": [
@@ -52,8 +52,17 @@
       "Status": "Live",
       "CategoryId": 9427,
       "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.44/hls/YOOOAA.m3u8",
+      "sources": [
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/YOOOAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Karlsruher",
       "Team2Name": "Heidenheim",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2553/image",
@@ -72,8 +81,17 @@
       "Status": "Live",
       "CategoryId": 9427,
       "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "http://193.47.62.44/hls/YOOOAA.m3u8",
+      "sources": [
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/YOOOAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Hannover",
       "Team2Name": "St. Pauli",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
@@ -463,50 +481,6 @@
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
-      "EntityId": 2546,
-      "VideoName": "United Arab Emirates U19 vs Nepal U19",
-      "CategoryName": "U19 Asia Cup 2026 - 7th Youth ODI",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 11:00:00",
-      "Description": "Watch United Arab Emirates U19 vs Nepal U19 — U19 Asia Cup 2026 - 7th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/300266/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9962,
-      "UrlSlug": "u19-asia-cup-2026-7th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
-          "drmScheme": "ZjYzOGYxMGU5YmVlNjVhNjk4OTI2YTUyNzcyMmUzMzI6YTlmNTE5MzY3Y2FmNDE5NjA3ZjY3MDVlM2Q3Njc5MzU=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
-          "drmScheme": "ZjYzOGYxMGU5YmVlNjVhNjk4OTI2YTUyNzcyMmUzMzI6YTlmNTE5MzY3Y2FmNDE5NjA3ZjY3MDVlM2Q3Njc5MzU=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "United Arab Emirates U19",
-      "Team2Name": "Nepal U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/300266/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/213113/image"
     },
     {
       "EntityId": 2547,
