@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:01 PM 08-11-2026",
+    "LastUpdate": "12:02 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 11,
     "UpcomingCount": 111
   },
   "Matches": [
@@ -60,27 +60,43 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274886/image"
     },
     {
-      "EntityId": 1090553101,
-      "VideoName": "3rd Unofficial Test - Day 2",
+      "EntityId": 1090553114,
+      "VideoName": "India vs Pakistan",
       "CategoryName": "Cricket",
       "StageName": "Live",
-      "EventStartDate": "2026-11-08 12:01:15",
-      "Description": "Watch 3rd Unofficial Test - Day 2 live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
+      "EventStartDate": "2026-11-08 12:02:16",
+      "Description": "Watch India vs Pakistan live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+        },
+        {
+          "label": "Tamil",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
         }
       ],
       "Provider": "SonyLiv",
-      "FirstSeenTs": 1794117675
+      "FirstSeenTs": 1794117736
     },
     {
       "EntityId": 1090553112,
@@ -95,11 +111,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
         }
       ],
       "Provider": "SonyLiv",
@@ -133,14 +149,6 @@
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd",
           "drmScheme": "N2Y2Y2VmMjNhOWIyZDliMjFlMDRjZDk2NzUzZjdkMDE6M2YyNjBlMDAyNWE4YjMyNzNlY2U5ODJjZmYwNTYyZTA=",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -251,6 +259,42 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2488,
+      "VideoName": "Sydney Sixers Women vs Sydney Thunder Women",
+      "CategoryName": "WBBL 2026 - 15th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 08:40:00",
+      "Description": "Watch Sydney Sixers Women vs Sydney Thunder Women — WBBL 2026 - 15th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274883/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9384,
+      "UrlSlug": "wbbl-2026-15th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "sources": [
+        {
+          "label": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sydney Sixers Women",
+      "Team2Name": "Sydney Thunder Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274883/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274889/image"
     },
     {
       "EntityId": 19114,
