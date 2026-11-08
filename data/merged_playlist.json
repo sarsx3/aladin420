@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:31 PM 08-11-2026",
+    "LastUpdate": "08:32 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -59,27 +59,6 @@
       "Team2Name": "Leverkusen",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
-    },
-    {
-      "EntityId": 20119,
-      "VideoName": "Cray Wanderers vs Stockport County",
-      "CategoryName": "FA Cup 2026/27",
-      "StageName": "1st Round",
-      "EventStartDate": "2026-11-08 20:15:00",
-      "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971513540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971513540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1329,
-      "UrlSlug": "cray wanderers-vs-stockport county-facup-live-match",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 19962,
@@ -1089,6 +1068,31 @@
       "Team2Name": "Emirates Eagles",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png"
+    },
+    {
+      "EntityId": 19114,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "Afghanistan vs Zimbabwe 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-11-05 12:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1245,
+      "UrlSlug": "afg-vs-zim-1st-test-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 2671,
@@ -4419,20 +4423,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
-      "EntityId": 19062,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "India Tour of New Zealand 2026",
-      "StageName": "3rd ODI",
-      "EventStartDate": "2026-11-10 08:00:00",
-      "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 10-Nov-2026 at 07:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786624540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793786624540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1214,
-      "UrlSlug": "nz-vs-ind-3rd-odi-live"
-    },
-    {
       "EntityId": 2520,
       "VideoName": "New Zealand vs India",
       "CategoryName": "NZ vs IND - 3rd ODI",
@@ -4725,20 +4715,6 @@
       "Team2Name": "Pokhara Avengers",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
-    },
-    {
-      "EntityId": 19114,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "Afghanistan vs Zimbabwe 2026",
-      "StageName": "1st Test",
-      "EventStartDate": "2026-11-09 12:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1245,
-      "UrlSlug": "afg-vs-zim-1st-test-live"
     },
     {
       "EntityId": 2505,
@@ -5589,6 +5565,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2858/image"
     },
     {
+      "EntityId": 20120,
+      "VideoName": "Wimborne Town vs Crawley Town",
+      "CategoryName": "FA Cup 2026/27",
+      "StageName": "1st Round",
+      "EventStartDate": "2026-11-08 21:00:00",
+      "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971642540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971642540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1329,
+      "UrlSlug": "wimborne town-vs-crawley town-facup-live-match"
+    },
+    {
       "EntityId": 2432,
       "VideoName": "Wimborne Town vs Crawley Town",
       "CategoryName": "FA Cup",
@@ -5607,6 +5597,20 @@
       "Team2Name": "Crawley Town",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/47279/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4875/image"
+    },
+    {
+      "EntityId": 20119,
+      "VideoName": "Cray Wanderers vs Stockport County",
+      "CategoryName": "FA Cup 2026/27",
+      "StageName": "1st Round",
+      "EventStartDate": "2026-11-08 20:15:00",
+      "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971513540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971513540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1329,
+      "UrlSlug": "cray wanderers-vs-stockport county-facup-live-match"
     },
     {
       "EntityId": 2332,
