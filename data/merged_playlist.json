@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:49 PM 08-11-2026",
+    "LastUpdate": "08:50 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 21,
-    "UpcomingCount": 230
+    "LiveCount": 22,
+    "UpcomingCount": 229
   },
   "Matches": [
+    {
+      "EntityId": 2432,
+      "VideoName": "Wimborne Town vs Crawley Town",
+      "CategoryName": "FA Cup",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 21:00:00",
+      "Description": "Watch Wimborne Town vs Crawley Town — FA Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47279/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9534,
+      "UrlSlug": "fa-cup",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Wimborne Town",
+      "Team2Name": "Crawley Town",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/47279/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4875/image"
+    },
     {
       "EntityId": 2440,
       "VideoName": "Köln vs Leverkusen",
@@ -5607,26 +5627,6 @@
       "Team2Name": "Almeria",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/24264/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2858/image"
-    },
-    {
-      "EntityId": 2432,
-      "VideoName": "Wimborne Town vs Crawley Town",
-      "CategoryName": "FA Cup",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 21:00:00",
-      "Description": "Watch Wimborne Town vs Crawley Town — FA Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/47279/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9534,
-      "UrlSlug": "fa-cup",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Wimborne Town",
-      "Team2Name": "Crawley Town",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/47279/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4875/image"
     },
     {
       "EntityId": 2332,
