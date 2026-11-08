@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:29 PM 08-11-2026",
+    "LastUpdate": "07:30 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,27 @@
     "UpcomingCount": 240
   },
   "Matches": [
+    {
+      "EntityId": 19990,
+      "VideoName": "Leg 3 - Verona (ITA)",
+      "CategoryName": "Longines FEI Jumping World Cup 2026",
+      "StageName": "Race",
+      "EventStartDate": "2026-11-08 19:30:00",
+      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793790706540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793790706540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 368,
+      "UrlSlug": "longines-fei-jumping-world-cup-2026",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2453,
       "VideoName": "Twente vs Ajax",
@@ -661,86 +682,6 @@
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
-      "EntityId": 2332,
-      "VideoName": "Bangladesh vs West Indies",
-      "CategoryName": "BAN vs WI - 2nd Test, Day 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 09:30:00",
-      "Description": "Watch Bangladesh vs West Indies — BAN vs WI - 2nd Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9361,
-      "UrlSlug": "ban-vs-wi-2nd-test-day-2",
-      "stream_url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
-      "sources": [
-        {
-          "label": "t sports hd",
-          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode - Aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports hd 2",
-          "url": "http://103.16.24.4:8083/14.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports (720p)",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh",
-      "Team2Name": "West Indies",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
     },
     {
       "EntityId": 19114,
@@ -4236,6 +4177,20 @@
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774"
     },
     {
+      "EntityId": 20122,
+      "VideoName": "Plymouth Parkway vs Berkhamsted",
+      "CategoryName": "FA Cup 2026/27",
+      "StageName": "1st Round",
+      "EventStartDate": "2026-11-10 01:30:00",
+      "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971912540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971912540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1329,
+      "UrlSlug": "plymouth parkway-vs-berkhamsted-facup-live-match"
+    },
+    {
       "EntityId": 2514,
       "VideoName": "Plymouth Parkway vs Berkhamsted",
       "CategoryName": "FA Cup",
@@ -4434,6 +4389,20 @@
       "Team2Name": "Afghanistan U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
+    },
+    {
+      "EntityId": 19996,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "Sri Lanka Tour of Pakistan 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-11-09 10:30:00",
+      "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793858264540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793858264540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1148,
+      "UrlSlug": "pak-vs-sri-1st-test-live"
     },
     {
       "EntityId": 2504,
@@ -5278,20 +5247,6 @@
       "UrlSlug": "cray wanderers-vs-stockport county-facup-live-match"
     },
     {
-      "EntityId": 19962,
-      "VideoName": "Rennes vs LOSC",
-      "CategoryName": "French Ligue 1 2026/27",
-      "StageName": "MATCHDAY 10",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Rennes vs LOSC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Rennes vs LOSC match will take place on 08-Nov, Sunday, at 07:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792025540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793792025540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1115,
-      "UrlSlug": "rennes-vs-losc-ligue-one-live-match"
-    },
-    {
       "EntityId": 2259,
       "VideoName": "Sri Lanka vs Bhutan",
       "CategoryName": "SAFF Championship - Group A",
@@ -5472,18 +5427,84 @@
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png"
     },
     {
-      "EntityId": 19990,
-      "VideoName": "Leg 3 - Verona (ITA)",
-      "CategoryName": "Longines FEI Jumping World Cup 2026",
-      "StageName": "Race",
-      "EventStartDate": "2026-11-08 19:30:00",
-      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793790706540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793790706540x302.jpg",
+      "EntityId": 2332,
+      "VideoName": "Bangladesh vs West Indies",
+      "CategoryName": "BAN vs WI - 2nd Test, Day 2",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-08 09:30:00",
+      "Description": "Watch Bangladesh vs West Indies — BAN vs WI - 2nd Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
       "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 368,
-      "UrlSlug": "longines-fei-jumping-world-cup-2026"
+      "Status": "Ended",
+      "CategoryId": 9361,
+      "UrlSlug": "ban-vs-wi-2nd-test-day-2",
+      "stream_url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
+      "sources": [
+        {
+          "label": "t sports hd",
+          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode - Aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports hd 2",
+          "url": "http://103.16.24.4:8083/14.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports (720p)",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh",
+      "Team2Name": "West Indies",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187760/image"
     }
   ]
 }
