@@ -1,15 +1,40 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:15 AM 08-11-2026",
+    "LastUpdate": "06:16 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 17,
+    "LiveCount": 18,
     "UpcomingCount": 117
   },
   "Matches": [
+    {
+      "EntityId": 19314,
+      "VideoName": "Cortes Acosta vs Walker",
+      "CategoryName": "UFC 2026",
+      "StageName": "Fight Night",
+      "EventStartDate": "2026-11-08 07:00:00",
+      "Description": "UFC Fight Night Live: Watch Cortes Acosta vs Walker live online on tapmad. Enjoy watching Cortes Acosta vs Walker live streaming online in Bangladesh with full match highlights. The fight will start at 09:00 AM on 08-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793603627540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793603628540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 265,
+      "UrlSlug": "ufc fight night-cortes acosta vs walker-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2481,
       "VideoName": "San Diego vs Sporting KC",
@@ -1842,6 +1867,20 @@
       "UrlSlug": "le mans-vs-monaco-ligue-one-live-match"
     },
     {
+      "EntityId": 19963,
+      "VideoName": "Angers vs Nice",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 10",
+      "EventStartDate": "2026-11-08 22:15:00",
+      "Description": "Watch Angers vs Nice live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Angers vs Nice match will take place on 08-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792171540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793792171540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "angers-vs-nice-ligue-one-live-match"
+    },
+    {
       "EntityId": 2436,
       "VideoName": "Le Mans vs Monaco",
       "CategoryName": "Ligue 1",
@@ -2750,20 +2789,6 @@
       "Team2Name": "Sydney Thunder Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274883/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274889/image"
-    },
-    {
-      "EntityId": 19314,
-      "VideoName": "Cortes Acosta vs Walker",
-      "CategoryName": "UFC 2026",
-      "StageName": "Fight Night",
-      "EventStartDate": "2026-11-08 07:00:00",
-      "Description": "UFC Fight Night Live: Watch Cortes Acosta vs Walker live online on tapmad. Enjoy watching Cortes Acosta vs Walker live streaming online in Bangladesh with full match highlights. The fight will start at 09:00 AM on 08-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793603627540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793603628540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 265,
-      "UrlSlug": "ufc fight night-cortes acosta vs walker-live"
     },
     {
       "EntityId": 2424,
