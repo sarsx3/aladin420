@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:10 AM 08-11-2026",
+    "LastUpdate": "11:11 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -46,8 +46,25 @@
       "Status": "Live",
       "CategoryId": 9696,
       "UrlSlug": "afg-vs-zim-1st-test-day-4",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd",
+          "drmScheme": "N2Y2Y2VmMjNhOWIyZDliMjFlMDRjZDk2NzUzZjdkMDE6M2YyNjBlMDAyNWE4YjMyNzNlY2U5ODJjZmYwNTYyZTA=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd",
+          "drmScheme": "N2Y2Y2VmMjNhOWIyZDliMjFlMDRjZDk2NzUzZjdkMDE6M2YyNjBlMDAyNWE4YjMyNzNlY2U5ODJjZmYwNTYyZTA=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Afghanistan",
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
@@ -66,8 +83,25 @@
       "Status": "Live",
       "CategoryId": 9962,
       "UrlSlug": "u19-asia-cup-2026-7th-youth-odi",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
+          "drmScheme": "ZjYzOGYxMGU5YmVlNjVhNjk4OTI2YTUyNzcyMmUzMzI6YTlmNTE5MzY3Y2FmNDE5NjA3ZjY3MDVlM2Q3Njc5MzU=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
+          "drmScheme": "ZjYzOGYxMGU5YmVlNjVhNjk4OTI2YTUyNzcyMmUzMzI6YTlmNTE5MzY3Y2FmNDE5NjA3ZjY3MDVlM2Q3Njc5MzU=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "United Arab Emirates U19",
       "Team2Name": "Nepal U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/300266/image",
