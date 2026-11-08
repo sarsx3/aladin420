@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:17 AM 08-11-2026",
+    "LastUpdate": "09:18 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 115
   },
   "Matches": [
@@ -50,6 +50,14 @@
           "label": "willow sports-aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -122,43 +130,6 @@
           "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2424,
-      "VideoName": "Instituto Cordoba vs Newell's",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 07:00:00",
-      "Description": "Watch Instituto Cordoba vs Newell's — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4937/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=7a42404aa06cd1359ee30c390f8b4d5d&wsABSTime=1794140522",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=7a42404aa06cd1359ee30c390f8b4d5d&wsABSTime=1794140522",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.41/hls/T222AAAAAQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Instituto Cordoba",
-      "Team2Name": "Newell's",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4937/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3212/image"
     },
     {
       "EntityId": 1090553101,
@@ -1312,6 +1283,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/7802/image"
     },
     {
+      "EntityId": 19465,
+      "VideoName": "Celta vs Levante",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 12",
+      "EventStartDate": "2026-11-08 23:30:00",
+      "Description": "The 106th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Celta vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793969160540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793969160540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--celta-vs-levante-live"
+    },
+    {
       "EntityId": 2463,
       "VideoName": "Villarreal vs Getafe",
       "CategoryName": "LaLiga",
@@ -2394,20 +2379,6 @@
       "Team2Name": "Pakistan U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/213112/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/213104/image"
-    },
-    {
-      "EntityId": 19121,
-      "VideoName": "Bangladesh vs West Indies",
-      "CategoryName": "West indies Tour of Bangladesh 2026",
-      "StageName": "2nd Test",
-      "EventStartDate": "2026-11-08 09:30:00",
-      "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 05-Nov-2026 at 09:30 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611523540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793611523540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1246,
-      "UrlSlug": "ban-vs-wi-2nd-test-live"
     },
     {
       "EntityId": 2332,
