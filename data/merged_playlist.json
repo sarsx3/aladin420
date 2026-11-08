@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 PM 08-11-2026",
+    "LastUpdate": "04:20 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 252
+    "LiveCount": 12,
+    "UpcomingCount": 251
   },
   "Matches": [
+    {
+      "EntityId": 2470,
+      "VideoName": "Rizespor vs Erzurumspor FK",
+      "CategoryName": "Super Lig",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 16:30:00",
+      "Description": "Watch Rizespor vs Erzurumspor FK — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3064/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9721,
+      "UrlSlug": "super-lig",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Rizespor",
+      "Team2Name": "Erzurumspor FK",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3064/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/55603/image"
+    },
     {
       "EntityId": 2258,
       "VideoName": "Maldives vs Pakistan",
@@ -5378,26 +5398,6 @@
       "Team2Name": "Feyenoord",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2964/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2959/image"
-    },
-    {
-      "EntityId": 2470,
-      "VideoName": "Rizespor vs Erzurumspor FK",
-      "CategoryName": "Super Lig",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 16:30:00",
-      "Description": "Watch Rizespor vs Erzurumspor FK — Super Lig. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3064/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9721,
-      "UrlSlug": "super-lig",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Rizespor",
-      "Team2Name": "Erzurumspor FK",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3064/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/55603/image"
     }
   ]
 }
