@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:19 PM 08-11-2026",
+    "LastUpdate": "07:20 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
-    "UpcomingCount": 241
+    "LiveCount": 17,
+    "UpcomingCount": 240
   },
   "Matches": [
+    {
+      "EntityId": 2453,
+      "VideoName": "Twente vs Ajax",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 19:30:00",
+      "Description": "Watch Twente vs Ajax — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2955/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Twente",
+      "Team2Name": "Ajax",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2955/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    },
     {
       "EntityId": 19462,
       "VideoName": "Elche vs Betis",
@@ -5464,26 +5484,6 @@
       "Status": "Upcoming",
       "CategoryId": 368,
       "UrlSlug": "longines-fei-jumping-world-cup-2026"
-    },
-    {
-      "EntityId": 2453,
-      "VideoName": "Twente vs Ajax",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 19:30:00",
-      "Description": "Watch Twente vs Ajax — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2955/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Twente",
-      "Team2Name": "Ajax",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2955/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2953/image"
     }
   ]
 }
