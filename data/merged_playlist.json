@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:49 PM 08-11-2026",
+    "LastUpdate": "05:50 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,31 @@
     "UpcomingCount": 247
   },
   "Matches": [
+    {
+      "EntityId": 20118,
+      "VideoName": "Stafford Rangers vs Grimsby Town",
+      "CategoryName": "FA Cup 2026/27",
+      "StageName": "1st Round",
+      "EventStartDate": "2026-11-08 18:00:00",
+      "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971394540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971394540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1329,
+      "UrlSlug": "stafford rangers-vs-grimsby town-facup-live-match",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2684,
       "VideoName": "United Tigers vs UAE Bulls",
@@ -225,80 +250,6 @@
       "Team2Name": "Erzurumspor FK",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3064/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/55603/image"
-    },
-    {
-      "EntityId": 2258,
-      "VideoName": "Maldives vs Pakistan",
-      "CategoryName": "SAFF Championship - Group B",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 15:30:00",
-      "Description": "Watch Maldives vs Pakistan — SAFF Championship - Group B. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6911/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9992,
-      "UrlSlug": "saff-championship-group-b",
-      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
-      "sources": [
-        {
-          "label": "Myco - aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "bd - (1080p)",
-          "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-3/0/master_2500.m3u8?hdntl=Expires=1794215176~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jK9_yrncEdf8feIqNoL-T8ZRHQrkEQOs2gnlGedfLlZ4Xi_rgQZjy1sacZesJjjM0tJRF59cqUKbfhZsJtEtakN&nocache=1794128785040",
-          "headers": {
-            "Referer": "https://toffeelive.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "bd - (720p)",
-          "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-3/1/master_1800.m3u8?hdntl=Expires=1794215176~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jK9_yrncEdf8feIqNoL-T8ZRHQrkEQOs2gnlGedfLlZ4Xi_rgQZjy1sacZesJjjM0tJRF59cqUKbfhZsJtEtakN&nocache=1794128878859",
-          "headers": {
-            "Referer": "https://toffeelive.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=46aa7de9f5e44828e98b89c0e6cfff1b&wsABSTime=1794169359",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.zktsva.app/live/432017.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports hd",
-          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "btv hd",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Maldives",
-      "Team2Name": "Pakistan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6911/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/6081/image"
     },
     {
       "EntityId": 2683,
