@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:47 PM 08-11-2026",
+    "LastUpdate": "03:48 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 11,
     "UpcomingCount": 252
   },
   "Matches": [
@@ -126,58 +126,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794121336
-    },
-    {
-      "EntityId": 2489,
-      "VideoName": "Perth Scorchers Women vs Melbourne Stars Women",
-      "CategoryName": "WBBL 2026 - 16th Match",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 12:10:00",
-      "Description": "Watch Perth Scorchers Women vs Melbourne Stars Women — WBBL 2026 - 16th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274890/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9304,
-      "UrlSlug": "wbbl-2026-16th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "sources": [
-        {
-          "label": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kihtfuxmzn/out/v1/9c6e140bdd564c538a2821d679c20793/cenc.mpd",
-          "drmScheme": "NDFiMGU4NTVmZjUxNzExYTA4YWI4ZTRjY2YxZDBiYTE6ZTg0OWQwMTEzZTVmZTAyM2ZmNDg2NjRmM2RjNzZiMDI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kihtfuxmzn/out/v1/9c6e140bdd564c538a2821d679c20793/cenc.mpd",
-          "drmScheme": "NDFiMGU4NTVmZjUxNzExYTA4YWI4ZTRjY2YxZDBiYTE6ZTg0OWQwMTEzZTVmZTAyM2ZmNDg2NjRmM2RjNzZiMDI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Perth Scorchers Women",
-      "Team2Name": "Melbourne Stars Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274890/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274886/image"
     },
     {
       "EntityId": 1090553114,
