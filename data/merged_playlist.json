@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:29 AM 08-11-2026",
+    "LastUpdate": "08:30 AM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 116
+    "LiveCount": 5,
+    "UpcomingCount": 115
   },
   "Matches": [
+    {
+      "EntityId": 2488,
+      "VideoName": "Sydney Sixers Women vs Sydney Thunder Women",
+      "CategoryName": "WBBL 2026 - 15th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 08:40:00",
+      "Description": "Watch Sydney Sixers Women vs Sydney Thunder Women — WBBL 2026 - 15th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274883/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9384,
+      "UrlSlug": "wbbl-2026-15th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "sources": [
+        {
+          "label": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sydney Sixers Women",
+      "Team2Name": "Sydney Thunder Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274883/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274889/image"
+    },
     {
       "EntityId": 1090553103,
       "VideoName": "UFC Fight Night - Cortes Acosta vs Walker",
@@ -2359,34 +2387,6 @@
       "Status": "Upcoming",
       "CategoryId": 1246,
       "UrlSlug": "ban-vs-wi-2nd-test-live"
-    },
-    {
-      "EntityId": 2488,
-      "VideoName": "Sydney Sixers Women vs Sydney Thunder Women",
-      "CategoryName": "WBBL 2026 - 15th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 08:40:00",
-      "Description": "Watch Sydney Sixers Women vs Sydney Thunder Women — WBBL 2026 - 15th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274883/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9384,
-      "UrlSlug": "wbbl-2026-15th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "sources": [
-        {
-          "label": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sydney Sixers Women",
-      "Team2Name": "Sydney Thunder Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274883/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274889/image"
     },
     {
       "EntityId": 2332,
