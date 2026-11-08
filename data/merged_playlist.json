@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:13 PM 08-11-2026",
+    "LastUpdate": "03:14 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5387,8 +5387,48 @@
       "Status": "Upcoming",
       "CategoryId": 9992,
       "UrlSlug": "saff-championship-group-b",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
+      "sources": [
+        {
+          "label": "Myco - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "bd - (1080p)",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-3/0/master_2500.m3u8?hdntl=Expires=1794215176~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jK9_yrncEdf8feIqNoL-T8ZRHQrkEQOs2gnlGedfLlZ4Xi_rgQZjy1sacZesJjjM0tJRF59cqUKbfhZsJtEtakN&nocache=1794128785040",
+          "headers": {
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "bd - (720p)",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-3/1/master_1800.m3u8?hdntl=Expires=1794215176~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jK9_yrncEdf8feIqNoL-T8ZRHQrkEQOs2gnlGedfLlZ4Xi_rgQZjy1sacZesJjjM0tJRF59cqUKbfhZsJtEtakN&nocache=1794128878859",
+          "headers": {
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=46aa7de9f5e44828e98b89c0e6cfff1b&wsABSTime=1794169359",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.zktsva.app/live/432017.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Maldives",
       "Team2Name": "Pakistan",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6911/image",
