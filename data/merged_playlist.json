@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:28 AM 09-11-2026",
+    "LastUpdate": "12:29 AM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 19,
+    "LiveCount": 18,
     "UpcomingCount": 207
   },
   "Matches": [
@@ -785,50 +785,6 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2685,
-      "VideoName": "Arabian Aces vs Royal Desert Champions",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 6th Match",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Arabian Aces vs Royal Desert Champions — Abu Dhabi T10 League 2026 - 6th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9071,
-      "UrlSlug": "abu-dhabi-t10-league-2026-6th-match",
-      "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-      "sources": [
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Myco - (bd)",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
-          "drmScheme": "MTk1NDE2Y2FjZjVmNTY5ODVlZGI3OWQ2ZTA0NTg5YzM6Y2VkYzIwNzE3NTk5YTYxYTkxNDJiMzkzYmZlMTQ2YTc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Arabian Aces",
-      "Team2Name": "Royal Desert Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png"
     },
     {
       "EntityId": 2671,
@@ -4531,8 +4487,16 @@
       "Status": "Upcoming",
       "CategoryId": 9244,
       "UrlSlug": "abu-dhabi-t10-league-2026-7th-match",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+      "sources": [
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Emirates Eagles",
       "Team2Name": "Arabian Aces",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png",
