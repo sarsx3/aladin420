@@ -1,15 +1,51 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:49 AM 09-11-2026",
+    "LastUpdate": "12:50 AM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
-    "UpcomingCount": 209
+    "LiveCount": 13,
+    "UpcomingCount": 208
   },
   "Matches": [
+    {
+      "EntityId": 2497,
+      "VideoName": "Utrecht vs N.E.C.",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-09 01:00:00",
+      "Description": "Watch Utrecht vs N.E.C. — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2948/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794162094-0-0-6f680dd7047f52cafa7f7c5d6cfd3fea",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Utrecht",
+      "Team2Name": "N.E.C.",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2948/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2962/image"
+    },
     {
       "EntityId": 2495,
       "VideoName": "Hoffenheim vs Schalke 04",
@@ -4641,42 +4677,6 @@
       "Team2Name": "Juventus",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2693/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2687/image"
-    },
-    {
-      "EntityId": 2497,
-      "VideoName": "Utrecht vs N.E.C.",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 01:00:00",
-      "Description": "Watch Utrecht vs N.E.C. — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2948/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794162094-0-0-6f680dd7047f52cafa7f7c5d6cfd3fea",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Utrecht",
-      "Team2Name": "N.E.C.",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2948/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2962/image"
     },
     {
       "EntityId": 2332,
