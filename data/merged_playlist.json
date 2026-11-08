@@ -1,15 +1,84 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:19 PM 08-11-2026",
+    "LastUpdate": "06:20 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 247
+    "LiveCount": 16,
+    "UpcomingCount": 244
   },
   "Matches": [
+    {
+      "EntityId": 2443,
+      "VideoName": "Magdeburg vs Bochum",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 18:30:00",
+      "Description": "Watch Magdeburg vs Bochum — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2591/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "http://193.47.62.44/hls/YOOO.m3u8",
+      "sources": [
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/YOOO.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Magdeburg",
+      "Team2Name": "Bochum",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2591/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2542/image"
+    },
+    {
+      "EntityId": 2444,
+      "VideoName": "Karlsruher vs Heidenheim",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 18:30:00",
+      "Description": "Watch Karlsruher vs Heidenheim — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2553/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Karlsruher",
+      "Team2Name": "Heidenheim",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2553/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5885/image"
+    },
+    {
+      "EntityId": 2445,
+      "VideoName": "Hannover vs St. Pauli",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 18:30:00",
+      "Description": "Watch Hannover vs St. Pauli — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Hannover",
+      "Team2Name": "St. Pauli",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2526/image"
+    },
     {
       "EntityId": 20118,
       "VideoName": "Stafford Rangers vs Grimsby Town",
@@ -5378,75 +5447,6 @@
       "Team2Name": "Fenerbahce",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/77629/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/3052/image"
-    },
-    {
-      "EntityId": 2443,
-      "VideoName": "Magdeburg vs Bochum",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 18:30:00",
-      "Description": "Watch Magdeburg vs Bochum — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2591/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "http://193.47.62.44/hls/YOOO.m3u8",
-      "sources": [
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/YOOO.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Magdeburg",
-      "Team2Name": "Bochum",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2591/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2542/image"
-    },
-    {
-      "EntityId": 2444,
-      "VideoName": "Karlsruher vs Heidenheim",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 18:30:00",
-      "Description": "Watch Karlsruher vs Heidenheim — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2553/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Karlsruher",
-      "Team2Name": "Heidenheim",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2553/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5885/image"
-    },
-    {
-      "EntityId": 2445,
-      "VideoName": "Hannover vs St. Pauli",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 18:30:00",
-      "Description": "Watch Hannover vs St. Pauli — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Hannover",
-      "Team2Name": "St. Pauli",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2526/image"
     }
   ]
 }
