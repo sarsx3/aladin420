@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:59 PM 08-11-2026",
+    "LastUpdate": "08:00 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 27,
+    "LiveCount": 26,
     "UpcomingCount": 231
   },
   "Matches": [
@@ -339,8 +339,32 @@
       "Status": "Live",
       "CategoryId": 9502,
       "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794144266-0-0-bd852abd1745469a4a61fac6703809a6",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Rennes",
       "Team2Name": "Lille",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
@@ -1009,45 +1033,6 @@
       "Team2Name": "Emirates Eagles",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png"
-    },
-    {
-      "EntityId": 1090553114,
-      "VideoName": "India vs Pakistan",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 12:02:16",
-      "Description": "Watch India vs Pakistan live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
-        },
-        {
-          "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
-        },
-        {
-          "label": "Kannada",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
-        },
-        {
-          "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1794117736
     },
     {
       "EntityId": 2491,
