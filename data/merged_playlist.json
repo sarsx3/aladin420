@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:49 PM 08-11-2026",
+    "LastUpdate": "07:50 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
-    "UpcomingCount": 240
+    "LiveCount": 27,
+    "UpcomingCount": 231
   },
   "Matches": [
     {
@@ -30,6 +30,280 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2259,
+      "VideoName": "Sri Lanka vs Bhutan",
+      "CategoryName": "SAFF Championship - Group A",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Sri Lanka vs Bhutan — SAFF Championship - Group A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/23487/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9843,
+      "UrlSlug": "saff-championship-group-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Sri Lanka",
+      "Team2Name": "Bhutan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/23487/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/191564/image"
+    },
+    {
+      "EntityId": 2426,
+      "VideoName": "Sunderland vs Chelsea",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Sunderland vs Chelsea — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/41/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+      "sources": [
+        {
+          "label": "sky sports - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=ac2b768d5f94572c0e2ac00306a9fbb5&wsABSTime=1794187498",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794144303-0-0-8b003a9a35d3797a489d5640fbef8576",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794144304-0-0-08263f181b7a91d29a6e80ad0312d432",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=2f008493468d311c1ee2b0fbe9474ea4&wsABSTime=1794187505",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794144306-0-0-1c14a4575276d8f9d6f97cac7981a1f1",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sunderland",
+      "Team2Name": "Chelsea",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/41/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/38/image"
+    },
+    {
+      "EntityId": 2427,
+      "VideoName": "Ipswich vs Bournemouth",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Ipswich vs Bournemouth — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/32/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+      "sources": [
+        {
+          "label": "SKY SPORTS - aq",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794144116-0-0-d871cb9b69b8cc390198bff40db719d3",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=f8a0a558a5efd96c44f83872f8ea0f7c&wsABSTime=1794187317",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794144117-0-0-dae7f33f721ed7995af2ac04078f8546",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Ipswich",
+      "Team2Name": "Bournemouth",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/32/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
+    },
+    {
+      "EntityId": 2428,
+      "VideoName": "Crystal Palace vs Liverpool",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Crystal Palace vs Liverpool — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Crystal Palace",
+      "Team2Name": "Liverpool",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/7/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/44/image"
+    },
+    {
+      "EntityId": 2429,
+      "VideoName": "Brighton vs Brentford",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Brighton vs Brentford — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/30/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Brighton",
+      "Team2Name": "Brentford",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/30/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/50/image"
+    },
+    {
+      "EntityId": 2435,
+      "VideoName": "Rennes vs Lille",
+      "CategoryName": "Ligue 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Rennes vs Lille — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1658/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9502,
+      "UrlSlug": "ligue-1",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Rennes",
+      "Team2Name": "Lille",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1643/image"
+    },
+    {
+      "EntityId": 2448,
+      "VideoName": "Monza vs Atalanta",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Monza vs Atalanta — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2729/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Monza",
+      "Team2Name": "Atalanta",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2729/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2686/image"
+    },
+    {
+      "EntityId": 2449,
+      "VideoName": "Genoa vs AC Milan",
+      "CategoryName": "Serie A",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Genoa vs AC Milan — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2713/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9359,
+      "UrlSlug": "serie-a",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Genoa",
+      "Team2Name": "AC Milan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2713/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
+    },
+    {
+      "EntityId": 2685,
+      "VideoName": "Arabian Aces vs Royal Desert Champions",
+      "CategoryName": "Abu Dhabi T10 League 2026 - 6th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:00:00",
+      "Description": "Watch Arabian Aces vs Royal Desert Champions — Abu Dhabi T10 League 2026 - 6th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9071,
+      "UrlSlug": "abu-dhabi-t10-league-2026-6th-match",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Arabian Aces",
+      "Team2Name": "Royal Desert Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png"
     },
     {
       "EntityId": 19990,
@@ -5281,280 +5555,6 @@
       "Status": "Upcoming",
       "CategoryId": 1329,
       "UrlSlug": "cray wanderers-vs-stockport county-facup-live-match"
-    },
-    {
-      "EntityId": 2259,
-      "VideoName": "Sri Lanka vs Bhutan",
-      "CategoryName": "SAFF Championship - Group A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Sri Lanka vs Bhutan — SAFF Championship - Group A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/23487/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9843,
-      "UrlSlug": "saff-championship-group-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Sri Lanka",
-      "Team2Name": "Bhutan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/23487/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/191564/image"
-    },
-    {
-      "EntityId": 2426,
-      "VideoName": "Sunderland vs Chelsea",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Sunderland vs Chelsea — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/41/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
-      "sources": [
-        {
-          "label": "sky sports - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=ac2b768d5f94572c0e2ac00306a9fbb5&wsABSTime=1794187498",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794144303-0-0-8b003a9a35d3797a489d5640fbef8576",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794144304-0-0-08263f181b7a91d29a6e80ad0312d432",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=2f008493468d311c1ee2b0fbe9474ea4&wsABSTime=1794187505",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 6",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794144306-0-0-1c14a4575276d8f9d6f97cac7981a1f1",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sunderland",
-      "Team2Name": "Chelsea",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/41/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/38/image"
-    },
-    {
-      "EntityId": 2427,
-      "VideoName": "Ipswich vs Bournemouth",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Ipswich vs Bournemouth — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/32/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-      "sources": [
-        {
-          "label": "SKY SPORTS - aq",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794144116-0-0-d871cb9b69b8cc390198bff40db719d3",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=f8a0a558a5efd96c44f83872f8ea0f7c&wsABSTime=1794187317",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794144117-0-0-dae7f33f721ed7995af2ac04078f8546",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Ipswich",
-      "Team2Name": "Bournemouth",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/32/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/60/image"
-    },
-    {
-      "EntityId": 2428,
-      "VideoName": "Crystal Palace vs Liverpool",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Crystal Palace vs Liverpool — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/7/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Crystal Palace",
-      "Team2Name": "Liverpool",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/7/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/44/image"
-    },
-    {
-      "EntityId": 2429,
-      "VideoName": "Brighton vs Brentford",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Brighton vs Brentford — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/30/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Brighton",
-      "Team2Name": "Brentford",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/30/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/50/image"
-    },
-    {
-      "EntityId": 2435,
-      "VideoName": "Rennes vs Lille",
-      "CategoryName": "Ligue 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Rennes vs Lille — Ligue 1. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1658/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9502,
-      "UrlSlug": "ligue-1",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Rennes",
-      "Team2Name": "Lille",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1658/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1643/image"
-    },
-    {
-      "EntityId": 2448,
-      "VideoName": "Monza vs Atalanta",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Monza vs Atalanta — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2729/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Monza",
-      "Team2Name": "Atalanta",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2729/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2686/image"
-    },
-    {
-      "EntityId": 2449,
-      "VideoName": "Genoa vs AC Milan",
-      "CategoryName": "Serie A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Genoa vs AC Milan — Serie A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2713/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9359,
-      "UrlSlug": "serie-a",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Genoa",
-      "Team2Name": "AC Milan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2713/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2692/image"
-    },
-    {
-      "EntityId": 2685,
-      "VideoName": "Arabian Aces vs Royal Desert Champions",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 6th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:00:00",
-      "Description": "Watch Arabian Aces vs Royal Desert Champions — Abu Dhabi T10 League 2026 - 6th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9071,
-      "UrlSlug": "abu-dhabi-t10-league-2026-6th-match",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Arabian Aces",
-      "Team2Name": "Royal Desert Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png"
     },
     {
       "EntityId": 2332,
