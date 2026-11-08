@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:04 PM 08-11-2026",
+    "LastUpdate": "05:05 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 12,
-    "UpcomingCount": 251
+    "LiveCount": 13,
+    "UpcomingCount": 250
   },
   "Matches": [
+    {
+      "EntityId": 2452,
+      "VideoName": "Heerenveen vs Feyenoord",
+      "CategoryName": "Eredivisie",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 17:15:00",
+      "Description": "Watch Heerenveen vs Feyenoord — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2964/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9553,
+      "UrlSlug": "eredivisie",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Heerenveen",
+      "Team2Name": "Feyenoord",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2964/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2959/image"
+    },
     {
       "EntityId": 2470,
       "VideoName": "Rizespor vs Erzurumspor FK",
@@ -5400,26 +5420,6 @@
       "Team2Name": "Lazio",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2714/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2699/image"
-    },
-    {
-      "EntityId": 2452,
-      "VideoName": "Heerenveen vs Feyenoord",
-      "CategoryName": "Eredivisie",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 17:15:00",
-      "Description": "Watch Heerenveen vs Feyenoord — Eredivisie. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2964/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9553,
-      "UrlSlug": "eredivisie",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Heerenveen",
-      "Team2Name": "Feyenoord",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2964/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2959/image"
     }
   ]
 }
