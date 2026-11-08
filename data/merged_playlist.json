@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 08-11-2026",
+    "LastUpdate": "08:20 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 24,
-    "UpcomingCount": 231
+    "LiveCount": 25,
+    "UpcomingCount": 230
   },
   "Matches": [
+    {
+      "EntityId": 2440,
+      "VideoName": "Köln vs Leverkusen",
+      "CategoryName": "Bundesliga",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 20:30:00",
+      "Description": "Watch Köln vs Leverkusen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9044,
+      "UrlSlug": "bundesliga",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Köln",
+      "Team2Name": "Leverkusen",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    },
     {
       "EntityId": 19962,
       "VideoName": "Rennes vs LOSC",
@@ -913,6 +933,14 @@
           "label": "a sports - aq",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Myco - (bd)",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8",
+          "headers": {
+            "Referer": "https://myco.io/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
@@ -5532,26 +5560,6 @@
       "Team2Name": "Crawley Town",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/47279/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4875/image"
-    },
-    {
-      "EntityId": 2440,
-      "VideoName": "Köln vs Leverkusen",
-      "CategoryName": "Bundesliga",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-08 20:30:00",
-      "Description": "Watch Köln vs Leverkusen — Bundesliga. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2671/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9044,
-      "UrlSlug": "bundesliga",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Köln",
-      "Team2Name": "Leverkusen",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2671/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2681/image"
     },
     {
       "EntityId": 20119,
