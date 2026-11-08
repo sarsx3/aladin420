@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:51 PM 08-11-2026",
+    "LastUpdate": "08:52 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 22,
+    "LiveCount": 21,
     "UpcomingCount": 229
   },
   "Matches": [
@@ -23,8 +23,24 @@
       "Status": "Live",
       "CategoryId": 9534,
       "UrlSlug": "fa-cup",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "sources": [
+        {
+          "label": "TNT1 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/G555AAAQAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Wimborne Town",
       "Team2Name": "Crawley Town",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/47279/image",
@@ -1092,43 +1108,6 @@
       "Team2Name": "UAE Bulls",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/78.png"
-    },
-    {
-      "EntityId": 2683,
-      "VideoName": "Yas Lions vs Emirates Eagles",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 4th Match",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-08 15:30:00",
-      "Description": "Watch Yas Lions vs Emirates Eagles — Abu Dhabi T10 League 2026 - 4th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9191,
-      "UrlSlug": "abu-dhabi-t10-league-2026-4th-match",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rpefporlb5/out/v1/e6bb4ef3929e41e7a893cf20d8ea7c0b/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rpefporlb5/out/v1/e6bb4ef3929e41e7a893cf20d8ea7c0b/cenc.mpd",
-          "drmScheme": "YmYyOWEzNWUzNzVkYTk5ZDllZTIyNTUxNTYyMTI5NGU6NDFjMjk3NTEyMWQyMmZkNTdlZjBkNDM2ZmE2ZDU5NzE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rpefporlb5/out/v1/e6bb4ef3929e41e7a893cf20d8ea7c0b/cenc.mpd",
-          "drmScheme": "YmYyOWEzNWUzNzVkYTk5ZDllZTIyNTUxNTYyMTI5NGU6NDFjMjk3NTEyMWQyMmZkNTdlZjBkNDM2ZmE2ZDU5NzE=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Yas Lions",
-      "Team2Name": "Emirates Eagles",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png"
     },
     {
       "EntityId": 2671,
