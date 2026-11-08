@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:08 PM 08-11-2026",
+    "LastUpdate": "07:09 PM 08-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
+    "LiveCount": 17,
     "UpcomingCount": 241
   },
   "Matches": [
@@ -641,6 +641,43 @@
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
+    {
+      "EntityId": 2547,
+      "VideoName": "India U19 vs Pakistan U19",
+      "CategoryName": "U19 Asia Cup 2026 - 8th Youth ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-08 11:00:00",
+      "Description": "Watch India U19 vs Pakistan U19 — U19 Asia Cup 2026 - 8th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213112/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9267,
+      "UrlSlug": "u19-asia-cup-2026-8th-youth-odi",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1bx/out/v1/782ed415026645beb52cae42251d0a0d/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1bx/out/v1/782ed415026645beb52cae42251d0a0d/cenc.mpd",
+          "drmScheme": "Y2I0MDJiNDBiMmFhMGNjZWViMzk5ZGM4YTNjZmI2ZjE6OGYwODlkNjk2NzcwNzBlODkzZGE3OGQ5YmE3YzM1YjY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1bx/out/v1/782ed415026645beb52cae42251d0a0d/cenc.mpd",
+          "drmScheme": "Y2I0MDJiNDBiMmFhMGNjZWViMzk5ZGM4YTNjZmI2ZjE6OGYwODlkNjk2NzcwNzBlODkzZGE3OGQ5YmE3YzM1YjY=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "India U19",
+      "Team2Name": "Pakistan U19",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/213112/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/213104/image"
     },
     {
       "EntityId": 2332,
@@ -3448,26 +3485,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
-      "EntityId": 2562,
-      "VideoName": "Juventus (W) vs Olympique Lyonnais (W)",
-      "CategoryName": "UEFA Women's Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-12 02:00:00",
-      "Description": "Watch Juventus (W) vs Olympique Lyonnais (W) — UEFA Women's Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2687/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9466,
-      "UrlSlug": "uefa-women-s-champions-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Juventus (W)",
-      "Team2Name": "Olympique Lyonnais (W)",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2687/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
-    },
-    {
       "EntityId": 2561,
       "VideoName": "Benfica (W) vs Austria Wien (W)",
       "CategoryName": "UEFA Women's Champions League",
@@ -3486,6 +3503,26 @@
       "Team2Name": "Austria Wien (W)",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/3006/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2203/image"
+    },
+    {
+      "EntityId": 2562,
+      "VideoName": "Juventus (W) vs Olympique Lyonnais (W)",
+      "CategoryName": "UEFA Women's Champions League",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-12 02:00:00",
+      "Description": "Watch Juventus (W) vs Olympique Lyonnais (W) — UEFA Women's Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2687/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9466,
+      "UrlSlug": "uefa-women-s-champions-league",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Juventus (W)",
+      "Team2Name": "Olympique Lyonnais (W)",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2687/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1649/image"
     },
     {
       "EntityId": 2530,
