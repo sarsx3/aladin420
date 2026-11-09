@@ -1,15 +1,51 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:19 AM 10-11-2026",
+    "LastUpdate": "04:20 AM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 319
+    "LiveCount": 9,
+    "UpcomingCount": 318
   },
   "Matches": [
+    {
+      "EntityId": 2518,
+      "VideoName": "Sportivo Luqueño vs 2 de Mayo",
+      "CategoryName": "Copa de Primera",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 04:30:00",
+      "Description": "Watch Sportivo Luqueño vs 2 de Mayo — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9453,
+      "UrlSlug": "copa-de-primera",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794252380-0-0-d0ee0c0f1cb2b6ba0da8514eb3ff9091",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sportivo Luqueño",
+      "Team2Name": "2 de Mayo",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642"
+    },
     {
       "EntityId": 1090553315,
       "VideoName": "3rd Unofficial Test - Day 4",
@@ -6659,42 +6695,6 @@
       "Team2Name": "Cucuta Deportivo",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6105/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6108/image"
-    },
-    {
-      "EntityId": 2518,
-      "VideoName": "Sportivo Luqueño vs 2 de Mayo",
-      "CategoryName": "Copa de Primera",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-10 04:30:00",
-      "Description": "Watch Sportivo Luqueño vs 2 de Mayo — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9453,
-      "UrlSlug": "copa-de-primera",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794252380-0-0-d0ee0c0f1cb2b6ba0da8514eb3ff9091",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sportivo Luqueño",
-      "Team2Name": "2 de Mayo",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642"
     }
   ]
 }
