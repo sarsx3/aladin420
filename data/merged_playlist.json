@@ -1,15 +1,109 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:49 AM 09-11-2026",
+    "LastUpdate": "10:50 AM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 259
+    "LiveCount": 7,
+    "UpcomingCount": 256
   },
   "Matches": [
+    {
+      "EntityId": 2505,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-09 11:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9256,
+      "UrlSlug": "afg-vs-zim-1st-test-day-5",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
+    {
+      "EntityId": 2548,
+      "VideoName": "Bangladesh U19 vs Malaysia U19",
+      "CategoryName": "U19 Asia Cup 2026 - 9th Youth ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-09 11:00:00",
+      "Description": "Watch Bangladesh U19 vs Malaysia U19 — U19 Asia Cup 2026 - 9th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213099/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9977,
+      "UrlSlug": "u19-asia-cup-2026-9th-youth-odi",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
+          "drmScheme": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
+          "drmScheme": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Bangladesh U19",
+      "Team2Name": "Malaysia U19",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/213099/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/505670/image"
+    },
+    {
+      "EntityId": 2549,
+      "VideoName": "Sri Lanka U19 vs Afghanistan U19",
+      "CategoryName": "U19 Asia Cup 2026 - 10th Youth ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-09 11:00:00",
+      "Description": "Watch Sri Lanka U19 vs Afghanistan U19 — U19 Asia Cup 2026 - 10th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213106/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9580,
+      "UrlSlug": "u19-asia-cup-2026-10th-youth-odi",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
+          "drmScheme": "OTRjNDUwYmEwM2Y4MzlkZDYxNzVhNDEyZGZlZmRlNGM6NGEzNzRmNzAzYmZjZTczMDAzMjBmMDFlNDc5MWY0MzI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
+          "drmScheme": "OTRjNDUwYmEwM2Y4MzlkZDYxNzVhNDEyZGZlZmRlNGM6NGEzNzRmNzAzYmZjZTczMDAzMjBmMDFlNDc5MWY0MzI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sri Lanka U19",
+      "Team2Name": "Afghanistan U19",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
+    },
     {
       "EntityId": 19996,
       "VideoName": "Pakistan vs Sri Lanka",
@@ -5199,100 +5293,6 @@
       "Status": "Upcoming",
       "CategoryId": 1245,
       "UrlSlug": "afg-vs-zim-1st-test-live"
-    },
-    {
-      "EntityId": 2505,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9256,
-      "UrlSlug": "afg-vs-zim-1st-test-day-5",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
-      "EntityId": 2548,
-      "VideoName": "Bangladesh U19 vs Malaysia U19",
-      "CategoryName": "U19 Asia Cup 2026 - 9th Youth ODI",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Bangladesh U19 vs Malaysia U19 — U19 Asia Cup 2026 - 9th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213099/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9977,
-      "UrlSlug": "u19-asia-cup-2026-9th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
-          "drmScheme": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
-          "drmScheme": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh U19",
-      "Team2Name": "Malaysia U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213099/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/505670/image"
-    },
-    {
-      "EntityId": 2549,
-      "VideoName": "Sri Lanka U19 vs Afghanistan U19",
-      "CategoryName": "U19 Asia Cup 2026 - 10th Youth ODI",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Sri Lanka U19 vs Afghanistan U19 — U19 Asia Cup 2026 - 10th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213106/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9580,
-      "UrlSlug": "u19-asia-cup-2026-10th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
-          "drmScheme": "OTRjNDUwYmEwM2Y4MzlkZDYxNzVhNDEyZGZlZmRlNGM6NGEzNzRmNzAzYmZjZTczMDAzMjBmMDFlNDc5MWY0MzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
-          "drmScheme": "OTRjNDUwYmEwM2Y4MzlkZDYxNzVhNDEyZGZlZmRlNGM6NGEzNzRmNzAzYmZjZTczMDAzMjBmMDFlNDc5MWY0MzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sri Lanka U19",
-      "Team2Name": "Afghanistan U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
     }
   ]
 }
