@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:36 PM 09-11-2026",
+    "LastUpdate": "09:37 PM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5145,6 +5145,30 @@
           "label": "PREMIERE2 SPORTS - aq",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "drmScheme": "NDYxZTQ1YzZhMTdmYmU1ZTkxZmE2YTZjNTQ0ZTZhZTU6ZmYwYmNlNDBjYTcwNGI5YTRlMmUzZjI4YzY1OTllZmQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "drmScheme": "NDYxZTQ1YzZhMTdmYmU1ZTkxZmE2YTZjNTQ0ZTZhZTU6ZmYwYmNlNDBjYTcwNGI5YTRlMmUzZjI4YzY1OTllZmQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
+          "headers": {
+            "Referer": "https://myco.io/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
