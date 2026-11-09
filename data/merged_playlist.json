@@ -1,15 +1,74 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 09-11-2026",
+    "LastUpdate": "09:50 PM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 253
+    "LiveCount": 6,
+    "UpcomingCount": 252
   },
   "Matches": [
+    {
+      "EntityId": 2687,
+      "VideoName": "United Tigers vs Royal Desert Champions",
+      "CategoryName": "Abu Dhabi T10 League 2026 - 8th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-09 22:00:00",
+      "Description": "Watch United Tigers vs Royal Desert Champions — Abu Dhabi T10 League 2026 - 8th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9088,
+      "UrlSlug": "abu-dhabi-t10-league-2026-8th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "drmScheme": "NDYxZTQ1YzZhMTdmYmU1ZTkxZmE2YTZjNTQ0ZTZhZTU6ZmYwYmNlNDBjYTcwNGI5YTRlMmUzZjI4YzY1OTllZmQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "drmScheme": "NDYxZTQ1YzZhMTdmYmU1ZTkxZmE2YTZjNTQ0ZTZhZTU6ZmYwYmNlNDBjYTcwNGI5YTRlMmUzZjI4YzY1OTllZmQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "myco - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
+          "headers": {
+            "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "United Tigers",
+      "Team2Name": "Royal Desert Champions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png"
+    },
     {
       "EntityId": 2686,
       "VideoName": "Emirates Eagles vs Arabian Aces",
@@ -5125,65 +5184,6 @@
       "Team2Name": "Delfin",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/134976/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/213638/image"
-    },
-    {
-      "EntityId": 2687,
-      "VideoName": "United Tigers vs Royal Desert Champions",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 8th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 22:00:00",
-      "Description": "Watch United Tigers vs Royal Desert Champions — Abu Dhabi T10 League 2026 - 8th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9088,
-      "UrlSlug": "abu-dhabi-t10-league-2026-8th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "sources": [
-        {
-          "label": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
-          "drmScheme": "NDYxZTQ1YzZhMTdmYmU1ZTkxZmE2YTZjNTQ0ZTZhZTU6ZmYwYmNlNDBjYTcwNGI5YTRlMmUzZjI4YzY1OTllZmQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
-          "drmScheme": "NDYxZTQ1YzZhMTdmYmU1ZTkxZmE2YTZjNTQ0ZTZhZTU6ZmYwYmNlNDBjYTcwNGI5YTRlMmUzZjI4YzY1OTllZmQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "myco - aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
-          "headers": {
-            "Referer": "https://myco.io/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "United Tigers",
-      "Team2Name": "Royal Desert Champions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png"
     }
   ]
 }
