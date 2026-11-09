@@ -1,15 +1,51 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:49 AM 10-11-2026",
+    "LastUpdate": "05:50 AM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 318
+    "LiveCount": 9,
+    "UpcomingCount": 317
   },
   "Matches": [
+    {
+      "EntityId": 2509,
+      "VideoName": "Junior FC vs Cucuta Deportivo",
+      "CategoryName": "Liga BetPlay",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 06:00:00",
+      "Description": "Watch Junior FC vs Cucuta Deportivo — Liga BetPlay. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6105/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9045,
+      "UrlSlug": "liga-betplay",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794251995-0-0-e971815fb550759d348c8c69bb76c494",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Junior FC",
+      "Team2Name": "Cucuta Deportivo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6105/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/6108/image"
+    },
     {
       "EntityId": 2518,
       "VideoName": "Sportivo Luqueño vs 2 de Mayo",
@@ -6634,42 +6670,6 @@
       "Team2Name": "Universitario de Vinto",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/33714/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/268082/image"
-    },
-    {
-      "EntityId": 2509,
-      "VideoName": "Junior FC vs Cucuta Deportivo",
-      "CategoryName": "Liga BetPlay",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-10 06:00:00",
-      "Description": "Watch Junior FC vs Cucuta Deportivo — Liga BetPlay. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6105/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9045,
-      "UrlSlug": "liga-betplay",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794251995-0-0-e971815fb550759d348c8c69bb76c494",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Junior FC",
-      "Team2Name": "Cucuta Deportivo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6105/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/6108/image"
     }
   ]
 }
