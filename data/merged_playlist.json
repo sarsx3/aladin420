@@ -1,15 +1,52 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:49 AM 10-11-2026",
+    "LastUpdate": "01:50 AM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 322
+    "LiveCount": 4,
+    "UpcomingCount": 321
   },
   "Matches": [
+    {
+      "EntityId": 2517,
+      "VideoName": "Sp. San Lorenzo vs Rubio Ñu",
+      "CategoryName": "Copa de Primera",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 02:00:00",
+      "Description": "Watch Sp. San Lorenzo vs Rubio Ñu — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9453,
+      "UrlSlug": "copa-de-primera",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=bf14abe8d7ab5050dd84fb914cb10865&wsABSTime=1794295576",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=bf14abe8d7ab5050dd84fb914cb10865&wsABSTime=1794295576",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Low quality",
+          "url": "http://193.47.62.55/hls/Z777AAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sp. San Lorenzo",
+      "Team2Name": "Rubio Ñu",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774"
+    },
     {
       "EntityId": 2514,
       "VideoName": "Plymouth Parkway vs Berkhamsted",
@@ -6575,43 +6612,6 @@
       "Team2Name": "Manta",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/21941/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/33561/image"
-    },
-    {
-      "EntityId": 2517,
-      "VideoName": "Sp. San Lorenzo vs Rubio Ñu",
-      "CategoryName": "Copa de Primera",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-10 02:00:00",
-      "Description": "Watch Sp. San Lorenzo vs Rubio Ñu — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9453,
-      "UrlSlug": "copa-de-primera",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=bf14abe8d7ab5050dd84fb914cb10865&wsABSTime=1794295576",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=bf14abe8d7ab5050dd84fb914cb10865&wsABSTime=1794295576",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Low quality",
-          "url": "http://193.47.62.55/hls/Z777AAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sp. San Lorenzo",
-      "Team2Name": "Rubio Ñu",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774"
     },
     {
       "EntityId": 20122,
