@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:56 PM 09-11-2026",
+    "LastUpdate": "07:57 PM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 5,
     "UpcomingCount": 253
   },
   "Matches": [
@@ -98,138 +98,6 @@
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PT.png"
     },
     {
-      "EntityId": 2505,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-09 12:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9256,
-      "UrlSlug": "afg-vs-zim-1st-test-day-5",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-          "drmScheme": "ZDAwNmU4YjQxZTM3YzI1OTgxOGM4ZDQ5MTkwNGQzZTc6MmY3ZWNlYWFiNzQzZDkwNjk1N2I5OTU4MTUyYzg5NzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-          "drmScheme": "ZDAwNmU4YjQxZTM3YzI1OTgxOGM4ZDQ5MTkwNGQzZTc6MmY3ZWNlYWFiNzQzZDkwNjk1N2I5OTU4MTUyYzg5NzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
-      "EntityId": 2548,
-      "VideoName": "Bangladesh U19 vs Malaysia U19",
-      "CategoryName": "U19 Asia Cup 2026 - 9th Youth ODI",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Bangladesh U19 vs Malaysia U19 — U19 Asia Cup 2026 - 9th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213099/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9977,
-      "UrlSlug": "u19-asia-cup-2026-9th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
-          "drmScheme": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
-          "drmScheme": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794243750~acl=/*~id=59468680635237304810138398996934~hmac=b3e41ba36c4c8132ee155b1c6344de19646163fa4edbc7e4bb24744deb2e9e31",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Bangladesh U19",
-      "Team2Name": "Malaysia U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213099/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/505670/image"
-    },
-    {
-      "EntityId": 2549,
-      "VideoName": "Sri Lanka U19 vs Afghanistan U19",
-      "CategoryName": "U19 Asia Cup 2026 - 10th Youth ODI",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Sri Lanka U19 vs Afghanistan U19 — U19 Asia Cup 2026 - 10th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213106/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9580,
-      "UrlSlug": "u19-asia-cup-2026-10th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
-          "drmScheme": "OTRjNDUwYmEwM2Y4MzlkZDYxNzVhNDEyZGZlZmRlNGM6NGEzNzRmNzAzYmZjZTczMDAzMjBmMDFlNDc5MWY0MzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
-          "drmScheme": "OTRjNDUwYmEwM2Y4MzlkZDYxNzVhNDEyZGZlZmRlNGM6NGEzNzRmNzAzYmZjZTczMDAzMjBmMDFlNDc5MWY0MzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794243750~acl=/*~id=59468680635237304810138398996934~hmac=b3e41ba36c4c8132ee155b1c6344de19646163fa4edbc7e4bb24744deb2e9e31",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sri Lanka U19",
-      "Team2Name": "Afghanistan U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213106/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/213103/image"
-    },
-    {
       "EntityId": 19996,
       "VideoName": "Pakistan vs Sri Lanka",
       "CategoryName": "Sri Lanka Tour of Pakistan 2026",
@@ -249,65 +117,6 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
         }
       ]
-    },
-    {
-      "EntityId": 2504,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "PAK vs SL - 1st Test, Day 1",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-09 10:30:00",
-      "Description": "Watch Pakistan vs Sri Lanka — PAK vs SL - 1st Test, Day 1. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9586,
-      "UrlSlug": "pak-vs-sl-1st-test-day-1",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
-          "drmScheme": "NzFkZTYzYjVjNTIzNmI0MWQzMjg5NDU4YTBkMzYxMmU6OTFlNWE1OWRhODZiMDU0ZmVmNmEwNmFiNmRhODI5MzU=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
-          "drmScheme": "NzFkZTYzYjVjNTIzNmI0MWQzMjg5NDU4YTBkMzYxMmU6OTFlNWE1OWRhODZiMDU0ZmVmNmEwNmFiNmRhODI5MzU=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "ptv sports - aq",
-          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "ptv sports - hd",
-          "url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan",
-      "Team2Name": "Sri Lanka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
       "EntityId": 19114,
