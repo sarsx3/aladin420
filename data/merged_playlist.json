@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:49 PM 09-11-2026",
+    "LastUpdate": "07:50 PM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -37,6 +37,22 @@
           "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
           "headers": {
             "Referer": "https://myco.io/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd",
+          "drmScheme": "MmZjMTM1OTI0NTFhNGNhOGI1MDk5NDZjNmY5MDg4Mjk6ZWVlMWI1N2ZkMjI4YzMyOTM5Yzc2NDY1N2IwNGFiNjU=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd",
+          "drmScheme": "MmZjMTM1OTI0NTFhNGNhOGI1MDk5NDZjNmY5MDg4Mjk6ZWVlMWI1N2ZkMjI4YzMyOTM5Yzc2NDY1N2IwNGFiNjU=",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         },
