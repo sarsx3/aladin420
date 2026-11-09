@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:49 AM 10-11-2026",
+    "LastUpdate": "03:50 AM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 320
+    "LiveCount": 7,
+    "UpcomingCount": 319
   },
   "Matches": [
+    {
+      "EntityId": 2510,
+      "VideoName": "Independiente Valle del Cauca vs Union Magdalena",
+      "CategoryName": "Primera B",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 04:00:00",
+      "Description": "Watch Independiente Valle del Cauca vs Union Magdalena — Primera B. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1166437/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9908,
+      "UrlSlug": "primera-b",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Independiente Valle del Cauca",
+      "Team2Name": "Union Magdalena",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1166437/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/89376/image"
+    },
     {
       "EntityId": 2512,
       "VideoName": "Tecnico Universitario vs Manta",
@@ -6652,26 +6672,6 @@
       "Team2Name": "2 de Mayo",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642"
-    },
-    {
-      "EntityId": 2510,
-      "VideoName": "Independiente Valle del Cauca vs Union Magdalena",
-      "CategoryName": "Primera B",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-10 04:00:00",
-      "Description": "Watch Independiente Valle del Cauca vs Union Magdalena — Primera B. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1166437/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9908,
-      "UrlSlug": "primera-b",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Independiente Valle del Cauca",
-      "Team2Name": "Union Magdalena",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1166437/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/89376/image"
     }
   ]
 }
