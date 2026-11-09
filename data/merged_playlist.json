@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:45 AM 09-11-2026",
+    "LastUpdate": "10:46 AM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 260
+    "LiveCount": 4,
+    "UpcomingCount": 259
   },
   "Matches": [
     {
@@ -30,6 +30,43 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2504,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "PAK vs SL - 1st Test, Day 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-09 10:30:00",
+      "Description": "Watch Pakistan vs Sri Lanka — PAK vs SL - 1st Test, Day 1. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9586,
+      "UrlSlug": "pak-vs-sl-1st-test-day-1",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "drmScheme": "NzFkZTYzYjVjNTIzNmI0MWQzMjg5NDU4YTBkMzYxMmU6OTFlNWE1OWRhODZiMDU0ZmVmNmEwNmFiNmRhODI5MzU=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "drmScheme": "NzFkZTYzYjVjNTIzNmI0MWQzMjg5NDU4YTBkMzYxMmU6OTFlNWE1OWRhODZiMDU0ZmVmNmEwNmFiNmRhODI5MzU=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakistan",
+      "Team2Name": "Sri Lanka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
       "EntityId": 2332,
@@ -5162,43 +5199,6 @@
       "Status": "Upcoming",
       "CategoryId": 1245,
       "UrlSlug": "afg-vs-zim-1st-test-live"
-    },
-    {
-      "EntityId": 2504,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "PAK vs SL - 1st Test, Day 1",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 11:00:00",
-      "Description": "Watch Pakistan vs Sri Lanka — PAK vs SL - 1st Test, Day 1. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9586,
-      "UrlSlug": "pak-vs-sl-1st-test-day-1",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
-          "drmScheme": "NzFkZTYzYjVjNTIzNmI0MWQzMjg5NDU4YTBkMzYxMmU6OTFlNWE1OWRhODZiMDU0ZmVmNmEwNmFiNmRhODI5MzU=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
-          "drmScheme": "NzFkZTYzYjVjNTIzNmI0MWQzMjg5NDU4YTBkMzYxMmU6OTFlNWE1OWRhODZiMDU0ZmVmNmEwNmFiNmRhODI5MzU=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan",
-      "Team2Name": "Sri Lanka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
       "EntityId": 2505,
