@@ -1,15 +1,52 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 AM 09-11-2026",
+    "LastUpdate": "11:50 AM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 257
+    "LiveCount": 10,
+    "UpcomingCount": 256
   },
   "Matches": [
+    {
+      "EntityId": 2505,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-09 12:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9256,
+      "UrlSlug": "afg-vs-zim-1st-test-day-5",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
+          "drmScheme": "ZDAwNmU4YjQxZTM3YzI1OTgxOGM4ZDQ5MTkwNGQzZTc6MmY3ZWNlYWFiNzQzZDkwNjk1N2I5OTU4MTUyYzg5NzI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
+          "drmScheme": "ZDAwNmU4YjQxZTM3YzI1OTgxOGM4ZDQ5MTkwNGQzZTc6MmY3ZWNlYWFiNzQzZDkwNjk1N2I5OTU4MTUyYzg5NzI=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
     {
       "EntityId": 1090553302,
       "VideoName": "Sri Lanka vs Afghanistan",
@@ -5383,43 +5420,6 @@
       "Team2Name": "Pokhara Avengers",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
-    },
-    {
-      "EntityId": 2505,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM - 1st Test, Day 5",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-09 12:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM - 1st Test, Day 5. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9256,
-      "UrlSlug": "afg-vs-zim-1st-test-day-5",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-          "drmScheme": "ZDAwNmU4YjQxZTM3YzI1OTgxOGM4ZDQ5MTkwNGQzZTc6MmY3ZWNlYWFiNzQzZDkwNjk1N2I5OTU4MTUyYzg5NzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-          "drmScheme": "ZDAwNmU4YjQxZTM3YzI1OTgxOGM4ZDQ5MTkwNGQzZTc6MmY3ZWNlYWFiNzQzZDkwNjk1N2I5OTU4MTUyYzg5NzI=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     }
   ]
 }
