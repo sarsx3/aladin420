@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:34 AM 10-11-2026",
+    "LastUpdate": "07:35 AM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 10,
     "UpcomingCount": 316
   },
   "Matches": [
@@ -76,6 +76,347 @@
       "Team2Name": "Universitario de Vinto",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/33714/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/268082/image"
+    },
+    {
+      "EntityId": 2509,
+      "VideoName": "Junior FC vs Cucuta Deportivo",
+      "CategoryName": "Liga BetPlay",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 06:00:00",
+      "Description": "Watch Junior FC vs Cucuta Deportivo — Liga BetPlay. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6105/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9045,
+      "UrlSlug": "liga-betplay",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794251995-0-0-e971815fb550759d348c8c69bb76c494",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Junior FC",
+      "Team2Name": "Cucuta Deportivo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6105/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/6108/image"
+    },
+    {
+      "EntityId": 2518,
+      "VideoName": "Sportivo Luqueño vs 2 de Mayo",
+      "CategoryName": "Copa de Primera",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 04:30:00",
+      "Description": "Watch Sportivo Luqueño vs 2 de Mayo — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9453,
+      "UrlSlug": "copa-de-primera",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794252380-0-0-d0ee0c0f1cb2b6ba0da8514eb3ff9091",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sportivo Luqueño",
+      "Team2Name": "2 de Mayo",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642"
+    },
+    {
+      "EntityId": 2510,
+      "VideoName": "Independiente Valle del Cauca vs Union Magdalena",
+      "CategoryName": "Primera B",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 04:00:00",
+      "Description": "Watch Independiente Valle del Cauca vs Union Magdalena — Primera B. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1166437/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9908,
+      "UrlSlug": "primera-b",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Independiente Valle del Cauca",
+      "Team2Name": "Union Magdalena",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1166437/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/89376/image"
+    },
+    {
+      "EntityId": 2512,
+      "VideoName": "Tecnico Universitario vs Manta",
+      "CategoryName": "Liga Pro",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 02:30:00",
+      "Description": "Watch Tecnico Universitario vs Manta — Liga Pro. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/21941/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9970,
+      "UrlSlug": "liga-pro",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794252397-0-0-0bb1da439234556e46350ff3e8ff9001",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.55/hls/T333AAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Tecnico Universitario",
+      "Team2Name": "Manta",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/21941/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/33561/image"
+    },
+    {
+      "EntityId": 2517,
+      "VideoName": "Sp. San Lorenzo vs Rubio Ñu",
+      "CategoryName": "Copa de Primera",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 02:00:00",
+      "Description": "Watch Sp. San Lorenzo vs Rubio Ñu — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9453,
+      "UrlSlug": "copa-de-primera",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=bf14abe8d7ab5050dd84fb914cb10865&wsABSTime=1794295576",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=bf14abe8d7ab5050dd84fb914cb10865&wsABSTime=1794295576",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Low quality",
+          "url": "http://193.47.62.55/hls/Z777AAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sp. San Lorenzo",
+      "Team2Name": "Rubio Ñu",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774"
+    },
+    {
+      "EntityId": 2514,
+      "VideoName": "Plymouth Parkway vs Berkhamsted",
+      "CategoryName": "FA Cup",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 01:30:00",
+      "Description": "Watch Plymouth Parkway vs Berkhamsted — FA Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/80011/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9534,
+      "UrlSlug": "fa-cup",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "sources": [
+        {
+          "label": "TNT sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001794248724-0-0-c39712fd29d2a513efe61148483ca397",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.55/hls/Z777AAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Plymouth Parkway",
+      "Team2Name": "Berkhamsted",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/80011/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/231/image"
+    },
+    {
+      "EntityId": 2519,
+      "VideoName": "Sabadell vs Real Sociedad B",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 01:30:00",
+      "Description": "Watch Sabadell vs Real Sociedad B — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24335/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "sources": [
+        {
+          "label": "LALIGA HYP",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794248742-0-0-5c674237e8c69bc4a98350c24a59f5fb",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.55/hls/Z777AAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794229627-0-0-57419b7b9fa5764c3ac5808222031314",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794238627-0-0-7aa74acc4de65cc44e300542f95a750f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sabadell",
+      "Team2Name": "Real Sociedad B",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/24335/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/24360/image"
+    },
+    {
+      "EntityId": 2511,
+      "VideoName": "Mushuc Runa vs Delfin",
+      "CategoryName": "Liga Pro",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 00:00:00",
+      "Description": "Watch Mushuc Runa vs Delfin — Liga Pro. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/134976/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9970,
+      "UrlSlug": "liga-pro",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794244985-0-0-b330346bdd2c723735d3055dd99f37fb",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.44/hls/R777A.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Mushuc Runa",
+      "Team2Name": "Delfin",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/134976/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/213638/image"
     },
     {
       "EntityId": 2818,
