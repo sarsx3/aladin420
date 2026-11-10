@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:49 PM 10-11-2026",
+    "LastUpdate": "08:50 PM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 309
+    "LiveCount": 3,
+    "UpcomingCount": 308
   },
   "Matches": [
+    {
+      "EntityId": 2513,
+      "VideoName": "Al Mokawloon Al Arab vs Egypt Telecom",
+      "CategoryName": "Egypt Cup",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 21:00:00",
+      "Description": "Watch Al Mokawloon Al Arab vs Egypt Telecom — Egypt Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42365/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9722,
+      "UrlSlug": "egypt-cup",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Al Mokawloon Al Arab",
+      "Team2Name": "Egypt Telecom",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/42365/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/395100/image"
+    },
     {
       "EntityId": 2688,
       "VideoName": "Yas Lions vs United Tigers",
@@ -6172,26 +6192,6 @@
       "Team2Name": "Emirates Eagles",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/78.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png"
-    },
-    {
-      "EntityId": 2513,
-      "VideoName": "Al Mokawloon Al Arab vs Egypt Telecom",
-      "CategoryName": "Egypt Cup",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-10 21:00:00",
-      "Description": "Watch Al Mokawloon Al Arab vs Egypt Telecom — Egypt Cup. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/42365/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9722,
-      "UrlSlug": "egypt-cup",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al Mokawloon Al Arab",
-      "Team2Name": "Egypt Telecom",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/42365/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/395100/image"
     }
   ]
 }
