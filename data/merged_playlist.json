@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:59 PM 10-11-2026",
+    "LastUpdate": "02:00 PM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 312
+    "LiveCount": 7,
+    "UpcomingCount": 311
   },
   "Matches": [
+    {
+      "EntityId": 2522,
+      "VideoName": "Hobart Hurricanes Women vs Adelaide Strikers Women",
+      "CategoryName": "WBBL 2026 - 17th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 14:10:00",
+      "Description": "Watch Hobart Hurricanes Women vs Adelaide Strikers Women — WBBL 2026 - 17th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274885/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9163,
+      "UrlSlug": "wbbl-2026-17th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "sources": [
+        {
+          "label": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Hobart Hurricanes Women",
+      "Team2Name": "Adelaide Strikers Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274888/image"
+    },
     {
       "EntityId": 1090553324,
       "VideoName": "India vs UAE",
@@ -23,11 +51,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794336630~acl=/*~id=54292193986729987855272096216100~hmac=c0b8984a9e1916c54915c535cb98a21f0e0b58a8854855d469187d5ddffe6be8",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/master.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794336630~acl=/*~id=54292193986729987855272096216100~hmac=c0b8984a9e1916c54915c535cb98a21f0e0b58a8854855d469187d5ddffe6be8"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/master.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428"
         }
       ],
       "Provider": "SonyLiv",
@@ -46,11 +74,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794336630~acl=/*~id=54292193986729987855272096216100~hmac=c0b8984a9e1916c54915c535cb98a21f0e0b58a8854855d469187d5ddffe6be8",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794336630~acl=/*~id=54292193986729987855272096216100~hmac=c0b8984a9e1916c54915c535cb98a21f0e0b58a8854855d469187d5ddffe6be8"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428"
         }
       ],
       "Provider": "SonyLiv",
@@ -6387,34 +6415,6 @@
       "Status": "Upcoming",
       "CategoryId": 1247,
       "UrlSlug": "hh-vs-ads-17th-t20i-live"
-    },
-    {
-      "EntityId": 2522,
-      "VideoName": "Hobart Hurricanes Women vs Adelaide Strikers Women",
-      "CategoryName": "WBBL 2026 - 17th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-10 14:10:00",
-      "Description": "Watch Hobart Hurricanes Women vs Adelaide Strikers Women — WBBL 2026 - 17th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274885/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9163,
-      "UrlSlug": "wbbl-2026-17th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "sources": [
-        {
-          "label": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hobart Hurricanes Women",
-      "Team2Name": "Adelaide Strikers Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274888/image"
     }
   ]
 }
