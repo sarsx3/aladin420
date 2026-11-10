@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:47 PM 10-11-2026",
+    "LastUpdate": "07:48 PM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 3,
     "UpcomingCount": 309
   },
   "Matches": [
@@ -35,6 +35,22 @@
         {
           "label": "a sports - aq",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iv5d90mbif/out/v1/46534ce74ed246389eb9909c8ee1cc2a/cenc.mpd",
+          "drmScheme": "MGUzNmIzYmU4ODQ1YzA2ODVjNmUxYTdjZThiM2EzZTA6ZDBhNjQ2OWE1OThlNzE1OWQyMjcxN2UyMjllOGMxOGQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iv5d90mbif/out/v1/46534ce74ed246389eb9909c8ee1cc2a/cenc.mpd",
+          "drmScheme": "MGUzNmIzYmU4ODQ1YzA2ODVjNmUxYTdjZThiM2EzZTA6ZDBhNjQ2OWE1OThlNzE1OWQyMjcxN2UyMjllOGMxOGQ=",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
@@ -109,94 +125,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794286849
-    },
-    {
-      "EntityId": 2550,
-      "VideoName": "India U19 vs United Arab Emirates U19",
-      "CategoryName": "U19 Asia Cup 2026 - 11th Youth ODI",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-10 11:00:00",
-      "Description": "Watch India U19 vs United Arab Emirates U19 — U19 Asia Cup 2026 - 11th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213112/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9020,
-      "UrlSlug": "u19-asia-cup-2026-11th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
-          "drmScheme": "NGM0YmQxYWE4Yzk1NTlhZTA0ZGRhNDg1YWRiNWEzYjE6Y2UyZjdlM2E2MGVmNTljZGMyMGE2NjZkNjRmMzU1MDY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
-          "drmScheme": "NGM0YmQxYWE4Yzk1NTlhZTA0ZGRhNDg1YWRiNWEzYjE6Y2UyZjdlM2E2MGVmNTljZGMyMGE2NjZkNjRmMzU1MDY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794330539~acl=/*~id=35509081107577973676727371651207~hmac=5b22584dcffabd7a0d78ee1b70989a785d49724f03408430adb3188c4faaa332",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India U19",
-      "Team2Name": "United Arab Emirates U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213112/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/300266/image"
-    },
-    {
-      "EntityId": 2551,
-      "VideoName": "Pakistan U19 vs Nepal U19",
-      "CategoryName": "U19 Asia Cup 2026 - 12th Youth ODI",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-10 11:00:00",
-      "Description": "Watch Pakistan U19 vs Nepal U19 — U19 Asia Cup 2026 - 12th Youth ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/213104/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9558,
-      "UrlSlug": "u19-asia-cup-2026-12th-youth-odi",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd",
-          "drmScheme": "N2ZlY2ZiNWJlZDdjY2UwY2RjNTlkMjk5NDg0NWM1NTA6ODg0Mzg2YjcxZTA4MDE2MzVmNGZhMjUxNzUxNDNjYTc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd",
-          "drmScheme": "N2ZlY2ZiNWJlZDdjY2UwY2RjNTlkMjk5NDg0NWM1NTA6ODg0Mzg2YjcxZTA4MDE2MzVmNGZhMjUxNzUxNDNjYTc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794330539~acl=/*~id=35509081107577973676727371651207~hmac=5b22584dcffabd7a0d78ee1b70989a785d49724f03408430adb3188c4faaa332",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan U19",
-      "Team2Name": "Nepal U19",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/213104/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/213113/image"
     },
     {
       "EntityId": 2818,
