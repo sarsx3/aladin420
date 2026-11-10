@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:59 AM 10-11-2026",
+    "LastUpdate": "07:00 AM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,37 @@
     "UpcomingCount": 316
   },
   "Matches": [
+    {
+      "EntityId": 1090553316,
+      "VideoName": "3rd ODI",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-10 07:00:52",
+      "Description": "Watch 3rd ODI live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794315213~acl=/*~id=64217954441245666399981457444559~hmac=b9017b96c012acf7d44d9453ae27c0efb4d7a038de62fde1d052d7a9ac3445c3",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794315213~acl=/*~id=64217954441245666399981457444559~hmac=b9017b96c012acf7d44d9453ae27c0efb4d7a038de62fde1d052d7a9ac3445c3"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794315213~acl=/*~id=64217954441245666399981457444559~hmac=b9017b96c012acf7d44d9453ae27c0efb4d7a038de62fde1d052d7a9ac3445c3"
+        },
+        {
+          "label": "Telugu",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794315213~acl=/*~id=64217954441245666399981457444559~hmac=b9017b96c012acf7d44d9453ae27c0efb4d7a038de62fde1d052d7a9ac3445c3"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794272452
+    },
     {
       "EntityId": 2508,
       "VideoName": "Club Aurora vs Universitario de Vinto",
@@ -117,29 +148,6 @@
       "Team2Name": "2 de Mayo",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642"
-    },
-    {
-      "EntityId": 1090553315,
-      "VideoName": "3rd Unofficial Test - Day 4",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-10 04:02:21",
-      "Description": "Watch 3rd Unofficial Test - Day 4 live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956868102809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day4_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956868102809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day4_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794311564~acl=/*~id=58294751161825498698148555022552~hmac=2b70878f86e11c7540f8e6aecf72158be173fba699bf2d379c0eae8da33e2cb2",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794311564~acl=/*~id=58294751161825498698148555022552~hmac=2b70878f86e11c7540f8e6aecf72158be173fba699bf2d379c0eae8da33e2cb2"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1794261741
     },
     {
       "EntityId": 2510,
