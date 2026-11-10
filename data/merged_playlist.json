@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:05 PM 10-11-2026",
+    "LastUpdate": "02:06 PM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 311
   },
   "Matches": [
+    {
+      "EntityId": 19194,
+      "VideoName": "Hobart Hurricanes vs Adelaide Strikers",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-11-10 14:10:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs ADS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 17th T20I is scheduled to be played on 10-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786219540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793786219540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1247,
+      "UrlSlug": "hh-vs-ads-17th-t20i-live",
+      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2522,
       "VideoName": "Hobart Hurricanes Women vs Adelaide Strikers Women",
@@ -4524,6 +4545,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/8037/image"
     },
     {
+      "EntityId": 20063,
+      "VideoName": "Moldova vs Kazakhstan",
+      "CategoryName": "UEFA Nations League 2026/27",
+      "StageName": "MATCHDAY 5",
+      "EventStartDate": "2026-11-13 23:00:00",
+      "Description": "Watch Moldova vs Kazakhstan live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Moldova vs Kazakhstan match will take place on 13-Nov, Friday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794290030540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794290030540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1120,
+      "UrlSlug": "moldova-vs-kazakhstan-unl-live-match"
+    },
+    {
       "EntityId": 2594,
       "VideoName": "Moldova vs Kazakhstan",
       "CategoryName": "UEFA Nations League",
@@ -6401,20 +6436,6 @@
       "Team2Name": "Sudur Paschim Royals",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png"
-    },
-    {
-      "EntityId": 19194,
-      "VideoName": "Hobart Hurricanes vs Adelaide Strikers",
-      "CategoryName": "Women's Big Bash League 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-11-10 14:10:00",
-      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs ADS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 17th T20I is scheduled to be played on 10-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786219540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793786219540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1247,
-      "UrlSlug": "hh-vs-ads-17th-t20i-live"
     }
   ]
 }
