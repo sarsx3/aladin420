@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:19 AM 11-11-2026",
+    "LastUpdate": "03:20 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 298
+    "LiveCount": 6,
+    "UpcomingCount": 297
   },
   "Matches": [
+    {
+      "EntityId": 2535,
+      "VideoName": "Cacahuatique vs CD Luis Angel Firpo",
+      "CategoryName": "Primera Division",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-11 03:30:00",
+      "Description": "Watch Cacahuatique vs CD Luis Angel Firpo — Primera Division. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/82035",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9041,
+      "UrlSlug": "primera-division",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e4883ab853903d9add2c2b225fbb290a&wsABSTime=1794385201",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e4883ab853903d9add2c2b225fbb290a&wsABSTime=1794385201",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Cacahuatique",
+      "Team2Name": "CD Luis Angel Firpo",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/82035",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/12694"
+    },
     {
       "EntityId": 2524,
       "VideoName": "Envigado FC vs Boca Juniors Cali",
@@ -6125,35 +6154,6 @@
       "Team2Name": "América",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/8542",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8645"
-    },
-    {
-      "EntityId": 2535,
-      "VideoName": "Cacahuatique vs CD Luis Angel Firpo",
-      "CategoryName": "Primera Division",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-11 03:30:00",
-      "Description": "Watch Cacahuatique vs CD Luis Angel Firpo — Primera Division. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/82035",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9041,
-      "UrlSlug": "primera-division",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e4883ab853903d9add2c2b225fbb290a&wsABSTime=1794385201",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e4883ab853903d9add2c2b225fbb290a&wsABSTime=1794385201",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Cacahuatique",
-      "Team2Name": "CD Luis Angel Firpo",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/82035",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/12694"
     }
   ]
 }
