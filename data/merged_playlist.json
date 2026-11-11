@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:31 AM 11-11-2026",
+    "LastUpdate": "10:32 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -23,8 +23,33 @@
       "Status": "Live",
       "CategoryId": 9238,
       "UrlSlug": "pak-vs-sl-1st-test-day-3",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+          "drmScheme": "ZDYzZDYyY2E2ZjJkMTg3M2Q3OTk3MTc0N2E0ODliMWI6NmM2YjA0Nzg5MzYzMGExOWNiMDkxYmRlNGNkNjYwZjM=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+          "drmScheme": "ZDYzZDYyY2E2ZjJkMTg3M2Q3OTk3MTc0N2E0ODliMWI6NmM2YjA0Nzg5MzYzMGExOWNiMDkxYmRlNGNkNjYwZjM=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Pakistan",
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
