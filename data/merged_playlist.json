@@ -1,15 +1,80 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:40 AM 11-11-2026",
+    "LastUpdate": "09:41 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 0,
+    "LiveCount": 2,
     "UpcomingCount": 294
   },
   "Matches": [
+    {
+      "EntityId": 2526,
+      "VideoName": "Once Caldas vs Atletico Nacional",
+      "CategoryName": "Copa Colombia",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-11 07:30:00",
+      "Description": "Watch Once Caldas vs Atletico Nacional — Copa Colombia. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/7289",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9839,
+      "UrlSlug": "copa-colombia",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794342205-0-0-acea94771120fe4bf2be9d7239a21a65",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Once Caldas",
+      "Team2Name": "Atletico Nacional",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/7289",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8640"
+    },
+    {
+      "EntityId": 2536,
+      "VideoName": "Metapan vs Platense Municipal",
+      "CategoryName": "Primera Division",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-11 07:00:00",
+      "Description": "Watch Metapan vs Platense Municipal — Primera Division. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/6262",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9041,
+      "UrlSlug": "primera-division",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e0ddb73169c8dd100ae78bcf74899a7a&wsABSTime=1794385296",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e0ddb73169c8dd100ae78bcf74899a7a&wsABSTime=1794385296",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Metapan",
+      "Team2Name": "Platense Municipal",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/6262",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/68758"
+    },
     {
       "EntityId": 2818,
       "VideoName": "Arminia vs FC Magdeburg",
