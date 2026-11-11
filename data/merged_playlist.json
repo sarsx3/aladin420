@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:19 AM 11-11-2026",
+    "LastUpdate": "10:20 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 294
+    "LiveCount": 2,
+    "UpcomingCount": 293
   },
   "Matches": [
+    {
+      "EntityId": 2537,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "PAK vs SL - 1st Test, Day 3",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-11 10:30:00",
+      "Description": "Watch Pakistan vs Sri Lanka — PAK vs SL - 1st Test, Day 3. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9238,
+      "UrlSlug": "pak-vs-sl-1st-test-day-3",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Pakistan",
+      "Team2Name": "Sri Lanka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
+    },
     {
       "EntityId": 19996,
       "VideoName": "Pakistan vs Sri Lanka",
@@ -5830,26 +5850,6 @@
       "Team2Name": "Sydney Thunder Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274890/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274889/image"
-    },
-    {
-      "EntityId": 2537,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "PAK vs SL - 1st Test, Day 3",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-11 10:30:00",
-      "Description": "Watch Pakistan vs Sri Lanka — PAK vs SL - 1st Test, Day 3. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9238,
-      "UrlSlug": "pak-vs-sl-1st-test-day-3",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Pakistan",
-      "Team2Name": "Sri Lanka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     }
   ]
 }
