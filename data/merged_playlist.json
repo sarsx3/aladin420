@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:49 AM 11-11-2026",
+    "LastUpdate": "06:50 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 296
+    "LiveCount": 8,
+    "UpcomingCount": 295
   },
   "Matches": [
+    {
+      "EntityId": 2536,
+      "VideoName": "Metapan vs Platense Municipal",
+      "CategoryName": "Primera Division",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-11 07:00:00",
+      "Description": "Watch Metapan vs Platense Municipal — Primera Division. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/6262",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9041,
+      "UrlSlug": "primera-division",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e0ddb73169c8dd100ae78bcf74899a7a&wsABSTime=1794385296",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e0ddb73169c8dd100ae78bcf74899a7a&wsABSTime=1794385296",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Metapan",
+      "Team2Name": "Platense Municipal",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/6262",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/68758"
+    },
     {
       "EntityId": 2525,
       "VideoName": "Internacional de Bogota vs América",
@@ -6125,35 +6154,6 @@
       "Team2Name": "Atletico Nacional",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/7289",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8640"
-    },
-    {
-      "EntityId": 2536,
-      "VideoName": "Metapan vs Platense Municipal",
-      "CategoryName": "Primera Division",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-11 07:00:00",
-      "Description": "Watch Metapan vs Platense Municipal — Primera Division. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/6262",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9041,
-      "UrlSlug": "primera-division",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e0ddb73169c8dd100ae78bcf74899a7a&wsABSTime=1794385296",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e0ddb73169c8dd100ae78bcf74899a7a&wsABSTime=1794385296",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Metapan",
-      "Team2Name": "Platense Municipal",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/6262",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/68758"
     }
   ]
 }
