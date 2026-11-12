@@ -1,15 +1,82 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:34 PM 12-11-2026",
+    "LastUpdate": "11:35 PM 12-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 266
+    "LiveCount": 14,
+    "UpcomingCount": 265
   },
   "Matches": [
+    {
+      "EntityId": 2563,
+      "VideoName": "Barcelona (W) vs Arsenal (W)",
+      "CategoryName": "UEFA Women's Champions League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-12 23:45:00",
+      "Description": "Watch Barcelona (W) vs Arsenal (W) — UEFA Women's Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2817/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9466,
+      "UrlSlug": "uefa-women-s-champions-league",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=eea4e263fb494346a826b33ffce0c584&wsABSTime=1794543969",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://playback.livetl004.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0c25231e82e4a5b4516c29120da10803&txTime=6af60cf4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "http://193.47.62.55/hls/V333AA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "cbs sports - aq1",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "headers": {
+            "Referer": "https://amazon.com",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Barcelona (W)",
+      "Team2Name": "Arsenal (W)",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2817/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
+    },
     {
       "EntityId": 2567,
       "VideoName": "Malta vs Eswatini",
@@ -5920,73 +5987,6 @@
       "Team2Name": "Levante",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/293881/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2849/image"
-    },
-    {
-      "EntityId": 2563,
-      "VideoName": "Barcelona (W) vs Arsenal (W)",
-      "CategoryName": "UEFA Women's Champions League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-12 23:45:00",
-      "Description": "Watch Barcelona (W) vs Arsenal (W) — UEFA Women's Champions League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2817/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9466,
-      "UrlSlug": "uefa-women-s-champions-league",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=eea4e263fb494346a826b33ffce0c584&wsABSTime=1794543969",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://playback.livetl004.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0c25231e82e4a5b4516c29120da10803&txTime=6af60cf4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "http://193.47.62.55/hls/V333AA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "cbs sports - aq1",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "headers": {
-            "Referer": "https://amazon.com",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Barcelona (W)",
-      "Team2Name": "Arsenal (W)",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2817/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
     }
   ]
 }
