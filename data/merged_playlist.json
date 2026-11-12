@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:48 AM 12-11-2026",
+    "LastUpdate": "11:49 AM 12-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5909,8 +5909,23 @@
       "Status": "Upcoming",
       "CategoryId": 9204,
       "UrlSlug": "friendly-international",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=4b6a6d357ed9f5ddf137281de5b2d4fa&txTime=6af57cd0",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=4b6a6d357ed9f5ddf137281de5b2d4fa&txTime=6af57cd0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794455168-0-0-e814d543bfb3e48908b252dd03d78f70",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "New Zealand",
       "Team2Name": "India",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4784/image",
