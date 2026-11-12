@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:00 PM 12-11-2026",
+    "LastUpdate": "01:01 PM 12-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
+    "LiveCount": 12,
     "UpcomingCount": 278
   },
   "Matches": [
+    {
+      "EntityId": 1090553557,
+      "VideoName": "DP World Tour Champinship, Dubai - Day 1",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-12 13:01:16",
+      "Description": "Watch DP World Tour Champinship, Dubai - Day 1 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794466876
+    },
     {
       "EntityId": 2572,
       "VideoName": "Biratnagar Kings vs Pokhara Avengers",
@@ -124,23 +147,23 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         },
         {
           "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         },
         {
           "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
+        },
+        {
+          "label": "Kannada",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         }
       ],
       "Provider": "SonyLiv",
@@ -159,11 +182,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         }
       ],
       "Provider": "SonyLiv",
@@ -182,11 +205,11 @@
       "Status": "Live",
       "CategoryId": 9232,
       "UrlSlug": "golf-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         }
       ],
       "Provider": "SonyLiv",
