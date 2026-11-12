@@ -1,15 +1,105 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 12-11-2026",
+    "LastUpdate": "11:50 PM 12-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 265
+    "LiveCount": 16,
+    "UpcomingCount": 263
   },
   "Matches": [
+    {
+      "EntityId": 2600,
+      "VideoName": "Navalcarnero vs Real Betis",
+      "CategoryName": "Copa del Rey",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 00:00:00",
+      "Description": "Watch Navalcarnero vs Real Betis — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24352/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9095,
+      "UrlSlug": "copa-del-rey",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794503984-0-0-ec8e91e216e26ead2b7057d9d9798639",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.55/hls/V333AAAAQQQQAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Navalcarnero",
+      "Team2Name": "Real Betis",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/24352/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    },
+    {
+      "EntityId": 2601,
+      "VideoName": "Tarancón vs Levante",
+      "CategoryName": "Copa del Rey",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 00:00:00",
+      "Description": "Watch Tarancón vs Levante — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/293881/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9095,
+      "UrlSlug": "copa-del-rey",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001794504042-0-0-45e7e16980466326960f1734a9063a1b",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.55/hls/V333AAAAQQQQAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Tarancón",
+      "Team2Name": "Levante",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/293881/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2849/image"
+    },
     {
       "EntityId": 2563,
       "VideoName": "Barcelona (W) vs Arsenal (W)",
@@ -5897,96 +5987,6 @@
       "Status": "Upcoming",
       "CategoryId": 269,
       "UrlSlug": "e1-florida-miami-2026"
-    },
-    {
-      "EntityId": 2600,
-      "VideoName": "Navalcarnero vs Real Betis",
-      "CategoryName": "Copa del Rey",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-13 00:00:00",
-      "Description": "Watch Navalcarnero vs Real Betis — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24352/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9095,
-      "UrlSlug": "copa-del-rey",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794503984-0-0-ec8e91e216e26ead2b7057d9d9798639",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.55/hls/V333AAAAQQQQAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Navalcarnero",
-      "Team2Name": "Real Betis",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/24352/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2816/image"
-    },
-    {
-      "EntityId": 2601,
-      "VideoName": "Tarancón vs Levante",
-      "CategoryName": "Copa del Rey",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-13 00:00:00",
-      "Description": "Watch Tarancón vs Levante — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/293881/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9095,
-      "UrlSlug": "copa-del-rey",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001794504042-0-0-45e7e16980466326960f1734a9063a1b",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.55/hls/V333AAAAQQQQAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Tarancón",
-      "Team2Name": "Levante",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/293881/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2849/image"
     }
   ]
 }
