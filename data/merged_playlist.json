@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:03 PM 12-11-2026",
+    "LastUpdate": "11:04 PM 12-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5932,8 +5932,25 @@
       "Status": "Upcoming",
       "CategoryId": 9466,
       "UrlSlug": "uefa-women-s-champions-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=eea4e263fb494346a826b33ffce0c584&wsABSTime=1794543969",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Barcelona (W)",
       "Team2Name": "Arsenal (W)",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2817/image",
@@ -5981,8 +5998,17 @@
       "Status": "Upcoming",
       "CategoryId": 9095,
       "UrlSlug": "copa-del-rey",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3509af53c75be39f6669419c0432a27a&wsABSTime=1794543761",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3509af53c75be39f6669419c0432a27a&wsABSTime=1794543761",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Puertollano",
       "Team2Name": "Albacete",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/295639/image",
