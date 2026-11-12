@@ -1,15 +1,73 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:19 PM 12-11-2026",
+    "LastUpdate": "11:20 PM 12-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 268
+    "LiveCount": 13,
+    "UpcomingCount": 266
   },
   "Matches": [
+    {
+      "EntityId": 2567,
+      "VideoName": "Malta vs Eswatini",
+      "CategoryName": "Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-12 23:30:00",
+      "Description": "Watch Malta vs Eswatini — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4483/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9204,
+      "UrlSlug": "friendly-international",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=1c0168f38fd9f0f9fa1681cbb6f2c8fb&wsABSTime=1794543859",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=1c0168f38fd9f0f9fa1681cbb6f2c8fb&wsABSTime=1794543859",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Malta",
+      "Team2Name": "Eswatini",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4483/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4733/image"
+    },
+    {
+      "EntityId": 2568,
+      "VideoName": "Puertollano vs Albacete",
+      "CategoryName": "Copa del Rey",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-12 23:30:00",
+      "Description": "Watch Puertollano vs Albacete — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/295639/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9095,
+      "UrlSlug": "copa-del-rey",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3509af53c75be39f6669419c0432a27a&wsABSTime=1794543761",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3509af53c75be39f6669419c0432a27a&wsABSTime=1794543761",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Puertollano",
+      "Team2Name": "Albacete",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/295639/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2848/image"
+    },
     {
       "EntityId": 1090553566,
       "VideoName": "Türkiye vs Belgium",
@@ -5833,64 +5891,6 @@
       "Team2Name": "Arsenal (W)",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2817/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/42/image"
-    },
-    {
-      "EntityId": 2567,
-      "VideoName": "Malta vs Eswatini",
-      "CategoryName": "Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-12 23:30:00",
-      "Description": "Watch Malta vs Eswatini — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4483/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=1c0168f38fd9f0f9fa1681cbb6f2c8fb&wsABSTime=1794543859",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=1c0168f38fd9f0f9fa1681cbb6f2c8fb&wsABSTime=1794543859",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Malta",
-      "Team2Name": "Eswatini",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4483/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4733/image"
-    },
-    {
-      "EntityId": 2568,
-      "VideoName": "Puertollano vs Albacete",
-      "CategoryName": "Copa del Rey",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-12 23:30:00",
-      "Description": "Watch Puertollano vs Albacete — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/295639/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9095,
-      "UrlSlug": "copa-del-rey",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3509af53c75be39f6669419c0432a27a&wsABSTime=1794543761",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3509af53c75be39f6669419c0432a27a&wsABSTime=1794543761",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Puertollano",
-      "Team2Name": "Albacete",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/295639/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2848/image"
     }
   ]
 }
