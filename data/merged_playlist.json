@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:13 AM 13-11-2026",
+    "LastUpdate": "12:14 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -5789,8 +5789,39 @@
       "Status": "Upcoming",
       "CategoryId": 9763,
       "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794504012-0-0-1dd3f6a9d3f27ff1f3fe48f87f850981",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794496088-0-0-4997dd4761f87ef41fc73fb22962d98f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794499928-0-0-5e18bebe1d471a1f1afeaaa988e45e8f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Ivory Coast",
       "Team2Name": "Gambia",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4768/image",
