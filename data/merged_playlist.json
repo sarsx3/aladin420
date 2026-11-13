@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 AM 13-11-2026",
+    "LastUpdate": "09:20 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 254
+    "LiveCount": 5,
+    "UpcomingCount": 253
   },
   "Matches": [
     {
@@ -34,6 +34,26 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2603,
+      "VideoName": "Australia vs England",
+      "CategoryName": "AUS vs ENG - 1st ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 09:30:00",
+      "Description": "Watch Australia vs England — AUS vs ENG - 1st ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187746/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9081,
+      "UrlSlug": "aus-vs-eng-1st-odi",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Australia",
+      "Team2Name": "England",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     },
     {
       "EntityId": 19063,
@@ -5182,26 +5202,6 @@
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
-    },
-    {
-      "EntityId": 2603,
-      "VideoName": "Australia vs England",
-      "CategoryName": "AUS vs ENG - 1st ODI",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-13 09:30:00",
-      "Description": "Watch Australia vs England — AUS vs ENG - 1st ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187746/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9081,
-      "UrlSlug": "aus-vs-eng-1st-odi",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Australia",
-      "Team2Name": "England",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     }
   ]
 }
