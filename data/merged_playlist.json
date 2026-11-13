@@ -1,15 +1,51 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:27 PM 13-11-2026",
+    "LastUpdate": "09:28 PM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 239
   },
   "Matches": [
+    {
+      "EntityId": 1,
+      "VideoName": "Iraq vs Lebanon",
+      "CategoryName": "Friendly international",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 21:00:00",
+      "Description": "Watch Iraq vs Lebanon — Friendly international. Live streaming from  event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9674,
+      "UrlSlug": "friendly-international",
+      "stream_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=af4eac140a81728eafc3769659aace32&txTime=6af76c84",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=af4eac140a81728eafc3769659aace32&txTime=6af76c84",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.41/hls/BBBBAAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Iraq",
+      "Team2Name": "Lebanon",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088"
+    },
     {
       "EntityId": 2598,
       "VideoName": "Qatar vs Australia",
