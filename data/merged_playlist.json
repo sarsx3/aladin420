@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:01 AM 13-11-2026",
+    "LastUpdate": "11:02 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 252
   },
   "Matches": [
+    {
+      "EntityId": 1090553601,
+      "VideoName": "Philippine Open - Day 2",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 11:02:34",
+      "Description": "Watch Philippine Open - Day 2 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794588413~acl=/*~id=29000002841092562346333755034077~hmac=db8a3cf991488161f1695e79e48fddf42bb916d457d52dc0f09f027475ec0bb5",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794588413~acl=/*~id=29000002841092562346333755034077~hmac=db8a3cf991488161f1695e79e48fddf42bb916d457d52dc0f09f027475ec0bb5"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794546154
+    },
     {
       "EntityId": 2604,
       "VideoName": "Pakistan vs Sri Lanka",
@@ -284,27 +307,23 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794585356~acl=/*~id=48355716309638781922150610778231~hmac=5bf1149adee3a8866fff2260084ceeb521b52f79f719a956be991b9339994df7",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794588413~acl=/*~id=29000002841092562346333755034077~hmac=db8a3cf991488161f1695e79e48fddf42bb916d457d52dc0f09f027475ec0bb5",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794585356~acl=/*~id=48355716309638781922150610778231~hmac=5bf1149adee3a8866fff2260084ceeb521b52f79f719a956be991b9339994df7"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794588413~acl=/*~id=29000002841092562346333755034077~hmac=db8a3cf991488161f1695e79e48fddf42bb916d457d52dc0f09f027475ec0bb5"
         },
         {
           "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794585356~acl=/*~id=48355716309638781922150610778231~hmac=5bf1149adee3a8866fff2260084ceeb521b52f79f719a956be991b9339994df7"
-        },
-        {
-          "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794585356~acl=/*~id=48355716309638781922150610778231~hmac=5bf1149adee3a8866fff2260084ceeb521b52f79f719a956be991b9339994df7"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794588413~acl=/*~id=29000002841092562346333755034077~hmac=db8a3cf991488161f1695e79e48fddf42bb916d457d52dc0f09f027475ec0bb5"
         },
         {
           "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794585356~acl=/*~id=48355716309638781922150610778231~hmac=5bf1149adee3a8866fff2260084ceeb521b52f79f719a956be991b9339994df7"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794588413~acl=/*~id=29000002841092562346333755034077~hmac=db8a3cf991488161f1695e79e48fddf42bb916d457d52dc0f09f027475ec0bb5"
         },
         {
           "label": "Kannada",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794585356~acl=/*~id=48355716309638781922150610778231~hmac=5bf1149adee3a8866fff2260084ceeb521b52f79f719a956be991b9339994df7"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794588413~acl=/*~id=29000002841092562346333755034077~hmac=db8a3cf991488161f1695e79e48fddf42bb916d457d52dc0f09f027475ec0bb5"
         }
       ],
       "Provider": "SonyLiv",
