@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:49 AM 13-11-2026",
+    "LastUpdate": "07:50 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 253
+    "LiveCount": 2,
+    "UpcomingCount": 252
   },
   "Matches": [
+    {
+      "EntityId": 2602,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "NZ vs IND - 4th ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 08:00:00",
+      "Description": "Watch New Zealand vs India — NZ vs IND - 4th ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9117,
+      "UrlSlug": "nz-vs-ind-4th-odi",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+      "sources": [
+        {
+          "label": "TNT sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "New Zealand",
+      "Team2Name": "India",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    },
     {
       "EntityId": 1090553595,
       "VideoName": "4th ODI",
@@ -5039,34 +5067,6 @@
       "Team2Name": "England",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
-    },
-    {
-      "EntityId": 2602,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "NZ vs IND - 4th ODI",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-13 08:00:00",
-      "Description": "Watch New Zealand vs India — NZ vs IND - 4th ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9117,
-      "UrlSlug": "nz-vs-ind-4th-odi",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-      "sources": [
-        {
-          "label": "TNT sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "New Zealand",
-      "Team2Name": "India",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
     }
   ]
 }
