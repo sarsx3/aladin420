@@ -1,15 +1,66 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 PM 13-11-2026",
+    "LastUpdate": "05:20 PM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 248
+    "LiveCount": 6,
+    "UpcomingCount": 247
   },
   "Matches": [
+    {
+      "EntityId": 2692,
+      "VideoName": "United Tigers vs Emirates Eagles",
+      "CategoryName": "Abu Dhabi T10 League 2026 - 13th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 17:30:00",
+      "Description": "Watch United Tigers vs Emirates Eagles — Abu Dhabi T10 League 2026 - 13th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9682,
+      "UrlSlug": "abu-dhabi-t10-league-2026-13th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjohwlwwrx/out/v1/45f5249357694dd985808ceea0a3cd80/cenc.mpd",
+          "drmScheme": "MDRhZmEzNzg2YmZiZGIyNWRlN2MzZWEzZjUwOTBmNGM6ZjM2OGYwM2Q3YzljODJhZjAyM2ZmY2Q5OWU1MzM5OTg=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjohwlwwrx/out/v1/45f5249357694dd985808ceea0a3cd80/cenc.mpd",
+          "drmScheme": "MDRhZmEzNzg2YmZiZGIyNWRlN2MzZWEzZjUwOTBmNGM6ZjM2OGYwM2Q3YzljODJhZjAyM2ZmY2Q5OWU1MzM5OTg=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "United Tigers",
+      "Team2Name": "Emirates Eagles",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png"
+    },
     {
       "EntityId": 1090553604,
       "VideoName": "DP World Tour Championship, Dubai - Day 2",
@@ -5066,57 +5117,6 @@
       "Team2Name": "Paraguay",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4738/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4789/image"
-    },
-    {
-      "EntityId": 2692,
-      "VideoName": "United Tigers vs Emirates Eagles",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 13th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-13 17:30:00",
-      "Description": "Watch United Tigers vs Emirates Eagles — Abu Dhabi T10 League 2026 - 13th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9682,
-      "UrlSlug": "abu-dhabi-t10-league-2026-13th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "sources": [
-        {
-          "label": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjohwlwwrx/out/v1/45f5249357694dd985808ceea0a3cd80/cenc.mpd",
-          "drmScheme": "MDRhZmEzNzg2YmZiZGIyNWRlN2MzZWEzZjUwOTBmNGM6ZjM2OGYwM2Q3YzljODJhZjAyM2ZmY2Q5OWU1MzM5OTg=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjohwlwwrx/out/v1/45f5249357694dd985808ceea0a3cd80/cenc.mpd",
-          "drmScheme": "MDRhZmEzNzg2YmZiZGIyNWRlN2MzZWEzZjUwOTBmNGM6ZjM2OGYwM2Q3YzljODJhZjAyM2ZmY2Q5OWU1MzM5OTg=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "United Tigers",
-      "Team2Name": "Emirates Eagles",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png"
     }
   ]
 }
