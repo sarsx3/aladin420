@@ -1,15 +1,50 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:34 PM 13-11-2026",
+    "LastUpdate": "07:35 PM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 243
+    "LiveCount": 8,
+    "UpcomingCount": 242
   },
   "Matches": [
+    {
+      "EntityId": 2693,
+      "VideoName": "Royal Desert Champions vs Yas Lions",
+      "CategoryName": "Abu Dhabi T10 League 2026 - 14th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-13 19:45:00",
+      "Description": "Watch Royal Desert Champions vs Yas Lions — Abu Dhabi T10 League 2026 - 14th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9304,
+      "UrlSlug": "abu-dhabi-t10-league-2026-14th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Royal Desert Champions",
+      "Team2Name": "Yas Lions",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png"
+    },
     {
       "EntityId": 2578,
       "VideoName": "Zambia vs Burundi",
@@ -5112,41 +5147,6 @@
       "Status": "Upcoming",
       "CategoryId": 269,
       "UrlSlug": "e1-florida-miami-2026"
-    },
-    {
-      "EntityId": 2693,
-      "VideoName": "Royal Desert Champions vs Yas Lions",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 14th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-13 19:45:00",
-      "Description": "Watch Royal Desert Champions vs Yas Lions — Abu Dhabi T10 League 2026 - 14th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9304,
-      "UrlSlug": "abu-dhabi-t10-league-2026-14th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "sources": [
-        {
-          "label": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Royal Desert Champions",
-      "Team2Name": "Yas Lions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png"
     }
   ]
 }
