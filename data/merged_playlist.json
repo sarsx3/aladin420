@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:44 PM 14-11-2026",
+    "LastUpdate": "09:45 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -289,8 +289,16 @@
       "Status": "Live",
       "CategoryId": 9198,
       "UrlSlug": "saff-championship-semi-final-2",
-      "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794662403-0-0-ae1a0221a0af20fae3b5daec92361874",
+      "stream_url": "http://bdtop1.tvhunter.top/T-SPORTS-HD/index.m3u8",
       "sources": [
+        {
+          "label": "PrioFy TV -1",
+          "url": "http://bdtop1.tvhunter.top/T-SPORTS-HD/index.m3u8"
+        },
+        {
+          "label": "PrioFy TV - 2",
+          "url": "https://app-zibo-play40.tvhunter.top/newr/T-SPORTS-HD.m3u8"
+        },
         {
           "label": "No Buffer-Aq",
           "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794662403-0-0-ae1a0221a0af20fae3b5daec92361874",
@@ -336,7 +344,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8",
           "headers": {
             "Referer": "https://www.btvlive.gov.bd",
