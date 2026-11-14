@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:01 PM 14-11-2026",
+    "LastUpdate": "01:02 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 15
   },
   "Matches": [
+    {
+      "EntityId": 1090553932,
+      "VideoName": "DP World Tour Championship, Dubai - Day 3",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 13:02:18",
+      "Description": "Watch DP World Tour Championship, Dubai - Day 3 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794639738
+    },
     {
       "EntityId": 1090553929,
       "VideoName": "Pakistan vs India - Final",
@@ -23,75 +46,31 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
         },
         {
           "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
         },
         {
           "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
         },
         {
           "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
         },
         {
           "label": "Kannada",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
         }
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794632538
-    },
-    {
-      "EntityId": 19198,
-      "VideoName": "Hobart Hurricanes vs Brisbane Heat",
-      "CategoryName": "Women's Big Bash League 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-11-14 10:40:00",
-      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 21st T20I is scheduled to be played on 14-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794476844540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794476844540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1247,
-      "UrlSlug": "hh-vs-brh-21st-t20i-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-        }
-      ]
-    },
-    {
-      "EntityId": 1090553928,
-      "VideoName": "Philippine Open - Day 3",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 09:01:17",
-      "Description": "Watch Philippine Open - Day 3 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794678857~acl=/*~id=60700969861915855335727377911299~hmac=3cfcc66c867afa972ac4a62720fde947f9395ce4c2de95150cf733e28f2b1a3f"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1794625277
     },
     {
       "EntityId": 19115,
