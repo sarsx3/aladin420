@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:11 PM 14-11-2026",
+    "LastUpdate": "11:12 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 20,
+    "LiveCount": 11,
     "UpcomingCount": 303
   },
   "Matches": [
@@ -186,6 +186,14 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Georgia",
@@ -302,6 +310,14 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
       "Team1Name": "Norway",
@@ -373,35 +389,6 @@
       "Team2Name": "Botswana",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4726/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4747/image"
-    },
-    {
-      "EntityId": 2642,
-      "VideoName": "Palestine vs Iran",
-      "CategoryName": "Friendly International",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 22:00:00",
-      "Description": "Watch Palestine vs Iran — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=af4aeab46507828d705efb1d55f095b1&wsABSTime=1794713180",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=af4aeab46507828d705efb1d55f095b1&wsABSTime=1794713180",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Palestine",
-      "Team2Name": "Iran",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091"
     },
     {
       "EntityId": 2697,
@@ -505,220 +492,6 @@
       "Team2Name": "Sporting Gijon",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/24360/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2852/image"
-    },
-    {
-      "EntityId": 2612,
-      "VideoName": "Wycombe vs Huddersfield",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch Wycombe vs Huddersfield — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/62/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Wycombe",
-      "Team2Name": "Huddersfield",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/62/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/59/image"
-    },
-    {
-      "EntityId": 2613,
-      "VideoName": "Wigan vs Barnsley",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch Wigan vs Barnsley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/49/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/Y777AAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/Y777AAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Wigan",
-      "Team2Name": "Barnsley",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/49/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/23/image"
-    },
-    {
-      "EntityId": 2614,
-      "VideoName": "Stockport vs Reading",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch Stockport vs Reading — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/10/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/Y777AA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/Y777AA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Stockport",
-      "Team2Name": "Reading",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/10/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/28/image"
-    },
-    {
-      "EntityId": 2615,
-      "VideoName": "Stevenage vs Mansfield",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch Stevenage vs Mansfield — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/133/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Stevenage",
-      "Team2Name": "Mansfield",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/133/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/70/image"
-    },
-    {
-      "EntityId": 2616,
-      "VideoName": "Sheffield Wed vs Plymouth",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch Sheffield Wed vs Plymouth — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/12/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/Y777A.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/Y777A.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sheffield Wed",
-      "Team2Name": "Plymouth",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/12/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/79/image"
-    },
-    {
-      "EntityId": 2617,
-      "VideoName": "MK Dons vs Burton",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch MK Dons vs Burton — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/Y777.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/Y777.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "MK Dons",
-      "Team2Name": "Burton",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/134/image"
-    },
-    {
-      "EntityId": 2618,
-      "VideoName": "Doncaster vs Leyton Orient",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch Doncaster vs Leyton Orient — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/84/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/Y777.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/Y777.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Doncaster",
-      "Team2Name": "Leyton Orient",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/84/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/83/image"
-    },
-    {
-      "EntityId": 2619,
-      "VideoName": "AFC Wimbledon vs Blackpool",
-      "CategoryName": "League One",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:00:00",
-      "Description": "Watch AFC Wimbledon vs Blackpool — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/71/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.50/hls/T000AAAAAQQQQ.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.50/hls/T000AAAAAQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "AFC Wimbledon",
-      "Team2Name": "Blackpool",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/71/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/67/image"
     },
     {
       "EntityId": 20203,
