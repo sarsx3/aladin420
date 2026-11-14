@@ -1,15 +1,90 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 14-11-2026",
+    "LastUpdate": "09:50 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 16,
-    "UpcomingCount": 308
+    "LiveCount": 19,
+    "UpcomingCount": 305
   },
   "Matches": [
+    {
+      "EntityId": 2611,
+      "VideoName": "Uganda vs Botswana",
+      "CategoryName": "Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 22:00:00",
+      "Description": "Watch Uganda vs Botswana — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4726/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9763,
+      "UrlSlug": "africa-cup-of-nations-qualification",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Uganda",
+      "Team2Name": "Botswana",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4726/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4747/image"
+    },
+    {
+      "EntityId": 2642,
+      "VideoName": "Palestine vs Iran",
+      "CategoryName": "Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 22:00:00",
+      "Description": "Watch Palestine vs Iran — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9204,
+      "UrlSlug": "friendly-international",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Palestine",
+      "Team2Name": "Iran",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091"
+    },
+    {
+      "EntityId": 2697,
+      "VideoName": "Yas Lions vs UAE Bulls",
+      "CategoryName": "Abu Dhabi T10 League 2026 - 18th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 22:00:00",
+      "Description": "Watch Yas Lions vs UAE Bulls — Abu Dhabi T10 League 2026 - 18th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9020,
+      "UrlSlug": "abu-dhabi-t10-league-2026-18th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Yas Lions",
+      "Team2Name": "UAE Bulls",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/78.png"
+    },
     {
       "EntityId": 2646,
       "VideoName": "Real Sociedad B vs Sporting Gijon",
@@ -345,10 +420,9 @@
         },
         {
           "label": "Server 9",
-          "url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8",
+          "url": "https://live-sg-aws.bongobd.com/hls/v2.R4kxz0aGfBqKUQ8fDBKHtg/1794669658/bongoiptv/SAFFmatch08_mid/chunks.m3u8",
           "headers": {
-            "Referer": "https://www.btvlive.gov.bd",
-            "User-Agent": "Mozilla/5.0"
+            "User-Agent": "iphone"
           }
         },
         {
@@ -6644,81 +6718,6 @@
       "Status": "Upcoming",
       "CategoryId": 269,
       "UrlSlug": "e1-florida-miami-2026"
-    },
-    {
-      "EntityId": 2611,
-      "VideoName": "Uganda vs Botswana",
-      "CategoryName": "Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-14 22:00:00",
-      "Description": "Watch Uganda vs Botswana — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4726/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9763,
-      "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Uganda",
-      "Team2Name": "Botswana",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4726/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4747/image"
-    },
-    {
-      "EntityId": 2642,
-      "VideoName": "Palestine vs Iran",
-      "CategoryName": "Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-14 22:00:00",
-      "Description": "Watch Palestine vs Iran — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Palestine",
-      "Team2Name": "Iran",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091"
-    },
-    {
-      "EntityId": 2697,
-      "VideoName": "Yas Lions vs UAE Bulls",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 18th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-14 22:00:00",
-      "Description": "Watch Yas Lions vs UAE Bulls — Abu Dhabi T10 League 2026 - 18th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9020,
-      "UrlSlug": "abu-dhabi-t10-league-2026-18th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "sources": [
-        {
-          "label": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Yas Lions",
-      "Team2Name": "UAE Bulls",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/78.png"
     }
   ]
 }
