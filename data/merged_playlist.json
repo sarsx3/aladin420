@@ -1,15 +1,80 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:49 PM 14-11-2026",
+    "LastUpdate": "02:50 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 329
+    "LiveCount": 8,
+    "UpcomingCount": 328
   },
   "Matches": [
+    {
+      "EntityId": 2836,
+      "VideoName": "India vs Bhutan",
+      "CategoryName": "SAFF Championship 2026 - (Semi-Final 1)",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 15:00:00",
+      "Description": "Watch India vs Bhutan — SAFF Championship 2026 - (Semi-Final 1). Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4828/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9885,
+      "UrlSlug": "saff-championship-2026-semi-final-1",
+      "stream_url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+      "sources": [
+        {
+          "label": "t sports hd",
+          "url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "t sports hd 2",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "btv hd",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794640803-0-0-cb6bfed79e8c8350a56f468031462c4f",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "India",
+      "Team2Name": "Bhutan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/191564/image"
+    },
     {
       "EntityId": 19199,
       "VideoName": "Perth Scorchers vs Adelaide Strikers",
@@ -6752,71 +6817,6 @@
       "Team2Name": "United Tigers",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png"
-    },
-    {
-      "EntityId": 2836,
-      "VideoName": "India vs Bhutan",
-      "CategoryName": "SAFF Championship 2026 - (Semi-Final 1)",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-14 15:00:00",
-      "Description": "Watch India vs Bhutan — SAFF Championship 2026 - (Semi-Final 1). Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4828/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9885,
-      "UrlSlug": "saff-championship-2026-semi-final-1",
-      "stream_url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
-      "sources": [
-        {
-          "label": "t sports hd",
-          "url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "t sports hd 2",
-          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "btv hd",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794640803-0-0-cb6bfed79e8c8350a56f468031462c4f",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India",
-      "Team2Name": "Bhutan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/191564/image"
     }
   ]
 }
