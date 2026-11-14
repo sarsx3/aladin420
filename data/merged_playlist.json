@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:00 PM 14-11-2026",
+    "LastUpdate": "07:01 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 14,
     "UpcomingCount": 322
   },
   "Matches": [
@@ -214,6 +214,65 @@
       "Team2Name": "Kyrgyzstan",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8509",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/11295"
+    },
+    {
+      "EntityId": 1,
+      "VideoName": "Royal Desert Champions vs United Tigers",
+      "CategoryName": "Abu Dhabi T10 League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 17:30:00",
+      "Description": "Watch Royal Desert Champions vs United Tigers — Abu Dhabi T10 League. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9387,
+      "UrlSlug": "abu-dhabi-t10-league",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "drmScheme": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "drmScheme": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Premier Sports - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "drmScheme": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Royal Desert Champions",
+      "Team2Name": "United Tigers",
+      "Team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "Team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark"
     },
     {
       "EntityId": 2652,
