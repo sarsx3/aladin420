@@ -1,15 +1,56 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:29 AM 14-11-2026",
+    "LastUpdate": "10:30 AM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 334
+    "LiveCount": 4,
+    "UpcomingCount": 333
   },
   "Matches": [
+    {
+      "EntityId": 19198,
+      "VideoName": "Hobart Hurricanes vs Brisbane Heat",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-11-14 10:40:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 21st T20I is scheduled to be played on 14-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794476844540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794476844540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1247,
+      "UrlSlug": "hh-vs-brh-21st-t20i-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        }
+      ]
+    },
+    {
+      "EntityId": 2649,
+      "VideoName": "Hobart Hurricanes Women vs Brisbane Heat Women",
+      "CategoryName": "Womens Big Bash League 2026 - 21st Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 10:40:00",
+      "Description": "Watch Hobart Hurricanes Women vs Brisbane Heat Women — Womens Big Bash League 2026 - 21st Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274885/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9103,
+      "UrlSlug": "womens-big-bash-league-2026-21st-match",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Hobart Hurricanes Women",
+      "Team2Name": "Brisbane Heat Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274884/image"
+    },
     {
       "EntityId": 1090553928,
       "VideoName": "Philippine Open - Day 3",
@@ -6639,26 +6680,6 @@
       "Team2Name": "India U19",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/6081/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4828/image"
-    },
-    {
-      "EntityId": 2649,
-      "VideoName": "Hobart Hurricanes Women vs Brisbane Heat Women",
-      "CategoryName": "Womens Big Bash League 2026 - 21st Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-14 10:40:00",
-      "Description": "Watch Hobart Hurricanes Women vs Brisbane Heat Women — Womens Big Bash League 2026 - 21st Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274885/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9103,
-      "UrlSlug": "womens-big-bash-league-2026-21st-match",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Hobart Hurricanes Women",
-      "Team2Name": "Brisbane Heat Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274884/image"
     }
   ]
 }
