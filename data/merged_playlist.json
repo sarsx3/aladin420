@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:15 AM 15-11-2026",
+    "LastUpdate": "03:16 AM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -124,6 +124,27 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794686657
+    },
+    {
+      "EntityId": 20214,
+      "VideoName": "CLASSIC 24 HOUR presented by Mission Foods (GROUP A/B) RACE 1",
+      "CategoryName": "HSR Daytona Classic 2026",
+      "StageName": "Group Stages",
+      "EventStartDate": "2026-11-15 02:00:00",
+      "Description": "Watch CLASSIC 24 HOUR presented by Mission Foods (GROUP A/B) RACE 1 live online on tapmad. Enjoy the thrill and excitement of endurance racing as classic racing cars compete in an action-packed 24-hour battle on the track. Stream live racing action on tapmad via mobile app, TV, and web, and enjoy an uninterrupted, ad-free viewing experience.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794301477540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794301477540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1348,
+      "UrlSlug": "hsr-daytona-2026-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 2668,
@@ -811,27 +832,6 @@
       "Team2Name": "Denmark",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4704/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4476/image"
-    },
-    {
-      "EntityId": 20208,
-      "VideoName": "Sixties Endurance by Peter Auto",
-      "CategoryName": "HSR Daytona Classic 2026",
-      "StageName": "Race",
-      "EventStartDate": "2026-11-15 01:00:00",
-      "Description": "Watch Sixties Endurance by Peter Auto live online on tapmad. Enjoy the thrill and excitement of endurance racing as classic racing cars compete in an action-packed battle on the track. Stream live racing action on tapmad via mobile app, TV, and web, and enjoy an uninterrupted, ad-free viewing experience.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794300987540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794300987540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1348,
-      "UrlSlug": "hsr-daytona-2026-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2653,
