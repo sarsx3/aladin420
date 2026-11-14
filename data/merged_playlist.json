@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:28 PM 14-11-2026",
+    "LastUpdate": "11:29 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 12,
     "UpcomingCount": 301
   },
   "Matches": [
@@ -23,8 +23,47 @@
       "Status": "Live",
       "CategoryId": 9491,
       "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "sources": [
+        {
+          "label": "LaLiga Hypermotion",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "LaLiga Hypermotion2",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd?|drmScheme=clearkey&drmLicense=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794673174-0-0-31b80ef21eced845a2c67fbd4a3d730a",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Almeria",
       "Team2Name": "Andorra",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
@@ -43,8 +82,47 @@
       "Status": "Live",
       "CategoryId": 9491,
       "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "sources": [
+        {
+          "label": "LaLiga Hypermotion",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "LaLiga Hypermotion2",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd?|drmScheme=clearkey&drmLicense=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794673546-0-0-a43d6819ee58f72d18a6672a87c50d21",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Mallorca",
       "Team2Name": "Cordoba",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2826/image",
@@ -480,58 +558,6 @@
       "Team2Name": "UAE Bulls",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/78.png"
-    },
-    {
-      "EntityId": 2646,
-      "VideoName": "Real Sociedad B vs Sporting Gijon",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-14 21:15:00",
-      "Description": "Watch Real Sociedad B vs Sporting Gijon — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/24360/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "sources": [
-        {
-          "label": "LaLiga Hypermotion",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794666337-0-0-f0baadddacfc14e3b8e63e14917bf721",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.59/hls/BEEEAAAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Real Sociedad B",
-      "Team2Name": "Sporting Gijon",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/24360/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2852/image"
     },
     {
       "EntityId": 20203,
