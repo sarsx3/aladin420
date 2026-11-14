@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:19 PM 14-11-2026",
+    "LastUpdate": "11:20 PM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 303
+    "LiveCount": 13,
+    "UpcomingCount": 301
   },
   "Matches": [
+    {
+      "EntityId": 2647,
+      "VideoName": "Almeria vs Andorra",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 23:30:00",
+      "Description": "Watch Almeria vs Andorra — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2858/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Almeria",
+      "Team2Name": "Andorra",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/324871/image"
+    },
+    {
+      "EntityId": 2648,
+      "VideoName": "Mallorca vs Cordoba",
+      "CategoryName": "LaLiga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-14 23:30:00",
+      "Description": "Watch Mallorca vs Cordoba — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2826/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9491,
+      "UrlSlug": "laliga-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Mallorca",
+      "Team2Name": "Cordoba",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2826/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2850/image"
+    },
     {
       "EntityId": 1090553935,
       "VideoName": "Norway vs Wales",
@@ -6467,46 +6507,6 @@
       "Team2Name": "Venezuela",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/51499/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4722/image"
-    },
-    {
-      "EntityId": 2647,
-      "VideoName": "Almeria vs Andorra",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-14 23:30:00",
-      "Description": "Watch Almeria vs Andorra — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2858/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Almeria",
-      "Team2Name": "Andorra",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2858/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/324871/image"
-    },
-    {
-      "EntityId": 2648,
-      "VideoName": "Mallorca vs Cordoba",
-      "CategoryName": "LaLiga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-14 23:30:00",
-      "Description": "Watch Mallorca vs Cordoba — LaLiga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2826/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9491,
-      "UrlSlug": "laliga-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Mallorca",
-      "Team2Name": "Cordoba",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2826/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2850/image"
     }
   ]
 }
