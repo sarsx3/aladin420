@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:06 PM 15-11-2026",
+    "LastUpdate": "05:07 PM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 11,
     "UpcomingCount": 371
   },
   "Matches": [
+    {
+      "EntityId": 2678,
+      "VideoName": "Kathmandu Gorkhas vs Pokhara Avengers",
+      "CategoryName": "Nepal Premier League 2026 - 28th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 17:15:00",
+      "Description": "Watch Kathmandu Gorkhas vs Pokhara Avengers — Nepal Premier League 2026 - 28th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9578,
+      "UrlSlug": "nepal-premier-league-2026-28th-match",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Kathmandu Gorkhas",
+      "Team2Name": "Pokhara Avengers",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/PW.png"
+    },
     {
       "EntityId": 2698,
       "VideoName": "Royal Desert Champions vs Arabian Aces",
@@ -132,6 +152,41 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794726256
+    },
+    {
+      "EntityId": 2677,
+      "VideoName": "Chitwan Rhinos vs Karnali Yaks",
+      "CategoryName": "Nepal Premier League 2026 - 27th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 12:45:00",
+      "Description": "Watch Chitwan Rhinos vs Karnali Yaks — Nepal Premier League 2026 - 27th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9579,
+      "UrlSlug": "nepal-premier-league-2026-27th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "sources": [
+        {
+          "label": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "FANCODE SD",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Chitwan Rhinos",
+      "Team2Name": "Karnali Yaks",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png"
     },
     {
       "EntityId": 2676,
