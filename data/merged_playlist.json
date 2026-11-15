@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:17 AM 15-11-2026",
+    "LastUpdate": "08:18 AM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,27 @@
     "UpcomingCount": 288
   },
   "Matches": [
+    {
+      "EntityId": 20197,
+      "VideoName": "FEI NAL - Toronto, CAN",
+      "CategoryName": "Longines FEI Jumping World Cup 2026",
+      "StageName": "Race",
+      "EventStartDate": "2026-11-15 08:30:00",
+      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794562074540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794562074540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 368,
+      "UrlSlug": "longines-fei-jumping-world-cup-2026",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 19064,
       "VideoName": "New Zealand vs India",
@@ -227,27 +248,6 @@
       "Team2Name": "Vasco",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/21845/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1974/image"
-    },
-    {
-      "EntityId": 20214,
-      "VideoName": "CLASSIC 24 HOUR presented by Mission Foods (GROUP A/B) RACE 1",
-      "CategoryName": "HSR Daytona Classic 2026",
-      "StageName": "Group Stages",
-      "EventStartDate": "2026-11-15 02:00:00",
-      "Description": "Watch CLASSIC 24 HOUR presented by Mission Foods (GROUP A/B) RACE 1 live online on tapmad. Enjoy the thrill and excitement of endurance racing as classic racing cars compete in an action-packed 24-hour battle on the track. Stream live racing action on tapmad via mobile app, TV, and web, and enjoy an uninterrupted, ad-free viewing experience.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794301477540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794301477540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1348,
-      "UrlSlug": "hsr-daytona-2026-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 2944,
@@ -4978,6 +4978,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4742/image"
     },
     {
+      "EntityId": 20093,
+      "VideoName": "Iceland vs Luxembourg",
+      "CategoryName": "UEFA Nations League 2026/27",
+      "StageName": "MATCHDAY 6",
+      "EventStartDate": "2026-11-16 23:00:00",
+      "Description": "Watch Iceland vs Luxembourg live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Iceland vs Luxembourg match will take place on 16-Nov, Monday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794556271540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794556271540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1120,
+      "UrlSlug": "iceland-vs-luxembourg-unl-live-match"
+    },
+    {
       "EntityId": 2714,
       "VideoName": "Lithuania vs Liechtenstein",
       "CategoryName": "UEFA Nations League",
@@ -5965,20 +5979,6 @@
       "Team2Name": "India",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4784/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4828/image"
-    },
-    {
-      "EntityId": 20197,
-      "VideoName": "FEI NAL - Toronto, CAN",
-      "CategoryName": "Longines FEI Jumping World Cup 2026",
-      "StageName": "Race",
-      "EventStartDate": "2026-11-15 08:30:00",
-      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794562074540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794562074540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 368,
-      "UrlSlug": "longines-fei-jumping-world-cup-2026"
     }
   ]
 }
