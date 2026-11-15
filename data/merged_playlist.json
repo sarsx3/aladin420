@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:34 PM 15-11-2026",
+    "LastUpdate": "12:35 PM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 375
+    "LiveCount": 10,
+    "UpcomingCount": 374
   },
   "Matches": [
+    {
+      "EntityId": 2677,
+      "VideoName": "Chitwan Rhinos vs Karnali Yaks",
+      "CategoryName": "Nepal Premier League 2026 - 27th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 12:45:00",
+      "Description": "Watch Chitwan Rhinos vs Karnali Yaks — Nepal Premier League 2026 - 27th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9579,
+      "UrlSlug": "nepal-premier-league-2026-27th-match",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Chitwan Rhinos",
+      "Team2Name": "Karnali Yaks",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png"
+    },
     {
       "EntityId": 2676,
       "VideoName": "Afghanistan vs Zimbabwe",
@@ -7808,26 +7828,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 2677,
-      "VideoName": "Chitwan Rhinos vs Karnali Yaks",
-      "CategoryName": "Nepal Premier League 2026 - 27th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-15 12:45:00",
-      "Description": "Watch Chitwan Rhinos vs Karnali Yaks — Nepal Premier League 2026 - 27th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9579,
-      "UrlSlug": "nepal-premier-league-2026-27th-match",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Chitwan Rhinos",
-      "Team2Name": "Karnali Yaks",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZW.png"
     }
   ]
 }
