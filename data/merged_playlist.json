@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:07 AM 16-11-2026",
+    "LastUpdate": "12:08 AM 16-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 360
   },
   "Matches": [
@@ -428,57 +428,6 @@
       "Team2Name": "Albania",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4743/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4690/image"
-    },
-    {
-      "EntityId": 2700,
-      "VideoName": "United Tigers vs Yas Lions",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 21st Match",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-15 20:00:00",
-      "Description": "Watch United Tigers vs Yas Lions — Abu Dhabi T10 League 2026 - 21st Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9159,
-      "UrlSlug": "abu-dhabi-t10-league-2026-21st-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "sources": [
-        {
-          "label": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r1ic5dmtdq/out/v1/0f83fcd8375647beb2cb53661e99f35f/cenc.mpd",
-          "drmScheme": "MTYwYWI2ZmQ1MTFiMjJjMmQ5Y2FlNDNmN2UyZDQ0ZDY6ZTY4ZjM3YTk1NWM3NmI2NDBmOWYxNThjYjM1ZmNjZTY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r1ic5dmtdq/out/v1/0f83fcd8375647beb2cb53661e99f35f/cenc.mpd",
-          "drmScheme": "MTYwYWI2ZmQ1MTFiMjJjMmQ5Y2FlNDNmN2UyZDQ0ZDY6ZTY4ZjM3YTk1NWM3NmI2NDBmOWYxNThjYjM1ZmNjZTY=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "United Tigers",
-      "Team2Name": "Yas Lions",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png"
     },
     {
       "EntityId": 3015,
@@ -7219,8 +7168,23 @@
       "Status": "Upcoming",
       "CategoryId": 9540,
       "UrlSlug": "abu-dhabi-t10-league-2026-23rd-match",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Emirates Eagles",
       "Team2Name": "Royal Desert Champions",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png",
@@ -7327,8 +7291,23 @@
       "Status": "Upcoming",
       "CategoryId": 9491,
       "UrlSlug": "abu-dhabi-t10-league-2026-22nd-match",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Arabian Aces",
       "Team2Name": "United Tigers",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png",
@@ -7539,8 +7518,106 @@
       "Status": "Upcoming",
       "CategoryId": 9067,
       "UrlSlug": "uefa-nations-league",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "sources": [
+        {
+          "label": "BEIN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TVE La 1 ES FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001794763540-0-0-abe5e02131f91b0040822c7bfc7e6953",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=7bca8816daf019b3a1f7fa0e8bbe8be6&wsABSTime=1794806741",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794763541-0-0-c5ab6845dc6fe943a91101f5f0979b45",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794763542-0-0-223262fff117eb722e75fd7d080229d3",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794759068-0-0-6ac437bb90bf3b213efbe6171f18bca5",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 8",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794759068-0-0-95b3e6fbb7ebd5e4b02293957e88aaca",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 9",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794759068-0-0-80135f5f7df42ff33f6604c98cbd857d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 10",
+          "url": "https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Spain",
       "Team2Name": "England",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4698/image",
