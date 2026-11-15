@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:19 PM 15-11-2026",
+    "LastUpdate": "08:20 PM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -10,6 +10,27 @@
     "UpcomingCount": 366
   },
   "Matches": [
+    {
+      "EntityId": 20191,
+      "VideoName": "Qualifier Leg - Stuttgart (GER)",
+      "CategoryName": "Longines FEI Jumping World Cup 2026",
+      "StageName": "Qualifier",
+      "EventStartDate": "2026-11-15 20:10:00",
+      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794561590540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794561590540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 368,
+      "UrlSlug": "longines-fei-jumping-world-cup-2026",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 1090554015,
       "VideoName": "Latvia vs Armenia",
@@ -503,31 +524,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 19115,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "Afghanistan vs Zimbabwe 2026",
-      "StageName": "2nd Test",
-      "EventStartDate": "2026-11-13 12:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 13-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865704540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865704540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1245,
-      "UrlSlug": "afg-vs-zim-2nd-test-live",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 3015,
@@ -7478,6 +7474,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
     },
     {
+      "EntityId": 19115,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "Afghanistan vs Zimbabwe 2026",
+      "StageName": "2nd Test",
+      "EventStartDate": "2026-11-16 12:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 13-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865704540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865704540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1245,
+      "UrlSlug": "afg-vs-zim-2nd-test-live"
+    },
+    {
       "EntityId": 2717,
       "VideoName": "Afghanistan vs Zimbabwe",
       "CategoryName": "AFG vs ZIM in UAE, 2026 - 2nd Test, Day 4",
@@ -7760,20 +7770,6 @@
       "Team2Name": "Las Palmas",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/33779/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/6577/image"
-    },
-    {
-      "EntityId": 20191,
-      "VideoName": "Qualifier Leg - Stuttgart (GER)",
-      "CategoryName": "Longines FEI Jumping World Cup 2026",
-      "StageName": "Qualifier",
-      "EventStartDate": "2026-11-15 20:10:00",
-      "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794561590540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794561590540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 368,
-      "UrlSlug": "longines-fei-jumping-world-cup-2026"
     }
   ]
 }
