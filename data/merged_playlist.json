@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 AM 15-11-2026",
+    "LastUpdate": "09:20 AM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 287
+    "LiveCount": 12,
+    "UpcomingCount": 286
   },
   "Matches": [
     {
@@ -34,6 +34,26 @@
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2675,
+      "VideoName": "Australia vs England",
+      "CategoryName": "England tour of Australia, 2026 - 2nd ODI",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 09:30:00",
+      "Description": "Watch Australia vs England — England tour of Australia, 2026 - 2nd ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187746/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9710,
+      "UrlSlug": "england-tour-of-australia-2026-2nd-odi",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Australia",
+      "Team2Name": "England",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     },
     {
       "EntityId": 1090554158,
@@ -6078,26 +6098,6 @@
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
-    },
-    {
-      "EntityId": 2675,
-      "VideoName": "Australia vs England",
-      "CategoryName": "England tour of Australia, 2026 - 2nd ODI",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-15 09:30:00",
-      "Description": "Watch Australia vs England — England tour of Australia, 2026 - 2nd ODI. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187746/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9710,
-      "UrlSlug": "england-tour-of-australia-2026-2nd-odi",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Australia",
-      "Team2Name": "England",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     }
   ]
 }
