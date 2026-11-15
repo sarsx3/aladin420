@@ -1,15 +1,61 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:00 PM 15-11-2026",
+    "LastUpdate": "08:01 PM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 11,
     "UpcomingCount": 366
   },
   "Matches": [
+    {
+      "EntityId": 1090554015,
+      "VideoName": "Latvia vs Armenia",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 20:01:15",
+      "Description": "Watch Latvia vs Armenia live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794794008~acl=/*~id=40330715159968604931071904685416~hmac=5300ee6693b681a8927d6465d90c773caf409b5d341c9bfa44c0948876a0f57d",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794794008~acl=/*~id=40330715159968604931071904685416~hmac=5300ee6693b681a8927d6465d90c773caf409b5d341c9bfa44c0948876a0f57d"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794751275
+    },
+    {
+      "EntityId": 1090554016,
+      "VideoName": "Cyprus vs Montenegro",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 20:01:15",
+      "Description": "Watch Cyprus vs Montenegro live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794794008~acl=/*~id=40330715159968604931071904685416~hmac=5300ee6693b681a8927d6465d90c773caf409b5d341c9bfa44c0948876a0f57d",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794794008~acl=/*~id=40330715159968604931071904685416~hmac=5300ee6693b681a8927d6465d90c773caf409b5d341c9bfa44c0948876a0f57d"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794751275
+    },
     {
       "EntityId": 20082,
       "VideoName": "Cyrpus vs Montenegro",
@@ -457,29 +503,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 1090554163,
-      "VideoName": "DP World Tour Championship, Dubai - Day 4",
-      "CategoryName": "Golf",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-15 13:04:16",
-      "Description": "Watch DP World Tour Championship, Dubai - Day 4 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9232,
-      "UrlSlug": "golf-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794790379~acl=/*~id=56106235053554393058469501771316~hmac=ebf06275e7bf9194b253c094a135806b7a9cd88a00979ee7e127ebac1643af96",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794790379~acl=/*~id=56106235053554393058469501771316~hmac=ebf06275e7bf9194b253c094a135806b7a9cd88a00979ee7e127ebac1643af96"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1794726256
     },
     {
       "EntityId": 19115,
