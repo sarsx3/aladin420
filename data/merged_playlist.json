@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:19 AM 15-11-2026",
+    "LastUpdate": "11:20 AM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 286
   },
   "Matches": [
@@ -124,64 +124,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794711859
-    },
-    {
-      "EntityId": 2667,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "Friendly International",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-15 09:00:00",
-      "Description": "Watch New Zealand vs India — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4784/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794709379-0-0-f03f357e389e36180938b4069f0da243",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c70be6e96483f985027a7642eca20e54&txTime=6af971c8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794714488-0-0-7f1bfd3d3f9f94622e9e4ec10de23679",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "New Zealand",
-      "Team2Name": "India",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4784/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4828/image"
     },
     {
       "EntityId": 19064,
