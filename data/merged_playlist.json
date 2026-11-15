@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:59 AM 15-11-2026",
+    "LastUpdate": "09:00 AM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 11,
     "UpcomingCount": 287
   },
   "Matches": [
+    {
+      "EntityId": 1090554158,
+      "VideoName": "Philippine Open - Day 4",
+      "CategoryName": "Golf",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 09:00:51",
+      "Description": "Watch Philippine Open - Day 4 live from Golf. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Golf online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887707419295_ASIANTOUR2026_Philippine_Open_Day4_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887707419295_ASIANTOUR2026_Philippine_Open_Day4_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9232,
+      "UrlSlug": "golf-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1794711651
+    },
     {
       "EntityId": 2667,
       "VideoName": "New Zealand vs India",
@@ -134,27 +157,27 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e"
         },
         {
           "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e"
         },
         {
           "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e"
         },
         {
           "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e"
         },
         {
           "label": "Kannada",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e"
         }
       ],
       "Provider": "SonyLiv",
@@ -173,11 +196,11 @@
       "Status": "Live",
       "CategoryId": 9992,
       "UrlSlug": "fight-sports-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794750651~acl=/*~id=14750829141255089275373424530893~hmac=f954fb0323fd909f1b1ae688f3e3ac6d7d6eef750c1e8c3ca638e1a76cfdda30"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754319~acl=/*~id=81764330466468960357684197920751~hmac=543bafb4234da32db549204c47261e3dda9dee1f3f272c81d0430bff917c112e"
         }
       ],
       "Provider": "SonyLiv",
