@@ -1,15 +1,50 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:34 PM 15-11-2026",
+    "LastUpdate": "05:35 PM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 371
+    "LiveCount": 9,
+    "UpcomingCount": 370
   },
   "Matches": [
+    {
+      "EntityId": 2699,
+      "VideoName": "Emirates Eagles vs UAE Bulls",
+      "CategoryName": "Abu Dhabi T10 League 2026 - 20th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-15 17:45:00",
+      "Description": "Watch Emirates Eagles vs UAE Bulls — Abu Dhabi T10 League 2026 - 20th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9004,
+      "UrlSlug": "abu-dhabi-t10-league-2026-20th-match",
+      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "sources": [
+        {
+          "label": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Emirates Eagles",
+      "Team2Name": "UAE Bulls",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/78.png"
+    },
     {
       "EntityId": 2698,
       "VideoName": "Royal Desert Champions vs Arabian Aces",
@@ -7697,41 +7732,6 @@
       "Team2Name": "AD Ceuta",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2822/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2869/image"
-    },
-    {
-      "EntityId": 2699,
-      "VideoName": "Emirates Eagles vs UAE Bulls",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 20th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-15 17:45:00",
-      "Description": "Watch Emirates Eagles vs UAE Bulls — Abu Dhabi T10 League 2026 - 20th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9004,
-      "UrlSlug": "abu-dhabi-t10-league-2026-20th-match",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "sources": [
-        {
-          "label": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Emirates Eagles",
-      "Team2Name": "UAE Bulls",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/78.png"
     }
   ]
 }
