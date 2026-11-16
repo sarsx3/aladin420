@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:09 AM 17-11-2026",
+    "LastUpdate": "02:10 AM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 18,
+    "LiveCount": 17,
     "UpcomingCount": 334
   },
   "Matches": [
@@ -829,57 +829,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1794852051
-    },
-    {
-      "EntityId": 2740,
-      "VideoName": "Andorra vs Azerbaijan",
-      "CategoryName": "Friendly International",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-17 00:00:00",
-      "Description": "Watch Andorra vs Azerbaijan — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4818/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-      "sources": [
-        {
-          "label": "Sport3 Tv BR FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - aq",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=842196f54b4725afd29e44339a9ed473&wsABSTime=1794892758",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.41/hls/UOOOAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Andorra",
-      "Team2Name": "Azerbaijan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4818/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4742/image"
     },
     {
       "EntityId": 3015,
