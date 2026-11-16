@@ -1,15 +1,60 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 AM 16-11-2026",
+    "LastUpdate": "11:50 AM 16-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 357
+    "LiveCount": 2,
+    "UpcomingCount": 356
   },
   "Matches": [
+    {
+      "EntityId": 2717,
+      "VideoName": "Afghanistan vs Zimbabwe",
+      "CategoryName": "AFG vs ZIM in UAE, 2026 - 2nd Test, Day 4",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-16 12:00:00",
+      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM in UAE, 2026 - 2nd Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9825,
+      "UrlSlug": "afg-vs-zim-in-uae-2026-2nd-test-day-4",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "drmScheme": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "drmScheme": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Afghanistan",
+      "Team2Name": "Zimbabwe",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
     {
       "EntityId": 19115,
       "VideoName": "Afghanistan vs Zimbabwe",
@@ -7162,51 +7207,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 2717,
-      "VideoName": "Afghanistan vs Zimbabwe",
-      "CategoryName": "AFG vs ZIM in UAE, 2026 - 2nd Test, Day 4",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-16 12:00:00",
-      "Description": "Watch Afghanistan vs Zimbabwe — AFG vs ZIM in UAE, 2026 - 2nd Test, Day 4. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187575/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9825,
-      "UrlSlug": "afg-vs-zim-in-uae-2026-2nd-test-day-4",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
-          "drmScheme": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
-          "drmScheme": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "headers": {
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Afghanistan",
-      "Team2Name": "Zimbabwe",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187745/image"
     }
   ]
 }
