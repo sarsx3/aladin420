@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "01:48 PM 16-11-2026",
+    "LastUpdate": "01:49 PM 16-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 356
   },
   "Matches": [
+    {
+      "EntityId": 19201,
+      "VideoName": "Sydney Thunder vs Melbourne Stars",
+      "CategoryName": "Women's Big Bash League 2026",
+      "StageName": "Group Stage",
+      "EventStartDate": "2026-11-16 14:10:00",
+      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 24th T20I is scheduled to be played on 17-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794477707540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794477707540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1247,
+      "UrlSlug": "sct-vs-sta-24th-t20i-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2717,
       "VideoName": "Afghanistan vs Zimbabwe",
