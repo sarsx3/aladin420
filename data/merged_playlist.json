@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:49 PM 17-11-2026",
+    "LastUpdate": "07:50 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 316
+    "LiveCount": 15,
+    "UpcomingCount": 315
   },
   "Matches": [
+    {
+      "EntityId": 2747,
+      "VideoName": "Qatar vs South Korea",
+      "CategoryName": "Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 20:00:00",
+      "Description": "Watch Qatar vs South Korea — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9204,
+      "UrlSlug": "friendly-international",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Qatar",
+      "Team2Name": "South Korea",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383"
+    },
     {
       "EntityId": 2746,
       "VideoName": "Japan vs Paraguay",
@@ -6971,26 +6991,6 @@
       "Team2Name": "Syria",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5089",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/5090"
-    },
-    {
-      "EntityId": 2747,
-      "VideoName": "Qatar vs South Korea",
-      "CategoryName": "Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 20:00:00",
-      "Description": "Watch Qatar vs South Korea — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Qatar",
-      "Team2Name": "South Korea",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383"
     }
   ]
 }
