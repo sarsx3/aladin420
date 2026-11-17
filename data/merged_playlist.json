@@ -1,43 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:35 PM 17-11-2026",
+    "LastUpdate": "07:36 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 15,
+    "LiveCount": 14,
     "UpcomingCount": 316
   },
   "Matches": [
-    {
-      "EntityId": 2761,
-      "VideoName": "Yas Lions vs Arabian Aces",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 24th Match",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-17 19:45:00",
-      "Description": "Watch Yas Lions vs Arabian Aces — Abu Dhabi T10 League 2026 - 24th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9101,
-      "UrlSlug": "abu-dhabi-t10-league-2026-24th-match",
-      "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-      "sources": [
-        {
-          "label": "Myco - (bd)1",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Yas Lions",
-      "Team2Name": "Arabian Aces",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png"
-    },
     {
       "EntityId": 2746,
       "VideoName": "Japan vs Paraguay",
@@ -74,6 +46,13 @@
           "url": "http://193.47.62.41/hls/DGGGAAA.m3u8",
           "headers": {
             "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://www.rtmpcdn.com/live/03555648-a6e1-4fa1-935a-30ff11848a99.m3u8",
+          "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           }
         }
