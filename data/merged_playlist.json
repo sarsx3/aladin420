@@ -1,15 +1,241 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:49 PM 17-11-2026",
+    "LastUpdate": "06:50 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 325
+    "LiveCount": 14,
+    "UpcomingCount": 318
   },
   "Matches": [
+    {
+      "EntityId": 2723,
+      "VideoName": "Malawi vs Egypt",
+      "CategoryName": "Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:00:00",
+      "Description": "Watch Malawi vs Egypt — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8043/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9763,
+      "UrlSlug": "africa-cup-of-nations-qualification",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd??|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+      "sources": [
+        {
+          "label": "beIN ESPNAOL FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd??|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "BeIN SPORTS3 - FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "beIN ENGLISH FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794918171-0-0-4f6df689f5f9c2cf88d4acbf70822c6b",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794915248-0-0-8f392793a5001ea884ced5490ccb91c0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Malawi",
+      "Team2Name": "Egypt",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/8043/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4758/image"
+    },
+    {
+      "EntityId": 2724,
+      "VideoName": "Lesotho vs Gabon",
+      "CategoryName": "Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:00:00",
+      "Description": "Watch Lesotho vs Gabon — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8033/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9763,
+      "UrlSlug": "africa-cup-of-nations-qualification",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794918153-0-0-1fdd05fb285556a11223294c1613775f",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Lesotho",
+      "Team2Name": "Gabon",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/8033/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4761/image"
+    },
+    {
+      "EntityId": 2725,
+      "VideoName": "South Sudan vs Angola",
+      "CategoryName": "Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:00:00",
+      "Description": "Watch South Sudan vs Angola — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/19417",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9763,
+      "UrlSlug": "africa-cup-of-nations-qualification",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794918206-0-0-5c72939f4f6c42989cf0067f338edff3",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "South Sudan",
+      "Team2Name": "Angola",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/19417",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5105"
+    },
+    {
+      "EntityId": 2726,
+      "VideoName": "Burundi vs Zambia",
+      "CategoryName": "Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:00:00",
+      "Description": "Watch Burundi vs Zambia — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4750/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9763,
+      "UrlSlug": "africa-cup-of-nations-qualification",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Burundi",
+      "Team2Name": "Zambia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4750/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4720/image"
+    },
+    {
+      "EntityId": 2727,
+      "VideoName": "Ethiopia vs Mozambique",
+      "CategoryName": "Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:00:00",
+      "Description": "Watch Ethiopia vs Mozambique — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8036/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9763,
+      "UrlSlug": "africa-cup-of-nations-qualification",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Ethiopia",
+      "Team2Name": "Mozambique",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/8036/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4783/image"
+    },
+    {
+      "EntityId": 2728,
+      "VideoName": "Tanzania vs Nigeria",
+      "CategoryName": "Africa Cup of Nations Qualification",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:00:00",
+      "Description": "Watch Tanzania vs Nigeria — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4835/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9763,
+      "UrlSlug": "africa-cup-of-nations-qualification",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Tanzania",
+      "Team2Name": "Nigeria",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4835/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4785/image"
+    },
+    {
+      "EntityId": 2745,
+      "VideoName": "Lebanon vs Palestine",
+      "CategoryName": "Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:00:00",
+      "Description": "Watch Lebanon vs Palestine — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9204,
+      "UrlSlug": "friendly-international",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Lebanon",
+      "Team2Name": "Palestine",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361"
+    },
     {
       "EntityId": 2742,
       "VideoName": "China vs Bahrain",
@@ -6682,215 +6908,6 @@
       "Team2Name": "Paraguay",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4770/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4789/image"
-    },
-    {
-      "EntityId": 2723,
-      "VideoName": "Malawi vs Egypt",
-      "CategoryName": "Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:00:00",
-      "Description": "Watch Malawi vs Egypt — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8043/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9763,
-      "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd??|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-      "sources": [
-        {
-          "label": "beIN ESPNAOL FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd??|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "BeIN SPORTS3 - FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "beIN ENGLISH FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794918171-0-0-4f6df689f5f9c2cf88d4acbf70822c6b",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794915248-0-0-8f392793a5001ea884ced5490ccb91c0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Malawi",
-      "Team2Name": "Egypt",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/8043/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4758/image"
-    },
-    {
-      "EntityId": 2724,
-      "VideoName": "Lesotho vs Gabon",
-      "CategoryName": "Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:00:00",
-      "Description": "Watch Lesotho vs Gabon — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8033/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9763,
-      "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794918153-0-0-1fdd05fb285556a11223294c1613775f",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lesotho",
-      "Team2Name": "Gabon",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/8033/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4761/image"
-    },
-    {
-      "EntityId": 2725,
-      "VideoName": "South Sudan vs Angola",
-      "CategoryName": "Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:00:00",
-      "Description": "Watch South Sudan vs Angola — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/19417",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9763,
-      "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "South Sudan",
-      "Team2Name": "Angola",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/19417",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5105"
-    },
-    {
-      "EntityId": 2726,
-      "VideoName": "Burundi vs Zambia",
-      "CategoryName": "Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:00:00",
-      "Description": "Watch Burundi vs Zambia — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4750/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9763,
-      "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Burundi",
-      "Team2Name": "Zambia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4750/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4720/image"
-    },
-    {
-      "EntityId": 2727,
-      "VideoName": "Ethiopia vs Mozambique",
-      "CategoryName": "Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:00:00",
-      "Description": "Watch Ethiopia vs Mozambique — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/8036/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9763,
-      "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Ethiopia",
-      "Team2Name": "Mozambique",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/8036/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4783/image"
-    },
-    {
-      "EntityId": 2728,
-      "VideoName": "Tanzania vs Nigeria",
-      "CategoryName": "Africa Cup of Nations Qualification",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:00:00",
-      "Description": "Watch Tanzania vs Nigeria — Africa Cup of Nations Qualification. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4835/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9763,
-      "UrlSlug": "africa-cup-of-nations-qualification",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Tanzania",
-      "Team2Name": "Nigeria",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4835/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4785/image"
-    },
-    {
-      "EntityId": 2745,
-      "VideoName": "Lebanon vs Palestine",
-      "CategoryName": "Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:00:00",
-      "Description": "Watch Lebanon vs Palestine — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Lebanon",
-      "Team2Name": "Palestine",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361"
     }
   ]
 }
