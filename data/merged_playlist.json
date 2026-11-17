@@ -1,15 +1,132 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:19 AM 18-11-2026",
+    "LastUpdate": "05:20 AM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 286
+    "LiveCount": 4,
+    "UpcomingCount": 284
   },
   "Matches": [
+    {
+      "EntityId": 2779,
+      "VideoName": "Ecuador vs Bolivia",
+      "CategoryName": "Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-18 05:30:00",
+      "Description": "Watch Ecuador vs Bolivia — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4757/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9204,
+      "UrlSlug": "friendly-international",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=e1c028ef488e954948698a87b4372bd7&wsABSTime=1794997322",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=e1c028ef488e954948698a87b4372bd7&wsABSTime=1794997322",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.41/hls/YPPPAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Ecuador",
+      "Team2Name": "Bolivia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4757/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4746/image"
+    },
+    {
+      "EntityId": 2780,
+      "VideoName": "Uruguay vs Dominican Republic",
+      "CategoryName": "Friendly International",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-18 05:30:00",
+      "Description": "Watch Uruguay vs Dominican Republic — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4725/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9204,
+      "UrlSlug": "friendly-international",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794954490-0-0-92cbb2d408201b890b7bd68b6cf4c5d0",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794923348-0-0-e46a431662250ff04e50fa57958144d3",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=89dc92b327a574a63df78c25072486c3&txTime=6afca1a4",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=539717b746562319e61a21873e67ed17&txTime=6afca1e0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 8",
+          "url": "http://193.47.62.41/hls/YPPPAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Uruguay",
+      "Team2Name": "Dominican Republic",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4725/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/21813/image"
+    },
     {
       "EntityId": 2752,
       "VideoName": "Argentina vs Costa Rica",
@@ -5842,123 +5959,6 @@
       "Status": "Upcoming",
       "CategoryId": 1327,
       "UrlSlug": "aus-vs-eng-3rd-odi-live"
-    },
-    {
-      "EntityId": 2779,
-      "VideoName": "Ecuador vs Bolivia",
-      "CategoryName": "Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-18 05:30:00",
-      "Description": "Watch Ecuador vs Bolivia — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4757/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=e1c028ef488e954948698a87b4372bd7&wsABSTime=1794997322",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=e1c028ef488e954948698a87b4372bd7&wsABSTime=1794997322",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.41/hls/YPPPAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Ecuador",
-      "Team2Name": "Bolivia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4757/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4746/image"
-    },
-    {
-      "EntityId": 2780,
-      "VideoName": "Uruguay vs Dominican Republic",
-      "CategoryName": "Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-18 05:30:00",
-      "Description": "Watch Uruguay vs Dominican Republic — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4725/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794954490-0-0-92cbb2d408201b890b7bd68b6cf4c5d0",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794923348-0-0-e46a431662250ff04e50fa57958144d3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=89dc92b327a574a63df78c25072486c3&txTime=6afca1a4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 6",
-          "url": "https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 7",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=539717b746562319e61a21873e67ed17&txTime=6afca1e0",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 8",
-          "url": "http://193.47.62.41/hls/YPPPAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Uruguay",
-      "Team2Name": "Dominican Republic",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4725/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/21813/image"
     }
   ]
 }
