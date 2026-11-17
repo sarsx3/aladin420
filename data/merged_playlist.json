@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:40 PM 17-11-2026",
+    "LastUpdate": "06:41 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 325
   },
   "Matches": [
@@ -387,6 +387,65 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2756,
+      "VideoName": "Sri Lanka vs Pakistan",
+      "CategoryName": "SL vs PAK, 2026 - 2nd Test, Day 1",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 10:30:00",
+      "Description": "Watch Sri Lanka vs Pakistan — SL vs PAK, 2026 - 2nd Test, Day 1. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187756/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9589,
+      "UrlSlug": "sl-vs-pak-2026-2nd-test-day-1",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
+          "drmScheme": "NzE3ZTM5YzQyMDdlZjZiZDZhMWE0OTVmYjJlM2IxMzM6ZjlmNjY2Y2FjN2RlMmUyZDY5YmQ0MmU4ZmNkMDZhZDc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
+          "drmScheme": "NzE3ZTM5YzQyMDdlZjZiZDZhMWE0OTVmYjJlM2IxMzM6ZjlmNjY2Y2FjN2RlMmUyZDY5YmQ0MmU4ZmNkMDZhZDc=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Cricbuzz hd",
+          "url": "https://002.cdnplayer.eu/live/csstream3/chunklist.m3u8?vidictid=207743932580&id=1003&pk=a7ab797461ccef1b3d4164817d89934e584fd150aa9396ccceb425db2e4b2d3a575cad9b5260197356f7a5cf7c401dcbf2b83040bf493924ac256cfafb7e359d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow hd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sri Lanka",
+      "Team2Name": "Pakistan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187756/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187754/image"
     },
     {
       "EntityId": 19115,
