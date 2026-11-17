@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:42 AM 17-11-2026",
+    "LastUpdate": "11:43 AM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -6463,6 +6463,26 @@
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361"
     },
     {
+      "EntityId": 2742,
+      "VideoName": "China vs Bahrain",
+      "CategoryName": "Friendly International",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-17 18:00:00",
+      "Description": "Watch China vs Bahrain — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4755/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9204,
+      "UrlSlug": "friendly-international",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "China",
+      "Team2Name": "Bahrain",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4755/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5161/image"
+    },
+    {
       "EntityId": 2744,
       "VideoName": "Kyrgyzstan vs Vietnam",
       "CategoryName": "Friendly International",
@@ -6726,26 +6746,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4721/image"
     },
     {
-      "EntityId": 2742,
-      "VideoName": "China vs Bahrain",
-      "CategoryName": "Friendly International",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 12:00:00",
-      "Description": "Watch China vs Bahrain — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4755/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "China",
-      "Team2Name": "Bahrain",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4755/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5161/image"
-    },
-    {
       "EntityId": 2757,
       "VideoName": "Afghanistan vs Zimbabwe",
       "CategoryName": "AFG vs ZIM in UAE, 2026 - 2nd Test, Day 5",
@@ -6758,8 +6758,25 @@
       "Status": "Upcoming",
       "CategoryId": 9668,
       "UrlSlug": "afg-vs-zim-in-uae-2026-2nd-test-day-5",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {
+            "Referer": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "drmScheme": "Zjc4MGMyZjFkNWE3OWRmMjVjYmY4NGMzMTAwYWU5ZGI6MTQ3YzRlNjc1ZTY5YTEyOGVkNzgzZmFmNjdhNWI3MmM=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Afghanistan",
       "Team2Name": "Zimbabwe",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
