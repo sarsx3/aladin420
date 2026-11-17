@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:34 PM 17-11-2026",
+    "LastUpdate": "07:35 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 14,
-    "UpcomingCount": 317
+    "LiveCount": 15,
+    "UpcomingCount": 316
   },
   "Matches": [
+    {
+      "EntityId": 2761,
+      "VideoName": "Yas Lions vs Arabian Aces",
+      "CategoryName": "Abu Dhabi T10 League 2026 - 24th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-17 19:45:00",
+      "Description": "Watch Yas Lions vs Arabian Aces — Abu Dhabi T10 League 2026 - 24th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9101,
+      "UrlSlug": "abu-dhabi-t10-league-2026-24th-match",
+      "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+      "sources": [
+        {
+          "label": "Myco - (bd)1",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Yas Lions",
+      "Team2Name": "Arabian Aces",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png"
+    },
     {
       "EntityId": 2746,
       "VideoName": "Japan vs Paraguay",
@@ -6984,34 +7012,6 @@
       "Team2Name": "South Korea",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383"
-    },
-    {
-      "EntityId": 2761,
-      "VideoName": "Yas Lions vs Arabian Aces",
-      "CategoryName": "Abu Dhabi T10 League 2026 - 24th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-17 19:45:00",
-      "Description": "Watch Yas Lions vs Arabian Aces — Abu Dhabi T10 League 2026 - 24th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9101,
-      "UrlSlug": "abu-dhabi-t10-league-2026-24th-match",
-      "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-      "sources": [
-        {
-          "label": "Myco - (bd)1",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Yas Lions",
-      "Team2Name": "Arabian Aces",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png"
     }
   ]
 }
