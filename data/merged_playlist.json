@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:21 PM 17-11-2026",
+    "LastUpdate": "09:22 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 313
   },
   "Matches": [
@@ -214,58 +214,6 @@
       "Team2Name": "South Korea",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383"
-    },
-    {
-      "EntityId": 2746,
-      "VideoName": "Japan vs Paraguay",
-      "CategoryName": "Friendly International",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-17 19:10:00",
-      "Description": "Watch Japan vs Paraguay — Friendly International. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4770/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9204,
-      "UrlSlug": "friendly-international",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794918221-0-0-0d24eff9c0fa116a1637b14b6edf4181",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/DGGGAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://www.rtmpcdn.com/live/03555648-a6e1-4fa1-935a-30ff11848a99.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Japan",
-      "Team2Name": "Paraguay",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4770/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4789/image"
     },
     {
       "EntityId": 2760,
@@ -5266,6 +5214,26 @@
       "UrlSlug": "hh-vs-per-26th-t20i-live"
     },
     {
+      "EntityId": 2804,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "SL vs PAK, 2026 - 2nd Test, Day 3",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-19 10:30:00",
+      "Description": "Watch Pakistan vs Sri Lanka — SL vs PAK, 2026 - 2nd Test, Day 3. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9218,
+      "UrlSlug": "sl-vs-pak-2026-2nd-test-day-3",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Pakistan",
+      "Team2Name": "Sri Lanka",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
+    },
+    {
       "EntityId": 2807,
       "VideoName": "South Africa vs Bangladesh",
       "CategoryName": "Bangladesh tour of South Africa, 2026 - 1st Test, Day 5",
@@ -5284,26 +5252,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 2804,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "SL vs PAK, 2026 - 2nd Test, Day 3",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-19 09:30:00",
-      "Description": "Watch Pakistan vs Sri Lanka — SL vs PAK, 2026 - 2nd Test, Day 3. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9218,
-      "UrlSlug": "sl-vs-pak-2026-2nd-test-day-3",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Pakistan",
-      "Team2Name": "Sri Lanka",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
       "EntityId": 2791,
@@ -5846,25 +5794,11 @@
       "UrlSlug": "pak-vs-sl-2nd-test-live"
     },
     {
-      "EntityId": 20133,
-      "VideoName": "Australia vs England",
-      "CategoryName": "England Tour of Australia 2026",
-      "StageName": "3rd ODI",
-      "EventStartDate": "2026-11-18 09:30:00",
-      "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 18-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794471454540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794471454540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1327,
-      "UrlSlug": "aus-vs-eng-3rd-odi-live"
-    },
-    {
       "EntityId": 2782,
       "VideoName": "Pakistan vs Sri Lanka",
       "CategoryName": "SL vs PAK, 2026 - 2nd Test, Day 2",
       "StageName": "Upcoming",
-      "EventStartDate": "2026-11-18 09:30:00",
+      "EventStartDate": "2026-11-18 10:30:00",
       "Description": "Watch Pakistan vs Sri Lanka — SL vs PAK, 2026 - 2nd Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
       "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
       "ThumbnailTV": "",
@@ -5878,6 +5812,20 @@
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
+    },
+    {
+      "EntityId": 20133,
+      "VideoName": "Australia vs England",
+      "CategoryName": "England Tour of Australia 2026",
+      "StageName": "3rd ODI",
+      "EventStartDate": "2026-11-18 09:30:00",
+      "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 18-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794471454540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794471454540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1327,
+      "UrlSlug": "aus-vs-eng-3rd-odi-live"
     },
     {
       "EntityId": 2779,
