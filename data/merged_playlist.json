@@ -1,15 +1,40 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:01 AM 18-11-2026",
+    "LastUpdate": "09:02 AM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 0,
+    "LiveCount": 1,
     "UpcomingCount": 284
   },
   "Matches": [
+    {
+      "EntityId": 20133,
+      "VideoName": "Australia vs England",
+      "CategoryName": "England Tour of Australia 2026",
+      "StageName": "3rd ODI",
+      "EventStartDate": "2026-11-18 09:30:00",
+      "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 18-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794471454540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794471454540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1327,
+      "UrlSlug": "aus-vs-eng-3rd-odi-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 3015,
       "VideoName": "Slavia Praha vs Villarreal",
@@ -2669,6 +2694,20 @@
       "Team2Name": "Mallorca",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2822/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2826/image"
+    },
+    {
+      "EntityId": 19973,
+      "VideoName": "Monaco vs Auxerre",
+      "CategoryName": "French Ligue 1 2026/27",
+      "StageName": "MATCHDAY 11",
+      "EventStartDate": "2026-11-22 01:45:00",
+      "Description": "Watch Monaco vs Auxerre live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Monaco vs Auxerre match will take place on 22-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902560540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794902560540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1115,
+      "UrlSlug": "monaco-vs-auxerre-ligue-one-live-match"
     },
     {
       "EntityId": 2918,
@@ -5677,20 +5716,6 @@
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
-    },
-    {
-      "EntityId": 20133,
-      "VideoName": "Australia vs England",
-      "CategoryName": "England Tour of Australia 2026",
-      "StageName": "3rd ODI",
-      "EventStartDate": "2026-11-18 09:30:00",
-      "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 18-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794471454540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794471454540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1327,
-      "UrlSlug": "aus-vs-eng-3rd-odi-live"
     }
   ]
 }
