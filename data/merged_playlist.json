@@ -1,15 +1,97 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 PM 18-11-2026",
+    "LastUpdate": "11:50 PM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 366
+    "LiveCount": 5,
+    "UpcomingCount": 364
   },
   "Matches": [
+    {
+      "EntityId": 2797,
+      "VideoName": "Portugalete vs Real Union",
+      "CategoryName": "Copa del Rey",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-19 00:00:00",
+      "Description": "Watch Portugalete vs Real Union — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25403/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9095,
+      "UrlSlug": "copa-del-rey",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=062eb4285a1091a76dfa67abae60c3ae&wsABSTime=1795062316",
+      "sources": [
+        {
+          "label": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=062eb4285a1091a76dfa67abae60c3ae&wsABSTime=1795062316",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "low quality",
+          "url": "http://193.47.62.44/hls/6666.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Portugalete",
+      "Team2Name": "Real Union",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/25403/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2881/image"
+    },
+    {
+      "EntityId": 2798,
+      "VideoName": "Utebo FC vs CE Sabadell FC",
+      "CategoryName": "Copa del Rey",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-19 00:00:00",
+      "Description": "Watch Utebo FC vs CE Sabadell FC — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/17923",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9095,
+      "UrlSlug": "copa-del-rey",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795019199-0-0-a2956520cd270eafffbe6f2d985d712e",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Utebo FC",
+      "Team2Name": "CE Sabadell FC",
+      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/17923",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/24335/image"
+    },
     {
       "EntityId": 2776,
       "VideoName": "Real Madrid (W) vs Inter Milan (W)",
@@ -7543,88 +7625,6 @@
       "Team2Name": "CD Tenerife",
       "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/21942",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2822/image"
-    },
-    {
-      "EntityId": 2797,
-      "VideoName": "Portugalete vs Real Union",
-      "CategoryName": "Copa del Rey",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-19 00:00:00",
-      "Description": "Watch Portugalete vs Real Union — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25403/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9095,
-      "UrlSlug": "copa-del-rey",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=062eb4285a1091a76dfa67abae60c3ae&wsABSTime=1795062316",
-      "sources": [
-        {
-          "label": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=062eb4285a1091a76dfa67abae60c3ae&wsABSTime=1795062316",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "low quality",
-          "url": "http://193.47.62.44/hls/6666.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Portugalete",
-      "Team2Name": "Real Union",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/25403/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2881/image"
-    },
-    {
-      "EntityId": 2798,
-      "VideoName": "Utebo FC vs CE Sabadell FC",
-      "CategoryName": "Copa del Rey",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-19 00:00:00",
-      "Description": "Watch Utebo FC vs CE Sabadell FC — Copa del Rey. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/17923",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9095,
-      "UrlSlug": "copa-del-rey",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795019199-0-0-a2956520cd270eafffbe6f2d985d712e",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Utebo FC",
-      "Team2Name": "CE Sabadell FC",
-      "Team1Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/17923",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/24335/image"
     }
   ]
 }
