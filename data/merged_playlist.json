@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:49 PM 18-11-2026",
+    "LastUpdate": "04:50 PM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 371
+    "LiveCount": 6,
+    "UpcomingCount": 370
   },
   "Matches": [
+    {
+      "EntityId": 2784,
+      "VideoName": "Kathmandu Gurkhas vs Chitwan Rhinos",
+      "CategoryName": "Nepal Premier League 2026 - Eliminator",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-18 17:00:00",
+      "Description": "Watch Kathmandu Gurkhas vs Chitwan Rhinos — Nepal Premier League 2026 - Eliminator. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9170,
+      "UrlSlug": "nepal-premier-league-2026-eliminator",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Kathmandu Gurkhas",
+      "Team2Name": "Chitwan Rhinos",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
+    },
     {
       "EntityId": 2679,
       "VideoName": "South Africa vs Bangladesh",
@@ -7611,26 +7631,6 @@
       "Team2Name": "United Tigers",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/78.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LJ.png"
-    },
-    {
-      "EntityId": 2784,
-      "VideoName": "Kathmandu Gurkhas vs Chitwan Rhinos",
-      "CategoryName": "Nepal Premier League 2026 - Eliminator",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-18 17:00:00",
-      "Description": "Watch Kathmandu Gurkhas vs Chitwan Rhinos — Nepal Premier League 2026 - Eliminator. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9170,
-      "UrlSlug": "nepal-premier-league-2026-eliminator",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Kathmandu Gurkhas",
-      "Team2Name": "Chitwan Rhinos",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
     }
   ]
 }
