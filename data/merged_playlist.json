@@ -1,36 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:15 PM 18-11-2026",
+    "LastUpdate": "05:16 PM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 370
   },
   "Matches": [
-    {
-      "EntityId": 20342,
-      "VideoName": "GTA VI - Watch Party - Day 1",
-      "CategoryName": "GTA VI",
-      "StageName": "Show",
-      "EventStartDate": "2026-11-18 17:15:00",
-      "Description": "Experience the excitement of GTA 6 with a special live watch party on tapmad. In a first-of-its-kind experience for Pakistan's OTT streaming industry, tapmad brings gaming fans together to witness one of the most anticipated game release Grand Theft Auto VI. Join us on 18 November for an exclusive watch party filled with gaming excitement, live reactions, and memorable moments. Watch GTA VI live on tapmad in HD via app, web, or Smart TV, and be part of this historic gaming experience.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794998717540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794998717540x302.jpg",
-      "IsFreeToWatch": true,
-      "Status": "Live",
-      "CategoryId": 1364,
-      "UrlSlug": "gta-6-watch-party-live",
-      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        }
-      ]
-    },
     {
       "EntityId": 2784,
       "VideoName": "Kathmandu Gurkhas vs Chitwan Rhinos",
@@ -6758,6 +6737,26 @@
       "UrlSlug": "macau-grand-prix-2026"
     },
     {
+      "EntityId": 2831,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "India tour of New Zealand 2026 - 1st Test, Day 2",
+      "StageName": "Upcoming",
+      "EventStartDate": "2026-11-20 11:00:00",
+      "Description": "Watch New Zealand vs India — India tour of New Zealand 2026 - 1st Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 9611,
+      "UrlSlug": "india-tour-of-new-zealand-2026-1st-test-day-2",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "New Zealand",
+      "Team2Name": "India",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    },
+    {
       "EntityId": 2832,
       "VideoName": "Pakistan vs Sri Lanka",
       "CategoryName": "SL vs PAK, 2026 - 2nd Test, Day 4",
@@ -6890,26 +6889,6 @@
       "Team2Name": "SC Internacional",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1974/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1966/image"
-    },
-    {
-      "EntityId": 2831,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "India tour of New Zealand 2026 - 1st Test, Day 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-20 04:00:00",
-      "Description": "Watch New Zealand vs India — India tour of New Zealand 2026 - 1st Test, Day 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187755/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9611,
-      "UrlSlug": "india-tour-of-new-zealand-2026-1st-test-day-2",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "New Zealand",
-      "Team2Name": "India",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
     },
     {
       "EntityId": 2815,
