@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:13 PM 19-11-2026",
+    "LastUpdate": "12:14 PM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 349
+    "LiveCount": 8,
+    "UpcomingCount": 348
   },
   "Matches": [
     {
@@ -126,6 +126,51 @@
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
+    },
+    {
+      "EntityId": 2805,
+      "VideoName": "Hobart Hurricanes Women vs Perth Scorchers Women",
+      "CategoryName": "Womens Big Bash League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-19 10:10:00",
+      "Description": "Watch Hobart Hurricanes Women vs Perth Scorchers Women — Womens Big Bash League. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274885/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9705,
+      "UrlSlug": "womens-big-bash-league",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+      "sources": [
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "drmScheme": "NmY4N2Y0OWYxYTUxYjljOGQ3ZDExYTIzYzNmMjA3ZWY6MGZkZDg1ZTAwYjk4NjM3YmI5N2UxYjZiMzE5ZDJiZTk=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "drmScheme": "NmY4N2Y0OWYxYTUxYjljOGQ3ZDExYTIzYzNmMjA3ZWY6MGZkZDg1ZTAwYjk4NjM3YmI5N2UxYjZiMzE5ZDJiZTk=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Hobart Hurricanes Women",
+      "Team2Name": "Perth Scorchers Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274890/image"
     },
     {
       "EntityId": 1090554723,
@@ -7111,26 +7156,6 @@
       "Team2Name": "Arabian Aces",
       "Team1Logo": "https://cricketvectors.akamaized.net/Teams/78.png",
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LI.png"
-    },
-    {
-      "EntityId": 2805,
-      "VideoName": "Hobart Hurricanes Women vs Perth Scorchers Women",
-      "CategoryName": "Womens Big Bash League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-19 14:40:00",
-      "Description": "Watch Hobart Hurricanes Women vs Perth Scorchers Women — Womens Big Bash League. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274885/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9705,
-      "UrlSlug": "womens-big-bash-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Hobart Hurricanes Women",
-      "Team2Name": "Perth Scorchers Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274890/image"
     },
     {
       "EntityId": 19204,
