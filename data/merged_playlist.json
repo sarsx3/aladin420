@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:17 PM 19-11-2026",
+    "LastUpdate": "06:18 PM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
+    "LiveCount": 9,
     "UpcomingCount": 343
   },
   "Matches": [
@@ -192,27 +192,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187575/image"
     },
     {
-      "EntityId": 19204,
-      "VideoName": "Brisbane Heat vs Sydney Thunder",
-      "CategoryName": "Women's Big Bash League 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-11-19 14:10:00",
-      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The BRH vs SCT brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 27th T20I is scheduled to be played on 19-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794831038540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794831038540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1247,
-      "UrlSlug": "brh-vs-sct-27th-t20i-live",
-      "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        }
-      ]
-    },
-    {
       "EntityId": 2806,
       "VideoName": "Brisbane Heat Women vs Sydney Thunder Women",
       "CategoryName": "Womens Big Bash League 2026 - 27th Match",
@@ -389,31 +368,6 @@
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
-    },
-    {
-      "EntityId": 19997,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "Sri Lanka Tour of Pakistan 2026",
-      "StageName": "2nd Test",
-      "EventStartDate": "2026-11-17 10:30:00",
-      "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 17-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794475686540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794475686540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 1148,
-      "UrlSlug": "pak-vs-sl-2nd-test-live",
-      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-      "sources": [
-        {
-          "label": "Server 1",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-        }
-      ]
     },
     {
       "EntityId": 3141,
@@ -6110,20 +6064,6 @@
       "UrlSlug": "macau-grand-prix-2026"
     },
     {
-      "EntityId": 20134,
-      "VideoName": "Australia vs England",
-      "CategoryName": "England Tour of Australia 2026",
-      "StageName": "1st T20I",
-      "EventStartDate": "2026-11-21 14:15:00",
-      "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 21-Nov-2026 at 01:15 PM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794812851540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794812851540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1327,
-      "UrlSlug": "aus-vs-eng-1st-t20i-live"
-    },
-    {
       "EntityId": 2905,
       "VideoName": "Australia vs England",
       "CategoryName": "England tour of Australia, 2026 - 1st T20I",
@@ -6876,6 +6816,20 @@
       "Status": "Upcoming",
       "CategoryId": 1361,
       "UrlSlug": "macau-grand-prix-2026"
+    },
+    {
+      "EntityId": 19997,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "Sri Lanka Tour of Pakistan 2026",
+      "StageName": "2nd Test",
+      "EventStartDate": "2026-11-20 10:30:00",
+      "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 17-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794475686540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794475686540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1148,
+      "UrlSlug": "pak-vs-sl-2nd-test-live"
     },
     {
       "EntityId": 2832,
