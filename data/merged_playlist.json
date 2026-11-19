@@ -1,15 +1,89 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:19 AM 19-11-2026",
+    "LastUpdate": "06:20 AM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 353
+    "LiveCount": 9,
+    "UpcomingCount": 351
   },
   "Matches": [
+    {
+      "EntityId": 2791,
+      "VideoName": "Gremio vs Bahia",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-19 06:30:00",
+      "Description": "Watch Gremio vs Bahia — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5926/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001795033329-0-0-05fee9dfb7d126461d9fa4d99926fe89",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Gremio",
+      "Team2Name": "Bahia",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/5926/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1955/image"
+    },
+    {
+      "EntityId": 2792,
+      "VideoName": "Corinthians vs Botafogo",
+      "CategoryName": "Brasileirão Série A",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-19 06:30:00",
+      "Description": "Watch Corinthians vs Botafogo — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1957/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9308,
+      "UrlSlug": "brasileir-o-s-rie-a",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795033261-0-0-bee1785f11ce02abbc54f183ed213c90",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Corinthians",
+      "Team2Name": "Botafogo",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1957/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1958/image"
+    },
     {
       "EntityId": 2789,
       "VideoName": "Cruzeiro vs Palmeiras",
@@ -7403,80 +7477,6 @@
       "Team2Name": "Sri Lanka",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
-    },
-    {
-      "EntityId": 2791,
-      "VideoName": "Gremio vs Bahia",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-19 06:30:00",
-      "Description": "Watch Gremio vs Bahia — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/5926/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001795033329-0-0-05fee9dfb7d126461d9fa4d99926fe89",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Gremio",
-      "Team2Name": "Bahia",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/5926/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1955/image"
-    },
-    {
-      "EntityId": 2792,
-      "VideoName": "Corinthians vs Botafogo",
-      "CategoryName": "Brasileirão Série A",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-19 06:30:00",
-      "Description": "Watch Corinthians vs Botafogo — Brasileirão Série A. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1957/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9308,
-      "UrlSlug": "brasileir-o-s-rie-a",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795033261-0-0-bee1785f11ce02abbc54f183ed213c90",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Corinthians",
-      "Team2Name": "Botafogo",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1957/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1958/image"
     }
   ]
 }
