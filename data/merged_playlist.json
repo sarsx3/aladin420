@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:24 PM 19-11-2026",
+    "LastUpdate": "09:25 PM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 2,
     "UpcomingCount": 342
   },
   "Matches": [
@@ -62,48 +62,6 @@
       "Team2Logo": "https://cricketvectors.akamaized.net/Teams/1LL.png"
     },
     {
-      "EntityId": 2808,
-      "VideoName": "Sudurpaschim Royals vs Chitwan Rhinos",
-      "CategoryName": "Nepal Premier League 2026 - Qualifier 2",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-19 17:15:00",
-      "Description": "Watch Sudurpaschim Royals vs Chitwan Rhinos — Nepal Premier League 2026 - Qualifier 2. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9642,
-      "UrlSlug": "nepal-premier-league-2026-qualifier-2",
-      "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-      "sources": [
-        {
-          "label": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "fancode - sd",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "STAR SPORTS SELECT 2 HD",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sudurpaschim Royals",
-      "Team2Name": "Chitwan Rhinos",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZV.png"
-    },
-    {
       "EntityId": 1090554810,
       "VideoName": "Sri Lanka A vs Afghanistan A",
       "CategoryName": "Cricket",
@@ -125,50 +83,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1795082786
-    },
-    {
-      "EntityId": 3128,
-      "VideoName": "Sri Lanka A vs Afghanistan A",
-      "CategoryName": "ACC Emerging Teams Asia Cup",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-19 16:00:00",
-      "Description": "Watch Sri Lanka A vs Afghanistan A — ACC Emerging Teams Asia Cup. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187756/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9238,
-      "UrlSlug": "acc-emerging-teams-asia-cup",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
-          "drmScheme": "OTY0YzRiMDlkMzRhZWMyNjAwNGFmNTg0NjhkZjNmNjM6MzMyNDEwNzdlOWI3NjA0ZTg3NmQ2YjIzYzFmY2Y4YWM=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
-          "drmScheme": "OTY0YzRiMDlkMzRhZWMyNjAwNGFmNTg0NjhkZjNmNjM6MzMyNDEwNzdlOWI3NjA0ZTg3NmQ2YjIzYzFmY2Y4YWM=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - aq",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sri Lanka A",
-      "Team2Name": "Afghanistan A",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187756/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187575/image"
     },
     {
       "EntityId": 3141,
