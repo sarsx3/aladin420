@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:00 PM 19-11-2026",
+    "LastUpdate": "10:01 PM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 0,
+    "LiveCount": 1,
     "UpcomingCount": 341
   },
   "Matches": [
+    {
+      "EntityId": 1090554810,
+      "VideoName": "Sri Lanka A vs Afghanistan A",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-19 22:01:27",
+      "Description": "Watch Sri Lanka A vs Afghanistan A live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795143117~acl=/*~id=59069531124932855470512122142107~hmac=0503a583fd5faa5735fa41262c63ac63151dde422a0a17aed15faac96843bf2b",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795143117~acl=/*~id=59069531124932855470512122142107~hmac=0503a583fd5faa5735fa41262c63ac63151dde422a0a17aed15faac96843bf2b"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1795104087
+    },
     {
       "EntityId": 3141,
       "VideoName": "TBC vs TBC",
