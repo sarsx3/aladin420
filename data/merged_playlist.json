@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 AM 19-11-2026",
+    "LastUpdate": "11:50 AM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 350
+    "LiveCount": 7,
+    "UpcomingCount": 349
   },
   "Matches": [
+    {
+      "EntityId": 3127,
+      "VideoName": "Bangladesh A vs Hong Kong, China",
+      "CategoryName": "ACC Emerging Teams Asia Cup",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-19 12:00:00",
+      "Description": "Watch Bangladesh A vs Hong Kong, China — ACC Emerging Teams Asia Cup. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9238,
+      "UrlSlug": "acc-emerging-teams-asia-cup",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Bangladesh A",
+      "Team2Name": "Hong Kong, China",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4765/image"
+    },
     {
       "EntityId": 19203,
       "VideoName": "Hobart Hurricanes vs Perth Scorchers",
@@ -7263,26 +7283,6 @@
       "Team2Name": "Bangladesh",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187744/image"
-    },
-    {
-      "EntityId": 3127,
-      "VideoName": "Bangladesh A vs Hong Kong, China",
-      "CategoryName": "ACC Emerging Teams Asia Cup",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-19 12:00:00",
-      "Description": "Watch Bangladesh A vs Hong Kong, China — ACC Emerging Teams Asia Cup. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187744/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9238,
-      "UrlSlug": "acc-emerging-teams-asia-cup",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Bangladesh A",
-      "Team2Name": "Hong Kong, China",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4765/image"
     }
   ]
 }
