@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "10:17 AM 19-11-2026",
+    "LastUpdate": "10:18 AM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 351
   },
   "Matches": [
@@ -167,6 +167,31 @@
       "Team2Name": "India",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    },
+    {
+      "EntityId": 19997,
+      "VideoName": "Pakistan vs Sri Lanka",
+      "CategoryName": "Sri Lanka Tour of Pakistan 2026",
+      "StageName": "2nd Test",
+      "EventStartDate": "2026-11-17 10:30:00",
+      "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 17-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794475686540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794475686540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1148,
+      "UrlSlug": "pak-vs-sl-2nd-test-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 3141,
@@ -5869,6 +5894,20 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187757/image"
     },
     {
+      "EntityId": 20308,
+      "VideoName": "FIA GT World Cup - Day 1",
+      "CategoryName": "Macau Grand Prix 2026",
+      "StageName": "Race",
+      "EventStartDate": "2026-11-21 12:35:00",
+      "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794991578540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794991578540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1361,
+      "UrlSlug": "macau-grand-prix-2026"
+    },
+    {
       "EntityId": 3131,
       "VideoName": "Sri Lanka A vs Hong Kong, China",
       "CategoryName": "ACC Emerging Teams Asia Cup",
@@ -5887,6 +5926,20 @@
       "Team2Name": "Hong Kong, China",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187756/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4765/image"
+    },
+    {
+      "EntityId": 20226,
+      "VideoName": "Round 19 - Race 1",
+      "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
+      "StageName": "Race 1",
+      "EventStartDate": "2026-11-21 11:25:00",
+      "Description": "Live Stream Round 19 - Race 1 online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794819825540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794819825540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 427,
+      "UrlSlug": "round-19---race-1"
     },
     {
       "EntityId": 19207,
@@ -7164,34 +7217,6 @@
       "Team2Name": "Hong Kong, China",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4765/image"
-    },
-    {
-      "EntityId": 19203,
-      "VideoName": "Hobart Hurricanes vs Perth Scorchers",
-      "CategoryName": "Women's Big Bash League 2026",
-      "StageName": "Group Stage",
-      "EventStartDate": "2026-11-19 10:40:00",
-      "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs PER brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 26th T20I is scheduled to be played on 19-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794812185540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794812185540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1247,
-      "UrlSlug": "hh-vs-per-26th-t20i-live"
-    },
-    {
-      "EntityId": 19997,
-      "VideoName": "Pakistan vs Sri Lanka",
-      "CategoryName": "Sri Lanka Tour of Pakistan 2026",
-      "StageName": "2nd Test",
-      "EventStartDate": "2026-11-19 10:30:00",
-      "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 17-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794475686540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794475686540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1148,
-      "UrlSlug": "pak-vs-sl-2nd-test-live"
     },
     {
       "EntityId": 2804,
