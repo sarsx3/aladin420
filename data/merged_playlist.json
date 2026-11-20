@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:32 PM 20-11-2026",
+    "LastUpdate": "12:33 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 8,
     "UpcomingCount": 328
   },
   "Matches": [
@@ -144,6 +144,27 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187756/image"
     },
     {
+      "EntityId": 20220,
+      "VideoName": "Qualifying Race - Macau, China",
+      "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
+      "StageName": "Qualifying Race",
+      "EventStartDate": "2026-11-20 10:15:00",
+      "Description": "Live Stream Qualifying Race - Macau, China online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794810430540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794810430540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 427,
+      "UrlSlug": "qualifying-race---macau,-china",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
+    {
       "EntityId": 1090554803,
       "VideoName": "1st Test - Day 2",
       "CategoryName": "Cricket",
@@ -181,6 +202,31 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1795143686
+    },
+    {
+      "EntityId": 19065,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "India Tour of New Zealand 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-11-19 04:00:00",
+      "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553818540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794553818540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1214,
+      "UrlSlug": "nz-vs-ind-1st-test-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 19997,
@@ -6168,20 +6214,6 @@
       "Team2Logo": "https://img.sofascore.com/api/v1/team/5994/image"
     },
     {
-      "EntityId": 19065,
-      "VideoName": "New Zealand vs India",
-      "CategoryName": "India Tour of New Zealand 2026",
-      "StageName": "1st Test",
-      "EventStartDate": "2026-11-21 04:00:00",
-      "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553818540x302.jpg",
-      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794553818540x302.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 1214,
-      "UrlSlug": "nz-vs-ind-1st-test-live"
-    },
-    {
       "EntityId": 2803,
       "VideoName": "New Zealand vs India",
       "CategoryName": "IND vs NZ, 2026 - 1st Test, Day 3",
@@ -6797,6 +6829,20 @@
       "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
       "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794985383540x302.jpg",
       "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794985383540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Upcoming",
+      "CategoryId": 1361,
+      "UrlSlug": "macau-grand-prix-2026"
+    },
+    {
+      "EntityId": 20284,
+      "VideoName": "FIA FR World Cup - Qualifying 2",
+      "CategoryName": "Macau Grand Prix 2026",
+      "StageName": "Qualifying 2",
+      "EventStartDate": "2026-11-20 12:40:00",
+      "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794983924540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794983924540x302.jpg",
       "IsFreeToWatch": false,
       "Status": "Upcoming",
       "CategoryId": 1361,
