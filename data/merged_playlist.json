@@ -1,61 +1,95 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:01 PM 20-11-2026",
+    "LastUpdate": "11:02 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 2,
     "UpcomingCount": 307
   },
   "Matches": [
     {
       "EntityId": 2824,
-      "VideoName": "Al-Nassr vs Al Qadsiah",
+      "VideoName": "Al-Nassr vs Al-Ahli",
       "CategoryName": "Saudi League",
       "StageName": "Live",
       "EventStartDate": "2026-11-20 23:00:00",
-      "Description": "Watch Al-Nassr vs Al Qadsiah — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "Description": "Watch Al-Nassr vs Al-Ahli — Saudi League. Live streaming from Football event. Stream via app, web, or smart TV.",
       "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/23400/image",
       "ThumbnailTV": "",
       "IsFreeToWatch": false,
       "Status": "Live",
       "CategoryId": 9404,
       "UrlSlug": "saudi-league",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Al-Nassr",
-      "Team2Name": "Al Qadsiah",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/23400/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/56027/image"
-    },
-    {
-      "EntityId": 1090555014,
-      "VideoName": "Bengaluru FC vs Mumbai City FC",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-20 20:01:29",
-      "Description": "Watch Bengaluru FC vs Mumbai City FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
       "sources": [
         {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920"
+          "label": "SportDigital FussBall",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         },
         {
-          "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920"
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795191570-0-0-44bf92c51db255755cb90f1390bc3ab2",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795191571-0-0-059a33beafb4c1c7160ea1f1858572eb",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795186328-0-0-c25e1a729fb4e08b5ba263b0a1123f9d",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8f2ddcc37d97bd82415422eb6718c216&txTime=6b00a4e8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
         }
       ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1795183289
+      "Team1Name": "Al-Nassr",
+      "Team2Name": "Al-Ahli",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/23400/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/34469/image"
     },
     {
       "EntityId": 2834,
@@ -123,117 +157,6 @@
       "Team2Name": "ABU DHABI T10 LEAGUE",
       "Team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
       "Team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark"
-    },
-    {
-      "EntityId": 1090555011,
-      "VideoName": "India A vs Nepal",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-20 16:00:48",
-      "Description": "Watch India A vs Nepal live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920"
-        },
-        {
-          "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920"
-        },
-        {
-          "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920"
-        },
-        {
-          "label": "Kannada",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795233171~acl=/*~id=34648893972280580659239887397067~hmac=b620ca0555d3566c60bccb5168a7e30c1186cbeece39f43f63cc7f48a3d3d920"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1795168848
-    },
-    {
-      "EntityId": 3130,
-      "VideoName": "India A vs Nepal",
-      "CategoryName": "ACC Emerging Teams Asia Cup",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-20 16:00:00",
-      "Description": "Watch India A vs Nepal 🔥 — ACC Emerging Teams Asia Cup. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187765/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9238,
-      "UrlSlug": "acc-emerging-teams-asia-cup",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
-      "sources": [
-        {
-          "label": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
-          "drmScheme": "OTFmZmQ5ODVkYTUyN2M3ZDc3ZWNjODAxMTI4ZDExY2M6M2JiNWQ1MWIyZmVmM2I1MGM0M2QwY2MxMjQ1NWVhZjc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd",
-          "drmScheme": "OTFmZmQ5ODVkYTUyN2M3ZDc3ZWNjODAxMTI4ZDExY2M6M2JiNWQ1MWIyZmVmM2I1MGM0M2QwY2MxMjQ1NWVhZjc=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (eng)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (hin)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (tam)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (tel)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "sonyliv - (kan)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "India A",
-      "Team2Name": "Nepal",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/187772/image"
     },
     {
       "EntityId": 3141,
