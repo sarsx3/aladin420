@@ -1,15 +1,35 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:19 PM 20-11-2026",
+    "LastUpdate": "09:20 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 375
+    "LiveCount": 10,
+    "UpcomingCount": 374
   },
   "Matches": [
+    {
+      "EntityId": 3147,
+      "VideoName": "Senegal U17 vs Croatia U17",
+      "CategoryName": "U17 World Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-20 21:30:00",
+      "Description": "Watch Senegal U17 vs Croatia U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4739/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9493,
+      "UrlSlug": "u17-world-championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Senegal U17",
+      "Team2Name": "Croatia U17",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4739/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4715/image"
+    },
     {
       "EntityId": 3146,
       "VideoName": "Italy U17 vs Jamaica U17",
@@ -8029,26 +8049,6 @@
       "Team2Name": "Morocco U17",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4778/image"
-    },
-    {
-      "EntityId": 3147,
-      "VideoName": "Senegal U17 vs Croatia U17",
-      "CategoryName": "U17 World Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-20 21:30:00",
-      "Description": "Watch Senegal U17 vs Croatia U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4739/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9493,
-      "UrlSlug": "u17-world-championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Senegal U17",
-      "Team2Name": "Croatia U17",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4739/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4715/image"
     }
   ]
 }
