@@ -1,15 +1,81 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:49 AM 21-11-2026",
+    "LastUpdate": "04:50 AM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 362
+    "LiveCount": 8,
+    "UpcomingCount": 360
   },
   "Matches": [
+    {
+      "EntityId": 2838,
+      "VideoName": "Velez Sarsfield vs Belgrano",
+      "CategoryName": "Liga Profesional",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 05:00:00",
+      "Description": "Watch Velez Sarsfield vs Belgrano — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3208/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9216,
+      "UrlSlug": "liga-profesional",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795195554-0-0-f5a775bd401140b9246cfd527668f8d5",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Velez Sarsfield",
+      "Team2Name": "Belgrano",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/3208/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/3203/image"
+    },
+    {
+      "EntityId": 2888,
+      "VideoName": "Recoleta FC vs Club Guarani",
+      "CategoryName": "Copa de Primera",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 05:00:00",
+      "Description": "Watch Recoleta FC vs Club Guarani — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/292595/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9453,
+      "UrlSlug": "copa-de-primera",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=ff4f5d5599ebe4a6f7b7b1e640db8d30&wsABSTime=1795238462",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=ff4f5d5599ebe4a6f7b7b1e640db8d30&wsABSTime=1795238462",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Recoleta FC",
+      "Team2Name": "Club Guarani",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/292595/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/5994/image"
+    },
     {
       "EntityId": 1090555319,
       "VideoName": "1st Test - Day 3",
@@ -7572,72 +7638,6 @@
       "Team2Name": "Sydney Thunder Women",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/274885/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/274889/image"
-    },
-    {
-      "EntityId": 2838,
-      "VideoName": "Velez Sarsfield vs Belgrano",
-      "CategoryName": "Liga Profesional",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 05:00:00",
-      "Description": "Watch Velez Sarsfield vs Belgrano — Liga Profesional. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/3208/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9216,
-      "UrlSlug": "liga-profesional",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795195554-0-0-f5a775bd401140b9246cfd527668f8d5",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Velez Sarsfield",
-      "Team2Name": "Belgrano",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/3208/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/3203/image"
-    },
-    {
-      "EntityId": 2888,
-      "VideoName": "Recoleta FC vs Club Guarani",
-      "CategoryName": "Copa de Primera",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 05:00:00",
-      "Description": "Watch Recoleta FC vs Club Guarani — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/292595/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9453,
-      "UrlSlug": "copa-de-primera",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=ff4f5d5599ebe4a6f7b7b1e640db8d30&wsABSTime=1795238462",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=ff4f5d5599ebe4a6f7b7b1e640db8d30&wsABSTime=1795238462",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Recoleta FC",
-      "Team2Name": "Club Guarani",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/292595/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5994/image"
     }
   ]
 }
