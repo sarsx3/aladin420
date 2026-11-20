@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:44 PM 20-11-2026",
+    "LastUpdate": "04:45 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 5,
-    "UpcomingCount": 326
+    "LiveCount": 6,
+    "UpcomingCount": 325
   },
   "Matches": [
     {
@@ -145,6 +145,51 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
         }
       ]
+    },
+    {
+      "EntityId": 2833,
+      "VideoName": "Adelaide Strikers Women vs Melbourne Renegades Women",
+      "CategoryName": "Womens Big Bash League 2026 - 28th Match",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-20 14:10:00",
+      "Description": "Watch Adelaide Strikers Women vs Melbourne Renegades Women — Womens Big Bash League 2026 - 28th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274888/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9246,
+      "UrlSlug": "womens-big-bash-league-2026-28th-match",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+      "sources": [
+        {
+          "label": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "drmScheme": "NGRiMjYxMjA4NmVkOTg1YWUwMjlmZTcxYTNiNTY0Mzk6YTdlNDU5MzBiYTRmYmNmNTFjYjEyNTIyYWM0MzNjYTE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "willow - alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fk6ka0whhr/out/v1/ef8739158e254282a97530153688db81/cenc.mpd",
+          "drmScheme": "NGRiMjYxMjA4NmVkOTg1YWUwMjlmZTcxYTNiNTY0Mzk6YTdlNDU5MzBiYTRmYmNmNTFjYjEyNTIyYWM0MzNjYTE=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "headers": {
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Adelaide Strikers Women",
+      "Team2Name": "Melbourne Renegades Women",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/274888/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
     },
     {
       "EntityId": 1090555008,
@@ -6769,26 +6814,6 @@
       "Team2Name": "ABU DHABI T10 LEAGUE",
       "Team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
       "Team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark"
-    },
-    {
-      "EntityId": 2833,
-      "VideoName": "Adelaide Strikers Women vs Melbourne Renegades Women",
-      "CategoryName": "Womens Big Bash League 2026 - 28th Match",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-20 18:40:00",
-      "Description": "Watch Adelaide Strikers Women vs Melbourne Renegades Women — Womens Big Bash League 2026 - 28th Match. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/274888/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9246,
-      "UrlSlug": "womens-big-bash-league-2026-28th-match",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Adelaide Strikers Women",
-      "Team2Name": "Melbourne Renegades Women",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/274888/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/274887/image"
     }
   ]
 }
