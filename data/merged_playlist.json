@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:48 AM 21-11-2026",
+    "LastUpdate": "03:49 AM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 363
   },
   "Matches": [
@@ -300,6 +300,31 @@
       "Team2Name": "Le Havre",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/1652/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/1662/image"
+    },
+    {
+      "EntityId": 19065,
+      "VideoName": "New Zealand vs India",
+      "CategoryName": "India Tour of New Zealand 2026",
+      "StageName": "1st Test",
+      "EventStartDate": "2026-11-19 04:00:00",
+      "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553818540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794553818540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1214,
+      "UrlSlug": "nz-vs-ind-1st-test-live",
+      "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 3141,
