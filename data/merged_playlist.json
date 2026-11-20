@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "12:01 PM 20-11-2026",
+    "LastUpdate": "12:02 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 327
   },
   "Matches": [
@@ -60,6 +60,27 @@
       "Team2Name": "United Arab Emirates",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4727/image"
+    },
+    {
+      "EntityId": 20278,
+      "VideoName": "FIA F4 World Cup - Qualifying",
+      "CategoryName": "Macau Grand Prix 2026",
+      "StageName": "Qualifying Race",
+      "EventStartDate": "2026-11-20 11:40:00",
+      "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794983311540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794983311540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 1361,
+      "UrlSlug": "macau-grand-prix-2026",
+      "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
     },
     {
       "EntityId": 2832,
