@@ -1,15 +1,55 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "09:49 PM 20-11-2026",
+    "LastUpdate": "09:50 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 374
+    "LiveCount": 10,
+    "UpcomingCount": 372
   },
   "Matches": [
+    {
+      "EntityId": 3148,
+      "VideoName": "Ivory Coast U17 vs Uzbekistan U17",
+      "CategoryName": "U17 World Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-20 22:00:00",
+      "Description": "Watch Ivory Coast U17 vs Uzbekistan U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4768/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9493,
+      "UrlSlug": "u17-world-championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Ivory Coast U17",
+      "Team2Name": "Uzbekistan U17",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4768/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4723/image"
+    },
+    {
+      "EntityId": 3149,
+      "VideoName": "Fiji U17 vs Morocco U17",
+      "CategoryName": "U17 World Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-20 22:00:00",
+      "Description": "Watch Fiji U17 vs Morocco U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1096685/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9493,
+      "UrlSlug": "u17-world-championship",
+      "stream_url": "",
+      "sources": [],
+      "Team1Name": "Fiji U17",
+      "Team2Name": "Morocco U17",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4778/image"
+    },
     {
       "EntityId": 3147,
       "VideoName": "Senegal U17 vs Croatia U17",
@@ -7899,46 +7939,6 @@
       "Team2Name": "Diriyah",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/21895/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/853574/image"
-    },
-    {
-      "EntityId": 3148,
-      "VideoName": "Ivory Coast U17 vs Uzbekistan U17",
-      "CategoryName": "U17 World Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-20 22:00:00",
-      "Description": "Watch Ivory Coast U17 vs Uzbekistan U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4768/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9493,
-      "UrlSlug": "u17-world-championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Ivory Coast U17",
-      "Team2Name": "Uzbekistan U17",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4768/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4723/image"
-    },
-    {
-      "EntityId": 3149,
-      "VideoName": "Fiji U17 vs Morocco U17",
-      "CategoryName": "U17 World Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-20 22:00:00",
-      "Description": "Watch Fiji U17 vs Morocco U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/1096685/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9493,
-      "UrlSlug": "u17-world-championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Fiji U17",
-      "Team2Name": "Morocco U17",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4778/image"
     }
   ]
 }
