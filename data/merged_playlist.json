@@ -1,15 +1,44 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "02:19 AM 21-11-2026",
+    "LastUpdate": "02:20 AM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 364
+    "LiveCount": 9,
+    "UpcomingCount": 363
   },
   "Matches": [
+    {
+      "EntityId": 2887,
+      "VideoName": "Sportivo Ameliano vs Sportivo Luqueño",
+      "CategoryName": "Copa de Primera",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 02:30:00",
+      "Description": "Watch Sportivo Ameliano vs Sportivo Luqueño — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/323510/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9453,
+      "UrlSlug": "copa-de-primera",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Sportivo Ameliano",
+      "Team2Name": "Sportivo Luqueño",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/323510/image",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778"
+    },
     {
       "EntityId": 20240,
       "VideoName": "Athletic vs Espanyol",
@@ -7744,35 +7773,6 @@
       "Team2Name": "India",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187765/image"
-    },
-    {
-      "EntityId": 2887,
-      "VideoName": "Sportivo Ameliano vs Sportivo Luqueño",
-      "CategoryName": "Copa de Primera",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 02:30:00",
-      "Description": "Watch Sportivo Ameliano vs Sportivo Luqueño — Copa de Primera. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/323510/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9453,
-      "UrlSlug": "copa-de-primera",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Sportivo Ameliano",
-      "Team2Name": "Sportivo Luqueño",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/323510/image",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778"
     }
   ]
 }
