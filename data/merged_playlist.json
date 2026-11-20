@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:49 AM 20-11-2026",
+    "LastUpdate": "11:50 AM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 329
+    "LiveCount": 7,
+    "UpcomingCount": 328
   },
   "Matches": [
+    {
+      "EntityId": 3129,
+      "VideoName": "Pakistan A vs United Arab Emirates",
+      "CategoryName": "ACC Emerging Teams Asia Cup",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-20 12:00:00",
+      "Description": "Watch Pakistan A vs United Arab Emirates — ACC Emerging Teams Asia Cup. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9238,
+      "UrlSlug": "acc-emerging-teams-asia-cup",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
+      "sources": [
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Pakistan A",
+      "Team2Name": "United Arab Emirates",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4727/image"
+    },
     {
       "EntityId": 2832,
       "VideoName": "Pakistan vs Sri Lanka",
@@ -6779,34 +6807,6 @@
       "Status": "Upcoming",
       "CategoryId": 1361,
       "UrlSlug": "macau-grand-prix-2026"
-    },
-    {
-      "EntityId": 3129,
-      "VideoName": "Pakistan A vs United Arab Emirates",
-      "CategoryName": "ACC Emerging Teams Asia Cup",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-20 12:00:00",
-      "Description": "Watch Pakistan A vs United Arab Emirates — ACC Emerging Teams Asia Cup. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/187754/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9238,
-      "UrlSlug": "acc-emerging-teams-asia-cup",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
-      "sources": [
-        {
-          "label": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Pakistan A",
-      "Team2Name": "United Arab Emirates",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4727/image"
     }
   ]
 }
