@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "11:44 AM 20-11-2026",
+    "LastUpdate": "11:45 AM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 329
   },
   "Matches": [
@@ -114,51 +114,6 @@
       ],
       "Provider": "SonyLiv",
       "FirstSeenTs": 1795143686
-    },
-    {
-      "EntityId": 2830,
-      "VideoName": "Seattle Sounders vs Real Salt Lake",
-      "CategoryName": "MLS",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-20 09:00:00",
-      "Description": "Watch Seattle Sounders vs Real Salt Lake — MLS. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/22009/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9252,
-      "UrlSlug": "mls",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795138156-0-0-8ef16067b5f87876a51ac80ed1199f62",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "http://193.47.62.41/hls/R333AAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Seattle Sounders",
-      "Team2Name": "Real Salt Lake",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/22009/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/5133/image"
     },
     {
       "EntityId": 2803,
@@ -6838,8 +6793,16 @@
       "Status": "Upcoming",
       "CategoryId": 9238,
       "UrlSlug": "acc-emerging-teams-asia-cup",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
+      "sources": [
+        {
+          "label": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Pakistan A",
       "Team2Name": "United Arab Emirates",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
