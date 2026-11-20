@@ -1,15 +1,42 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "08:00 PM 20-11-2026",
+    "LastUpdate": "08:01 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 8,
     "UpcomingCount": 376
   },
   "Matches": [
+    {
+      "EntityId": 1090555014,
+      "VideoName": "Bengaluru FC vs Mumbai City FC",
+      "CategoryName": "Football",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-20 20:01:29",
+      "Description": "Watch Bengaluru FC vs Mumbai City FC live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9661,
+      "UrlSlug": "football-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
+        },
+        {
+          "label": "Hindi",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1795183289
+    },
     {
       "EntityId": 3145,
       "VideoName": "Spain U17 vs China U17",
@@ -278,37 +305,6 @@
       "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581"
     },
     {
-      "EntityId": 1090555013,
-      "VideoName": "East Bengal FC vs Sporting Club Delhi",
-      "CategoryName": "Football",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-20 17:03:26",
-      "Description": "Watch East Bengal FC vs Sporting Club Delhi live from Football. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Football online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9661,
-      "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9"
-        },
-        {
-          "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9"
-        },
-        {
-          "label": "Bengali",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1795172606
-    },
-    {
       "EntityId": 1090555011,
       "VideoName": "India A vs Nepal",
       "CategoryName": "Cricket",
@@ -321,27 +317,27 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9",
       "sources": [
         {
           "label": "English",
-          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
         },
         {
           "label": "Hindi",
-          "url": "https://liveakmt-mgm.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
         },
         {
           "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
         },
         {
           "label": "Telugu",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
         },
         {
           "label": "Kannada",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795225808~acl=/*~id=11181062450722113135202736415234~hmac=1c1f6b1682a8e7d4f1499c42156ac1ec1121d2f52ffbd3cf851250751c9a15a9"
         }
       ],
       "Provider": "SonyLiv",
@@ -418,29 +414,6 @@
       "Team2Name": "Nepal",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/187772/image"
-    },
-    {
-      "EntityId": 1090555008,
-      "VideoName": "Pakistan Shaheens vs UAE",
-      "CategoryName": "Cricket",
-      "StageName": "Live",
-      "EventStartDate": "2026-11-20 12:00:50",
-      "Description": "Watch Pakistan Shaheens vs UAE live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
-      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029419/1795110984337206_ACRS_PAK_vs_UAE_live_landscape_thumb.jpg",
-      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029419/1795110984337206_ACRS_PAK_vs_UAE_live_landscape_thumb.jpg",
-      "IsFreeToWatch": false,
-      "Status": "Live",
-      "CategoryId": 9460,
-      "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9",
-      "sources": [
-        {
-          "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9"
-        }
-      ],
-      "Provider": "SonyLiv",
-      "FirstSeenTs": 1795154450
     },
     {
       "EntityId": 3141,
