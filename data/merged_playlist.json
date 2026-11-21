@@ -1,15 +1,36 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "07:00 PM 21-11-2026",
+    "LastUpdate": "07:01 PM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 22,
+    "LiveCount": 23,
     "UpcomingCount": 336
   },
   "Matches": [
+    {
+      "EntityId": 20241,
+      "VideoName": "Alaves vs Deportivo",
+      "CategoryName": "LaLiga 2026/27",
+      "StageName": "MATCHDAY 13",
+      "EventStartDate": "2026-11-21 19:00:00",
+      "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Alaves vs Deportivo live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+      "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172181540x302.jpg",
+      "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795172181540x302.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 827,
+      "UrlSlug": "laliga--alaves-vs-deportivo-live",
+      "stream_url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+      "sources": [
+        {
+          "label": "Server 1",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+        }
+      ]
+    },
     {
       "EntityId": 2890,
       "VideoName": "Alaves vs Deportivo",
@@ -782,19 +803,19 @@
       "Status": "Live",
       "CategoryId": 9661,
       "UrlSlug": "football-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198"
         },
         {
           "label": "Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198"
         },
         {
           "label": "Tamil",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198"
         }
       ],
       "Provider": "SonyLiv",
@@ -813,11 +834,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198"
         }
       ],
       "Provider": "SonyLiv",
@@ -880,11 +901,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198"
         }
       ],
       "Provider": "SonyLiv",
