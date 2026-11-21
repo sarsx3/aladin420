@@ -1,15 +1,147 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:49 PM 21-11-2026",
+    "LastUpdate": "05:50 PM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 352
+    "LiveCount": 12,
+    "UpcomingCount": 349
   },
   "Matches": [
+    {
+      "EntityId": 2878,
+      "VideoName": "Nurnberg vs Braunschweig",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:00:00",
+      "Description": "Watch Nurnberg vs Braunschweig — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2523/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795256659-0-0-573b13d0e802052af8db38891b68f6da",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Nurnberg",
+      "Team2Name": "Braunschweig",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2523/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2557/image"
+    },
+    {
+      "EntityId": 2879,
+      "VideoName": "Hannover vs Greuther Fürth",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:00:00",
+      "Description": "Watch Hannover vs Greuther Fürth — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795256498-0-0-90d2a65c4234e95ac26a7b022932eee0",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Hannover",
+      "Team2Name": "Greuther Fürth",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2551/image"
+    },
+    {
+      "EntityId": 2880,
+      "VideoName": "Wolfsburg vs Holstein Kiel",
+      "CategoryName": "Bundesliga 2",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:00:00",
+      "Description": "Watch Wolfsburg vs Holstein Kiel — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2524/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9427,
+      "UrlSlug": "bundesliga-2",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795256775-0-0-b98c0922f08f26915c4c8e89d63372d8",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795253649-0-0-039e34d4747f4ad4996e3858e94df842",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795260968-0-0-ef77e9ce896f0d35275b52397037a943",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Wolfsburg",
+      "Team2Name": "Holstein Kiel",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/2573/image"
+    },
     {
       "EntityId": 2906,
       "VideoName": "Lumbini Lions vs Sudurpaschim Royals",
@@ -7601,138 +7733,6 @@
       "Team2Name": "Colombia U17",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4770/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4820/image"
-    },
-    {
-      "EntityId": 2878,
-      "VideoName": "Nurnberg vs Braunschweig",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:00:00",
-      "Description": "Watch Nurnberg vs Braunschweig — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2523/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795256659-0-0-573b13d0e802052af8db38891b68f6da",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Nurnberg",
-      "Team2Name": "Braunschweig",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2523/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2557/image"
-    },
-    {
-      "EntityId": 2879,
-      "VideoName": "Hannover vs Greuther Fürth",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:00:00",
-      "Description": "Watch Hannover vs Greuther Fürth — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2541/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795256498-0-0-90d2a65c4234e95ac26a7b022932eee0",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Hannover",
-      "Team2Name": "Greuther Fürth",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2551/image"
-    },
-    {
-      "EntityId": 2880,
-      "VideoName": "Wolfsburg vs Holstein Kiel",
-      "CategoryName": "Bundesliga 2",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:00:00",
-      "Description": "Watch Wolfsburg vs Holstein Kiel — Bundesliga 2. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/2524/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9427,
-      "UrlSlug": "bundesliga-2",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795256775-0-0-b98c0922f08f26915c4c8e89d63372d8",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795253649-0-0-039e34d4747f4ad4996e3858e94df842",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795260968-0-0-ef77e9ce896f0d35275b52397037a943",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Wolfsburg",
-      "Team2Name": "Holstein Kiel",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/2573/image"
     }
   ]
 }
