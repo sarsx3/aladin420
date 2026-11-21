@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "03:33 PM 21-11-2026",
+    "LastUpdate": "03:34 PM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
@@ -7360,8 +7360,16 @@
       "Status": "Upcoming",
       "CategoryId": 9238,
       "UrlSlug": "acc-emerging-teams-asia-cup",
-      "stream_url": "",
-      "sources": [],
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795296284~acl=/*~id=84323317474479880796257696539958~hmac=15092a6740dcc2466afd0e9ce6219ab83b36c7dda50482e6d1e7b8f06c6e8a59",
+      "sources": [
+        {
+          "label": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795296284~acl=/*~id=84323317474479880796257696539958~hmac=15092a6740dcc2466afd0e9ce6219ab83b36c7dda50482e6d1e7b8f06c6e8a59",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
       "Team1Name": "Bangladesh A",
       "Team2Name": "Afghanistan A",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
