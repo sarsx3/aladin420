@@ -1,15 +1,38 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "04:02 PM 21-11-2026",
+    "LastUpdate": "04:03 PM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 354
   },
   "Matches": [
+    {
+      "EntityId": 1090555335,
+      "VideoName": "Bangladesh A vs Afghanistan A",
+      "CategoryName": "Cricket",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 16:03:14",
+      "Description": "Watch Bangladesh A vs Afghanistan A live from Cricket. Enjoy live coverage with real-time action, key moments, and non-stop excitement. Stream Cricket online via app, web, or smart TV.",
+      "ThumbnailStandard": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg",
+      "ThumbnailTV": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9460,
+      "UrlSlug": "cricket-live",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795298100~acl=/*~id=58400641814579473167354453826195~hmac=201a06cfb2236121dcd7b08773d9bc57b31e937da527fd6c4d4d1d1d5914949c",
+      "sources": [
+        {
+          "label": "English",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795298100~acl=/*~id=58400641814579473167354453826195~hmac=201a06cfb2236121dcd7b08773d9bc57b31e937da527fd6c4d4d1d1d5914949c"
+        }
+      ],
+      "Provider": "SonyLiv",
+      "FirstSeenTs": 1795255394
+    },
     {
       "EntityId": 3132,
       "VideoName": "Bangladesh A vs Afghanistan A",
@@ -179,11 +202,11 @@
       "Status": "Live",
       "CategoryId": 9460,
       "UrlSlug": "cricket-live",
-      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795294467~acl=/*~id=05092363955042116627691734543701~hmac=426222bfe8ad0f4c7c6dbf5bebc3bb2738f20188cbeb5d505b8d8c7eb65b2655",
+      "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795298100~acl=/*~id=58400641814579473167354453826195~hmac=201a06cfb2236121dcd7b08773d9bc57b31e937da527fd6c4d4d1d1d5914949c",
       "sources": [
         {
           "label": "English",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795294467~acl=/*~id=05092363955042116627691734543701~hmac=426222bfe8ad0f4c7c6dbf5bebc3bb2738f20188cbeb5d505b8d8c7eb65b2655"
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795298100~acl=/*~id=58400641814579473167354453826195~hmac=201a06cfb2236121dcd7b08773d9bc57b31e937da527fd6c4d4d1d1d5914949c"
         }
       ],
       "Provider": "SonyLiv",
