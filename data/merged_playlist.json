@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "05:04 PM 21-11-2026",
+    "LastUpdate": "05:05 PM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 8,
-    "UpcomingCount": 353
+    "LiveCount": 9,
+    "UpcomingCount": 352
   },
   "Matches": [
+    {
+      "EntityId": 2906,
+      "VideoName": "Lumbini Lions vs Sudurpaschim Royals",
+      "CategoryName": "Nepal Premier League  - Final",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 17:15:00",
+      "Description": "Watch Lumbini Lions vs Sudurpaschim Royals — Nepal Premier League  - Final. Live streaming from Cricket event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9451,
+      "UrlSlug": "nepal-premier-league-final",
+      "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Lumbini Lions",
+      "Team2Name": "Sudurpaschim Royals",
+      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png"
+    },
     {
       "EntityId": 1090555338,
       "VideoName": "Chennaiyin FC vs Punjab FC",
@@ -7428,34 +7456,6 @@
       "Team2Name": "Holstein Kiel",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/2573/image"
-    },
-    {
-      "EntityId": 2906,
-      "VideoName": "Lumbini Lions vs Sudurpaschim Royals",
-      "CategoryName": "Nepal Premier League  - Final",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 17:15:00",
-      "Description": "Watch Lumbini Lions vs Sudurpaschim Royals — Nepal Premier League  - Final. Live streaming from Cricket event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9451,
-      "UrlSlug": "nepal-premier-league-final",
-      "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Lumbini Lions",
-      "Team2Name": "Sudurpaschim Royals",
-      "Team1Logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "Team2Logo": "https://cricketvectors.akamaized.net/Teams/ZY.png"
     }
   ]
 }
