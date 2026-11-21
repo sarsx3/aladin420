@@ -1,15 +1,421 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Tapmad Matches Metadata",
-    "LastUpdate": "06:19 PM 21-11-2026",
+    "LastUpdate": "06:20 PM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Albatr0sss"
   },
   "Stats": {
-    "LiveCount": 11,
-    "UpcomingCount": 349
+    "LiveCount": 19,
+    "UpcomingCount": 341
   },
   "Matches": [
+    {
+      "EntityId": 2839,
+      "VideoName": "Man City vs Fulham",
+      "CategoryName": "Premier League",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Man City vs Fulham — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/17/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9568,
+      "UrlSlug": "premier-league",
+      "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+      "sources": [
+        {
+          "label": "FUBO SPORTS ALT",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "TNT1 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SKY SPORTS EPL - FHD",
+          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "SKY SPORTS ACTION - FHD",
+          "url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "PREMIER LEAGUE+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/59121/load-playlist?&.m3u8",
+          "headers": {
+            "Referer": "https://gooz.aapmains.net",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "beIN ARABIC FHD",
+          "url": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?",
+          "headers": {
+            "Referer": "https://www.arena-koora.online/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795260130-0-0-5fab147b36d402bfaf095721cfd0a00b",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=576c7a3cf2d20314875523d30fcc6edb&wsABSTime=1795303330",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795260131-0-0-bf84cc96d02b2e7f42caba8aae6fa12e",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795260132-0-0-9027db9e7c12992e7683502508421e1f",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 7",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1795253769-0-0-8ed7be82d3e6468f42fd11ce9344df76",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 8",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1795253768-0-0-ee13869f105693529e511c5026944b98",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 9",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 10",
+          "url": "https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Man City",
+      "Team2Name": "Fulham",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/43/image"
+    },
+    {
+      "EntityId": 2846,
+      "VideoName": "Southampton vs Derby",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Southampton vs Derby — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/45/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795260307-0-0-080c42d5941bddc81ca745300a94f7e0",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Southampton",
+      "Team2Name": "Derby",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/45/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/27/image"
+    },
+    {
+      "EntityId": 2847,
+      "VideoName": "Norwich vs Cardiff",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Norwich vs Cardiff — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/263/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795260185-0-0-9de25e3398df3c4267565cacb279dc99",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Norwich",
+      "Team2Name": "Cardiff",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/263/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/61/image"
+    },
+    {
+      "EntityId": 2848,
+      "VideoName": "Millwall vs QPR",
+      "CategoryName": "Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Millwall vs QPR — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9096,
+      "UrlSlug": "championship",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "sources": [
+        {
+          "label": "BEIN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001795260145-0-0-177c0d9f3a54eff29cbfa4f24c767904",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Millwall",
+      "Team2Name": "QPR",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/25/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/1/image"
+    },
+    {
+      "EntityId": 2858,
+      "VideoName": "Reading vs Bromley",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Reading vs Bromley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/28/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "http://193.47.62.44/hls/Z888AAAA.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.44/hls/Z888AAAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Reading",
+      "Team2Name": "Bromley",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/28/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/180/image"
+    },
+    {
+      "EntityId": 2859,
+      "VideoName": "Blackpool vs Wigan",
+      "CategoryName": "League One",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Blackpool vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/67/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9940,
+      "UrlSlug": "league-one",
+      "stream_url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=ef3a1781bbb7d3bb9258f1f94c83e411&wsABSTime=1795303198",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=ef3a1781bbb7d3bb9258f1f94c83e411&wsABSTime=1795303198",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "http://193.47.62.44/hls/Z888AAA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Blackpool",
+      "Team2Name": "Wigan",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/67/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
+    },
+    {
+      "EntityId": 3150,
+      "VideoName": "Serbia U17 vs Honduras U17",
+      "CategoryName": "U17 World Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Serbia U17 vs Honduras U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6355/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9493,
+      "UrlSlug": "u17-world-championship",
+      "stream_url": "http://193.47.62.41/hls/G666.m3u8",
+      "sources": [
+        {
+          "label": "Server - 1",
+          "url": "http://193.47.62.41/hls/G666.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Serbia U17",
+      "Team2Name": "Honduras U17",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/6355/image",
+      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390"
+    },
+    {
+      "EntityId": 3151,
+      "VideoName": "Japan U17 vs Colombia U17",
+      "CategoryName": "U17 World Championship",
+      "StageName": "Live",
+      "EventStartDate": "2026-11-21 18:30:00",
+      "Description": "Watch Japan U17 vs Colombia U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
+      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4770/image",
+      "ThumbnailTV": "",
+      "IsFreeToWatch": false,
+      "Status": "Live",
+      "CategoryId": 9493,
+      "UrlSlug": "u17-world-championship",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+      "sources": [
+        {
+          "label": "FOX2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795260178-0-0-6ee17137d14c56b806e2eacac60aaf93",
+          "headers": {
+            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "label": "Server - 3",
+          "url": "http://193.47.62.41/hls/H555AA.m3u8",
+          "headers": {
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      ],
+      "Team1Name": "Japan U17",
+      "Team2Name": "Colombia U17",
+      "Team1Logo": "https://img.sofascore.com/api/v1/team/4770/image",
+      "Team2Logo": "https://img.sofascore.com/api/v1/team/4820/image"
+    },
     {
       "EntityId": 2878,
       "VideoName": "Nurnberg vs Braunschweig",
@@ -7302,371 +7708,6 @@
       "Team2Name": "Costa Rica U17",
       "Team1Logo": "https://img.sofascore.com/api/v1/team/4835/image",
       "Team2Logo": "https://img.sofascore.com/api/v1/team/4756/image"
-    },
-    {
-      "EntityId": 2839,
-      "VideoName": "Man City vs Fulham",
-      "CategoryName": "Premier League",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Man City vs Fulham — Premier League. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/17/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9568,
-      "UrlSlug": "premier-league",
-      "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-      "sources": [
-        {
-          "label": "FUBO SPORTS ALT",
-          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "TNT1 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SKY SPORTS EPL - FHD",
-          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "SKY SPORTS ACTION - FHD",
-          "url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "PREMIER LEAGUE+ HD",
-          "url": "https://chatgpt.hereisman.net/playlist/59121/load-playlist?&.m3u8",
-          "headers": {
-            "Referer": "https://gooz.aapmains.net",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "beIN ARABIC FHD",
-          "url": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?",
-          "headers": {
-            "Referer": "https://www.arena-koora.online/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795260130-0-0-5fab147b36d402bfaf095721cfd0a00b",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 3",
-          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=576c7a3cf2d20314875523d30fcc6edb&wsABSTime=1795303330",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795260131-0-0-bf84cc96d02b2e7f42caba8aae6fa12e",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 6",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795260132-0-0-9027db9e7c12992e7683502508421e1f",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 7",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1795253769-0-0-8ed7be82d3e6468f42fd11ce9344df76",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 8",
-          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1795253768-0-0-ee13869f105693529e511c5026944b98",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 9",
-          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 10",
-          "url": "https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Man City",
-      "Team2Name": "Fulham",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/43/image"
-    },
-    {
-      "EntityId": 2846,
-      "VideoName": "Southampton vs Derby",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Southampton vs Derby — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/45/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795260307-0-0-080c42d5941bddc81ca745300a94f7e0",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Southampton",
-      "Team2Name": "Derby",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/45/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/27/image"
-    },
-    {
-      "EntityId": 2847,
-      "VideoName": "Norwich vs Cardiff",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Norwich vs Cardiff — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/263/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795260185-0-0-9de25e3398df3c4267565cacb279dc99",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Norwich",
-      "Team2Name": "Cardiff",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/263/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/61/image"
-    },
-    {
-      "EntityId": 2848,
-      "VideoName": "Millwall vs QPR",
-      "CategoryName": "Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Millwall vs QPR — Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/25/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9096,
-      "UrlSlug": "championship",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "sources": [
-        {
-          "label": "BEIN3 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001795260145-0-0-177c0d9f3a54eff29cbfa4f24c767904",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Millwall",
-      "Team2Name": "QPR",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/25/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/1/image"
-    },
-    {
-      "EntityId": 2858,
-      "VideoName": "Reading vs Bromley",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Reading vs Bromley — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/28/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "http://193.47.62.44/hls/Z888AAAA.m3u8",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "http://193.47.62.44/hls/Z888AAAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Reading",
-      "Team2Name": "Bromley",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/28/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/180/image"
-    },
-    {
-      "EntityId": 2859,
-      "VideoName": "Blackpool vs Wigan",
-      "CategoryName": "League One",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Blackpool vs Wigan — League One. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/67/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9940,
-      "UrlSlug": "league-one",
-      "stream_url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=ef3a1781bbb7d3bb9258f1f94c83e411&wsABSTime=1795303198",
-      "sources": [
-        {
-          "label": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=ef3a1781bbb7d3bb9258f1f94c83e411&wsABSTime=1795303198",
-          "headers": {
-            "Referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "label": "Server - 2",
-          "url": "http://193.47.62.44/hls/Z888AAA.m3u8",
-          "headers": {
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          }
-        }
-      ],
-      "Team1Name": "Blackpool",
-      "Team2Name": "Wigan",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/67/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/49/image"
-    },
-    {
-      "EntityId": 3150,
-      "VideoName": "Serbia U17 vs Honduras U17",
-      "CategoryName": "U17 World Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Serbia U17 vs Honduras U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/6355/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9493,
-      "UrlSlug": "u17-world-championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Serbia U17",
-      "Team2Name": "Honduras U17",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/6355/image",
-      "Team2Logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390"
-    },
-    {
-      "EntityId": 3151,
-      "VideoName": "Japan U17 vs Colombia U17",
-      "CategoryName": "U17 World Championship",
-      "StageName": "Upcoming",
-      "EventStartDate": "2026-11-21 18:30:00",
-      "Description": "Watch Japan U17 vs Colombia U17 — U17 World Championship. Live streaming from Football event. Stream via app, web, or smart TV.",
-      "ThumbnailStandard": "https://img.sofascore.com/api/v1/team/4770/image",
-      "ThumbnailTV": "",
-      "IsFreeToWatch": false,
-      "Status": "Upcoming",
-      "CategoryId": 9493,
-      "UrlSlug": "u17-world-championship",
-      "stream_url": "",
-      "sources": [],
-      "Team1Name": "Japan U17",
-      "Team2Name": "Colombia U17",
-      "Team1Logo": "https://img.sofascore.com/api/v1/team/4770/image",
-      "Team2Logo": "https://img.sofascore.com/api/v1/team/4820/image"
     }
   ]
 }
